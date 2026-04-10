@@ -3,6 +3,22 @@
   "started_at": "2026-04-10T00:00:00Z",
   "completed_topics": [
     {
+      "title": "Protein structure prediction",
+      "slug": "protein-structure-prediction",
+      "summary": "Protein structure prediction is selected because it has active scientific, industrial, and policy developments that reward a high-evidence synthesis.",
+      "tags": [
+        "research",
+        "technology",
+        "analysis"
+      ],
+      "generated_at": "2026-04-10T03:16:13.328590Z",
+      "sources_analyzed": 30,
+      "research_turns": 10,
+      "request_mode": "auto",
+      "page_path": "wiki/protein-structure-prediction.md",
+      "report_path": "reports/20260410T030838Z-protein-structure-prediction.md"
+    },
+    {
       "title": "Grid-scale battery safety",
       "slug": "grid-scale-battery-safety",
       "summary": "Grid-scale battery safety is selected because it has active scientific, industrial, and policy developments that reward a high-evidence synthesis.",
@@ -100,6 +116,16 @@
     }
   ],
   "run_history": [
+    {
+      "run_id": "20260410T030838Z-protein-structure-prediction",
+      "topic": "Protein structure prediction",
+      "slug": "protein-structure-prediction",
+      "generated_at": "2026-04-10T03:16:13.328590Z",
+      "sources_analyzed": 30,
+      "request_mode": "auto",
+      "report_path": "reports/20260410T030838Z-protein-structure-prediction.md",
+      "page_path": "wiki/protein-structure-prediction.md"
+    },
     {
       "run_id": "20260410T030333Z-grid-scale-battery-safety",
       "topic": "Grid-scale battery safety",
