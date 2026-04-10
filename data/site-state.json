@@ -1,6 +1,34 @@
 {
   "project_name": "AutoPedia",
   "started_at": "2026-04-10T00:00:00Z",
-  "completed_topics": [],
-  "run_history": []
+  "completed_topics": [
+    {
+      "title": "Quantum error correction",
+      "slug": "quantum-error-correction",
+      "summary": "Quantum error correction is selected because it has active scientific, industrial, and policy developments that reward a high-evidence synthesis.",
+      "tags": [
+        "research",
+        "technology",
+        "analysis"
+      ],
+      "generated_at": "2026-04-10T01:21:15.553799Z",
+      "sources_analyzed": 119,
+      "research_turns": 3,
+      "request_mode": "auto",
+      "page_path": "wiki/quantum-error-correction.md",
+      "report_path": "reports/20260410T011910Z-quantum-error-correction.md"
+    }
+  ],
+  "run_history": [
+    {
+      "run_id": "20260410T011910Z-quantum-error-correction",
+      "topic": "Quantum error correction",
+      "slug": "quantum-error-correction",
+      "generated_at": "2026-04-10T01:21:15.553799Z",
+      "sources_analyzed": 119,
+      "request_mode": "auto",
+      "report_path": "reports/20260410T011910Z-quantum-error-correction.md",
+      "page_path": "wiki/quantum-error-correction.md"
+    }
+  ]
 }
