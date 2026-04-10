@@ -3,6 +3,22 @@
   "started_at": "2026-04-10T00:00:00Z",
   "completed_topics": [
     {
+      "title": "Grid-scale battery safety",
+      "slug": "grid-scale-battery-safety",
+      "summary": "Grid-scale battery safety is selected because it has active scientific, industrial, and policy developments that reward a high-evidence synthesis.",
+      "tags": [
+        "research",
+        "technology",
+        "analysis"
+      ],
+      "generated_at": "2026-04-10T03:08:04.898321Z",
+      "sources_analyzed": 14,
+      "research_turns": 10,
+      "request_mode": "auto",
+      "page_path": "wiki/grid-scale-battery-safety.md",
+      "report_path": "reports/20260410T030333Z-grid-scale-battery-safety.md"
+    },
+    {
       "title": "CRISPR therapeutics",
       "slug": "crispr-therapeutics",
       "summary": "CRISPR therapeutics is selected because it has active scientific, industrial, and policy developments that reward a high-evidence synthesis.",
@@ -84,6 +100,16 @@
     }
   ],
   "run_history": [
+    {
+      "run_id": "20260410T030333Z-grid-scale-battery-safety",
+      "topic": "Grid-scale battery safety",
+      "slug": "grid-scale-battery-safety",
+      "generated_at": "2026-04-10T03:08:04.898321Z",
+      "sources_analyzed": 14,
+      "request_mode": "auto",
+      "report_path": "reports/20260410T030333Z-grid-scale-battery-safety.md",
+      "page_path": "wiki/grid-scale-battery-safety.md"
+    },
     {
       "run_id": "20260410T025348Z-crispr-therapeutics",
       "topic": "CRISPR therapeutics",
