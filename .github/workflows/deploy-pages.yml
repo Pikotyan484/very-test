@@ -11,6 +11,9 @@ on:
       - data/**
       - autopedia/**
       - pyproject.toml
+      - .github/workflows/autopedia-cycle.yml
+      - .github/workflows/autopedia-request-issues.yml
+      - .github/workflows/deploy-pages.yml
   repository_dispatch:
     types:
       - autopedia-pages-deploy
