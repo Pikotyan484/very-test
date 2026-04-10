@@ -12,8 +12,8 @@
     </div>
   </div>
   <div class="ap-metrics">
-    <div><span>7</span><small>pages</small></div>
-    <div><span>323</span><small>sources</small></div>
+    <div><span>8</span><small>pages</small></div>
+    <div><span>357</span><small>sources</small></div>
     <div><span>2026-04-10</span><small>latest run</small></div>
   </div>
 </section>
@@ -21,6 +21,13 @@
 ## Latest Pages
 
 <section class="ap-card-grid">
+<article class="ap-card">
+  <span class="ap-card__kicker">2026-04-10</span>
+  <h3><a href="wiki/geothermal-closed-loop-systems.md">Geothermal closed-loop systems</a></h3>
+  <p>Geothermal closed-loop systems is selected because it has active scientific, industrial, and policy developments that reward a high-evidence synthesis.</p>
+  <div class="ap-card__meta">34 sources</div>
+  <div class="ap-card__actions"><a href="https://github.com/Pikotyan484/very-test/issues/new?title=%5BExpand+Page%5D+Geothermal+closed-loop+systems&body=%23%23+Request+Type%0Aexpand-page%0A%0A%23%23+Topic+Title%0AGeothermal+closed-loop+systems%0A%0A%23%23+Topic+Slug%0Ageothermal-closed-loop-systems%0A%0A%23%23+Request+Notes%0APlease+update+this+page+and+expand+missing+sections+with+newer+evidence.%0A%0A%23%23+Existing+Page%0Adocs%2Fwiki%2Fgeothermal-closed-loop-systems.md%0A&labels=autopedia-request%2Cexpand-page" target="_blank" rel="noopener">更新または拡張</a></div>
+</article>
 <article class="ap-card">
   <span class="ap-card__kicker">2026-04-10</span>
   <h3><a href="wiki/protein-structure-prediction.md">Protein structure prediction</a></h3>
@@ -55,13 +62,6 @@
   <p>Direct air capture is selected because it has active scientific, industrial, and policy developments that reward a high-evidence synthesis.</p>
   <div class="ap-card__meta">47 sources</div>
   <div class="ap-card__actions"><a href="https://github.com/Pikotyan484/very-test/issues/new?title=%5BExpand+Page%5D+Direct+air+capture&body=%23%23+Request+Type%0Aexpand-page%0A%0A%23%23+Topic+Title%0ADirect+air+capture%0A%0A%23%23+Topic+Slug%0Adirect-air-capture%0A%0A%23%23+Request+Notes%0APlease+update+this+page+and+expand+missing+sections+with+newer+evidence.%0A%0A%23%23+Existing+Page%0Adocs%2Fwiki%2Fdirect-air-capture.md%0A&labels=autopedia-request%2Cexpand-page" target="_blank" rel="noopener">更新または拡張</a></div>
-</article>
-<article class="ap-card">
-  <span class="ap-card__kicker">2026-04-10</span>
-  <h3><a href="wiki/mrna-vaccine-manufacturing.md">mRNA vaccine manufacturing</a></h3>
-  <p>mRNA vaccine manufacturing is selected because it has active scientific, industrial, and policy developments that reward a high-evidence synthesis.</p>
-  <div class="ap-card__meta">20 sources</div>
-  <div class="ap-card__actions"><a href="https://github.com/Pikotyan484/very-test/issues/new?title=%5BExpand+Page%5D+mRNA+vaccine+manufacturing&body=%23%23+Request+Type%0Aexpand-page%0A%0A%23%23+Topic+Title%0AmRNA+vaccine+manufacturing%0A%0A%23%23+Topic+Slug%0Amrna-vaccine-manufacturing%0A%0A%23%23+Request+Notes%0APlease+update+this+page+and+expand+missing+sections+with+newer+evidence.%0A%0A%23%23+Existing+Page%0Adocs%2Fwiki%2Fmrna-vaccine-manufacturing.md%0A&labels=autopedia-request%2Cexpand-page" target="_blank" rel="noopener">更新または拡張</a></div>
 </article>
 </section>
 

@@ -1,0 +1,4028 @@
+# AutoPedia Research Report: Geothermal closed-loop systems
+
+## Run Metadata
+- Run ID: 20260410T031641Z-geothermal-closed-loop-systems
+- Generated at: 2026-04-10T03:21:37.627744Z
+- Topic slug: geothermal-closed-loop-systems
+- Research turns: 10
+- Total fetched sources: 34
+- Request mode: auto
+
+## Request Context
+- Topic title: Geothermal closed-loop systems
+- Topic slug: geothermal-closed-loop-systems
+- Requested by: n/a
+- Issue number: n/a
+- Issue URL: n/a
+- Request notes: n/a
+
+## Topic Plan
+- Title: Geothermal closed-loop systems
+- Summary: Geothermal closed-loop systems is selected because it has active scientific, industrial, and policy developments that reward a high-evidence synthesis.
+- Rationale: The topic is concrete enough for one article but broad enough to benefit from multi-turn source gathering.
+- Tags: research, technology, analysis
+- Search Angles:
+  - official documentation and standards
+  - recent academic literature
+  - industry adoption and timelines
+  - known limitations and criticism
+  - safety, regulation, and economics
+- Outline:
+  - Overview
+  - Why it matters
+  - History and current state
+  - Core mechanisms
+  - Applications
+  - Risks and constraints
+  - Outlook
+
+## Cross-Turn Synthesis
+## Core points
+- Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives: Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives
+- IGA Geothermal Papers Online Database: IGA Geothermal Papers Online Database
+- Geothermal District Heating: Geothermal District Heating
+- Analysis of an enhanced closed-loop geothermal system - Penn State: Analysis of an enhanced closed-loop geothermal system
+- Geothermal Closed Loop Heat Pump Market: Geothermal Closed Loop Heat Pump Market
+- Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives: Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives
+- American GeoPower – Advanced Geothermal Technologies: American GeoPower – Advanced Geothermal Technologies
+- Geothermal Loop Leak Verification: Geothermal Loop Leak Verification
+- Thermal and mechanical energy performance analysis of closed-loop systems in hot-dry-rock and hot-wet-rock reservoirs - Penn State: Thermal and mechanical energy performance analysis of closed-loop systems in hot-dry-rock and hot-wet-rock reservoirs
+- Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives: Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives
+
+## Contested points
+- Different sources emphasize different baselines, metrics, or time horizons. These require explicit comparison in the article.
+
+## Missing data
+- How do authoritative sources answer: "Geothermal closed-loop systems" overview?
+- Which metrics or dates recur across high-relevance sources for turn 1?
+- Which criticism appears consistently versus only in opinion pieces?
+- How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" overview??
+- Which metrics or dates recur across high-relevance sources for turn 2?
+- Which criticism appears consistently versus only in opinion pieces?
+- How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" overview??
+- Which metrics or dates recur across high-relevance sources for turn 3?
+
+## Recommended article emphasis
+- Keep the article scoped around Geothermal closed-loop systems rather than broad adjacent topics.
+- Separate established facts, current deployment status, and speculative future claims.
+- Attribute contentious statements to cited source clusters rather than presenting them as settled.
+
+## Turn 1
+
+### Focus
+high-level map and authoritative definitions
+
+### Queries
+- "Geothermal closed-loop systems" overview
+- "Geothermal closed-loop systems" official documentation
+- "Geothermal closed-loop systems" academic review
+- "Geothermal closed-loop systems" site:gov
+- "Geothermal closed-loop systems" site:edu
+- "Geothermal closed-loop systems" market analysis
+- "Geothermal closed-loop systems" limitations criticism
+- "Geothermal closed-loop systems" timeline history
+- "Geothermal closed-loop systems" safety regulation
+- "Geothermal closed-loop systems" benchmark data
+
+### Turn Findings
+- Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives: Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives
+- IGA Geothermal Papers Online Database: IGA Geothermal Papers Online Database
+- Geothermal District Heating: Geothermal District Heating
+- Analysis of an enhanced closed-loop geothermal system - Penn State: Analysis of an enhanced closed-loop geothermal system
+- Multilateral closed-loop geothermal systems as a Zero- Emission load-following resource - Princeton University: Multilateral closed-loop geothermal systems as a Zero- Emission load-following resource
+- Closed Loop Systems | Wisconsin Geothermal Association: Closed Loop Systems | Wisconsin Geothermal Association
+
+### Contradictions
+- Different sources emphasize different baselines, metrics, or time horizons. These require explicit comparison in the article.
+
+### Open Questions
+- How do authoritative sources answer: "Geothermal closed-loop systems" overview?
+- Which metrics or dates recur across high-relevance sources for turn 1?
+- Which criticism appears consistently versus only in opinion pieces?
+
+### Source Catalog
+#### Source 0001: Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives
+- Source ID: 4da7646ec655
+- Turn: 1
+- Query: "Geothermal closed-loop systems" limitations criticism
+- Provider: ddgs
+- Search rank: 4
+- Domain: shelterislandreporter.archive.timesreview.com
+- URL: https://shelterislandreporter.archive.timesreview.com/2010/05/why-just-saying-no-to-geothermal-systems-is-a-bad-idea
+- Search snippet: There appears to be no justification for banningclosed-loopsystems.Geothermalsystems make use of the heat stored in the ground due to solar radiation. The heat is stored in the water in the ground and in the soil.
+- Page word count estimate: 1074
+- Relevance score: 20.67
+- Key excerpt lines:
+  - Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives
+  - The Suffolk Times
+  - Return to Homepage
+  - Search our Archives
+  - Search the archives
+  - Youâre viewing an archive piece
+  - 05.20.2010
+  - Columns
+  - Why âJust Saying Noâ to geothermal systems is a bad idea
+  - By
+  - Times Review
+  - It has been one year since the Town Board adopted Local Law No. 2-2009 prohibiting geothermal heating and cooling systems. In that time I have attended, as a practicing architect, several seminars concerning sustainab...
+- Extended extract lines:
+  - Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives The Suffolk Times Return to Homepage Search our Archives Search the archives Youâre viewing an archive piece 05.20.2010 Columns Why âJust Saying Noâ to geothermal systems is a bad idea By Times Review It has been one year since the Town Board adopted Local Law No. 2-2009 prohibiting geothermal heating and cooling systems. In that time I have attended, as a practicing architect, several seminars concerning sustainable building design as part of my continuing professional education. Geothermal systems are now part of the subject matter at these events as it is an important new technology that architects should be familiar with. It comes as a shock to the participants of these seminars that the Town of Shelter Island has already banned all geothermal systems. In reviewing the process the town followed in adopting the new law I believe a serious error was made in prohibiting all types of geothermal systems, both the type that utilize water from wells drilled into the aquifer and those that do not. As a result of this new law, Shelter Island residents are unable to benefit from the substantial cost savings of using geothermal energy in heating and cooling their homes and businesses, in using it for domestic hot water purposes and for reducing air pollution on the Island by eliminating fossil-fuel heating systems. They are also prevented from enjoying the benefits of interest rate reductions on loans, technical assistance, grants and funding for geothermal systems now available from LIPA and other New York State sources. In describing the justification for the new law, the town determined that âGeothermal wells have two basic designs: open-loop and closed-loop systems.â This is not accurate. Geothermal systems have two basic designs but only the open-loop type involves a well. The closed-loop design does not involve a well or water from a well. The town further defines the closed-loop system, more accurately, as involving pipes placed in a trench forming a closed loop circulating a fluid into and out of a heat exchange system in the dwelling. It states âThe system functions in the same manner as the open-looped system, except that there is no pumping of groundwater.â This is true as far as energy usage is concerned but not in terms of their effect on the aquifer. The geothermal system that utilizes pipes placed in a trench 4 to 6 feet below the surface (i.e., closed-loop) requires no well or well water and presents no hazard to the water supply of Shelter Island. The board decided that both types of geothermal systems (open, which threatens the water supply, and closed, which presents no threat to the water supply) should be prohibited. There is no hint as to why both systems were dealt with identically. There appears to be no justification for banning closed-loop systems. Geothermal systems make use of the heat stored in the ground due to solar radiation. The heat is stored in the water in the ground and in the soil. Seasonal changes in the weather have little or no effect on the heat stored in the ground. It remains at an almost constant temperature. On Shelter Island this temperature is 55 degrees F. During the heating season this heat can be extracted to help provide space heating. The actual technique employed (heat pump) is not important to the concept. What is important is that no fossil fuel is used in the heating system. Electricity powers the heat pump and the energy needed to heat the house is significantly less than would be necessary if the energy source were a conventional oil or gas-fired boiler or furnace. Heating efficiencies 50 to 70 percent higher than other heating systems can be achieved. During the summer, the geothermal system can be used in reverse fashion to make use of the 55-degree ground temperature to help cool the house. The same heat pump is employed to extract the heat from the air circulating in the house and deliver it back into the ground, reducing the electrical energy required for air conditioning. No noisy outdoor compressor is required. Cooling efficiencies 20 to 40 percent higher than conventional air conditioning systems can be achieved. Whether extracting heat from the ground or returning heat to the ground, the closed-loop geothermal system has no adverse effect on the ground or the groundwater. The fluid circulated through the closed-loop can be a biodegradable anti-freeze fluid that is safe to the environment and to personnel engaged in servicing the equipment. It bears no similarity to the fluid used in automobile radiators. Standards governing this fluid and its use have been established (Closed-Loop/Geothermal Heat Pump Systems, Design and Installation Standards, 2007 Edition, International Ground Source Heat Pump Association). It is safe and does not represent a threat to the water supply of Shelter Island. The law states under findings: âA consultant-supported Town Working Group has studied geothermal closed-loop systems and has determined that these systems threaten the aquifer by piercing deep clay units (which help control saltwater intrusion and the draining of the freshwater aquifer) and have the potential to leak contaminants into the general freshwater supply.â This finding, as it pertains to closed-loop piping in a trench, is not true. The clay layer is not disturbed when closed-loop piping is placed in shallow (4- to 6-foot deep) trenches. Nor does the fluid circulating in the piping present a measurable threat of contaminating the soil as it is a relatively harmless substance. The board should reconsider this law as it pertains to closed-loop systems by consulting qualified experts specifically about the environmental threat, or lack thereof, posed by their use. I believe it will find sufficient reason to amend the law and thereby allow Shelter Islanders to make use of this sustainable technology to reduce harmful CO2 emissions and reduce their energy costs significantly, without risk to the aquifer. Please note that I am not a heating or ventilating contractor or in any way engaged in this industry. I am an independent architect who owns property on Shelter Island and I take seriously the need to design sustainable, efficient and intelligent buildings. Share on Facebook Facebook Created with Sketch. Share on Twitter Twitter Created with Sketch. Share via email Mail Created with Sketch. Newsletter Sign Up Email Address The premier news outlet covering Shelter Island. Subscribe Easter weekend gathering at Shelter Island History Museum
+
+#### Source 0002: IGA Geothermal Papers Online Database
+- Source ID: 6b17071b5935
+- Turn: 1
+- Query: "Geothermal closed-loop systems" site:edu
+- Provider: ddgs
+- Search rank: 2
+- Domain: pangea.stanford.edu
+- URL: https://pangea.stanford.edu/ERE/db/IGAstandard/record_detail.php?id=27973
+- Search snippet: Geothermic Solution LLC (GSL) proposes to use aco-axial closed-loop system with water as the working fluid. The design involves a well with vertical and horizontal sections. The cold water will be injected through the annulus within the well with the outside surface in contact with rock.
+- Page word count estimate: 805
+- Relevance score: 20.33
+- Key excerpt lines:
+  - IGA Geothermal Papers Online Database
+  - Title:
+  - Innovative Closed-Loop Geothermal Well Designs Using Water and Super Critical Carbon Dioxide as Working Fluids
+  - Authors:
+  - Azadeh RIAHI, Branko DAMJANAC, Piotr MONCARZ
+  - Key Words:
+  - closed-loop, geothermal well, water, modeling, super critical carbon dioxide
+  - Conference:
+  - Stanford Geothermal Workshop
+  - Year:
+  - 2017
+  - Session:
+- Extended extract lines:
+  - IGA Geothermal Papers Online Database Title: Innovative Closed-Loop Geothermal Well Designs Using Water and Super Critical Carbon Dioxide as Working Fluids Authors: Azadeh RIAHI, Branko DAMJANAC, Piotr MONCARZ Key Words: closed-loop, geothermal well, water, modeling, super critical carbon dioxide Conference: Stanford Geothermal Workshop Year: 2017 Session: Emerging Technology Language: English Paper Number: Riahi File Size: 891 KB View File: Abstract: This paper investigates the expected performance of closed-loop geothermal systems. In the past, it has been argued that the rate of thermal conduction through rock masses is not large enough to compensate for the thermal depletion around closed-loop geothermal wells, and that such systems, therefore, cannot maintain the heat extraction rate required for long-term production. Recently, however, because of new technological advances, there is a renewed interest in closed-loop geothermal designs that can exploit the vast energy resources of hot formations unsuitable for conventional hydrothermal geothermal systems. Similar to Enhanced Geothermal Systems (EGS), closed-loop geothermal wells can harvest heat from low permeable and low water content formations; however, in contrast to EGS, closed-loop systems are expected to be more controllable and predictable. They do not involve uncertainties in the nature of fluid flow through the artificially or naturally fractured reservoir, the potential for loss of injected fluid into the surrounding rock mass, nor the potential environmental concerns about induced seismicity, pollution of sub-surface groundwater, and extraction of dangerous elements to the surface. Various designs have been proposed for closed-loop geothermal systems, including co-axial, U-Shape, and multiple string wells. Geothermic Solution LLC (GSL) proposes to use a co-axial closed-loop system with water as the working fluid. The design involves a well with vertical and horizontal sections. The cold water will be injected through the annulus within the well with the outside surface in contact with rock. The heated water will travel to the surface through the inner tube of the well. In this paper, the performance of the GSL well is investigated for a period of 30 years using a numerical modeling approach carried out using FLAC3D, a commercial software developed by Itasca (2015). The model considers heat transfer by (a) conduction through the surrounding rock, (b) advection by fluid circulating in the well, and (c) convection (i.e., heat exchange between the surface of the pipe and the moving fluid). The result of this study is presented along with another closed-loop design, ECO2G technology (GreenFire, 2016; Oldenburg et al., 2016; Higgins et al., 2016), which circulates supercritical carbon dioxide (SCO2) instead of water. ECO2G technology is based on a closed-loop design with a U-Shape well geometry that consists of a vertical injection well, a horizontal section, and a vertical production well. It has been argued that due to its unique properties, SCO2 harvests substantially more energy than water. A series of sensitivity studies with respect to injection temperature and flow rate are carried out for the GSL design with water as the working fluid. The results in each case are compared to results presented for the ECO2 technology under identical conditions (Oldenburg et al., 2016). The generated thermal power for both closed-loop geothermal designs are also presented. The results of this study will show that closed loop systems are very viable and that water is an excellent working fluid to extract heat and that its performance in terms of generated thermal power will be comparable to that for SCO2. However, it is noted that SCO2, while more complex in risk control than water, may have some advantages due to development under certain conditions of thermosiphon. Principally, the cost for sub-surface implementation of both designs are comparable. It is noted that a thorough investigation of economic feasibility requires taking into account the surface facilities converting the thermal energy into end-use energy. This step is beyond the scope of the current paper. Also, the operation costs and procedural aspects, including (a) cost for set-up of the system, or (b) pressure requirements at the inlet and outlet for maintaining the same flow rate in different systems, will not be compared. The results of this study suggest that the range of generated power for different closed-loop systems is close and comparable. One major advantage of these systems is their predictability, i.e., the variability in the expected range of produced power would be significantly lower than the variability expected in EGS system. Therefore, closed loop could be a promising contributor to future geothermal power production. 172.208.125.197, you have accessed 0 records today. Press the Back button in your browser, or search again. Copyright 2017, Stanford Geothermal Program: Readers who download papers from this site should honor the copyright of the original authors and may not copy or distribute the work further without the permission of the original publisher. Attend the nwxt Stanford Geothermal Workshop, click here for details . Accessed by: 172.208.125.197 (172.208.125.197) Accessed: Friday 10th of April 2026 03:17:05 AM
+
+#### Source 0003: Geothermal District Heating
+- Source ID: 45cd306c1988
+- Turn: 1
+- Query: "Geothermal closed-loop systems" academic review
+- Provider: ddgs
+- Search rank: 8
+- Domain: www.linkedin.com
+- URL: https://www.linkedin.com/pulse/geothermal-district-heating-sandra-law-pe
+- Search snippet: CanGeothermalClosedLoopsystemsbe included in the conversation about microgrid development?Now you ask what doesGeothermalClosedLoopsystemshave to do with leaky natural gas pipes? HEET, Eversource, and National Grid are going one step further.
+- Page word count estimate: 690
+- Relevance score: 19.33
+- Key excerpt lines:
+  - Geothermal District Heating
+  - Agree & Join LinkedIn
+  - By clicking Continue to join or sign in, you agree to LinkedIn’s
+  - User Agreement
+  - ,
+  - Privacy Policy
+  - , and
+  - Cookie Policy
+  - .
+  - Skip to main content
+  - LinkedIn
+  - Top Content
+- Extended extract lines:
+  - Geothermal District Heating Agree & Join LinkedIn By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Skip to main content LinkedIn Top Content People Learning Jobs Games Join now Sign in Geothermal District Heating Report this article Sandra Law, PE Sandra Law, PE Published Feb 24, 2021 + Follow “Methane is 84 times more detrimental to the environment than CO2 in terms of heat.” Secretary John Kerry focused in on the methane problem in his presentation at DAVOS. Resolving the methane problem is on the top of the list of things we need to resolve. There is some low hanging fruit that a company. HEET has been investigating in Boston. Gas pipeline explosions in places like San Ramon, CA and Andover, MA, has also raised attention to the potential hazard beneath the streets. That is leaking gas lines within the distribution and transmission. This is a potential issue all over America, and many other countries, as well. Maintenance of gas lines continues across the country every day. But what if we could do additional work while we fix the gas lines to eventually move us off gas in our homes completely. Could we place geothermal district heating in our neighborhoods? This could lower our energy cost, increase our comfort, and save us from the hazards of CO2 or CH4 emissions in our homes. My long-held belief in Geothermal Energy, with my experience in New Zealand, is it must be one solution for baseload electricity in the renewable age. As a renewable source of energy within the Ring of Fire, it is a good one, but can it be applied in a wider context? Can Geothermal Closed Loop systems be included in the conversation about microgrid development? And what does that look like? Geothermal Closed Loop system is not a recent technology, so it has not received the fanfare of wind, solar, and batteries, but its time has come. When Geothermal Closed Loop systems are combined with Solar and battery storage, the efficiency of the microgrid can produce efficiencies that the industry has only dreamed of in the past. It eliminates the need for a natural gas, oil, or coal burning boiler and replaces them with pumps that pump water throughout the building creating a constant steady temperature with parasitic electrical load to run the pumps. It extracts the hot or cold air out of the room depending on the time of year. It also reduces the consumption of water, by eliminating chillers and cooling towers. Now you ask what does Geothermal Closed Loop systems have to do with leaky natural gas pipes? HEET, Eversource, and National Grid are going one step further. They are working on a concept that will bring the two thoughts together to allow the gas utilities to repurpose to provide operation and maintenance for the geothermal loop. The loops are installed alongside the natural gas distribution lines in the streets of most communities and cities. This will allow for the roads that require natural gas lines to be repaired to be dug up once and repaired, while the geothermal is added to the system. The geothermal closed loop as district heating will only require the in-home equipment requirements to be switched out, which will not vary from simply buying a new boiler. · The advantage of using geothermal closed loop serving a district of homes or a mixture of buildings are numerous. · No longer combusting natural gas in the home, eliminating the CO2 emission potential inside or outside of the buildings. · Cleaner air · All homeowner/building owner’s equipment is inside, not exposed to weather. · The economics of distributed closed loop takes the most expensive aspect and distributes the cost like a utility surcharge. · Each customer would be able to control the temperature in their buildings on a single ducted system or multiple mini splits. · The installation, maintenance, and operation of the closed loop remain with the utility enabling them to repurpose workers, financial framework, and their future. Watch the GRCx Clean Heat - The Potential of Networked Geothermal
+
+#### Source 0004: Analysis of an enhanced closed-loop geothermal system - Penn State
+- Source ID: 748cf40445df
+- Turn: 1
+- Query: "Geothermal closed-loop systems" site:edu
+- Provider: ddgs
+- Search rank: 8
+- Domain: pure.psu.edu
+- URL: https://pure.psu.edu/en/publications/analysis-of-an-enhanced-closed-loop-geothermal-system
+- Search snippet: Closed-loop geothermal systems area novel heat extraction technique not requiring continuous fluid supply. Heat extraction efficiency of closed-loop systems is often limited due to the small heat exchange area between the circulating fluid ...
+- Page word count estimate: 351
+- Relevance score: 18.33
+- Key excerpt lines:
+  - Analysis of an enhanced closed-loop geothermal system
+  - - Penn State
+  - Skip to main navigation
+  - Skip to search
+  - Skip to main content
+  - Penn State Home
+  - Help & FAQ
+  - Link opens in a new tab
+  - Search content at Penn State
+  - Home
+  - Researchers
+  - Research output
+- Extended extract lines:
+  - Analysis of an enhanced closed-loop geothermal system - Penn State Skip to main navigation Skip to search Skip to main content Penn State Home Help & FAQ Link opens in a new tab Search content at Penn State Home Researchers Research output Research units Equipment Grants & Projects Prizes Activities Analysis of an enhanced closed-loop geothermal system Sai Liu , Arash Dahi Taleghani Leone Family Department of Energy and Mineral Engineering (EME) Research output : Contribution to journal › Article › peer-review 33 Link opens in a new tab Scopus citations Overview Fingerprint Abstract Closed-loop geothermal systems are a novel heat extraction technique not requiring continuous fluid supply. Heat extraction efficiency of closed-loop systems is often limited due to the small heat exchange area between the circulating fluid in the wellbore and surrounding rock. An enhanced closed-loop geothermal system (ECLGS) is considered here to improve the heat extraction efficiency of closed-loop systems. The objective of ECLGS is to increase heat transfer from surrounding hot rocks to the wellbore by artificial fractures propped with high-thermal-conductivity proppants. To explore the mechanism controlling heat extraction through ECLGS, a systematic study was conducted. First, a three-dimensional hydrothermal coupled model was developed and validated, and the effects of several parameters were analyzed. It was found that highly-conductive fractures could enhance heat extraction through closed-loop systems considerably. As the flow velocity of the circulating fluid increases, the net power starts to decrease after reaching a peak value. An increase in fluid heat capacity would enhance heat extraction but without requiring more pumping power. The four-wing fracture configuration causes higher heat extraction improvement than the branched fracture. A dimensionless analysis was performed for ECLGS, and three dimensionless numbers integrating different involved parameters were proposed. The proposed dimensionless numbers have been verified numerically. The effect that each dimensionless number has on production temperature has been investigated. Via dimensionless numbers, it becomes feasible to comprehensively assess the impacts of involved parameters, thus making designing closed-loop systems more convenient. The possible ways to apply proposed dimensionless numbers to building a closed-loop system have been illustrated. Original language English (US) Article number
+
+#### Source 0005: Multilateral closed-loop geothermal systems as a Zero- Emission load-following resource - Princeton University
+- Source ID: cc6508a1910b
+- Turn: 1
+- Query: "Geothermal closed-loop systems" site:edu
+- Provider: ddgs
+- Search rank: 9
+- Domain: collaborate.princeton.edu
+- URL: https://collaborate.princeton.edu/en/publications/multilateral-closed-loop-geothermal-systems-as-a-zero-emission-lo
+- Search snippet: The Eavor-LoopTM, a multilateral closed-loop geothermal system (MCLGS), is introduced as a zero-emission load-following resource (ZELFR) that is globally scalable and can provide baseload or dispatchable electricity.
+- Page word count estimate: 429
+- Relevance score: 18.00
+- Key excerpt lines:
+  - Multilateral closed-loop geothermal systems as a Zero- Emission load-following resource
+  - - Princeton University
+  - Skip to main navigation
+  - Skip to search
+  - Skip to main content
+  - Princeton University Home
+  - Help & FAQ
+  - Link opens in a new tab
+  - Search content at Princeton University
+  - Home
+  - Profiles
+  - Research units
+- Extended extract lines:
+  - Multilateral closed-loop geothermal systems as a Zero- Emission load-following resource - Princeton University Skip to main navigation Skip to search Skip to main content Princeton University Home Help & FAQ Link opens in a new tab Search content at Princeton University Home Profiles Research units Facilities Projects Research output Press/Media Multilateral closed-loop geothermal systems as a Zero- Emission load-following resource Michael Holmes , Matthew Toews , Jesse Jenkins , Nestor Sepulveda Research output : Chapter in Book/Report/Conference proceeding › Conference contribution 8 Link opens in a new tab Scopus citations Overview Fingerprint Abstract The Eavor-LoopTM, a multilateral closed-loop geothermal system (MCLGS), is introduced as a zero-emission load-following resource (ZELFR) that is globally scalable and can provide baseload or dispatchable electricity. For any electrical grid to reach net-zero, ZELFR or largescale energy storage is required to balance intermittent renewables like solar and wind and provide grid stability. Given the declining costs of intermittent renewables and their increased utilization in modern grids, the ability to load follow is both crucial and highly valued. The objectives of this paper are two-fold. First, we prove the technical feasibility of MCLGS to provide flexible power using first principles-based models. Second, we demonstrate the value enhancement of flexible operation with a case study of the United States Western Interconnection power transmission grid using an electricity resource capacity expansion model. A transient, fully coupled wellbore + thermal model was developed and validated using over a year of operating data from the Eavor-LiteTM facility, a full-scale Eavor-LoopTM demonstration project in Alberta, Canada. Recent modelling work, coupled with field trials, has proven the feasibility of Eavor-LoopTM to provide flexible energy for load-balancing or peak-matching with a minimal impact on lifetime energy extraction. Transient operation allows the system to recharge during low demand periods. To demonstrate the value of Eavor-LoopTM in a net-zero grid, an electricity resource capacity expansion model (GenX) was used. GenX is a constrained optimization model that determines the mix of electricity generation and storage required to meet electricity demand while minimizing system cost. Flexible Eavor-LoopTM operation provides stability for the grid, matching electricity generation with demand, and reduces annual total system cost by up to $20B (21%) in a base case and up to $403B (81%) in an extreme case. Inclusion of Eavor-LoopTM also reduces land use required by up to 49%, saving 25 acres in a base case and 48 acres in an extreme case for each megawatt of Eavor-LoopTM installed. Original language English (US) Title of host publication Using the Earth to Save the Earth - 2021 Geothermal Rising Conference, GRC 2021 Publisher
+
+#### Source 0006: Closed Loop Systems | Wisconsin Geothermal Association
+- Source ID: 3c203c7bc937
+- Turn: 1
+- Query: "Geothermal closed-loop systems" overview
+- Provider: ddgs
+- Search rank: 5
+- Domain: wisgeo.org
+- URL: https://wisgeo.org/what-is-geothermal/closed-loop-systems
+- Search snippet: Wisconsin Geothermal Association -Closed loopsystems are more common than open loop systems because they can be installed at almost any site.Closed loopsystems have a continuous ground loop; the fluid inside never comes in contact with the environment. Vertical loop A vertical loop system uses wells drilled one to three hundred feet into the ground as the ground loop. A u-shaped pipe is ...
+- Page word count estimate: 359
+- Relevance score: 17.33
+- Key excerpt lines:
+  - Closed Loop Systems | Wisconsin Geothermal Association
+  - info@wisgeo.org
+  - 888-782-6815
+  - Responsibly advancing the geothermal heating and cooling industry in Wisconsin
+  - About Geothermal
+  - How it works
+  - Components
+  - Closed Loop Systems
+  - Open Loop Systems
+  - Applications
+  - Projects
+  - FAQ
+- Extended extract lines:
+  - Closed Loop Systems | Wisconsin Geothermal Association info@wisgeo.org 888-782-6815 Responsibly advancing the geothermal heating and cooling industry in Wisconsin About Geothermal How it works Components Closed Loop Systems Open Loop Systems Applications Projects FAQ The Pros Master Geothermal Installer Find a Pro How to choose a pro Code of Ethics Events Annual Conference IGSHPA Golf Outing Geo Ride! News Newsletters Geo Tech Bulletins Links Sponsors About Contact Us Join Shop Closed Loop Systems Closed loop systems are more common than open loop systems because they can be installed at almost any site. Closed loop systems have a continuous ground loop; the fluid inside never comes in contact with the environment. Vertical loop A vertical loop system uses wells drilled one to three hundred feet into the ground as the ground loop. A u-shaped pipe is placed in each trench so that fluid can go down the well, transfer heat, and come back to the surface without ever contacting the rock or soil. These wells take up significantly less room than other configurations, but will cost more. The depth of vertical systems can also lead to consistent performance. Horizontal loop It is also possible to place the ground loop in a horizontal configuration, in which the piping is simply laid in one or many trenches in the ground. This is an inexpensive method of installation, and is often used in residential or light commercial applications. There are many different layouts for horizontal systems. In some cases 2-6 pipes are distributed in each trench; in some cases a ‘slinky’ formation is used. If a large amount of earth can be moved to create one very wide trench, rows of pipe can all be laid in this trench in a ‘racetrack’ formation. All have been successful heat transfer devices. Pond loop If a pond (or lake) is available on the building site, it is often convenient to simply sink the loop into the pond and transfer heat to and from the water of the pond. This can be just as efficient as a ground loop if care is taken in choosing a large enough body of water. Proceed to Open loop systems
+
+#### Source 0007: Genesys Geothermal
+- Source ID: 7fe3ffabd1f0
+- Turn: 1
+- Query: "Geothermal closed-loop systems" overview
+- Provider: ddgs
+- Search rank: 11
+- Domain: www.genesysgeo.com
+- URL: https://www.genesysgeo.com
+- Search snippet: How does CLAD differ from conventional geothermal heating and cooling? Traditionalgeothermalclosed-loopsystemsoften face challenges such as high installation costs, significant land requirements, and the need for deeper drilling, which can complicate installation.
+- Page word count estimate: 419
+- Relevance score: 16.33
+- Key excerpt lines:
+  - Genesys Geothermal
+  - Solution
+  - Technology
+  - Features
+  - FAQ
+  - Contact Us
+  - Geothermal for Every Building
+  - A transformative heating & cooling solution designed to accelerate
+  - decarbonization and support building electrification.
+  - Learn More
+  - A Groundbreaking Solution
+  - Meet CLAD
+- Extended extract lines:
+  - Genesys Geothermal Solution Technology Features FAQ Contact Us Geothermal for Every Building A transformative heating & cooling solution designed to accelerate decarbonization and support building electrification. Learn More A Groundbreaking Solution Meet CLAD Our Closed-Loop Advection Device, CLAD, taps into the heat transfer attributes of groundwater to deliver heating and cooling at unmatched performance. Learn more Lower Carbon Emissions Optimize energy usage with our heating and cooling solution that significantly reduces carbon emissions - a clean replacement to traditional systems that rely on fossil fuels. Reduce Operational Expenses Genesys’ CLAD delivers unrivaled efficiency for long term savings – using less energy to achieve the same level of heating and cooling comfort as traditional HVAC systems. Optimize Performance No matter your building's size or specifications, our geothermal solutions are engineered to perfectly fit the needs of any space, ensuring peak operation year-round. Unlock the Benefits of Geothermal Why Generate Heat When You Can Transfer It? Unlike traditional HVAC systems that focus on generating heat, relying on harmful fossil fuels, our closed-loop geothermal technology transfers the natural thermal energy from water underground to heat and cool your building with improved efficiency and lower overall emissions. ‍ Our solution exchanges heat via advection by engaging the stable temperatures and high heat transfer capabilities of groundwater. Without ever coming above surface, groundwater circulates through a series of interconnected loops and past a well heat exchanger. To provide warmth in the winter, heat is extracted from the ground, and to deliver cooling in the summer, excess heat from indoors is removed and returned back underground. Genesys Elevates Geothermal Every building has unique requirements, and our geothermal systems are designed to meet them. With an array of CLAD unit sizes and configurations, we customize your geothermal solution to deliver optimal performance and measurable savings. Contact Us Why Choose Genesys Superior Heat Transfer Setting us apart from conventional geothermal systems, our closed loop design exchanges heat via advection, leveraging the high heat transfer properties of groundwater to maximize efficiency. No Thermal Buildup Due to its non-accumulating system design, CLAD reliably meets temperature demands at all times and for all building types, even those with heating or cooling dominant loads. Precision Temperature Control Engineered to deliver a consistent and narrow range of entering water temperatures (EWT), our solution enables heat pumps to operate more efficiently, reducing overall energy consumption. Zero Water Depletion Our closed-loop design prioritizes groundwater protection by keeping it below the surface, ensuring that every drop of groundwater is conserved and returned to the aquifer.
+
+#### Source 0008: Connectivity and Performance Evaluations for Fractured and Closed Loop Geothermal Systems
+- Source ID: 07540cf7da16
+- Turn: 1
+- Query: "Geothermal closed-loop systems" site:edu
+- Provider: ddgs
+- Search rank: 12
+- Domain: ecommons.cornell.edu
+- URL: https://ecommons.cornell.edu/entities/publication/71bbefa7-467d-4edc-a4e5-156ba80b85b9
+- Search snippet: Two technologies are being proposed to expand deep geothermal development and to make it globally accessible, namely-Enhanced Geothermal Systems (EGS) and Closed Loop Geothermal Systems (CLG). The primary difference between the two systems being the circulation of fluid takes place through ...
+- Page word count estimate: 582
+- Relevance score: 16.00
+- Key excerpt lines:
+  - Connectivity and Performance Evaluations for Fractured and Closed Loop Geothermal Systems
+  - Skip to main content
+  - Cornell University
+  - Library
+  - Cornell University
+  - Library
+  - eCommons
+  - Help
+  - Log In
+  - (current)
+  - Home
+  - Cornell University Graduate School
+- Extended extract lines:
+  - Connectivity and Performance Evaluations for Fractured and Closed Loop Geothermal Systems Skip to main content Cornell University Library Cornell University Library eCommons Help Log In (current) Home Cornell University Graduate School Cornell Theses and Dissertations Connectivity and Performance Evaluations for Fractured and Closed Loop Geothermal Systems Connectivity and Performance Evaluations for Fractured and Closed Loop Geothermal Systems File(s) Chandrasekar_cornell_0058O_11248.pdf (4.67 MB) Show more Permanent Link(s) https://doi.org/10.7298/f8tw-ss63 https://hdl.handle.net/1813/110796 Collections Cornell Theses and Dissertations Author Chandrasekar, Harish Abstract The thermal energy stored in the Earth’s interior to depths of 10 km is vast compared to the annual global consumption of primary energy. Despite these large resource estimates, the installed worldwide geothermal production capacity is limited to 16 GW electric and 30 GW thermal. The reason for the limited capacity primarily lies in the fact that profitable high enthalpy geothermal systems also called Hydrothermal systems are geographically rare. Two technologies are being proposed to expand deep geothermal development and to make it globally accessible, namely-Enhanced Geothermal Systems (EGS) and Closed Loop Geothermal Systems (CLG). The primary difference between the two systems being the circulation of fluid takes place through hydraulically stimulated fractures in the rock for the former and the circulation of fluid takes place in a closed pipe for the latter. This thesis aims at dealing with the connectivity and thermal hydraulic performance of both these systems through analytical and numerical modeling techniques. The connectivity and thermal hydraulic performance in the context of EGS/CLG refers to the flow and thermal profile evaluation of a working fluid as it advances through the fractures in the subsurface between an injection and production well or through a closed pipe in the subsurface. A characterization technique for evaluating the hydraulic connectivity of a fractured bedrock is developed using periodic pumping tests. Traditional pumping tests performed to characterize the subsurface are often not suitable for fractured EGS systems since the diffusion length or radius of penetration quickly expands beyond the inter-well distance. Periodic pumping tests allow us to control the diffusion length by varying the period or frequency of the oscillation. Therefore, testing at multiple frequencies help probe different distances in the system. Analytical models and signal processing techniques are developed and employed to analyze the data generated from the periodic pumping tests conducted at a meso scale field site known to exhibit extreme flow channeling. The width of the channel formed was computed for various periods or frequency of oscillations and were found to decrease with period. Besides, the storage of fluid in the medium was compared with that of the storage in the monitoring wells and the former was found to be the dominating storage mechanism at the meso scale field site. Numerical Simulations are performed using a developed Finite Element Method (FEM) technique to evaluate CLG technologies. Sensitivity analysis is performed and their thermal performance is evaluated for various operating conditions. The developed models are also validated with Slender Body Theory (SBT) based approaches. In all scenarios, the results exhibit a large rapid drop in production temperature immediately after initiation of operations that levels off to a lower near steady state value. CLG is also compared with EGS using analytical techniques. In summary, it is found that CLG may be more appropriate when traditional hydrothermal systems and EGS are off the table, in situations with existing wells and for direct-use heat applications. Description 140 pages Date Issued 2021-12 Keywords Analytical and numerical modeling • Closed loop geothermal systems • Fracture flows • Well connectivity Committee Chair
+
+#### Source 0009: Geothermal Closed Loop Systems - Bergerson Caswell Incorporated
+- Source ID: c0ea8c398b6e
+- Turn: 1
+- Query: "Geothermal closed-loop systems" overview
+- Provider: ddgs
+- Search rank: 13
+- Domain: www.bergersoncaswell.com
+- URL: https://www.bergersoncaswell.com/geothermal/geothermal-products
+- Search snippet: Bergerson Caswell began installing verticalgeothermalsystemsin 1987. Since then we have diversified our operation to include horizontal and lakesystemsas well.Open Loop •ClosedLoopTC Testing • Design Assistance SubmergedClosedLoopHeat Exchangers.
+- Page word count estimate: 218
+- Relevance score: 15.67
+- Key excerpt lines:
+  - Geothermal Closed Loop Systems - Bergerson Caswell Incorporated
+  - Bergerson Caswell Incorporated
+  - Your full service pump, well and water conditioning contractor since 1948.
+  - Home
+  - About Us
+  - Company Profile
+  - Solar Energy Production
+  - Make a Payment
+  - Commercial
+  - Commercial Wells & Borings
+  - Commercial Services
+  - Well Video Services
+- Extended extract lines:
+  - Geothermal Closed Loop Systems - Bergerson Caswell Incorporated Bergerson Caswell Incorporated Your full service pump, well and water conditioning contractor since 1948. Home About Us Company Profile Solar Energy Production Make a Payment Commercial Commercial Wells & Borings Commercial Services Well Video Services Residential Water Systems Residential Water Wells Residential Water Service Residential Water Treatment Make a Payment Environmental Environmental Wells & Borings Environmental Services Geothermal Geothermal Closed Loop Systems Geothermal Services Geothermal Conductivity Testing Contact Us Make a Payment Geothermal Closed Loop Systems Geothermal Closed Loop Systems Bergerson Caswell began installing vertical geothermal systems in 1987. Since then we have diversified our operation to include horizontal and lake systems as well. From large commercial projects to an individual home, we employ the most experienced craftsman to ensure your system becomes a great investment. All of our products are comprised of materials that meet the top industry standards. This ensures you are provided with a high quality product that will stand the test of time. Please contact us regarding any of these products: Vertical Heat Exchangers Horizontal Heat Exchangers Lake or Pond Systems Test Borings Clean Sites Mud & Air Rotary drilling Thermal Conductivity Testing and Reports Bergerson Caswell has project references throughout the U.S. and is a leader in commercial geothermal experience. Contact us about Geothermal services:
+
+#### Source 0010: Thermoporoelastic Analysis of a Single-Well Closed-Loop Geothermal System - Penn State
+- Source ID: 775fa7cf23db
+- Turn: 1
+- Query: "Geothermal closed-loop systems" site:edu
+- Provider: ddgs
+- Search rank: 18
+- Domain: pure.psu.edu
+- URL: https://pure.psu.edu/en/publications/thermoporoelastic-analysis-of-a-single-well-closed-loop-geotherma
+- Search snippet: In OLGS,fluid is produced from the subsurface, while there might be concurrent fluid injection into the reservoir. The loss of working fluid, surface subsidence, and formation compaction are major challenges in OLGS.
+- Page word count estimate: 336
+- Relevance score: 15.00
+- Key excerpt lines:
+  - Thermoporoelastic Analysis of a Single-Well Closed-Loop Geothermal System
+  - - Penn State
+  - Skip to main navigation
+  - Skip to search
+  - Skip to main content
+  - Penn State Home
+  - Help & FAQ
+  - Link opens in a new tab
+  - Search content at Penn State
+  - Home
+  - Researchers
+  - Research output
+- Extended extract lines:
+  - Thermoporoelastic Analysis of a Single-Well Closed-Loop Geothermal System - Penn State Skip to main navigation Skip to search Skip to main content Penn State Home Help & FAQ Link opens in a new tab Search content at Penn State Home Researchers Research output Research units Equipment Grants & Projects Prizes Activities Thermoporoelastic Analysis of a Single-Well Closed-Loop Geothermal System Milad Ahmadi , Arash Dahi Taleghani Leone Family Department of Energy and Mineral Engineering (EME) Research output : Chapter in Book/Report/Conference proceeding › Conference contribution 6 Link opens in a new tab Scopus citations Overview Fingerprint Abstract Geothermal systems are identified as either open-loop geothermal systems (OLGS) or closed-loop geothermal systems (CLGS). In OLGS, fluid is produced from the subsurface, while there might be concurrent fluid injection into the reservoir. The loss of working fluid, surface subsidence, and formation compaction are major challenges in OLGS. To address the indicated challenges, closed-loop geothermal systems can be considered as an alternative option. In CLGS, a working fluid with low boiling point is circulated through the coaxial sealed pipes to extract heat from the geothermal reservoir. Conduction is the main heat transfer mechanism in the CLGS; however, available mere-conduction configurations are not capable to quickly transfer heat from the reservoir to the wellbore. To improve conductive heat extraction from this system, we suggest induced thermal-conductive fractures for CLGS to enhance conductive heat transfer into the wellbore. Comprehensive analysis of this problem requires simultaneous modeling of fluid flow, heat transfer and rock deformation. A finite element thermo-poroelastic model represents CLGS. The numerical results suggest that fractures significantly improve thermal power and cumulative extracted heat for the proposed configuration. Thermal conductivity of the proppants filling the induced fractures is the key parameter affecting the heat extraction. Negligible surface subsidence in the proposed technique suggests this configuration is suitable for the areas where surface subsidence or induced seismicity restricts the application of OLGS. Original language English (US) Title of host publication Poromechanics 2017 - Proceedings of the 6th Biot Conference on Poromechanics Editors
+
+#### Source 0011: Closed Loop Geothermal Boreholes Deeper Than 500 Feet - NYSDEC
+- Source ID: 48daaa740c18
+- Turn: 1
+- Query: "Geothermal closed-loop systems" site:gov
+- Provider: ddgs
+- Search rank: 9
+- Domain: dec.ny.gov
+- URL: https://dec.ny.gov/environmental-protection/oil-gas/closed-loop-geothermal-boreholes-deeper-than-500-feet
+- Search snippet: Closed loop geothermal boreholes aredrilled for the purpose of facilitating geothermal heating and cooling by circulating heat transfer fluid through a loop, tube, coil, or multiple loops of piping that are fully grouted in place from total depth to the surface across the entire diameter of the borehole...
+- Page word count estimate: 228
+- Relevance score: 14.00
+- Key excerpt lines:
+  - Closed Loop Geothermal Boreholes Deeper Than 500 Feet - NYSDEC
+  - Skip to main content
+  - Department of Environmental Conservation
+  - Things To Do
+  - Things To Do
+  - There are many ways to experience New York’s great outdoors. Maybe you’ll get hooked on fishing or discover sleeping under the stars is the perfect way to spend a weekend. We have information for beginners up to the m...
+  - View All Outdoor Activities
+  - Camping
+  - Hiking
+  - Birding
+  - Hunting
+  - Trapping
+- Extended extract lines:
+  - Closed Loop Geothermal Boreholes Deeper Than 500 Feet - NYSDEC Skip to main content Department of Environmental Conservation Things To Do Things To Do There are many ways to experience New York’s great outdoors. Maybe you’ll get hooked on fishing or discover sleeping under the stars is the perfect way to spend a weekend. We have information for beginners up to the more advanced outdoor enthusiast. View All Outdoor Activities Camping Hiking Birding Hunting Trapping Freshwater Fishing Saltwater Fishing Shellfishing Boating Paddling Watchable Wildlife Summer Camps Love Our New York Lands Adventure NY Get Offline, Get Outside Places to Go Places to Go Looking for your next adventure? New York has more than 5 million acres, 7,000 lakes and streams, and 52,000 miles of rivers and streams for you to explore. Use our Places to Go search tool to find locations nearby for your favorite outdoor activity. Find Your Spot Find Places to Go Know Before You Go Accessible Recreation Maps Wildlife Management Areas Tidal Wetland Areas Agencies That Manage Public Land Discounts For Outdoor Recreation Nature Nature New York is home to many animals and plant species – both native and invasive. Learn how we protect open space and reclaim land after mining is complete. Discover the water around you in lakes and rivers, wetlands, oceans, and underground. Learn About Nature Animals, Fish & Plants Invasive Species
+
+#### Source 0012: Technology - Eavor - Closed-loop Geothermal, Unlike Any Other
+- Source ID: 3a7d5a7d61d8
+- Turn: 1
+- Query: "Geothermal closed-loop systems" overview
+- Provider: ddgs
+- Search rank: 19
+- Domain: eavor.com
+- URL: https://eavor.com/technology
+- Search snippet: April 14, 2025 -The Eavor-Loop™ is a closed-loop geothermal system,drilled into the Earth with a series of multilateral wellbores. A proprietary working fluid is contained and circulated in the system which retrieves heat from the surrounding rock via conduction.
+- Page word count estimate: 330
+- Relevance score: 13.67
+- Key excerpt lines:
+  - Technology - Eavor - Closed-loop Geothermal, Unlike Any Other
+  - Skip to content
+  - Home
+  - Technology
+  - Projects
+  - Eavor-Europe™
+  - Eavor-Deep™
+  - Eavor-Lite™
+  - Our People
+  - Press Releases
+  - Newsroom / Media
+  - Investors
+- Extended extract lines:
+  - Technology - Eavor - Closed-loop Geothermal, Unlike Any Other Skip to content Home Technology Projects Eavor-Europe™ Eavor-Deep™ Eavor-Lite™ Our People Press Releases Newsroom / Media Investors Careers Contact Eavor-Lite™ Virtual Tour Home Technology Projects Eavor-Europe™ Eavor-Deep™ Eavor-Lite™ Our People Press Releases Newsroom / Media Investors Careers Contact Eavor-Lite™ Virtual Tour Technology Closed-Loop Geothermal Technology for a 24/7 Carbon-free and Secure Energy Future Technical Resources Technology Videos The Eavor-Loop™ Next Generation Geothermal ⮟ One aspect that enables Eavor to scale is the method in which it harnesses heat. Unlike traditional geothermal, Eavor-Loop™ systems extract heat from hot rock via conduction. Traditional geothermal and Enhanced Geothermal Systems (EGS) typically use convection methods, and this requires either direct access to hot aquifers or fracking to increase permeability of rock. Aquifers can be difficult to locate and fracking is associated with induced-seismicity risk. Hot rock is almost everywhere beneath our feet, which means that Eavor can harvest its energy from virtually anywhere across the planet. The Radiator ⮟ Eavor’s closed-loop geothermal technology consists of several Patented and Patent Pending innovations. The Eavor-Loop™ is a closed-loop geothermal system, drilled into the Earth with a series of multilateral wellbores. A proprietary working fluid is contained and circulated in the system which retrieves heat from the surrounding rock via conduction. The working fluid is not fluid from a reservoir flowing into our wells, it is a fluid added to the Eavor-Loop™ to create an efficient reverse radiator, much like a vehicle radiator circulates fluid in a closed loop to remove heat from a gasoline engine. Energy Generation ⮟ Eavor-Loop™ harvests heat from deep in the earth to be used for commercial heating or cooling applications (ex: greenhouses or district heating or cooling) or to be used to generate electricity using conventional heat to power engines. Eavor-Loop™ is a utility scale geothermal system that mitigates many of the issues with traditional geothermal systems, which rely upon using wells to produce brine from a subsurface aquifer. Advanced Geothermal ⮟
+
+#### Source 0013: Open Loop vs Closed Loop Geothermal Systems - Dandelion Energy
+- Source ID: f8e026e75a72
+- Turn: 1
+- Query: "Geothermal closed-loop systems" overview
+- Provider: ddgs
+- Search rank: 17
+- Domain: dandelionenergy.com
+- URL: https://dandelionenergy.com/open-loop-vs-closed-loop-geothermal-systems
+- Search snippet: July 27, 2023 -A closed loop geothermal systemcontinuously circulates a heat transfer solution through buried or submerged plastic pipes. The loop is filled just once and requires only a moderate amount of solution.
+- Page word count estimate: 483
+- Relevance score: 12.33
+- Key excerpt lines:
+  - Open Loop vs Closed Loop Geothermal Systems - Dandelion Energy
+  - Skip to content
+  - Builders
+  - Homeowners
+  - Drilling
+  - Get in touch
+  - Team
+  - Careers
+  - FAQs
+  - Impact
+  - News
+  - Contact
+- Extended extract lines:
+  - Open Loop vs Closed Loop Geothermal Systems - Dandelion Energy Skip to content Builders Homeowners Drilling Get in touch Team Careers FAQs Impact News Contact Back to site News / Post Open Loop vs Closed Loop Geothermal Systems March 16, 2020 All geothermal systems use ground loops to capture the consistent temperature of the earth to provide heating and cooling. There are several different approaches to ground loop design, but they all fall under two basic categories: closed loop and open loop. While every ground loop serves the same function, there are pros and cons to each design. In this post we’ll explore your options so you can find the right geothermal heating and cooling solution for your home. What’s a Closed Loop Geothermal System? A closed loop geothermal system continuously circulates a heat transfer solution through buried or submerged plastic pipes. The loop is filled just once and requires only a moderate amount of solution. The same solution is used again and again in a closed loop ! These underground pipes connect to an indoor heat pump to provide heating and cooling. For more information of the different ways of designing closed loop systems check out our detailed guide to geothermal ground loop systems . What’s an Open Loop Geothermal System? An open loop geothermal system pipes clean ground water directly from a nearby aquifer to an indoor geothermal heat pump. After the water leaves the home, it’s expelled back through a discharge well, which is located a suitable distance from the first. The water may also be directed into a local pond or approved drainage ditch, depending on local codes. Because open-loop systems utilize water on a “once through” basis, they are often referred to as “pump and dump” systems. Which is Better: Closed Loop or Open Loop Geothermal Systems? Cost: Because open loop systems require no trenching, drilling, or burying hundreds of feet of plastic pipe, open loop systems are the simplest and often cheapest type of geothermal to install. Those costs are unavoidable when installing any closed loop geothermal system. Feasibility: Open loop geothermal systems are only an option if there’s a plentiful supply of clean, fresh water on-site. This water source must also meet the geothermal system’s gallons-per-flow requirements, even through seasonal changes. Closed loop geothermal systems are practical for small and spacious properties alike and don’t rely on any nearby water source to heat and cool properties. Durability: The performance of an open loop system may degrade over time if water quality issues like silt, sediment or high mineral content are present or if the water supply diminishes for any reason. Closed loop geothermal ground loops can last 50+ years — even up to 100 years with little to no maintenance. Once installed, the buried ground loop will be a permanent fixture on the property for as long as there is a building to heat and cool.
+
+#### Source 0014: Closed loop versus an open loop geothermal district system: A techno-economical assessment (Conference) | OSTI.GOV
+- Source ID: 6f8ab10bb0fb
+- Turn: 1
+- Query: "Geothermal closed-loop systems" site:gov
+- Provider: ddgs
+- Search rank: 17
+- Domain: www.osti.gov
+- URL: https://www.osti.gov/biblio/494339
+- Search snippet: December 30, 1996 -A case study is presented, which indicates that a closed loop distance covering 31 kilometers between the well head and the district entry point is feasible for a 89.1 MW(t) district capacity for the City of Denizli in Tuerkiye. The same study reveals that the common base unit capital cost of 240 $/kW(t)-peak for a closed loop system favorably compares with 480 $/kW(t)-peak for an open loop system for the same district capacity for the existing geothermal well output.
+- Page word count estimate: 243
+- Relevance score: 12.33
+- Key excerpt lines:
+  - Closed loop versus an open loop geothermal district system: A techno-economical assessment (Conference) | OSTI.GOV
+  - Skip to main content
+  - Sign In
+  - Create Account
+  - OSTI.GOV
+  - U.S. Department of Energy Office of Scientific and Technical Information
+  - U.S. Department of Energy
+  - Office of Scientific and Technical Information
+  - Search terms:
+  - ⏷
+  - Submit
+  - Research Results
+- Extended extract lines:
+  - Closed loop versus an open loop geothermal district system: A techno-economical assessment (Conference) | OSTI.GOV Skip to main content Sign In Create Account OSTI.GOV U.S. Department of Energy Office of Scientific and Technical Information U.S. Department of Energy Office of Scientific and Technical Information Search terms: ⏷ Submit Research Results Search Tools Public Access Policy PID s Services & Dev Tools About FAQs News Sign In Create Account OSTI.GOV Conference: Closed loop versus an open loop geothermal district system: A techno-economical assessment Closed loop versus an open loop geothermal district system: A techno-economical assessment Conference · 31 December 1996 OSTI ID: 494339 Kilkis, I B Fundamental techno-economical parameters governing an open loop and a closed loop geothermal district energy system are briefly discussed. The maximum allowable closed loop distance between the geothermal plant and the district entry point is directly related to the thermal capacity of the system. A case study is presented, which indicates that a closed loop distance covering 31 kilometers between the well head and the district entry point is feasible for a 89.1 MW(t) district capacity for the City of Denizli in Tuerkiye. The same study reveals that the common base unit capital cost of 240 $/kW(t)-peak for a closed loop system favorably compares with 480 $/kW(t)-peak for an open loop system for the same district capacity for the existing geothermal well output. 🛈 OSTI does not have a digital full text copy available. For more information, please see
+
+#### Source 0015: Open Loop Vs. Closed Loop Geothermal • Ingrams Water & Air
+- Source ID: ba944e6ec3fc
+- Turn: 1
+- Query: "Geothermal closed-loop systems" overview
+- Provider: ddgs
+- Search rank: 18
+- Domain: iwae.com
+- URL: https://iwae.com/resources/articles/open-loop-vs-closed-loop-geothermal.html
+- Search snippet: December 3, 2025 -Closed loop geothermal systems are different from open loop geothermal systems in that theyuse a mix of antifreeze and water which cycles through pipes buried in the ground instead of using fresh groundwater to transfer heat.
+- Page word count estimate: 191
+- Relevance score: 12.00
+- Key excerpt lines:
+  - Open Loop Vs. Closed Loop Geothermal • Ingrams Water & Air
+  - The store will not work correctly when cookies are disabled.
+  - X
+  - Privacy Information
+  - We use cookies to ensure fast, reliable, and secure operations, and to give you the best possible experience when using our website. We use both
+  - session-based cookies
+  - and
+  - persistent cookies
+  - . We also allow the use of
+  - third-party cookies
+  - by certain authorized third parties with whom we execute marketing campaigns. For more information, please refer to our
+  - Privacy
+- Extended extract lines:
+  - Open Loop Vs. Closed Loop Geothermal • Ingrams Water & Air The store will not work correctly when cookies are disabled. X Privacy Information We use cookies to ensure fast, reliable, and secure operations, and to give you the best possible experience when using our website. We use both session-based cookies and persistent cookies . We also allow the use of third-party cookies by certain authorized third parties with whom we execute marketing campaigns. For more information, please refer to our Privacy And Cookie Policy . Skip to Content Up to 6 months 0% APR Financing Available! Learn More... Toggle Nav 1-270-575-9595 Chat Request a callback Email Support Call Center Open 6 Days a Week Our Kentucky Call Center is Open 6 Days a Week Mon - Fri: 7:00am - 7:00pm (CST) Sat: 9:00am - 3:00pm (CST) : Sales/Service Only Sun: Closed Walk-In Lobby Hours Mon - Fri: 7:30am - 4:30pm (CST) Sat: Appointment Only Sun: Closed Call Center Open 6 Days a Week Your Personal Connect ID: What is this? Save time when you speak with one of our experts 1. Call us at 1-270-575-9595 or start a chat session.
+
+#### Source 0016: Geothermal Ground Loop FAQs - Dandelion Energy
+- Source ID: 43e355dcab8e
+- Turn: 1
+- Query: "Geothermal closed-loop systems" overview
+- Provider: ddgs
+- Search rank: 24
+- Domain: dandelionenergy.com
+- URL: https://dandelionenergy.com/geothermal-ground-loop-frequently-asked-questions
+- Search snippet: September 15, 2025 -Closed loop geothermal systems typically circulate a mixture of water and a small amount of antifreeze to lower the solution’s freezing point.
+- Page word count estimate: 657
+- Relevance score: 10.00
+- Key excerpt lines:
+  - Geothermal Ground Loop FAQs - Dandelion Energy
+  - Skip to content
+  - Builders
+  - Homeowners
+  - Drilling
+  - Get in touch
+  - Team
+  - Careers
+  - FAQs
+  - Impact
+  - News
+  - Contact
+- Extended extract lines:
+  - Geothermal Ground Loop FAQs - Dandelion Energy Skip to content Builders Homeowners Drilling Get in touch Team Careers FAQs Impact News Contact Back to site News / Post Geothermal Ground Loop Frequently Asked Questions February 19, 2024 What is a ground loop? A ground loop is a U-shaped plastic pipe (a “u-bend pipe”) buried in a borehole deep enough to reach consistent year-round temperatures. It acts as a heat exchanger, allowing the geothermal heat pump to draw heat from the earth or release heat back into it. How does a ground loop work? About 6 feet underground, the earth stays at a steady temperature, unaffected by daily or seasonal air changes.The steady, mild temperatures underground allow the earth to act as a heat source in winter and a heat sink in summer. The geothermal heat pump, which is located inside the home, captures this energy by circulating thermally conductive fluid (aka water with a non-toxic antifreeze mixed in) through the ground loop. In winter, water in the ground loop absorbs heat from the earth and delivers it to the heat pump, which concentrates it to warm your home. In summer, the system reverses, moving heat from your home into the ground to keep it cool. Types of Ground Loop Systems There are several types of ground loop designs, but they all fall under two basic categories: closed loop and open loop. Closed Loop Geothermal Systems There are 3 types of closed loop geothermal systems: vertical loops, horizontal loops, and a water, or “pond loop” system. Because pond loops require the homeowner to have a large body of water on the property, they’re relatively uncommon, and we won’t discuss them in detail here. Horizontal Ground Loops Installers lay horizontal ground loops across a wide area, digging trenches hundreds of feet long and 6–10 feet deep. These systems work only when the yard has enough space and soil conditions make trenching easy. Ground Loop Installation To install a horizontal system, workers utilize trenchers or backhoes to dig trenches 5-10 feet below ground and then install a series of plastic pipes that comprise the geothermal heat exchanger. They will then backfill the trench, taking care not to allow sharp rocks or debris to damage the pipes. A common practice is to coil the pipe into a slinky shape to fit the loop field in a smaller area. While doing this reduces the amount of land area needed, it will require installation of more pipe. This configuration is usually the most cost effective because it requires trenching rather than drilling. Vertical Ground Loop A vertical ground loop is installed in one or more boreholes about 200 to 500 feet deep in the ground. Each hole is 5 to 6 inches in diameter, and if you have more than one, they’re about 20 feet apart. This configuration works best for homes with limited yard space, shallow rock formations, or retrofit projects where homeowners want minimal disruption to landscaping. Vertical Ground Loop Installation To install a vertical loop, a contractor will use well-drilling equipment to bore a 6-8 inch diameter vertical hole in the ground 200-500 feet deep. Next, installers insert a single U-bend pipe loop into the hole, then grout it from bottom to top. The grout serves two primary functions: Ensures contact between the pipes and the earth to promote heat transfer. Seals the hole off from any aquifers or groundwater supplies that may have been penetrated during the drilling process. Protecting the deep earth environment with a proper grouting material is just as important as providing heat transfer between the piping system and the surrounding earth. Vertical loops are generally more expensive to install, but require less piping and less land area than horizontal loops. Dandelion Geothermal currently only installs vertical ground loop systems. This type of geothermal system is ideal for urban or suburban areas across the Hudson Valley and NY’s Capital Region where space is at a premium.
+
+#### Source 0017: Open-Loop vs. Closed-Loop Ground Source Heat Pumps - Energy Vanguard
+- Source ID: 5a97d7ebda67
+- Turn: 1
+- Query: "Geothermal closed-loop systems" overview
+- Provider: ddgs
+- Search rank: 28
+- Domain: www.energyvanguard.com
+- URL: https://www.energyvanguard.com/blog/open-loop-vs-closed-loop-ground-source-heat-pumps
+- Search snippet: August 24, 2023 -Ross Trethewey (engineer): “We have designed 250+ geothermal heat pumps systems in the northeast over the last 15 years and every single one is a closed loop system.” · There’s your quick overview of open-loop vs. closed-loop ground source heat pumps. One thing I didn’t mention is ...
+- Page word count estimate: 574
+- Relevance score: 9.67
+- Key excerpt lines:
+  - Open-Loop vs. Closed-Loop Ground Source Heat Pumps - Energy Vanguard
+  - skip to Main Content
+  - About
+  - Knowledge
+  - Newsroom
+  - Contact Us
+  - Book Dr. Bailes
+  - Blog
+  - HVAC Design
+  - HVAC Load Calculations
+  - HVAC Design Protocols
+  - HVAC Design for Code Compliance
+- Extended extract lines:
+  - Open-Loop vs. Closed-Loop Ground Source Heat Pumps - Energy Vanguard skip to Main Content About Knowledge Newsroom Contact Us Book Dr. Bailes Blog HVAC Design HVAC Load Calculations HVAC Design Protocols HVAC Design for Code Compliance System Replacement HVAC Design Data Collection Forms Sample HVAC Design Reports Search Search Submit Open-Loop vs. Closed-Loop Ground Source Heat Pumps 2023-08-23 Allison Bailes Blog heat pump heating & cooling I mainly talk about air source heat pumps here. But ground-source heat pumps are an important type of heat pump, too. So today, let’s look at the issue of open-loop vs. closed-loop design when installing this type of heat pump. What is a ground source heat pump? First, I use the term ground source heat pump, but they’re also called ground-coupled or geothermal heat pumps. They do exactly the same thing as air source heat pumps: They move heat between indoors and outdoors. The equipment is really just a heat exchanger with a lot of interesting physics that keeps your house cool in summer and warm in winter. The only difference is that in a ground source heat pump, the outdoor exchange happens with the ground, groundwater, or surface water. The diagram below shows four different ways that outdoor heat exchange can occur. A ground source heat pump draws heat from or dumps heat into the ground, groundwater, or surface water. [Source: US Dept. of Energy Building America Solutions Center] The main advantage of ground source heat pumps is that it’s easier to draw heat from the ground in winter and dump it into the ground in summer. Why, you ask? A couple of reasons. First, the ground temperature doesn’t vary like the air temperature does. Second, the ground or water that you’re drawing heat from or dumping it into can have a higher heat capacity than air. (See the comment by RoyC below for a better understanding of that second issue. It’s the one that begins with “I have to disagree with Allison…”) Open-loop vs. closed-loop Anytime you’re in the position of choosing a heating or cooling system, you have to make decisions. One that comes up with ground source heat pumps is deciding between the open-loop vs. closed-loop types for the outdoor heat source or sink. The diagram above shows four closed-loop systems. In that type, the fluid that exchanges heat with the ground is a mixture of antifreeze and water. As the name suggests, it’s contained in a closed system that circulates the fluid through the pipes. That same fluid going through the pipes over and over. [Source: US Dept. of Energy Building America Solutions Center] One type of open-loop system is sometimes referred to as a pump-and-dump system. That pretty much tells you how it operates. You pump water from the ground or a pond, run it through the heat exchanger, and dump it onto the surface or into a storm sewer. That type is widely illegal (see next section). But there are three other types of open-loop systems that handle the water responsibly after the heat exchange. The diagram above shows one of them, the doublet. It has water being pumped out of one well and then sent back into a different well. The other two open-loop types are the standing column well and the dynamic closed loop. The latter is really an open-loop/closed-loop hybrid. See Jay Egg’s article on this topic for more detail. Pretty simple concept, right? Which type is better?
+
+#### Source 0018: Geothermal Loop Design 101 | Precision Comfort Systems
+- Source ID: 17c42e28b211
+- Turn: 1
+- Query: "Geothermal closed-loop systems" official documentation
+- Provider: ddgs
+- Search rank: 30
+- Domain: precisioncomfort.com
+- URL: https://precisioncomfort.com/geothermal-loop-design-101
+- Search snippet: November 26, 2024 -Water is pumped from the source, circulates through the geothermal heat pump to exchange heat, and is then discharged back into the ground or water body. While cost-effective, open loop systems depend heavily on water quality and availability, making them suitable only in areas with abundant, clean groundwater. Closed Loop Systems: These are more common and versatile, consisting of a continuous piping loop filled with a heat transfer fluid.
+- Page word count estimate: 478
+- Relevance score: 9.00
+- Key excerpt lines:
+  - Geothermal Loop Design 101 | Precision Comfort Systems
+  - Services
+  - Maintenance
+  - Repair
+  - Air Conditioner Repair
+  - Furnace Repair
+  - Heat Pump Repair
+  - Replacement
+  - Air Conditioner Replacement
+  - Furnace Replacement
+  - Heat Pump Replacement
+  - Plumbing Services
+- Extended extract lines:
+  - Geothermal Loop Design 101 | Precision Comfort Systems Services Maintenance Repair Air Conditioner Repair Furnace Repair Heat Pump Repair Replacement Air Conditioner Replacement Furnace Replacement Heat Pump Replacement Plumbing Services Indoor Air Quality Geothermal About Our Story Careers Resources Contact Search SCHEDULE ONLINE Pay Now Call 317.867.2665 Select Page Geothermal Loop Design 101 Geothermal energy systems offer a sustainable and efficient solution for heating and cooling homes, leveraging the constant temperatures beneath the Earth’s surface. Precision Comfort Systems, with our extensive experience in geothermal loop design in Hamilton County, Central Indiana, are leaders in this innovative field. But what exactly does “geothermal loop design” entail, and how does it contribute to your home’s energy efficiency? The Basics of Geothermal Loops At its core, a geothermal system consists of a heat pump and a network of pipes, known as the geothermal loop, buried underground or submerged in water. This loop is essential for transferring heat between your home and the ground, exploiting the Earth’s stable underground temperatures. There are two primary types of geothermal loops: open and closed. Open Loop Systems: These systems utilize groundwater from a well or a body of water as a direct energy source. Water is pumped from the source, circulates through the geothermal heat pump to exchange heat, and is then discharged back into the ground or water body. While cost-effective, open loop systems depend heavily on water quality and availability, making them suitable only in areas with abundant, clean groundwater. Closed Loop Systems: These are more common and versatile, consisting of a continuous piping loop filled with a heat transfer fluid. The fluid circulates in a closed circuit, absorbing heat from the ground in winter and transferring heat back into the ground in summer. A closed loop system can be further categorized based on configuration and installation method. Types of Closed Loop Systems Horizontal Loops: Ideal for properties with sufficient land area, horizontal loops involve burying pipes in trenches about 6 to 10 feet deep. To maximize space efficiency, the pipes can be laid straight or in a “slinky” pattern. This setup is typically more cost-effective but requires a large, unobstructed area for installation. Vertical Loops: Vertical loops are the go-to solution when land space is limited. These involve drilling boreholes 100 to 500 feet deep into the ground, with pipes inserted vertically and connected at the bottom with a U-bend. Although more expensive due to drilling costs, vertical loops are ideal for urban or suburban areas with limited yard space. Pond (Lake) Loops: If a property has access to a large, deep pond or lake, pond loops can be an economical and efficient option. Coils of pipe are submerged at least 8 feet deep to prevent freezing. This method eliminates the need for extensive excavation or drilling, making it a cost-effective choice for properties with suitable water bodies nearby. Directional Bore Loops:
+
+## Turn 2
+
+### Focus
+recent evidence, performance, and industrial reality
+
+### Queries
+- "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" overview?
+- "Geothermal closed-loop systems" official documentation
+- "Geothermal closed-loop systems" academic review
+- "Geothermal closed-loop systems" site:gov
+- "Geothermal closed-loop systems" site:edu
+- "Geothermal closed-loop systems" market analysis
+- "Geothermal closed-loop systems" limitations criticism
+- "Geothermal closed-loop systems" timeline history
+- "Geothermal closed-loop systems" safety regulation
+- "Geothermal closed-loop systems" benchmark data
+
+### Turn Findings
+- Geothermal Closed Loop Heat Pump Market: Geothermal Closed Loop Heat Pump Market
+- Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives: Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives
+- American GeoPower – Advanced Geothermal Technologies: American GeoPower – Advanced Geothermal Technologies
+- Geothermal Loop Leak Verification: Geothermal Loop Leak Verification
+- Geoexchange, Geothermal, Project Management, Vancouver, BC, Canada, United States, Geoexchange Utility Geothermal Lease: Geoexchange, Geothermal, Project Management, Vancouver, BC, Canada, United States, Geoexchange Utility Geothermal Lease
+
+### Contradictions
+- No explicit contradictions extracted in this turn.
+
+### Open Questions
+- How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" overview??
+- Which metrics or dates recur across high-relevance sources for turn 2?
+- Which criticism appears consistently versus only in opinion pieces?
+
+### Source Catalog
+#### Source 0019: Geothermal Closed Loop Heat Pump Market
+- Source ID: 9f47117609e4
+- Turn: 2
+- Query: "Geothermal closed-loop systems" market analysis
+- Provider: ddgs
+- Search rank: 5
+- Domain: pmarketresearch.com
+- URL: https://pmarketresearch.com/hc/geothermal-closed-loop-heat-pump-market
+- Search snippet: Mar 3, 2026 ·The Geothermal Closed Loop Heat Pumpmarketis projected to reach USD 9.32 Billion by 2030, up from USD 5.65 Billion in 2023.
+- Page word count estimate: 608
+- Relevance score: 22.33
+- Key excerpt lines:
+  - Geothermal Closed Loop Heat Pump Market
+  - Skip to content
+  - PW Consulting Health Care Research Center
+  - Home
+  - About Us
+  - Contact/Customized Research
+  - Latest Reports
+  - About Us
+  - Contact/Customized Research
+  - Home
+  - Latest Reports
+  - Geothermal Closed Loop Heat Pump Market
+- Extended extract lines:
+  - Geothermal Closed Loop Heat Pump Market Skip to content PW Consulting Health Care Research Center Home About Us Contact/Customized Research Latest Reports About Us Contact/Customized Research Home Latest Reports Geothermal Closed Loop Heat Pump Market Geothermal Closed Loop Heat Pump Market March 3, 2026 Updated Sophie Turner Consumer Goods Summary Infograph Table of Contents Methodology Purchase/Customization 2030 Forecast $9.32 Bn Growth Rate ↗ 7.29% Top Region North America 👉 See Visual Breakdown What are the primary factors driving demand for geothermal closed-loop heat pumps in residential versus commercial sectors? Demand for geothermal closed-loop heat pumps (GCLHPs) is driven by distinct, sector-specific dynamics. In the residential market, rising awareness of energy efficiency and sustainability drives adoption as homeowners seek lower energy bills and smaller carbon footprints. The U.S. Department of Energy notes geothermal systems can be about 45% more efficient than traditional HVAC, a compelling efficiency premium when paired with long-term savings. Financial incentives matter; tax credits, rebates, and favorable financing can cover roughly 30% of installation costs for homeowners, strengthening ROI and reducing upfront risk. The Federal Residential Renewable Energy Tax Credit remains a pivotal lever for homeowners investing in geothermal, with policy windows influencing timing and uptake. Geography matters: areas with extreme climates benefit from stable ground temperatures, enabling consistent heating and cooling and improving economics over time. The Energy Information Administration projects growing adoption as technology costs decline and awareness grows. In the commercial sector, scale and reliability are key. Large facilities such as warehouses and office towers gain from lower operating costs and predictable performance, particularly during peak demand. Regulatory pressures to cut greenhouse gas emissions and potential carbon pricing further tilt decision-making toward renewables. LEED and other green-building standards add value through higher occupancy and premium rental rates. Across both sectors, long-term cost savings, resilience, and climate alignment sustain growth. Market forecasts indicate installations will rise globally as policy support, technology, and financing converge to broaden viability for both homes and businesses. 💡 Growth Insight: Residential demand is fuelled by energy efficiency and incentives; commercial demand hinges on lifecycle cost savings and LEED certification, shaping distinct market strategies. [Data] 45% more efficient 🛡️ Request Quote & Sample Report How do regulatory policies and energy efficiency incentives vary across regions to influence market adoption? Regulatory and incentive landscapes shape GCLHP adoption through policy design, funding levels, and enforcement. Europe advances decarbonization via the EU Green Deal, accelerating investment in renewable heating and geothermal uptake. Germany and Sweden offer subsidies and tax relief for residential installations; Germany’s policy apparatus reportedly allocates around €2 billion annually for energy-efficient initiatives, fostering low-emission options. North America presents a split picture: the United States relies largely on state programs—California’s incentives under Savings By Design promote renewable integration in public facilities—while some states with weaker programs exhibit slower growth. Asia-Pacific shows varied policy maturity; Japan combines regulation with affordable financing and low-interest loans to pivot from fossil fuels, whereas India faces policy gaps that hamper rapid deployment. Urban contexts attract front-loaded incentives to address dense housing, while rural regions contend with higher drilling costs and longer lead times. EIAs and environmental assessments are increasingly mandated, building public trust and aligning projects with sustainability goals. LEED and other green-building standards reinforce demand in commercial sectors by rewarding geothermal integration. Across regions, well-targeted incentives and clear regulatory paths accelerate adoption; misaligned or uncertain policies can dampen demand. In the near term, North America and Europe show faster uptake, with Asia-Pacific offering longer-term growth as markets mature and financing matures. 📊 Strategic Fact: Policy alignment and accessible incentives drive regional adoption; mixed regulatory landscapes create uneven global trajectories. 🛡️ Request Quote & Sample Report
+
+#### Source 0020: Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives
+- Source ID: 4da7646ec655
+- Turn: 2
+- Query: "Geothermal closed-loop systems" limitations criticism
+- Provider: ddgs
+- Search rank: 4
+- Domain: shelterislandreporter.archive.timesreview.com
+- URL: https://shelterislandreporter.archive.timesreview.com/2010/05/why-just-saying-no-to-geothermal-systems-is-a-bad-idea
+- Search snippet: There appears to be no justification for banningclosed-loopsystems.Geothermalsystems make use of the heat stored in the ground due to solar radiation. The heat is stored in the water in the ground and in the soil.
+- Page word count estimate: 1074
+- Relevance score: 20.67
+- Key excerpt lines:
+  - Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives
+  - The Suffolk Times
+  - Return to Homepage
+  - Search our Archives
+  - Search the archives
+  - Youâre viewing an archive piece
+  - 05.20.2010
+  - Columns
+  - Why âJust Saying Noâ to geothermal systems is a bad idea
+  - By
+  - Times Review
+  - It has been one year since the Town Board adopted Local Law No. 2-2009 prohibiting geothermal heating and cooling systems. In that time I have attended, as a practicing architect, several seminars concerning sustainab...
+- Extended extract lines:
+  - Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives The Suffolk Times Return to Homepage Search our Archives Search the archives Youâre viewing an archive piece 05.20.2010 Columns Why âJust Saying Noâ to geothermal systems is a bad idea By Times Review It has been one year since the Town Board adopted Local Law No. 2-2009 prohibiting geothermal heating and cooling systems. In that time I have attended, as a practicing architect, several seminars concerning sustainable building design as part of my continuing professional education. Geothermal systems are now part of the subject matter at these events as it is an important new technology that architects should be familiar with. It comes as a shock to the participants of these seminars that the Town of Shelter Island has already banned all geothermal systems. In reviewing the process the town followed in adopting the new law I believe a serious error was made in prohibiting all types of geothermal systems, both the type that utilize water from wells drilled into the aquifer and those that do not. As a result of this new law, Shelter Island residents are unable to benefit from the substantial cost savings of using geothermal energy in heating and cooling their homes and businesses, in using it for domestic hot water purposes and for reducing air pollution on the Island by eliminating fossil-fuel heating systems. They are also prevented from enjoying the benefits of interest rate reductions on loans, technical assistance, grants and funding for geothermal systems now available from LIPA and other New York State sources. In describing the justification for the new law, the town determined that âGeothermal wells have two basic designs: open-loop and closed-loop systems.â This is not accurate. Geothermal systems have two basic designs but only the open-loop type involves a well. The closed-loop design does not involve a well or water from a well. The town further defines the closed-loop system, more accurately, as involving pipes placed in a trench forming a closed loop circulating a fluid into and out of a heat exchange system in the dwelling. It states âThe system functions in the same manner as the open-looped system, except that there is no pumping of groundwater.â This is true as far as energy usage is concerned but not in terms of their effect on the aquifer. The geothermal system that utilizes pipes placed in a trench 4 to 6 feet below the surface (i.e., closed-loop) requires no well or well water and presents no hazard to the water supply of Shelter Island. The board decided that both types of geothermal systems (open, which threatens the water supply, and closed, which presents no threat to the water supply) should be prohibited. There is no hint as to why both systems were dealt with identically. There appears to be no justification for banning closed-loop systems. Geothermal systems make use of the heat stored in the ground due to solar radiation. The heat is stored in the water in the ground and in the soil. Seasonal changes in the weather have little or no effect on the heat stored in the ground. It remains at an almost constant temperature. On Shelter Island this temperature is 55 degrees F. During the heating season this heat can be extracted to help provide space heating. The actual technique employed (heat pump) is not important to the concept. What is important is that no fossil fuel is used in the heating system. Electricity powers the heat pump and the energy needed to heat the house is significantly less than would be necessary if the energy source were a conventional oil or gas-fired boiler or furnace. Heating efficiencies 50 to 70 percent higher than other heating systems can be achieved. During the summer, the geothermal system can be used in reverse fashion to make use of the 55-degree ground temperature to help cool the house. The same heat pump is employed to extract the heat from the air circulating in the house and deliver it back into the ground, reducing the electrical energy required for air conditioning. No noisy outdoor compressor is required. Cooling efficiencies 20 to 40 percent higher than conventional air conditioning systems can be achieved. Whether extracting heat from the ground or returning heat to the ground, the closed-loop geothermal system has no adverse effect on the ground or the groundwater. The fluid circulated through the closed-loop can be a biodegradable anti-freeze fluid that is safe to the environment and to personnel engaged in servicing the equipment. It bears no similarity to the fluid used in automobile radiators. Standards governing this fluid and its use have been established (Closed-Loop/Geothermal Heat Pump Systems, Design and Installation Standards, 2007 Edition, International Ground Source Heat Pump Association). It is safe and does not represent a threat to the water supply of Shelter Island. The law states under findings: âA consultant-supported Town Working Group has studied geothermal closed-loop systems and has determined that these systems threaten the aquifer by piercing deep clay units (which help control saltwater intrusion and the draining of the freshwater aquifer) and have the potential to leak contaminants into the general freshwater supply.â This finding, as it pertains to closed-loop piping in a trench, is not true. The clay layer is not disturbed when closed-loop piping is placed in shallow (4- to 6-foot deep) trenches. Nor does the fluid circulating in the piping present a measurable threat of contaminating the soil as it is a relatively harmless substance. The board should reconsider this law as it pertains to closed-loop systems by consulting qualified experts specifically about the environmental threat, or lack thereof, posed by their use. I believe it will find sufficient reason to amend the law and thereby allow Shelter Islanders to make use of this sustainable technology to reduce harmful CO2 emissions and reduce their energy costs significantly, without risk to the aquifer. Please note that I am not a heating or ventilating contractor or in any way engaged in this industry. I am an independent architect who owns property on Shelter Island and I take seriously the need to design sustainable, efficient and intelligent buildings. Share on Facebook Facebook Created with Sketch. Share on Twitter Twitter Created with Sketch. Share via email Mail Created with Sketch. Newsletter Sign Up Email Address The premier news outlet covering Shelter Island. Subscribe Easter weekend gathering at Shelter Island History Museum
+
+#### Source 0021: American GeoPower – Advanced Geothermal Technologies
+- Source ID: 12ae917f9f7a
+- Turn: 2
+- Query: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" overview?
+- Provider: ddgs
+- Search rank: 9
+- Domain: www.americangeopower.com
+- URL: https://www.americangeopower.com
+- Search snippet: Advantages over othergeothermaltechnologies :Closed-loopsystem abates the release of harmful gases and fluids to the environment. The amount of water and energy consumption needed to drive the processes is greatly reduced.
+- Page word count estimate: 507
+- Relevance score: 18.00
+- Key excerpt lines:
+  - American GeoPower – Advanced Geothermal Technologies
+  - Skip to content
+  - About
+  - Contact
+  - Home
+  - Patents
+  - Team
+  - Technology
+  - About
+  - Contact
+  - Home
+  - Patents
+- Extended extract lines:
+  - American GeoPower – Advanced Geothermal Technologies Skip to content About Contact Home Patents Team Technology About Contact Home Patents Team Technology Take Action Take Action Home American GeoPower ”The Future Is Under Our Feet” Welcome To Advanced Geothermal Energy Technologies American GeoPower (AGP) is the original granted patent holder and pioneer of advanced closed-loop geothermal technologies worldwide. AGP was first to define and introduce key terms now central to the industry, including “Geo Salt,” A.G.C.L.S. (Advanced Geothermal Closed Loop Systems), and A.G.C.L.M.S.S. (Advanced Geothermal Closed Loop Molten Salt Systems). These groundbreaking concepts continue to lead the evolution of ultra-high temperature geothermal energy. AGP is The Amazon of Renewable Energy Solutions. Not because we imitate anyone—but because we offer vast, scalable, and interconnected solutions to the world’s most urgent energy and climate challenges. And if anyone asks, we’re talking about the river—deep, diverse, and powerful. What sets AGP apart is our entire suite of solutions that integrate into one system—a complete, ready-to-deploy platform for sustainable energy transformation. From geothermal heat harvesting to molten salt thermal storage, our technologies are designed to work together to help put the greenhouse emissions genie back in its bottle—and keep it there for good. Contact AGP at info@americangeopower.com to help Planet Earth Today. American GeoPower (AGP) develops innovative and practical solutions to effectively transform how geothermal energy is accessed, harvested, stored, and distributed. A key component of our geothermal energy technology is using molten salts in a closed-loop system that is capable of extracting thermal energy from hot briny fluids and ultra-high temperature sources such as hot rock, and even magma. These are the sources that will unlock the true potential of geothermal power. We believe that our granted patent systems represent the best means of capitalizing on ultra-high temperature geothermal energy available today. Our technologies also offer an effective means to enhance conventional geothermal systems. AGP’s Concentric Molten Salt Closed Loop System Animation Approximately 1:30 Seconds. Mission Statemen t Enable Geothermal Power To Become The World’s Leading Renewable Energy Technology ADVANTAGES OVER OTHER GEOTHERMAL TECHNOLOGIES : Closed-loop system abates the release of harmful gases and fluids to the environment. The amount of water and energy consumption needed to drive the processes is greatly reduced. Operating costs are reduced by cutting the amount of maintenance compared to conventional geothermal systems. Improved ability to store and distribute thermal energy. Greatly reduced environmental impact compared to other enhanced geothermal energy extraction systems. Countries around the world are urgently searching for faster, more effective ways to meet their growing energy demands while simultaneously slashing greenhouse gas emissions. There is a pressing global need to rapidly expand renewable energy production, improve energy storage and transmission, increase access to clean water, accelerate the development of green hydrogen, and decarbonize nearly every aspect of modern life. These challenges must be tackled simultaneously, and at scale. At the same time, it is critical to protect the health of global economies, safeguard existing jobs, and create meaningful new employment opportunities. The energy transition must support both environmental goals and economic resilience.
+
+#### Source 0022: Geothermal Loop Leak Verification
+- Source ID: c7d8c89960f6
+- Turn: 2
+- Query: "Geothermal closed-loop systems" safety regulation
+- Provider: ddgs
+- Search rank: 5
+- Domain: edenenergy.com
+- URL: https://edenenergy.com/blog/loop-leak-verification
+- Search snippet: Thegeothermalgroundloopneeds to be reflushed if air is present. If the pump is making noise, this is another sign of low pressure or air in the system.An outside leak could not be distinguished from an inside leak since the flow center joins both inside and outsidesystems.
+- Page word count estimate: 530
+- Relevance score: 16.33
+- Key excerpt lines:
+  - Geothermal Loop Leak Verification
+  - Home
+  - Products
+  - WaterFurnace Geothermal
+  - REHAU Radiant
+  - Jaga Low Temp Radiators
+  - vanEE Air Exhangers
+  - vanEE Service Parts
+  - IBC Boilers
+  - Caleffi Hydronics
+  - Circulating Pumps
+  - Press Fittings
+- Extended extract lines:
+  - Geothermal Loop Leak Verification Home Products WaterFurnace Geothermal REHAU Radiant Jaga Low Temp Radiators vanEE Air Exhangers vanEE Service Parts IBC Boilers Caleffi Hydronics Circulating Pumps Press Fittings ecobee Smart Thermostats HBX Controls Tekmar Controls News / Blog Free Tools Geothermal Troubleshooting App Radiant Material Estimator JAGA Product Selection Tool vanEE HRV Sizing / Selection Tool ( Coming Soon ) Contact Us! About Us! Geothermal Loop Leak Verification Home Main Blog Geothermal Loop Leak Verification The purpose of this Service Advisory is to identify and verify leaks in geothermal closed loop systems. The procedures in this Service Advisory are only guidelines to help assist in troubleshooting for loop leaks. Any questions regarding loop leak testing should be directed to our technical services team at 1-800-665-3336. INITIAL SERVICE CALL FOR LOOP PRESSURE PROBLEM Insert the pressure gauge into the "water in" P/T port ( pressure / temperature ) and the repressurizing device (see drawing at end of this article ) into the "water out" P/T port. Begin pressurizing the loop by adding water. Continue to watch the pressure gauge; if it takes a while for the gauge to move, this is a good indication that air is in the loop, but does not necessarily mean there's a leak (remember, air can be compressed, not water). Once pressure is back on the system, another sign that there is air in the loop is fluctuation in the loop pressure which is indicated by the bouncing gauge needle. The geothermal ground loop needs to be reflushed if air is present. If the pump is making noise, this is another sign of low pressure or air in the system. The pump should quiet down after repressurizing, *NOTE: Low loop pressure may be the result of pipe expansion do not immediately assume you have a leak in the loop! CHECKING INSIDE PIPING AND FLOW CENTER There are various methods for determining if there is a leak in the loop piping system. Do not pressure test the inside piping through the flow center. An outside leak could not be distinguished from an inside leak since the flow center joins both inside and outside systems. To isolate the inside piping from the outside portion (DO NOT remove white flushing plugs): Turn the 3-way valves on the flow center so that the outside loop is closed off. This will make it possible to pressure test the flow center and the piping to the unit(s). PRESSURE TESTING 100 psi is more than enough pressure when pressure testing a closed loop . WaterFurnace recommends a 100 psi gauge, 2-1/2" or 3" in diameter in 1 psi increments. Due to expansion of polyethylene pipe, the pressure on the system will drop about 10% on the initial pressurization and about 5% on the second. CHECKING OUTSIDE PIPING To test for outside leaks, cut the inside piping off at the supply and return lines and pressure test at the wall penetration before digging up the outside portion. Once it has been determined that the leak is outside, the manifold should be excavated to expose all the loop lines. After exposing the manifold, put pressure back on the loop and check the manifold for leaks.
+
+#### Source 0023: Geoexchange, Geothermal, Project Management, Vancouver, BC, Canada, United States, Geoexchange Utility Geothermal Lease
+- Source ID: 30ce8e87a0f4
+- Turn: 2
+- Query: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" overview?
+- Provider: ddgs
+- Search rank: 10
+- Domain: magnumpm.com
+- URL: https://magnumpm.com/education_center.html
+- Search snippet: GeothermalCLOSEDLOOPSYSTEMSClosedloopsystemsconsist of continuous underground piping where both ends are connected to the indoor heat pump, therefore creating a continuous, sealed,closedloop.
+- Page word count estimate: 536
+- Relevance score: 15.67
+- Key excerpt lines:
+  - Geoexchange, Geothermal, Project Management, Vancouver, BC, Canada, United States, Geoexchange Utility Geothermal Lease
+  - Magnum Project Management
+  - 1532 Sunrise Drive
+  - Parksville, BC, Canada
+  - V9P 1X7
+  - Toll Free :
+  - 1-866-MAGNUMU
+  - Tel :
+  - +1 (250) 752 3699
+  - Fax :
+  - +1 (250) 752 0267
+  - Email us!
+- Extended extract lines:
+  - Geoexchange, Geothermal, Project Management, Vancouver, BC, Canada, United States, Geoexchange Utility Geothermal Lease Magnum Project Management 1532 Sunrise Drive Parksville, BC, Canada V9P 1X7 Toll Free : 1-866-MAGNUMU Tel : +1 (250) 752 3699 Fax : +1 (250) 752 0267 Email us! We are keeping an eye on our planet! What is a Geothermal System? Click here to view a geothermal movie April 2007 School Geoexchange Geothermal Article Manitoba Warms up to Geothermal download and have a look Sound Geoexchange Geothermal Investment with a Magnum Geoexchange System GeoExchange is becoming the system of choice in many parts of the United States and Canada as consumers learn more about its aesthetic advantages and long-term value, and as it becomes more widely available. Use Magnum DIY Geothermal Geoexchange expertise to DIY do it your self Geoexchange,1.866-magnum-u, call, 1.866.624.6868. or geoexchange@magnumpm.com Geothermal is no longer just for the affluent, a reputation it once held because typical early buyers were owners of upscale homes. They wanted the quiet comfort Geothermal systems provide, and they were more than willing--and could afford--to pay the cost premium associated with early systems. This is because the extraordinarily low operating costs of GeoExchange tetco Geoethermal systems more than make up for any higher installation costs within a few years. According to the U.S. Environmental Protection Agency, Geothermal systems save homeowners 60 percent in heating costs, and 50 percent in cooling costs, compared to conventional systems. GeoExchange systems also save money in other ways. Geothermal is highly reliable, require little maintenance, and are built to last for decades. Geothermal adds considerably to the value of homes.Call Magnum 1.866.624.6868 for geoexchange geoexchange finance consulting.geoexchange@magnumpm.com Today, homeowners in all income brackets can take advantage of the benefits of Geothermal heating and cooling. Initial costs have declined substantially as many more builders and heating and cooling contractors nationwide make Geothermal systems available, and as innovative techniques enable the loops to be installed more quickly (often in one day) and for lower cost. Magnum Geoexchange use essential innovations to ensure a complete geoexchange installation. Many financial institutions also now allow homebuyers to qualify for larger mortgages if they purchase a house that utilizes a GeoExchange system. The reduction in monthly energy bills more than offsets the slightly higher mortgage payment. With such mortgages, homeowners with Geothermal systems can begin saving money from day one, then go on saving year after year!Magnum will help you with this task.Use Magnum DIY Geothermal Geoexchange expertise to DIY do it your self Geoexchange,1.866-magnum-u, call, 1.866.624.6868. or geoexchange@magnumpm.com Today, the major barrier to wider use of this marvelous technology is the fact that many consumers simply are not aware it is there. GeoExchange Geothermal is a smart investment for consumers who want a system that provides a high level of comfort and low monthly energy bills for as long as they own their homes. Need a Geoexchange Geothermal Lease or Geo exchange Geothermal Leases, a Geoexchange Geothermal system Leasing for a Commercial Building or Geoexchange Geothermal Lease for a Subdivision, apartment or multi-residential complex? email Magnum Project Management IGSHPA Certified Installers lease_geoexchange@magnumpm.com Geothermal Education Center Current Article : Learn the Lingo ! Get educated today...what is a Heat Pumps? Geoexchange? Geothermal? Ground source heat pumps?
+
+## Turn 3
+
+### Focus
+limitations, risks, and unresolved debates
+
+### Queries
+- "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" overview?
+- "Geothermal closed-loop systems" official documentation
+- "Geothermal closed-loop systems" academic review
+- "Geothermal closed-loop systems" site:gov
+- "Geothermal closed-loop systems" site:edu
+- "Geothermal closed-loop systems" market analysis
+- "Geothermal closed-loop systems" limitations criticism
+- "Geothermal closed-loop systems" timeline history
+- "Geothermal closed-loop systems" safety regulation
+- "Geothermal closed-loop systems" benchmark data
+
+### Turn Findings
+- Thermal and mechanical energy performance analysis of closed-loop systems in hot-dry-rock and hot-wet-rock reservoirs - Penn State: Thermal and mechanical energy performance analysis of closed-loop systems in hot-dry-rock and hot-wet-rock reservoirs
+- Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives: Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives
+
+### Contradictions
+- No explicit contradictions extracted in this turn.
+
+### Open Questions
+- How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" overview??
+- Which metrics or dates recur across high-relevance sources for turn 3?
+- Which criticism appears consistently versus only in opinion pieces?
+
+### Source Catalog
+#### Source 0024: Thermal and mechanical energy performance analysis of closed-loop systems in hot-dry-rock and hot-wet-rock reservoirs - Penn State
+- Source ID: 6cfa99bdb32d
+- Turn: 3
+- Query: "Geothermal closed-loop systems" site:edu
+- Provider: ddgs
+- Search rank: 3
+- Domain: pure.psu.edu
+- URL: https://pure.psu.edu/en/publications/thermal-and-mechanical-energy-performance-analysis-of-closed-loop
+- Search snippet: To understand the potential and limitations for recovering thermal and mechanical energy fromclosed-loop geothermal systemsa collaborative study is underway that will investigate an array of system configurations, working fluids,geothermalreservoir characteristics, operational periods, and heat transfer enhancements.Closed-loop geothermal systemsare distinguished from hydrothermal or ...As a renewable source, low-enthalpygeothermalenergy is becoming more relevant in heating and cooling buildings, by using an adapted heat pump to exchange thermal energy with the ground. Verticalclosed-loop geothermal systemsexchange heat with the ground through aclosedburied pipe system, sealed with a grouting material that ensures the stability and thermal transmission of the borehole ...ABSTRACT We investigated the impact of disc-shaped and linear thermal enhancements on performance ofclosed-loop geothermal systemsusing steady-state and transient COMSOL numerical simulations. Thermal enhancements refer to thermally conductive material introduced in the rocks surrounding a wellbore to compensate for the relatively low rock thermal conductivity and increase heat extraction ...•Geothermalheating use doubles in 2050under a realistic government Stated Policies Scenario (STEPS), with China as the biggest source of growth. Yet, it remains only 0.5% of total heat consumption globally. • From the use-case perspective, nearly 90% ofgeothermalheating consumption comes from residential and commercial buildings, mainly through district heating networks, including ...ABSTRACT Deepclosed-loopU-shaped heat exchanger with a long horizontal extension (up to 5 km) is a new approach to harvest heat more sustainably. This system comprises two deep vertical boreholes which are connected using a long horizontal section. Such aclosed-loopsystem avoids subsurface water contamination, greenhouse gas emission, seismic events, and scaling problems. Furthermore, it ...What is the closed loop geothermal working group?The Closed Loop Geothermal Working Group isa collaborative study, funded by the United States Department of Energy (DOE), Geothermal Technologies Office (GTO) to understand the potential and limitations of producing thermal and mechanical energy from geothermal reservoirs closed-loop systems (i.e., marginal working fluid losses).What is an open-loop geothermal system?If there is an abundant source of relatively clean water, an open-loop system can be acost-effective way to harness geothermal energy. Regardless of the type, the ground loop is the core of geothermal systems. Geothermal systems use a series of underground pipes, called loops, to move heat between a building and the earth.What is a ground loop in a geothermal system?Regardless of the type, the ground loop isthe core of geothermal systems. Geothermal systems use a series of underground pipes, called loops, to move heat between a building and the earth. These loops can be buried horizontally acrossHow do closed-loop geothermal systems work in hot-dry-rock reservoirs?SYSTEM ENHANCEMENTS Closed-loop geothermal systems in hot-dry-rock (HDR) reservoirs are solely dependent onthermal conductionto transfer heat from the rock to the working fluid.
+- Page word count estimate: 424
+- Relevance score: 21.00
+- Key excerpt lines:
+  - Thermal and mechanical energy performance analysis of closed-loop systems in hot-dry-rock and hot-wet-rock reservoirs
+  - - Penn State
+  - Skip to main navigation
+  - Skip to search
+  - Skip to main content
+  - Penn State Home
+  - Help & FAQ
+  - Link opens in a new tab
+  - Search content at Penn State
+  - Home
+  - Researchers
+  - Research output
+- Extended extract lines:
+  - Thermal and mechanical energy performance analysis of closed-loop systems in hot-dry-rock and hot-wet-rock reservoirs - Penn State Skip to main navigation Skip to search Skip to main content Penn State Home Help & FAQ Link opens in a new tab Search content at Penn State Home Researchers Research output Research units Equipment Grants & Projects Prizes Activities Thermal and mechanical energy performance analysis of closed-loop systems in hot-dry-rock and hot-wet-rock reservoirs Closed Loop Geothermal Working Group Mechanical Engineering Research output : Chapter in Book/Report/Conference proceeding › Conference contribution 3 Link opens in a new tab Scopus citations Overview Fingerprint Abstract To understand the potential and limitations for recovering thermal and mechanical energy from closed-loop geothermal systems a collaborative study is underway that will investigate an array of system configurations, working fluids, geothermal reservoir characteristics, operational periods, and heat transfer enhancements. Closed-loop geothermal systems are distinguished from hydrothermal or enhanced geothermal systems (EGS) in that the working fluid only circulates through drilled boreholes. Principal objectives of this study are to determine upper limits for thermal and mechanical energy recovery and optimal operational and configuration parameters for each scenario. Teams of scientists and engineers are applying a suite of numerical simulation and analytical tools to model the heat recovery from closed-loop geothermal systems, and then optimizing operational and configuration parameters to maximize the thermal and mechanical energy recovery. Results from the suite of numerical simulators and analytical tools, such as outlet and inlet states and temperature profiles in the geothermal reservoir over time are intercompared to increase confidence in the analysis. This paper documents the study findings for closed-loop systems in hot-dry-rock and hot-wet-rock reservoirs, where water is the working fluid. The characteristics of the hot-dry-rock reservoir were based on the U.S. Department of Energy's Utah Frontier Observatory for Research in Geothermal Energy (FORGE) site, near Milford Utah. Two objective functions are defined to optimize the operational and configuration parameters of the system, one each for the recovery of mechanical and thermal energy over the period of operation. For both objective functions, a surface plant thermal to mechanical energy conversion factor and an energy drilling cost is required. In keeping with the study objectives the surface plant conversion factor is determined from a second-law of thermodynamics analysis of a generic binary plant, and drilling costs are based on those from the Utah FORGE site and current national electrical costs. Original language English (US) Title of host publication Using the Earth to Save the Earth - 2021 Geothermal Rising Conference, GRC 2021 Publisher Geothermal Resources Council Pages
+
+#### Source 0025: Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives
+- Source ID: 4da7646ec655
+- Turn: 3
+- Query: "Geothermal closed-loop systems" academic review
+- Provider: ddgs
+- Search rank: 6
+- Domain: shelterislandreporter.archive.timesreview.com
+- URL: https://shelterislandreporter.archive.timesreview.com/2010/05/why-just-saying-no-to-geothermal-systems-is-a-bad-idea
+- Search snippet: There appears to be no justification for banningclosed-loopsystems.Geothermalsystems make use of the heat stored in the ground due to solar radiation. The heat is stored in the water in the ground and in the soil.
+- Page word count estimate: 1074
+- Relevance score: 20.00
+- Key excerpt lines:
+  - Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives
+  - The Suffolk Times
+  - Return to Homepage
+  - Search our Archives
+  - Search the archives
+  - Youâre viewing an archive piece
+  - 05.20.2010
+  - Columns
+  - Why âJust Saying Noâ to geothermal systems is a bad idea
+  - By
+  - Times Review
+  - It has been one year since the Town Board adopted Local Law No. 2-2009 prohibiting geothermal heating and cooling systems. In that time I have attended, as a practicing architect, several seminars concerning sustainab...
+- Extended extract lines:
+  - Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives The Suffolk Times Return to Homepage Search our Archives Search the archives Youâre viewing an archive piece 05.20.2010 Columns Why âJust Saying Noâ to geothermal systems is a bad idea By Times Review It has been one year since the Town Board adopted Local Law No. 2-2009 prohibiting geothermal heating and cooling systems. In that time I have attended, as a practicing architect, several seminars concerning sustainable building design as part of my continuing professional education. Geothermal systems are now part of the subject matter at these events as it is an important new technology that architects should be familiar with. It comes as a shock to the participants of these seminars that the Town of Shelter Island has already banned all geothermal systems. In reviewing the process the town followed in adopting the new law I believe a serious error was made in prohibiting all types of geothermal systems, both the type that utilize water from wells drilled into the aquifer and those that do not. As a result of this new law, Shelter Island residents are unable to benefit from the substantial cost savings of using geothermal energy in heating and cooling their homes and businesses, in using it for domestic hot water purposes and for reducing air pollution on the Island by eliminating fossil-fuel heating systems. They are also prevented from enjoying the benefits of interest rate reductions on loans, technical assistance, grants and funding for geothermal systems now available from LIPA and other New York State sources. In describing the justification for the new law, the town determined that âGeothermal wells have two basic designs: open-loop and closed-loop systems.â This is not accurate. Geothermal systems have two basic designs but only the open-loop type involves a well. The closed-loop design does not involve a well or water from a well. The town further defines the closed-loop system, more accurately, as involving pipes placed in a trench forming a closed loop circulating a fluid into and out of a heat exchange system in the dwelling. It states âThe system functions in the same manner as the open-looped system, except that there is no pumping of groundwater.â This is true as far as energy usage is concerned but not in terms of their effect on the aquifer. The geothermal system that utilizes pipes placed in a trench 4 to 6 feet below the surface (i.e., closed-loop) requires no well or well water and presents no hazard to the water supply of Shelter Island. The board decided that both types of geothermal systems (open, which threatens the water supply, and closed, which presents no threat to the water supply) should be prohibited. There is no hint as to why both systems were dealt with identically. There appears to be no justification for banning closed-loop systems. Geothermal systems make use of the heat stored in the ground due to solar radiation. The heat is stored in the water in the ground and in the soil. Seasonal changes in the weather have little or no effect on the heat stored in the ground. It remains at an almost constant temperature. On Shelter Island this temperature is 55 degrees F. During the heating season this heat can be extracted to help provide space heating. The actual technique employed (heat pump) is not important to the concept. What is important is that no fossil fuel is used in the heating system. Electricity powers the heat pump and the energy needed to heat the house is significantly less than would be necessary if the energy source were a conventional oil or gas-fired boiler or furnace. Heating efficiencies 50 to 70 percent higher than other heating systems can be achieved. During the summer, the geothermal system can be used in reverse fashion to make use of the 55-degree ground temperature to help cool the house. The same heat pump is employed to extract the heat from the air circulating in the house and deliver it back into the ground, reducing the electrical energy required for air conditioning. No noisy outdoor compressor is required. Cooling efficiencies 20 to 40 percent higher than conventional air conditioning systems can be achieved. Whether extracting heat from the ground or returning heat to the ground, the closed-loop geothermal system has no adverse effect on the ground or the groundwater. The fluid circulated through the closed-loop can be a biodegradable anti-freeze fluid that is safe to the environment and to personnel engaged in servicing the equipment. It bears no similarity to the fluid used in automobile radiators. Standards governing this fluid and its use have been established (Closed-Loop/Geothermal Heat Pump Systems, Design and Installation Standards, 2007 Edition, International Ground Source Heat Pump Association). It is safe and does not represent a threat to the water supply of Shelter Island. The law states under findings: âA consultant-supported Town Working Group has studied geothermal closed-loop systems and has determined that these systems threaten the aquifer by piercing deep clay units (which help control saltwater intrusion and the draining of the freshwater aquifer) and have the potential to leak contaminants into the general freshwater supply.â This finding, as it pertains to closed-loop piping in a trench, is not true. The clay layer is not disturbed when closed-loop piping is placed in shallow (4- to 6-foot deep) trenches. Nor does the fluid circulating in the piping present a measurable threat of contaminating the soil as it is a relatively harmless substance. The board should reconsider this law as it pertains to closed-loop systems by consulting qualified experts specifically about the environmental threat, or lack thereof, posed by their use. I believe it will find sufficient reason to amend the law and thereby allow Shelter Islanders to make use of this sustainable technology to reduce harmful CO2 emissions and reduce their energy costs significantly, without risk to the aquifer. Please note that I am not a heating or ventilating contractor or in any way engaged in this industry. I am an independent architect who owns property on Shelter Island and I take seriously the need to design sustainable, efficient and intelligent buildings. Share on Facebook Facebook Created with Sketch. Share on Twitter Twitter Created with Sketch. Share via email Mail Created with Sketch. Newsletter Sign Up Email Address The premier news outlet covering Shelter Island. Subscribe Easter weekend gathering at Shelter Island History Museum
+
+## Turn 4
+
+### Focus
+limitations, risks, and unresolved debates
+
+### Queries
+- "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" overview??
+- "Geothermal closed-loop systems" official documentation
+- "Geothermal closed-loop systems" academic review
+- "Geothermal closed-loop systems" site:gov
+- "Geothermal closed-loop systems" site:edu
+- "Geothermal closed-loop systems" market analysis
+- "Geothermal closed-loop systems" limitations criticism
+- "Geothermal closed-loop systems" timeline history
+- "Geothermal closed-loop systems" safety regulation
+- "Geothermal closed-loop systems" benchmark data
+
+### Turn Findings
+- Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives: Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives
+
+### Contradictions
+- No explicit contradictions extracted in this turn.
+
+### Open Questions
+- How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" overview???
+- Which metrics or dates recur across high-relevance sources for turn 4?
+- Which criticism appears consistently versus only in opinion pieces?
+
+### Source Catalog
+#### Source 0026: Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives
+- Source ID: 4da7646ec655
+- Turn: 4
+- Query: "Geothermal closed-loop systems" academic review
+- Provider: ddgs
+- Search rank: 7
+- Domain: shelterislandreporter.archive.timesreview.com
+- URL: https://shelterislandreporter.archive.timesreview.com/2010/05/why-just-saying-no-to-geothermal-systems-is-a-bad-idea
+- Search snippet: There appears to be no justification for banningclosed-loopsystems.Geothermalsystems make use of the heat stored in the ground due to solar radiation. The heat is stored in the water in the ground and in the soil.
+- Page word count estimate: 1074
+- Relevance score: 19.67
+- Key excerpt lines:
+  - Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives
+  - The Suffolk Times
+  - Return to Homepage
+  - Search our Archives
+  - Search the archives
+  - Youâre viewing an archive piece
+  - 05.20.2010
+  - Columns
+  - Why âJust Saying Noâ to geothermal systems is a bad idea
+  - By
+  - Times Review
+  - It has been one year since the Town Board adopted Local Law No. 2-2009 prohibiting geothermal heating and cooling systems. In that time I have attended, as a practicing architect, several seminars concerning sustainab...
+- Extended extract lines:
+  - Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives The Suffolk Times Return to Homepage Search our Archives Search the archives Youâre viewing an archive piece 05.20.2010 Columns Why âJust Saying Noâ to geothermal systems is a bad idea By Times Review It has been one year since the Town Board adopted Local Law No. 2-2009 prohibiting geothermal heating and cooling systems. In that time I have attended, as a practicing architect, several seminars concerning sustainable building design as part of my continuing professional education. Geothermal systems are now part of the subject matter at these events as it is an important new technology that architects should be familiar with. It comes as a shock to the participants of these seminars that the Town of Shelter Island has already banned all geothermal systems. In reviewing the process the town followed in adopting the new law I believe a serious error was made in prohibiting all types of geothermal systems, both the type that utilize water from wells drilled into the aquifer and those that do not. As a result of this new law, Shelter Island residents are unable to benefit from the substantial cost savings of using geothermal energy in heating and cooling their homes and businesses, in using it for domestic hot water purposes and for reducing air pollution on the Island by eliminating fossil-fuel heating systems. They are also prevented from enjoying the benefits of interest rate reductions on loans, technical assistance, grants and funding for geothermal systems now available from LIPA and other New York State sources. In describing the justification for the new law, the town determined that âGeothermal wells have two basic designs: open-loop and closed-loop systems.â This is not accurate. Geothermal systems have two basic designs but only the open-loop type involves a well. The closed-loop design does not involve a well or water from a well. The town further defines the closed-loop system, more accurately, as involving pipes placed in a trench forming a closed loop circulating a fluid into and out of a heat exchange system in the dwelling. It states âThe system functions in the same manner as the open-looped system, except that there is no pumping of groundwater.â This is true as far as energy usage is concerned but not in terms of their effect on the aquifer. The geothermal system that utilizes pipes placed in a trench 4 to 6 feet below the surface (i.e., closed-loop) requires no well or well water and presents no hazard to the water supply of Shelter Island. The board decided that both types of geothermal systems (open, which threatens the water supply, and closed, which presents no threat to the water supply) should be prohibited. There is no hint as to why both systems were dealt with identically. There appears to be no justification for banning closed-loop systems. Geothermal systems make use of the heat stored in the ground due to solar radiation. The heat is stored in the water in the ground and in the soil. Seasonal changes in the weather have little or no effect on the heat stored in the ground. It remains at an almost constant temperature. On Shelter Island this temperature is 55 degrees F. During the heating season this heat can be extracted to help provide space heating. The actual technique employed (heat pump) is not important to the concept. What is important is that no fossil fuel is used in the heating system. Electricity powers the heat pump and the energy needed to heat the house is significantly less than would be necessary if the energy source were a conventional oil or gas-fired boiler or furnace. Heating efficiencies 50 to 70 percent higher than other heating systems can be achieved. During the summer, the geothermal system can be used in reverse fashion to make use of the 55-degree ground temperature to help cool the house. The same heat pump is employed to extract the heat from the air circulating in the house and deliver it back into the ground, reducing the electrical energy required for air conditioning. No noisy outdoor compressor is required. Cooling efficiencies 20 to 40 percent higher than conventional air conditioning systems can be achieved. Whether extracting heat from the ground or returning heat to the ground, the closed-loop geothermal system has no adverse effect on the ground or the groundwater. The fluid circulated through the closed-loop can be a biodegradable anti-freeze fluid that is safe to the environment and to personnel engaged in servicing the equipment. It bears no similarity to the fluid used in automobile radiators. Standards governing this fluid and its use have been established (Closed-Loop/Geothermal Heat Pump Systems, Design and Installation Standards, 2007 Edition, International Ground Source Heat Pump Association). It is safe and does not represent a threat to the water supply of Shelter Island. The law states under findings: âA consultant-supported Town Working Group has studied geothermal closed-loop systems and has determined that these systems threaten the aquifer by piercing deep clay units (which help control saltwater intrusion and the draining of the freshwater aquifer) and have the potential to leak contaminants into the general freshwater supply.â This finding, as it pertains to closed-loop piping in a trench, is not true. The clay layer is not disturbed when closed-loop piping is placed in shallow (4- to 6-foot deep) trenches. Nor does the fluid circulating in the piping present a measurable threat of contaminating the soil as it is a relatively harmless substance. The board should reconsider this law as it pertains to closed-loop systems by consulting qualified experts specifically about the environmental threat, or lack thereof, posed by their use. I believe it will find sufficient reason to amend the law and thereby allow Shelter Islanders to make use of this sustainable technology to reduce harmful CO2 emissions and reduce their energy costs significantly, without risk to the aquifer. Please note that I am not a heating or ventilating contractor or in any way engaged in this industry. I am an independent architect who owns property on Shelter Island and I take seriously the need to design sustainable, efficient and intelligent buildings. Share on Facebook Facebook Created with Sketch. Share on Twitter Twitter Created with Sketch. Share via email Mail Created with Sketch. Newsletter Sign Up Email Address The premier news outlet covering Shelter Island. Subscribe Easter weekend gathering at Shelter Island History Museum
+
+## Turn 5
+
+### Focus
+limitations, risks, and unresolved debates
+
+### Queries
+- "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" overview??
+- "Geothermal closed-loop systems" official documentation
+- "Geothermal closed-loop systems" academic review
+- "Geothermal closed-loop systems" site:gov
+- "Geothermal closed-loop systems" site:edu
+- "Geothermal closed-loop systems" market analysis
+- "Geothermal closed-loop systems" limitations criticism
+- "Geothermal closed-loop systems" timeline history
+- "Geothermal closed-loop systems" safety regulation
+- "Geothermal closed-loop systems" benchmark data
+
+### Turn Findings
+- Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives: Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives
+
+### Contradictions
+- No explicit contradictions extracted in this turn.
+
+### Open Questions
+- How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" overview???
+- Which metrics or dates recur across high-relevance sources for turn 5?
+- Which criticism appears consistently versus only in opinion pieces?
+
+### Source Catalog
+#### Source 0027: Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives
+- Source ID: 4da7646ec655
+- Turn: 5
+- Query: "Geothermal closed-loop systems" academic review
+- Provider: ddgs
+- Search rank: 7
+- Domain: shelterislandreporter.archive.timesreview.com
+- URL: https://shelterislandreporter.archive.timesreview.com/2010/05/why-just-saying-no-to-geothermal-systems-is-a-bad-idea
+- Search snippet: There appears to be no justification for banningclosed-loopsystems.Geothermalsystems make use of the heat stored in the ground due to solar radiation. The heat is stored in the water in the ground and in the soil.
+- Page word count estimate: 1074
+- Relevance score: 19.67
+- Key excerpt lines:
+  - Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives
+  - The Suffolk Times
+  - Return to Homepage
+  - Search our Archives
+  - Search the archives
+  - Youâre viewing an archive piece
+  - 05.20.2010
+  - Columns
+  - Why âJust Saying Noâ to geothermal systems is a bad idea
+  - By
+  - Times Review
+  - It has been one year since the Town Board adopted Local Law No. 2-2009 prohibiting geothermal heating and cooling systems. In that time I have attended, as a practicing architect, several seminars concerning sustainab...
+- Extended extract lines:
+  - Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives The Suffolk Times Return to Homepage Search our Archives Search the archives Youâre viewing an archive piece 05.20.2010 Columns Why âJust Saying Noâ to geothermal systems is a bad idea By Times Review It has been one year since the Town Board adopted Local Law No. 2-2009 prohibiting geothermal heating and cooling systems. In that time I have attended, as a practicing architect, several seminars concerning sustainable building design as part of my continuing professional education. Geothermal systems are now part of the subject matter at these events as it is an important new technology that architects should be familiar with. It comes as a shock to the participants of these seminars that the Town of Shelter Island has already banned all geothermal systems. In reviewing the process the town followed in adopting the new law I believe a serious error was made in prohibiting all types of geothermal systems, both the type that utilize water from wells drilled into the aquifer and those that do not. As a result of this new law, Shelter Island residents are unable to benefit from the substantial cost savings of using geothermal energy in heating and cooling their homes and businesses, in using it for domestic hot water purposes and for reducing air pollution on the Island by eliminating fossil-fuel heating systems. They are also prevented from enjoying the benefits of interest rate reductions on loans, technical assistance, grants and funding for geothermal systems now available from LIPA and other New York State sources. In describing the justification for the new law, the town determined that âGeothermal wells have two basic designs: open-loop and closed-loop systems.â This is not accurate. Geothermal systems have two basic designs but only the open-loop type involves a well. The closed-loop design does not involve a well or water from a well. The town further defines the closed-loop system, more accurately, as involving pipes placed in a trench forming a closed loop circulating a fluid into and out of a heat exchange system in the dwelling. It states âThe system functions in the same manner as the open-looped system, except that there is no pumping of groundwater.â This is true as far as energy usage is concerned but not in terms of their effect on the aquifer. The geothermal system that utilizes pipes placed in a trench 4 to 6 feet below the surface (i.e., closed-loop) requires no well or well water and presents no hazard to the water supply of Shelter Island. The board decided that both types of geothermal systems (open, which threatens the water supply, and closed, which presents no threat to the water supply) should be prohibited. There is no hint as to why both systems were dealt with identically. There appears to be no justification for banning closed-loop systems. Geothermal systems make use of the heat stored in the ground due to solar radiation. The heat is stored in the water in the ground and in the soil. Seasonal changes in the weather have little or no effect on the heat stored in the ground. It remains at an almost constant temperature. On Shelter Island this temperature is 55 degrees F. During the heating season this heat can be extracted to help provide space heating. The actual technique employed (heat pump) is not important to the concept. What is important is that no fossil fuel is used in the heating system. Electricity powers the heat pump and the energy needed to heat the house is significantly less than would be necessary if the energy source were a conventional oil or gas-fired boiler or furnace. Heating efficiencies 50 to 70 percent higher than other heating systems can be achieved. During the summer, the geothermal system can be used in reverse fashion to make use of the 55-degree ground temperature to help cool the house. The same heat pump is employed to extract the heat from the air circulating in the house and deliver it back into the ground, reducing the electrical energy required for air conditioning. No noisy outdoor compressor is required. Cooling efficiencies 20 to 40 percent higher than conventional air conditioning systems can be achieved. Whether extracting heat from the ground or returning heat to the ground, the closed-loop geothermal system has no adverse effect on the ground or the groundwater. The fluid circulated through the closed-loop can be a biodegradable anti-freeze fluid that is safe to the environment and to personnel engaged in servicing the equipment. It bears no similarity to the fluid used in automobile radiators. Standards governing this fluid and its use have been established (Closed-Loop/Geothermal Heat Pump Systems, Design and Installation Standards, 2007 Edition, International Ground Source Heat Pump Association). It is safe and does not represent a threat to the water supply of Shelter Island. The law states under findings: âA consultant-supported Town Working Group has studied geothermal closed-loop systems and has determined that these systems threaten the aquifer by piercing deep clay units (which help control saltwater intrusion and the draining of the freshwater aquifer) and have the potential to leak contaminants into the general freshwater supply.â This finding, as it pertains to closed-loop piping in a trench, is not true. The clay layer is not disturbed when closed-loop piping is placed in shallow (4- to 6-foot deep) trenches. Nor does the fluid circulating in the piping present a measurable threat of contaminating the soil as it is a relatively harmless substance. The board should reconsider this law as it pertains to closed-loop systems by consulting qualified experts specifically about the environmental threat, or lack thereof, posed by their use. I believe it will find sufficient reason to amend the law and thereby allow Shelter Islanders to make use of this sustainable technology to reduce harmful CO2 emissions and reduce their energy costs significantly, without risk to the aquifer. Please note that I am not a heating or ventilating contractor or in any way engaged in this industry. I am an independent architect who owns property on Shelter Island and I take seriously the need to design sustainable, efficient and intelligent buildings. Share on Facebook Facebook Created with Sketch. Share on Twitter Twitter Created with Sketch. Share via email Mail Created with Sketch. Newsletter Sign Up Email Address The premier news outlet covering Shelter Island. Subscribe Easter weekend gathering at Shelter Island History Museum
+
+## Turn 6
+
+### Focus
+limitations, risks, and unresolved debates
+
+### Queries
+- "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" overview???
+- "Geothermal closed-loop systems" official documentation
+- "Geothermal closed-loop systems" academic review
+- "Geothermal closed-loop systems" site:gov
+- "Geothermal closed-loop systems" site:edu
+- "Geothermal closed-loop systems" market analysis
+- "Geothermal closed-loop systems" limitations criticism
+- "Geothermal closed-loop systems" timeline history
+- "Geothermal closed-loop systems" safety regulation
+- "Geothermal closed-loop systems" benchmark data
+
+### Turn Findings
+- Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives: Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives
+- GeoNerd Digest - 14th Edition: Innovations in Vacuum Insulation for Coaxial Geothermal Systems: GeoNerd Digest - 14th Edition: Innovations in Vacuum Insulation for Coaxial Geothermal Systems
+
+### Contradictions
+- No explicit contradictions extracted in this turn.
+
+### Open Questions
+- How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" overview????
+- Which metrics or dates recur across high-relevance sources for turn 6?
+- Which criticism appears consistently versus only in opinion pieces?
+
+### Source Catalog
+#### Source 0028: Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives
+- Source ID: 4da7646ec655
+- Turn: 6
+- Query: "Geothermal closed-loop systems" academic review
+- Provider: ddgs
+- Search rank: 14
+- Domain: shelterislandreporter.archive.timesreview.com
+- URL: https://shelterislandreporter.archive.timesreview.com/2010/05/why-just-saying-no-to-geothermal-systems-is-a-bad-idea
+- Search snippet: There appears to be no justification for banningclosed-loopsystems.Geothermalsystems make use of the heat stored in the ground due to solar radiation. The heat is stored in the water in the ground and in the soil.
+- Page word count estimate: 1074
+- Relevance score: 17.33
+- Key excerpt lines:
+  - Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives
+  - The Suffolk Times
+  - Return to Homepage
+  - Search our Archives
+  - Search the archives
+  - Youâre viewing an archive piece
+  - 05.20.2010
+  - Columns
+  - Why âJust Saying Noâ to geothermal systems is a bad idea
+  - By
+  - Times Review
+  - It has been one year since the Town Board adopted Local Law No. 2-2009 prohibiting geothermal heating and cooling systems. In that time I have attended, as a practicing architect, several seminars concerning sustainab...
+- Extended extract lines:
+  - Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives The Suffolk Times Return to Homepage Search our Archives Search the archives Youâre viewing an archive piece 05.20.2010 Columns Why âJust Saying Noâ to geothermal systems is a bad idea By Times Review It has been one year since the Town Board adopted Local Law No. 2-2009 prohibiting geothermal heating and cooling systems. In that time I have attended, as a practicing architect, several seminars concerning sustainable building design as part of my continuing professional education. Geothermal systems are now part of the subject matter at these events as it is an important new technology that architects should be familiar with. It comes as a shock to the participants of these seminars that the Town of Shelter Island has already banned all geothermal systems. In reviewing the process the town followed in adopting the new law I believe a serious error was made in prohibiting all types of geothermal systems, both the type that utilize water from wells drilled into the aquifer and those that do not. As a result of this new law, Shelter Island residents are unable to benefit from the substantial cost savings of using geothermal energy in heating and cooling their homes and businesses, in using it for domestic hot water purposes and for reducing air pollution on the Island by eliminating fossil-fuel heating systems. They are also prevented from enjoying the benefits of interest rate reductions on loans, technical assistance, grants and funding for geothermal systems now available from LIPA and other New York State sources. In describing the justification for the new law, the town determined that âGeothermal wells have two basic designs: open-loop and closed-loop systems.â This is not accurate. Geothermal systems have two basic designs but only the open-loop type involves a well. The closed-loop design does not involve a well or water from a well. The town further defines the closed-loop system, more accurately, as involving pipes placed in a trench forming a closed loop circulating a fluid into and out of a heat exchange system in the dwelling. It states âThe system functions in the same manner as the open-looped system, except that there is no pumping of groundwater.â This is true as far as energy usage is concerned but not in terms of their effect on the aquifer. The geothermal system that utilizes pipes placed in a trench 4 to 6 feet below the surface (i.e., closed-loop) requires no well or well water and presents no hazard to the water supply of Shelter Island. The board decided that both types of geothermal systems (open, which threatens the water supply, and closed, which presents no threat to the water supply) should be prohibited. There is no hint as to why both systems were dealt with identically. There appears to be no justification for banning closed-loop systems. Geothermal systems make use of the heat stored in the ground due to solar radiation. The heat is stored in the water in the ground and in the soil. Seasonal changes in the weather have little or no effect on the heat stored in the ground. It remains at an almost constant temperature. On Shelter Island this temperature is 55 degrees F. During the heating season this heat can be extracted to help provide space heating. The actual technique employed (heat pump) is not important to the concept. What is important is that no fossil fuel is used in the heating system. Electricity powers the heat pump and the energy needed to heat the house is significantly less than would be necessary if the energy source were a conventional oil or gas-fired boiler or furnace. Heating efficiencies 50 to 70 percent higher than other heating systems can be achieved. During the summer, the geothermal system can be used in reverse fashion to make use of the 55-degree ground temperature to help cool the house. The same heat pump is employed to extract the heat from the air circulating in the house and deliver it back into the ground, reducing the electrical energy required for air conditioning. No noisy outdoor compressor is required. Cooling efficiencies 20 to 40 percent higher than conventional air conditioning systems can be achieved. Whether extracting heat from the ground or returning heat to the ground, the closed-loop geothermal system has no adverse effect on the ground or the groundwater. The fluid circulated through the closed-loop can be a biodegradable anti-freeze fluid that is safe to the environment and to personnel engaged in servicing the equipment. It bears no similarity to the fluid used in automobile radiators. Standards governing this fluid and its use have been established (Closed-Loop/Geothermal Heat Pump Systems, Design and Installation Standards, 2007 Edition, International Ground Source Heat Pump Association). It is safe and does not represent a threat to the water supply of Shelter Island. The law states under findings: âA consultant-supported Town Working Group has studied geothermal closed-loop systems and has determined that these systems threaten the aquifer by piercing deep clay units (which help control saltwater intrusion and the draining of the freshwater aquifer) and have the potential to leak contaminants into the general freshwater supply.â This finding, as it pertains to closed-loop piping in a trench, is not true. The clay layer is not disturbed when closed-loop piping is placed in shallow (4- to 6-foot deep) trenches. Nor does the fluid circulating in the piping present a measurable threat of contaminating the soil as it is a relatively harmless substance. The board should reconsider this law as it pertains to closed-loop systems by consulting qualified experts specifically about the environmental threat, or lack thereof, posed by their use. I believe it will find sufficient reason to amend the law and thereby allow Shelter Islanders to make use of this sustainable technology to reduce harmful CO2 emissions and reduce their energy costs significantly, without risk to the aquifer. Please note that I am not a heating or ventilating contractor or in any way engaged in this industry. I am an independent architect who owns property on Shelter Island and I take seriously the need to design sustainable, efficient and intelligent buildings. Share on Facebook Facebook Created with Sketch. Share on Twitter Twitter Created with Sketch. Share via email Mail Created with Sketch. Newsletter Sign Up Email Address The premier news outlet covering Shelter Island. Subscribe Easter weekend gathering at Shelter Island History Museum
+
+#### Source 0029: GeoNerd Digest - 14th Edition: Innovations in Vacuum Insulation for Coaxial Geothermal Systems
+- Source ID: 1321a282b61a
+- Turn: 6
+- Query: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" overview???
+- Provider: ddgs
+- Search rank: 14
+- Domain: www.linkedin.com
+- URL: https://www.linkedin.com/pulse/geonerd-digest-14th-edition-innovations-vacuum-coaxial-matus-gajdos-md25e
+- Search snippet: GreenTherma´sClosedLoopHorizontalGeothermal(CLHG) Solution.B -Closedloopco-axial pipes with a continuous controlled vacuum between the two pipes. C - The pin connections of theclosedloopcoaxial pipe-in-pipes (Source: Maver, 2025).
+- Page word count estimate: 250
+- Relevance score: 13.33
+- Key excerpt lines:
+  - GeoNerd Digest - 14th Edition: Innovations in Vacuum Insulation for Coaxial Geothermal Systems
+  - Agree & Join LinkedIn
+  - By clicking Continue to join or sign in, you agree to LinkedIn’s
+  - User Agreement
+  - ,
+  - Privacy Policy
+  - , and
+  - Cookie Policy
+  - .
+  - Skip to main content
+  - LinkedIn
+  - Top Content
+- Extended extract lines:
+  - GeoNerd Digest - 14th Edition: Innovations in Vacuum Insulation for Coaxial Geothermal Systems Agree & Join LinkedIn By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Skip to main content LinkedIn Top Content People Learning Jobs Games Join now Sign in Assembly of individual pre-assembled coaxial pipe-in-pipe tubing sections on the rig floor (Source: Maver, 2025) GeoNerd Digest - 14th Edition: Innovations in Vacuum Insulation for Coaxial Geothermal Systems Report this article Matus Gajdos Matus Gajdos Published Mar 12, 2025 + Follow This week we will continue in review of papers published at the 50th Stanford Geothermal Workshop. This time we will have two papers instead of one because both solve the same challenge using slightly different approaches. Both papers, "Enhancing Thermal Efficiency in Super-Hot Geothermal Systems: Optimizing Premium Connections for Advanced Vacuum Insulated Tubulars" by Corey Dufrene , Elizabeth Cambre et al. and "Vacuumized Pipe-in-Pipe Solution for Efficient Geothermal Heat Extraction Everywhere for District Cooling and Heating and Industrial Usage" by Kim Gunn Maver focus on application of vacuum insulation. These advancements are crucial for minimizing heat loss and maximizing the economic viability of coaxial geothermal systems. The Challenge of Heat Loss in Geothermal Systems In traditional geothermal systems, heat loss during fluid circulation can be significant, often resulting in a 30-40% loss of thermal energy. This inefficiency not only reduces the overall energy output but also increases operational costs. To address this challenge, both Vallourec
+
+## Turn 7
+
+### Focus
+limitations, risks, and unresolved debates
+
+### Queries
+- "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" overview???
+- "Geothermal closed-loop systems" official documentation
+- "Geothermal closed-loop systems" academic review
+- "Geothermal closed-loop systems" site:gov
+- "Geothermal closed-loop systems" site:edu
+- "Geothermal closed-loop systems" market analysis
+- "Geothermal closed-loop systems" limitations criticism
+- "Geothermal closed-loop systems" timeline history
+- "Geothermal closed-loop systems" safety regulation
+- "Geothermal closed-loop systems" benchmark data
+
+### Turn Findings
+- Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives: Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives
+- Closed Loop Geothermal System - Definition & Detailed Explanation - Geothermal Energy Glossary Terms - CleanEnergyBusinessCouncil.com: Closed Loop Geothermal System - Definition & Detailed Explanation - Geothermal Energy Glossary Terms - CleanEnergyBusinessCouncil.com
+
+### Contradictions
+- No explicit contradictions extracted in this turn.
+
+### Open Questions
+- How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" overview????
+- Which metrics or dates recur across high-relevance sources for turn 7?
+- Which criticism appears consistently versus only in opinion pieces?
+
+### Source Catalog
+#### Source 0030: Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives
+- Source ID: 4da7646ec655
+- Turn: 7
+- Query: "Geothermal closed-loop systems" academic review
+- Provider: ddgs
+- Search rank: 7
+- Domain: shelterislandreporter.archive.timesreview.com
+- URL: https://shelterislandreporter.archive.timesreview.com/2010/05/why-just-saying-no-to-geothermal-systems-is-a-bad-idea
+- Search snippet: There appears to be no justification for banningclosed-loopsystems.Geothermalsystems make use of the heat stored in the ground due to solar radiation. The heat is stored in the water in the ground and in the soil.
+- Page word count estimate: 1074
+- Relevance score: 19.67
+- Key excerpt lines:
+  - Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives
+  - The Suffolk Times
+  - Return to Homepage
+  - Search our Archives
+  - Search the archives
+  - Youâre viewing an archive piece
+  - 05.20.2010
+  - Columns
+  - Why âJust Saying Noâ to geothermal systems is a bad idea
+  - By
+  - Times Review
+  - It has been one year since the Town Board adopted Local Law No. 2-2009 prohibiting geothermal heating and cooling systems. In that time I have attended, as a practicing architect, several seminars concerning sustainab...
+- Extended extract lines:
+  - Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives The Suffolk Times Return to Homepage Search our Archives Search the archives Youâre viewing an archive piece 05.20.2010 Columns Why âJust Saying Noâ to geothermal systems is a bad idea By Times Review It has been one year since the Town Board adopted Local Law No. 2-2009 prohibiting geothermal heating and cooling systems. In that time I have attended, as a practicing architect, several seminars concerning sustainable building design as part of my continuing professional education. Geothermal systems are now part of the subject matter at these events as it is an important new technology that architects should be familiar with. It comes as a shock to the participants of these seminars that the Town of Shelter Island has already banned all geothermal systems. In reviewing the process the town followed in adopting the new law I believe a serious error was made in prohibiting all types of geothermal systems, both the type that utilize water from wells drilled into the aquifer and those that do not. As a result of this new law, Shelter Island residents are unable to benefit from the substantial cost savings of using geothermal energy in heating and cooling their homes and businesses, in using it for domestic hot water purposes and for reducing air pollution on the Island by eliminating fossil-fuel heating systems. They are also prevented from enjoying the benefits of interest rate reductions on loans, technical assistance, grants and funding for geothermal systems now available from LIPA and other New York State sources. In describing the justification for the new law, the town determined that âGeothermal wells have two basic designs: open-loop and closed-loop systems.â This is not accurate. Geothermal systems have two basic designs but only the open-loop type involves a well. The closed-loop design does not involve a well or water from a well. The town further defines the closed-loop system, more accurately, as involving pipes placed in a trench forming a closed loop circulating a fluid into and out of a heat exchange system in the dwelling. It states âThe system functions in the same manner as the open-looped system, except that there is no pumping of groundwater.â This is true as far as energy usage is concerned but not in terms of their effect on the aquifer. The geothermal system that utilizes pipes placed in a trench 4 to 6 feet below the surface (i.e., closed-loop) requires no well or well water and presents no hazard to the water supply of Shelter Island. The board decided that both types of geothermal systems (open, which threatens the water supply, and closed, which presents no threat to the water supply) should be prohibited. There is no hint as to why both systems were dealt with identically. There appears to be no justification for banning closed-loop systems. Geothermal systems make use of the heat stored in the ground due to solar radiation. The heat is stored in the water in the ground and in the soil. Seasonal changes in the weather have little or no effect on the heat stored in the ground. It remains at an almost constant temperature. On Shelter Island this temperature is 55 degrees F. During the heating season this heat can be extracted to help provide space heating. The actual technique employed (heat pump) is not important to the concept. What is important is that no fossil fuel is used in the heating system. Electricity powers the heat pump and the energy needed to heat the house is significantly less than would be necessary if the energy source were a conventional oil or gas-fired boiler or furnace. Heating efficiencies 50 to 70 percent higher than other heating systems can be achieved. During the summer, the geothermal system can be used in reverse fashion to make use of the 55-degree ground temperature to help cool the house. The same heat pump is employed to extract the heat from the air circulating in the house and deliver it back into the ground, reducing the electrical energy required for air conditioning. No noisy outdoor compressor is required. Cooling efficiencies 20 to 40 percent higher than conventional air conditioning systems can be achieved. Whether extracting heat from the ground or returning heat to the ground, the closed-loop geothermal system has no adverse effect on the ground or the groundwater. The fluid circulated through the closed-loop can be a biodegradable anti-freeze fluid that is safe to the environment and to personnel engaged in servicing the equipment. It bears no similarity to the fluid used in automobile radiators. Standards governing this fluid and its use have been established (Closed-Loop/Geothermal Heat Pump Systems, Design and Installation Standards, 2007 Edition, International Ground Source Heat Pump Association). It is safe and does not represent a threat to the water supply of Shelter Island. The law states under findings: âA consultant-supported Town Working Group has studied geothermal closed-loop systems and has determined that these systems threaten the aquifer by piercing deep clay units (which help control saltwater intrusion and the draining of the freshwater aquifer) and have the potential to leak contaminants into the general freshwater supply.â This finding, as it pertains to closed-loop piping in a trench, is not true. The clay layer is not disturbed when closed-loop piping is placed in shallow (4- to 6-foot deep) trenches. Nor does the fluid circulating in the piping present a measurable threat of contaminating the soil as it is a relatively harmless substance. The board should reconsider this law as it pertains to closed-loop systems by consulting qualified experts specifically about the environmental threat, or lack thereof, posed by their use. I believe it will find sufficient reason to amend the law and thereby allow Shelter Islanders to make use of this sustainable technology to reduce harmful CO2 emissions and reduce their energy costs significantly, without risk to the aquifer. Please note that I am not a heating or ventilating contractor or in any way engaged in this industry. I am an independent architect who owns property on Shelter Island and I take seriously the need to design sustainable, efficient and intelligent buildings. Share on Facebook Facebook Created with Sketch. Share on Twitter Twitter Created with Sketch. Share via email Mail Created with Sketch. Newsletter Sign Up Email Address The premier news outlet covering Shelter Island. Subscribe Easter weekend gathering at Shelter Island History Museum
+
+#### Source 0031: Closed Loop Geothermal System - Definition & Detailed Explanation - Geothermal Energy Glossary Terms - CleanEnergyBusinessCouncil.com
+- Source ID: e883357500f6
+- Turn: 7
+- Query: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" overview???
+- Provider: ddgs
+- Search rank: 7
+- Domain: cleanenergybusinesscouncil.com
+- URL: https://cleanenergybusinesscouncil.com/geothermal-energy-glossary/closed-loop-geothermal-system
+- Search snippet: Dec 15, 2025 ·I. What is aClosed Loop GeothermalSystem? Aclosed loop geothermalsystem is a type of heating and cooling system that harnesses the natural heat stored in the earth to regulate the temperature of a building. Unlike traditional heating and coolingsystemsthat rely on burning fossil fuels or electricity to generate heat or cool air,closed loop geothermal systemsuse the constant temperature ...
+- Page word count estimate: 569
+- Relevance score: 17.67
+- Key excerpt lines:
+  - Closed Loop Geothermal System - Definition & Detailed Explanation - Geothermal Energy Glossary Terms - CleanEnergyBusinessCouncil.com
+  - Skip to content
+  - CleanEnergyBusinessCouncil.com
+  - Menu
+  - Menu
+  - About
+  - Contact
+  - Solar Energy Blog
+  - Energy Glossaries
+  - Solar Energy Glossary
+  - Battery Technology Glossary
+  - Biomass Energy Glossary
+- Extended extract lines:
+  - Closed Loop Geothermal System - Definition & Detailed Explanation - Geothermal Energy Glossary Terms - CleanEnergyBusinessCouncil.com Skip to content CleanEnergyBusinessCouncil.com Menu Menu About Contact Solar Energy Blog Energy Glossaries Solar Energy Glossary Battery Technology Glossary Biomass Energy Glossary Geothermal Energy Glossary Hydroelectric Power Glossary Nuclear Energy Glossary Wind Energy Glossary Fossil Fuels Glossary Closed Loop Geothermal System – Definition & Detailed Explanation – Geothermal Energy Glossary Terms December 15, 2025 by admin-cleanenergybusinesscouncil Table of Contents Toggle I. What is a Closed Loop Geothermal System? II. How does a Closed Loop Geothermal System work? III. What are the different types of Closed Loop Geothermal Systems? IV. What are the benefits of using a Closed Loop Geothermal System? V. What are the potential drawbacks of Closed Loop Geothermal Systems? VI. How does installation and maintenance of a Closed Loop Geothermal System work? I. What is a Closed Loop Geothermal System? A closed loop geothermal system is a type of heating and cooling system that harnesses the natural heat stored in the earth to regulate the temperature of a building. Unlike traditional heating and cooling systems that rely on burning fossil fuels or electricity to generate heat or cool air, closed loop geothermal systems use the constant temperature of the earth to provide a more energy-efficient and environmentally friendly alternative. II. How does a Closed Loop Geothermal System work? Closed loop geothermal systems work by circulating a heat transfer fluid through a series of underground pipes, known as a loop. The fluid absorbs heat from the ground in the winter and releases heat into the ground in the summer, providing a consistent and efficient source of heating and cooling for a building. The heat transfer fluid is pumped through the loop by a geothermal heat pump, which transfers the heat to a distribution system within the building. III. What are the different types of Closed Loop Geothermal Systems? There are several different types of closed loop geothermal systems, including horizontal, vertical, and pond/lake systems. Horizontal systems involve burying the loop pipes in trenches dug horizontally underground, while vertical systems involve drilling boreholes vertically into the ground to install the loop pipes. Pond/lake systems utilize a body of water as a heat source, circulating the heat transfer fluid through pipes submerged in the water. IV. What are the benefits of using a Closed Loop Geothermal System? There are numerous benefits to using a closed loop geothermal system, including reduced energy costs, lower carbon emissions, and increased energy efficiency. By harnessing the natural heat stored in the earth, these systems can provide consistent heating and cooling throughout the year, regardless of external weather conditions. Additionally, closed loop geothermal systems require less maintenance than traditional heating and cooling systems, resulting in lower operating costs over time. V. What are the potential drawbacks of Closed Loop Geothermal Systems? While closed loop geothermal systems offer many advantages, there are also some potential drawbacks to consider. One of the main drawbacks is the upfront cost of installation, which can be higher than traditional heating and cooling systems. Additionally, the efficiency of a geothermal system may be affected by the quality of the soil or water in the area, as well as the size and layout of the building. It is important to carefully assess these factors before deciding to install a closed loop geothermal system. VI. How does installation and maintenance of a Closed Loop Geothermal System work?
+
+## Turn 8
+
+### Focus
+limitations, risks, and unresolved debates
+
+### Queries
+- "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" overview????
+- "Geothermal closed-loop systems" official documentation
+- "Geothermal closed-loop systems" academic review
+- "Geothermal closed-loop systems" site:gov
+- "Geothermal closed-loop systems" site:edu
+- "Geothermal closed-loop systems" market analysis
+- "Geothermal closed-loop systems" limitations criticism
+- "Geothermal closed-loop systems" timeline history
+- "Geothermal closed-loop systems" safety regulation
+- "Geothermal closed-loop systems" benchmark data
+
+### Turn Findings
+- Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives: Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives
+
+### Contradictions
+- No explicit contradictions extracted in this turn.
+
+### Open Questions
+- How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" overview?????
+- Which metrics or dates recur across high-relevance sources for turn 8?
+- Which criticism appears consistently versus only in opinion pieces?
+
+### Source Catalog
+#### Source 0032: Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives
+- Source ID: 4da7646ec655
+- Turn: 8
+- Query: "Geothermal closed-loop systems" academic review
+- Provider: ddgs
+- Search rank: 13
+- Domain: shelterislandreporter.archive.timesreview.com
+- URL: https://shelterislandreporter.archive.timesreview.com/2010/05/why-just-saying-no-to-geothermal-systems-is-a-bad-idea
+- Search snippet: There appears to be no justification for banningclosed-loopsystems.Geothermalsystems make use of the heat stored in the ground due to solar radiation. The heat is stored in the water in the ground and in the soil.
+- Page word count estimate: 1074
+- Relevance score: 17.67
+- Key excerpt lines:
+  - Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives
+  - The Suffolk Times
+  - Return to Homepage
+  - Search our Archives
+  - Search the archives
+  - Youâre viewing an archive piece
+  - 05.20.2010
+  - Columns
+  - Why âJust Saying Noâ to geothermal systems is a bad idea
+  - By
+  - Times Review
+  - It has been one year since the Town Board adopted Local Law No. 2-2009 prohibiting geothermal heating and cooling systems. In that time I have attended, as a practicing architect, several seminars concerning sustainab...
+- Extended extract lines:
+  - Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives The Suffolk Times Return to Homepage Search our Archives Search the archives Youâre viewing an archive piece 05.20.2010 Columns Why âJust Saying Noâ to geothermal systems is a bad idea By Times Review It has been one year since the Town Board adopted Local Law No. 2-2009 prohibiting geothermal heating and cooling systems. In that time I have attended, as a practicing architect, several seminars concerning sustainable building design as part of my continuing professional education. Geothermal systems are now part of the subject matter at these events as it is an important new technology that architects should be familiar with. It comes as a shock to the participants of these seminars that the Town of Shelter Island has already banned all geothermal systems. In reviewing the process the town followed in adopting the new law I believe a serious error was made in prohibiting all types of geothermal systems, both the type that utilize water from wells drilled into the aquifer and those that do not. As a result of this new law, Shelter Island residents are unable to benefit from the substantial cost savings of using geothermal energy in heating and cooling their homes and businesses, in using it for domestic hot water purposes and for reducing air pollution on the Island by eliminating fossil-fuel heating systems. They are also prevented from enjoying the benefits of interest rate reductions on loans, technical assistance, grants and funding for geothermal systems now available from LIPA and other New York State sources. In describing the justification for the new law, the town determined that âGeothermal wells have two basic designs: open-loop and closed-loop systems.â This is not accurate. Geothermal systems have two basic designs but only the open-loop type involves a well. The closed-loop design does not involve a well or water from a well. The town further defines the closed-loop system, more accurately, as involving pipes placed in a trench forming a closed loop circulating a fluid into and out of a heat exchange system in the dwelling. It states âThe system functions in the same manner as the open-looped system, except that there is no pumping of groundwater.â This is true as far as energy usage is concerned but not in terms of their effect on the aquifer. The geothermal system that utilizes pipes placed in a trench 4 to 6 feet below the surface (i.e., closed-loop) requires no well or well water and presents no hazard to the water supply of Shelter Island. The board decided that both types of geothermal systems (open, which threatens the water supply, and closed, which presents no threat to the water supply) should be prohibited. There is no hint as to why both systems were dealt with identically. There appears to be no justification for banning closed-loop systems. Geothermal systems make use of the heat stored in the ground due to solar radiation. The heat is stored in the water in the ground and in the soil. Seasonal changes in the weather have little or no effect on the heat stored in the ground. It remains at an almost constant temperature. On Shelter Island this temperature is 55 degrees F. During the heating season this heat can be extracted to help provide space heating. The actual technique employed (heat pump) is not important to the concept. What is important is that no fossil fuel is used in the heating system. Electricity powers the heat pump and the energy needed to heat the house is significantly less than would be necessary if the energy source were a conventional oil or gas-fired boiler or furnace. Heating efficiencies 50 to 70 percent higher than other heating systems can be achieved. During the summer, the geothermal system can be used in reverse fashion to make use of the 55-degree ground temperature to help cool the house. The same heat pump is employed to extract the heat from the air circulating in the house and deliver it back into the ground, reducing the electrical energy required for air conditioning. No noisy outdoor compressor is required. Cooling efficiencies 20 to 40 percent higher than conventional air conditioning systems can be achieved. Whether extracting heat from the ground or returning heat to the ground, the closed-loop geothermal system has no adverse effect on the ground or the groundwater. The fluid circulated through the closed-loop can be a biodegradable anti-freeze fluid that is safe to the environment and to personnel engaged in servicing the equipment. It bears no similarity to the fluid used in automobile radiators. Standards governing this fluid and its use have been established (Closed-Loop/Geothermal Heat Pump Systems, Design and Installation Standards, 2007 Edition, International Ground Source Heat Pump Association). It is safe and does not represent a threat to the water supply of Shelter Island. The law states under findings: âA consultant-supported Town Working Group has studied geothermal closed-loop systems and has determined that these systems threaten the aquifer by piercing deep clay units (which help control saltwater intrusion and the draining of the freshwater aquifer) and have the potential to leak contaminants into the general freshwater supply.â This finding, as it pertains to closed-loop piping in a trench, is not true. The clay layer is not disturbed when closed-loop piping is placed in shallow (4- to 6-foot deep) trenches. Nor does the fluid circulating in the piping present a measurable threat of contaminating the soil as it is a relatively harmless substance. The board should reconsider this law as it pertains to closed-loop systems by consulting qualified experts specifically about the environmental threat, or lack thereof, posed by their use. I believe it will find sufficient reason to amend the law and thereby allow Shelter Islanders to make use of this sustainable technology to reduce harmful CO2 emissions and reduce their energy costs significantly, without risk to the aquifer. Please note that I am not a heating or ventilating contractor or in any way engaged in this industry. I am an independent architect who owns property on Shelter Island and I take seriously the need to design sustainable, efficient and intelligent buildings. Share on Facebook Facebook Created with Sketch. Share on Twitter Twitter Created with Sketch. Share via email Mail Created with Sketch. Newsletter Sign Up Email Address The premier news outlet covering Shelter Island. Subscribe Easter weekend gathering at Shelter Island History Museum
+
+## Turn 9
+
+### Focus
+limitations, risks, and unresolved debates
+
+### Queries
+- "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" overview????
+- "Geothermal closed-loop systems" official documentation
+- "Geothermal closed-loop systems" academic review
+- "Geothermal closed-loop systems" site:gov
+- "Geothermal closed-loop systems" site:edu
+- "Geothermal closed-loop systems" market analysis
+- "Geothermal closed-loop systems" limitations criticism
+- "Geothermal closed-loop systems" timeline history
+- "Geothermal closed-loop systems" safety regulation
+- "Geothermal closed-loop systems" benchmark data
+
+### Turn Findings
+- Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives: Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives
+
+### Contradictions
+- No explicit contradictions extracted in this turn.
+
+### Open Questions
+- How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" overview?????
+- Which metrics or dates recur across high-relevance sources for turn 9?
+- Which criticism appears consistently versus only in opinion pieces?
+
+### Source Catalog
+#### Source 0033: Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives
+- Source ID: 4da7646ec655
+- Turn: 9
+- Query: "Geothermal closed-loop systems" academic review
+- Provider: ddgs
+- Search rank: 7
+- Domain: shelterislandreporter.archive.timesreview.com
+- URL: https://shelterislandreporter.archive.timesreview.com/2010/05/why-just-saying-no-to-geothermal-systems-is-a-bad-idea
+- Search snippet: There appears to be no justification for banningclosed-loopsystems.Geothermalsystems make use of the heat stored in the ground due to solar radiation. The heat is stored in the water in the ground and in the soil.
+- Page word count estimate: 1074
+- Relevance score: 19.67
+- Key excerpt lines:
+  - Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives
+  - The Suffolk Times
+  - Return to Homepage
+  - Search our Archives
+  - Search the archives
+  - Youâre viewing an archive piece
+  - 05.20.2010
+  - Columns
+  - Why âJust Saying Noâ to geothermal systems is a bad idea
+  - By
+  - Times Review
+  - It has been one year since the Town Board adopted Local Law No. 2-2009 prohibiting geothermal heating and cooling systems. In that time I have attended, as a practicing architect, several seminars concerning sustainab...
+- Extended extract lines:
+  - Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives The Suffolk Times Return to Homepage Search our Archives Search the archives Youâre viewing an archive piece 05.20.2010 Columns Why âJust Saying Noâ to geothermal systems is a bad idea By Times Review It has been one year since the Town Board adopted Local Law No. 2-2009 prohibiting geothermal heating and cooling systems. In that time I have attended, as a practicing architect, several seminars concerning sustainable building design as part of my continuing professional education. Geothermal systems are now part of the subject matter at these events as it is an important new technology that architects should be familiar with. It comes as a shock to the participants of these seminars that the Town of Shelter Island has already banned all geothermal systems. In reviewing the process the town followed in adopting the new law I believe a serious error was made in prohibiting all types of geothermal systems, both the type that utilize water from wells drilled into the aquifer and those that do not. As a result of this new law, Shelter Island residents are unable to benefit from the substantial cost savings of using geothermal energy in heating and cooling their homes and businesses, in using it for domestic hot water purposes and for reducing air pollution on the Island by eliminating fossil-fuel heating systems. They are also prevented from enjoying the benefits of interest rate reductions on loans, technical assistance, grants and funding for geothermal systems now available from LIPA and other New York State sources. In describing the justification for the new law, the town determined that âGeothermal wells have two basic designs: open-loop and closed-loop systems.â This is not accurate. Geothermal systems have two basic designs but only the open-loop type involves a well. The closed-loop design does not involve a well or water from a well. The town further defines the closed-loop system, more accurately, as involving pipes placed in a trench forming a closed loop circulating a fluid into and out of a heat exchange system in the dwelling. It states âThe system functions in the same manner as the open-looped system, except that there is no pumping of groundwater.â This is true as far as energy usage is concerned but not in terms of their effect on the aquifer. The geothermal system that utilizes pipes placed in a trench 4 to 6 feet below the surface (i.e., closed-loop) requires no well or well water and presents no hazard to the water supply of Shelter Island. The board decided that both types of geothermal systems (open, which threatens the water supply, and closed, which presents no threat to the water supply) should be prohibited. There is no hint as to why both systems were dealt with identically. There appears to be no justification for banning closed-loop systems. Geothermal systems make use of the heat stored in the ground due to solar radiation. The heat is stored in the water in the ground and in the soil. Seasonal changes in the weather have little or no effect on the heat stored in the ground. It remains at an almost constant temperature. On Shelter Island this temperature is 55 degrees F. During the heating season this heat can be extracted to help provide space heating. The actual technique employed (heat pump) is not important to the concept. What is important is that no fossil fuel is used in the heating system. Electricity powers the heat pump and the energy needed to heat the house is significantly less than would be necessary if the energy source were a conventional oil or gas-fired boiler or furnace. Heating efficiencies 50 to 70 percent higher than other heating systems can be achieved. During the summer, the geothermal system can be used in reverse fashion to make use of the 55-degree ground temperature to help cool the house. The same heat pump is employed to extract the heat from the air circulating in the house and deliver it back into the ground, reducing the electrical energy required for air conditioning. No noisy outdoor compressor is required. Cooling efficiencies 20 to 40 percent higher than conventional air conditioning systems can be achieved. Whether extracting heat from the ground or returning heat to the ground, the closed-loop geothermal system has no adverse effect on the ground or the groundwater. The fluid circulated through the closed-loop can be a biodegradable anti-freeze fluid that is safe to the environment and to personnel engaged in servicing the equipment. It bears no similarity to the fluid used in automobile radiators. Standards governing this fluid and its use have been established (Closed-Loop/Geothermal Heat Pump Systems, Design and Installation Standards, 2007 Edition, International Ground Source Heat Pump Association). It is safe and does not represent a threat to the water supply of Shelter Island. The law states under findings: âA consultant-supported Town Working Group has studied geothermal closed-loop systems and has determined that these systems threaten the aquifer by piercing deep clay units (which help control saltwater intrusion and the draining of the freshwater aquifer) and have the potential to leak contaminants into the general freshwater supply.â This finding, as it pertains to closed-loop piping in a trench, is not true. The clay layer is not disturbed when closed-loop piping is placed in shallow (4- to 6-foot deep) trenches. Nor does the fluid circulating in the piping present a measurable threat of contaminating the soil as it is a relatively harmless substance. The board should reconsider this law as it pertains to closed-loop systems by consulting qualified experts specifically about the environmental threat, or lack thereof, posed by their use. I believe it will find sufficient reason to amend the law and thereby allow Shelter Islanders to make use of this sustainable technology to reduce harmful CO2 emissions and reduce their energy costs significantly, without risk to the aquifer. Please note that I am not a heating or ventilating contractor or in any way engaged in this industry. I am an independent architect who owns property on Shelter Island and I take seriously the need to design sustainable, efficient and intelligent buildings. Share on Facebook Facebook Created with Sketch. Share on Twitter Twitter Created with Sketch. Share via email Mail Created with Sketch. Newsletter Sign Up Email Address The premier news outlet covering Shelter Island. Subscribe Easter weekend gathering at Shelter Island History Museum
+
+## Turn 10
+
+### Focus
+limitations, risks, and unresolved debates
+
+### Queries
+- "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" overview?????
+- "Geothermal closed-loop systems" official documentation
+- "Geothermal closed-loop systems" academic review
+- "Geothermal closed-loop systems" site:gov
+- "Geothermal closed-loop systems" site:edu
+- "Geothermal closed-loop systems" market analysis
+- "Geothermal closed-loop systems" limitations criticism
+- "Geothermal closed-loop systems" timeline history
+- "Geothermal closed-loop systems" safety regulation
+- "Geothermal closed-loop systems" benchmark data
+
+### Turn Findings
+- Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives: Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives
+
+### Contradictions
+- No explicit contradictions extracted in this turn.
+
+### Open Questions
+- How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" How do authoritative sources answer: "Geothermal closed-loop systems" overview??????
+- Which metrics or dates recur across high-relevance sources for turn 10?
+- Which criticism appears consistently versus only in opinion pieces?
+
+### Source Catalog
+#### Source 0034: Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives
+- Source ID: 4da7646ec655
+- Turn: 10
+- Query: "Geothermal closed-loop systems" academic review
+- Provider: ddgs
+- Search rank: 7
+- Domain: shelterislandreporter.archive.timesreview.com
+- URL: https://shelterislandreporter.archive.timesreview.com/2010/05/why-just-saying-no-to-geothermal-systems-is-a-bad-idea
+- Search snippet: There appears to be no justification for banningclosed-loopsystems.Geothermalsystems make use of the heat stored in the ground due to solar radiation. The heat is stored in the water in the ground and in the soil.
+- Page word count estimate: 1074
+- Relevance score: 19.67
+- Key excerpt lines:
+  - Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives
+  - The Suffolk Times
+  - Return to Homepage
+  - Search our Archives
+  - Search the archives
+  - Youâre viewing an archive piece
+  - 05.20.2010
+  - Columns
+  - Why âJust Saying Noâ to geothermal systems is a bad idea
+  - By
+  - Times Review
+  - It has been one year since the Town Board adopted Local Law No. 2-2009 prohibiting geothermal heating and cooling systems. In that time I have attended, as a practicing architect, several seminars concerning sustainab...
+- Extended extract lines:
+  - Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives The Suffolk Times Return to Homepage Search our Archives Search the archives Youâre viewing an archive piece 05.20.2010 Columns Why âJust Saying Noâ to geothermal systems is a bad idea By Times Review It has been one year since the Town Board adopted Local Law No. 2-2009 prohibiting geothermal heating and cooling systems. In that time I have attended, as a practicing architect, several seminars concerning sustainable building design as part of my continuing professional education. Geothermal systems are now part of the subject matter at these events as it is an important new technology that architects should be familiar with. It comes as a shock to the participants of these seminars that the Town of Shelter Island has already banned all geothermal systems. In reviewing the process the town followed in adopting the new law I believe a serious error was made in prohibiting all types of geothermal systems, both the type that utilize water from wells drilled into the aquifer and those that do not. As a result of this new law, Shelter Island residents are unable to benefit from the substantial cost savings of using geothermal energy in heating and cooling their homes and businesses, in using it for domestic hot water purposes and for reducing air pollution on the Island by eliminating fossil-fuel heating systems. They are also prevented from enjoying the benefits of interest rate reductions on loans, technical assistance, grants and funding for geothermal systems now available from LIPA and other New York State sources. In describing the justification for the new law, the town determined that âGeothermal wells have two basic designs: open-loop and closed-loop systems.â This is not accurate. Geothermal systems have two basic designs but only the open-loop type involves a well. The closed-loop design does not involve a well or water from a well. The town further defines the closed-loop system, more accurately, as involving pipes placed in a trench forming a closed loop circulating a fluid into and out of a heat exchange system in the dwelling. It states âThe system functions in the same manner as the open-looped system, except that there is no pumping of groundwater.â This is true as far as energy usage is concerned but not in terms of their effect on the aquifer. The geothermal system that utilizes pipes placed in a trench 4 to 6 feet below the surface (i.e., closed-loop) requires no well or well water and presents no hazard to the water supply of Shelter Island. The board decided that both types of geothermal systems (open, which threatens the water supply, and closed, which presents no threat to the water supply) should be prohibited. There is no hint as to why both systems were dealt with identically. There appears to be no justification for banning closed-loop systems. Geothermal systems make use of the heat stored in the ground due to solar radiation. The heat is stored in the water in the ground and in the soil. Seasonal changes in the weather have little or no effect on the heat stored in the ground. It remains at an almost constant temperature. On Shelter Island this temperature is 55 degrees F. During the heating season this heat can be extracted to help provide space heating. The actual technique employed (heat pump) is not important to the concept. What is important is that no fossil fuel is used in the heating system. Electricity powers the heat pump and the energy needed to heat the house is significantly less than would be necessary if the energy source were a conventional oil or gas-fired boiler or furnace. Heating efficiencies 50 to 70 percent higher than other heating systems can be achieved. During the summer, the geothermal system can be used in reverse fashion to make use of the 55-degree ground temperature to help cool the house. The same heat pump is employed to extract the heat from the air circulating in the house and deliver it back into the ground, reducing the electrical energy required for air conditioning. No noisy outdoor compressor is required. Cooling efficiencies 20 to 40 percent higher than conventional air conditioning systems can be achieved. Whether extracting heat from the ground or returning heat to the ground, the closed-loop geothermal system has no adverse effect on the ground or the groundwater. The fluid circulated through the closed-loop can be a biodegradable anti-freeze fluid that is safe to the environment and to personnel engaged in servicing the equipment. It bears no similarity to the fluid used in automobile radiators. Standards governing this fluid and its use have been established (Closed-Loop/Geothermal Heat Pump Systems, Design and Installation Standards, 2007 Edition, International Ground Source Heat Pump Association). It is safe and does not represent a threat to the water supply of Shelter Island. The law states under findings: âA consultant-supported Town Working Group has studied geothermal closed-loop systems and has determined that these systems threaten the aquifer by piercing deep clay units (which help control saltwater intrusion and the draining of the freshwater aquifer) and have the potential to leak contaminants into the general freshwater supply.â This finding, as it pertains to closed-loop piping in a trench, is not true. The clay layer is not disturbed when closed-loop piping is placed in shallow (4- to 6-foot deep) trenches. Nor does the fluid circulating in the piping present a measurable threat of contaminating the soil as it is a relatively harmless substance. The board should reconsider this law as it pertains to closed-loop systems by consulting qualified experts specifically about the environmental threat, or lack thereof, posed by their use. I believe it will find sufficient reason to amend the law and thereby allow Shelter Islanders to make use of this sustainable technology to reduce harmful CO2 emissions and reduce their energy costs significantly, without risk to the aquifer. Please note that I am not a heating or ventilating contractor or in any way engaged in this industry. I am an independent architect who owns property on Shelter Island and I take seriously the need to design sustainable, efficient and intelligent buildings. Share on Facebook Facebook Created with Sketch. Share on Twitter Twitter Created with Sketch. Share via email Mail Created with Sketch. Newsletter Sign Up Email Address The premier news outlet covering Shelter Island. Subscribe Easter weekend gathering at Shelter Island History Museum
+
+## Detail Reserve Appendix
+
+- Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives The Suffolk Times Return to Homepage Search our Archives Search the archives Youâre viewing an archive piece 05.20.2010 Columns Why âJust Saying Noâ to geothermal systems is a bad idea By Times Review It has been one year since the Town Board adopted Local Law No. 2-2009 prohibiting geothermal heating and cooling systems. In that time I have attended, as a practicing architect, several seminars concerning sustainable building design as part of my continuing professional education. Geothermal systems are now part of the subject matter at these events as it is an important new technology that architects should be familiar with. It comes as a shock to the participants of these seminars that the Town of Shelter Island has already banned all geothermal systems. In reviewing the process the town followed in adopting the new law I believe a serious error was made in prohibiting all types of geothermal systems, both the type that utilize water from wells drilled into the aquifer and those that do not. As a result of this new law, Shelter Island residents are unable to benefit from the substantial cost savings of using geothermal energy in heating and cooling their homes and businesses, in using it for domestic hot water purposes and for reducing air pollution on the Island by eliminating fossil-fuel heating systems. They are also prevented from enjoying the benefits of interest rate reductions on loans, technical assistance, grants and funding for geothermal systems now available from LIPA and other New York State sources. In describing the justification for the new law, the town determined that âGeothermal wells have two basic designs: open-loop and closed-loop systems.â This is not accurate. Geothermal systems have two basic designs but only the open-loop type involves a well. The closed-loop design does not involve a well or water from a well. The town further defines the closed-loop system, more accurately, as involving pipes placed in a trench forming a closed loop circulating a fluid into and out of a heat exchange system in the dwelling. It states âThe system functions in the same manner as the open-looped system, except that there is no pumping of groundwater.â This is true as far as energy usage is concerned but not in terms of their effect on the aquifer. The geothermal system that utilizes pipes placed in a trench 4 to 6 feet below the surface (i.e., closed-loop) requires no well or well water and presents no hazard to the water supply of Shelter Island. The board decided that both types of geothermal systems (open, which threatens the water supply, and closed, which presents no threat to the water supply) should be prohibited. There is no hint as to why both systems were dealt with identically. There appears to be no justification for banning closed-loop systems. Geothermal systems make use of the heat stored in the ground due to solar radiation. The heat is stored in the water in the ground and in the soil. Seasonal changes in the weather have little or no effect on the heat stored in the ground. It remains at an almost constant temperature. On Shelter Island this temperature is 55 degrees F. During the heating season this heat can be extracted to help provide space heating. The actual technique employed (heat pump) is not important to the concept. What is important is that no fossil fuel is used in the heating system. Electricity powers the heat pump and the energy needed to heat the house is significantly less than would be necessary if the energy source were a conventional oil or gas-fired boiler or furnace. Heating efficiencies 50 to 70 percent higher than other heating systems can be achieved. During the summer, the geothermal system can be used in reverse fashion to make use of the 55-degree ground temperature to help cool the house. The same heat pump is employed to extract the heat from the air circulating in the house and deliver it back into the ground, reducing the electrical energy required for air conditioning. No noisy outdoor compressor is required. Cooling efficiencies 20 to 40 percent higher than conventional air conditioning systems can be achieved. Whether extracting heat from the ground or returning heat to the ground, the closed-loop geothermal system has no adverse effect on the ground or the groundwater. The fluid circulated through the closed-loop can be a biodegradable anti-freeze fluid that is safe to the environment and to personnel engaged in servicing the equipment. It bears no similarity to the fluid used in automobile radiators. Standards governing this fluid and its use have been established (Closed-Loop/Geothermal Heat Pump Systems, Design and Installation Standards, 2007 Edition, International Ground Source Heat Pump Association). It is safe and does not represent a threat to the water supply of Shelter Island. The law states under findings: âA consultant-supported Town Working Group has studied geothermal closed-loop systems and has determined that these systems threaten the aquifer by piercing deep clay units (which help control saltwater intrusion and the draining of the freshwater aquifer) and have the potential to leak contaminants into the general freshwater supply.â This finding, as it pertains to closed-loop piping in a trench, is not true. The clay layer is not disturbed when closed-loop piping is placed in shallow (4- to 6-foot deep) trenches. Nor does the fluid circulating in the piping present a measurable threat of contaminating the soil as it is a relatively harmless substance. The board should reconsider this law as it pertains to closed-loop systems by consulting qualified experts specifically about the environmental threat, or lack thereof, posed by their use. I believe it will find sufficient reason to amend the law and thereby allow Shelter Islanders to make use of this sustainable technology to reduce harmful CO2 emissions and reduce their energy costs significantly, without risk to the aquifer. Please note that I am not a heating or ventilating contractor or in any way engaged in this industry. I am an independent architect who owns property on Shelter Island and I take seriously the need to design sustainable, efficient and intelligent buildings. Share on Facebook Facebook Created with Sketch. Share on Twitter Twitter Created with Sketch. Share via email Mail Created with Sketch. Newsletter Sign Up Email Address The premier news outlet covering Shelter Island. Subscribe Easter weekend gathering at Shelter Island History Museum
+- IGA Geothermal Papers Online Database Title: Innovative Closed-Loop Geothermal Well Designs Using Water and Super Critical Carbon Dioxide as Working Fluids Authors: Azadeh RIAHI, Branko DAMJANAC, Piotr MONCARZ Key Words: closed-loop, geothermal well, water, modeling, super critical carbon dioxide Conference: Stanford Geothermal Workshop Year: 2017 Session: Emerging Technology Language: English Paper Number: Riahi File Size: 891 KB View File: Abstract: This paper investigates the expected performance of closed-loop geothermal systems. In the past, it has been argued that the rate of thermal conduction through rock masses is not large enough to compensate for the thermal depletion around closed-loop geothermal wells, and that such systems, therefore, cannot maintain the heat extraction rate required for long-term production. Recently, however, because of new technological advances, there is a renewed interest in closed-loop geothermal designs that can exploit the vast energy resources of hot formations unsuitable for conventional hydrothermal geothermal systems. Similar to Enhanced Geothermal Systems (EGS), closed-loop geothermal wells can harvest heat from low permeable and low water content formations; however, in contrast to EGS, closed-loop systems are expected to be more controllable and predictable. They do not involve uncertainties in the nature of fluid flow through the artificially or naturally fractured reservoir, the potential for loss of injected fluid into the surrounding rock mass, nor the potential environmental concerns about induced seismicity, pollution of sub-surface groundwater, and extraction of dangerous elements to the surface. Various designs have been proposed for closed-loop geothermal systems, including co-axial, U-Shape, and multiple string wells. Geothermic Solution LLC (GSL) proposes to use a co-axial closed-loop system with water as the working fluid. The design involves a well with vertical and horizontal sections. The cold water will be injected through the annulus within the well with the outside surface in contact with rock. The heated water will travel to the surface through the inner tube of the well. In this paper, the performance of the GSL well is investigated for a period of 30 years using a numerical modeling approach carried out using FLAC3D, a commercial software developed by Itasca (2015). The model considers heat transfer by (a) conduction through the surrounding rock, (b) advection by fluid circulating in the well, and (c) convection (i.e., heat exchange between the surface of the pipe and the moving fluid). The result of this study is presented along with another closed-loop design, ECO2G technology (GreenFire, 2016; Oldenburg et al., 2016; Higgins et al., 2016), which circulates supercritical carbon dioxide (SCO2) instead of water. ECO2G technology is based on a closed-loop design with a U-Shape well geometry that consists of a vertical injection well, a horizontal section, and a vertical production well. It has been argued that due to its unique properties, SCO2 harvests substantially more energy than water. A series of sensitivity studies with respect to injection temperature and flow rate are carried out for the GSL design with water as the working fluid. The results in each case are compared to results presented for the ECO2 technology under identical conditions (Oldenburg et al., 2016). The generated thermal power for both closed-loop geothermal designs are also presented. The results of this study will show that closed loop systems are very viable and that water is an excellent working fluid to extract heat and that its performance in terms of generated thermal power will be comparable to that for SCO2. However, it is noted that SCO2, while more complex in risk control than water, may have some advantages due to development under certain conditions of thermosiphon. Principally, the cost for sub-surface implementation of both designs are comparable. It is noted that a thorough investigation of economic feasibility requires taking into account the surface facilities converting the thermal energy into end-use energy. This step is beyond the scope of the current paper. Also, the operation costs and procedural aspects, including (a) cost for set-up of the system, or (b) pressure requirements at the inlet and outlet for maintaining the same flow rate in different systems, will not be compared. The results of this study suggest that the range of generated power for different closed-loop systems is close and comparable. One major advantage of these systems is their predictability, i.e., the variability in the expected range of produced power would be significantly lower than the variability expected in EGS system. Therefore, closed loop could be a promising contributor to future geothermal power production. 172.208.125.197, you have accessed 0 records today. Press the Back button in your browser, or search again. Copyright 2017, Stanford Geothermal Program: Readers who download papers from this site should honor the copyright of the original authors and may not copy or distribute the work further without the permission of the original publisher. Attend the nwxt Stanford Geothermal Workshop, click here for details . Accessed by: 172.208.125.197 (172.208.125.197) Accessed: Friday 10th of April 2026 03:17:05 AM
+- Geothermal District Heating Agree & Join LinkedIn By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Skip to main content LinkedIn Top Content People Learning Jobs Games Join now Sign in Geothermal District Heating Report this article Sandra Law, PE Sandra Law, PE Published Feb 24, 2021 + Follow “Methane is 84 times more detrimental to the environment than CO2 in terms of heat.” Secretary John Kerry focused in on the methane problem in his presentation at DAVOS. Resolving the methane problem is on the top of the list of things we need to resolve. There is some low hanging fruit that a company. HEET has been investigating in Boston. Gas pipeline explosions in places like San Ramon, CA and Andover, MA, has also raised attention to the potential hazard beneath the streets. That is leaking gas lines within the distribution and transmission. This is a potential issue all over America, and many other countries, as well. Maintenance of gas lines continues across the country every day. But what if we could do additional work while we fix the gas lines to eventually move us off gas in our homes completely. Could we place geothermal district heating in our neighborhoods? This could lower our energy cost, increase our comfort, and save us from the hazards of CO2 or CH4 emissions in our homes. My long-held belief in Geothermal Energy, with my experience in New Zealand, is it must be one solution for baseload electricity in the renewable age. As a renewable source of energy within the Ring of Fire, it is a good one, but can it be applied in a wider context? Can Geothermal Closed Loop systems be included in the conversation about microgrid development? And what does that look like? Geothermal Closed Loop system is not a recent technology, so it has not received the fanfare of wind, solar, and batteries, but its time has come. When Geothermal Closed Loop systems are combined with Solar and battery storage, the efficiency of the microgrid can produce efficiencies that the industry has only dreamed of in the past. It eliminates the need for a natural gas, oil, or coal burning boiler and replaces them with pumps that pump water throughout the building creating a constant steady temperature with parasitic electrical load to run the pumps. It extracts the hot or cold air out of the room depending on the time of year. It also reduces the consumption of water, by eliminating chillers and cooling towers. Now you ask what does Geothermal Closed Loop systems have to do with leaky natural gas pipes? HEET, Eversource, and National Grid are going one step further. They are working on a concept that will bring the two thoughts together to allow the gas utilities to repurpose to provide operation and maintenance for the geothermal loop. The loops are installed alongside the natural gas distribution lines in the streets of most communities and cities. This will allow for the roads that require natural gas lines to be repaired to be dug up once and repaired, while the geothermal is added to the system. The geothermal closed loop as district heating will only require the in-home equipment requirements to be switched out, which will not vary from simply buying a new boiler. · The advantage of using geothermal closed loop serving a district of homes or a mixture of buildings are numerous. · No longer combusting natural gas in the home, eliminating the CO2 emission potential inside or outside of the buildings. · Cleaner air · All homeowner/building owner’s equipment is inside, not exposed to weather. · The economics of distributed closed loop takes the most expensive aspect and distributes the cost like a utility surcharge. · Each customer would be able to control the temperature in their buildings on a single ducted system or multiple mini splits. · The installation, maintenance, and operation of the closed loop remain with the utility enabling them to repurpose workers, financial framework, and their future. Watch the GRCx Clean Heat - The Potential of Networked Geothermal
+- Analysis of an enhanced closed-loop geothermal system - Penn State Skip to main navigation Skip to search Skip to main content Penn State Home Help & FAQ Link opens in a new tab Search content at Penn State Home Researchers Research output Research units Equipment Grants & Projects Prizes Activities Analysis of an enhanced closed-loop geothermal system Sai Liu , Arash Dahi Taleghani Leone Family Department of Energy and Mineral Engineering (EME) Research output : Contribution to journal › Article › peer-review 33 Link opens in a new tab Scopus citations Overview Fingerprint Abstract Closed-loop geothermal systems are a novel heat extraction technique not requiring continuous fluid supply. Heat extraction efficiency of closed-loop systems is often limited due to the small heat exchange area between the circulating fluid in the wellbore and surrounding rock. An enhanced closed-loop geothermal system (ECLGS) is considered here to improve the heat extraction efficiency of closed-loop systems. The objective of ECLGS is to increase heat transfer from surrounding hot rocks to the wellbore by artificial fractures propped with high-thermal-conductivity proppants. To explore the mechanism controlling heat extraction through ECLGS, a systematic study was conducted. First, a three-dimensional hydrothermal coupled model was developed and validated, and the effects of several parameters were analyzed. It was found that highly-conductive fractures could enhance heat extraction through closed-loop systems considerably. As the flow velocity of the circulating fluid increases, the net power starts to decrease after reaching a peak value. An increase in fluid heat capacity would enhance heat extraction but without requiring more pumping power. The four-wing fracture configuration causes higher heat extraction improvement than the branched fracture. A dimensionless analysis was performed for ECLGS, and three dimensionless numbers integrating different involved parameters were proposed. The proposed dimensionless numbers have been verified numerically. The effect that each dimensionless number has on production temperature has been investigated. Via dimensionless numbers, it becomes feasible to comprehensively assess the impacts of involved parameters, thus making designing closed-loop systems more convenient. The possible ways to apply proposed dimensionless numbers to building a closed-loop system have been illustrated. Original language English (US) Article number
+- Multilateral closed-loop geothermal systems as a Zero- Emission load-following resource - Princeton University Skip to main navigation Skip to search Skip to main content Princeton University Home Help & FAQ Link opens in a new tab Search content at Princeton University Home Profiles Research units Facilities Projects Research output Press/Media Multilateral closed-loop geothermal systems as a Zero- Emission load-following resource Michael Holmes , Matthew Toews , Jesse Jenkins , Nestor Sepulveda Research output : Chapter in Book/Report/Conference proceeding › Conference contribution 8 Link opens in a new tab Scopus citations Overview Fingerprint Abstract The Eavor-LoopTM, a multilateral closed-loop geothermal system (MCLGS), is introduced as a zero-emission load-following resource (ZELFR) that is globally scalable and can provide baseload or dispatchable electricity. For any electrical grid to reach net-zero, ZELFR or largescale energy storage is required to balance intermittent renewables like solar and wind and provide grid stability. Given the declining costs of intermittent renewables and their increased utilization in modern grids, the ability to load follow is both crucial and highly valued. The objectives of this paper are two-fold. First, we prove the technical feasibility of MCLGS to provide flexible power using first principles-based models. Second, we demonstrate the value enhancement of flexible operation with a case study of the United States Western Interconnection power transmission grid using an electricity resource capacity expansion model. A transient, fully coupled wellbore + thermal model was developed and validated using over a year of operating data from the Eavor-LiteTM facility, a full-scale Eavor-LoopTM demonstration project in Alberta, Canada. Recent modelling work, coupled with field trials, has proven the feasibility of Eavor-LoopTM to provide flexible energy for load-balancing or peak-matching with a minimal impact on lifetime energy extraction. Transient operation allows the system to recharge during low demand periods. To demonstrate the value of Eavor-LoopTM in a net-zero grid, an electricity resource capacity expansion model (GenX) was used. GenX is a constrained optimization model that determines the mix of electricity generation and storage required to meet electricity demand while minimizing system cost. Flexible Eavor-LoopTM operation provides stability for the grid, matching electricity generation with demand, and reduces annual total system cost by up to $20B (21%) in a base case and up to $403B (81%) in an extreme case. Inclusion of Eavor-LoopTM also reduces land use required by up to 49%, saving 25 acres in a base case and 48 acres in an extreme case for each megawatt of Eavor-LoopTM installed. Original language English (US) Title of host publication Using the Earth to Save the Earth - 2021 Geothermal Rising Conference, GRC 2021 Publisher
+- Closed Loop Systems | Wisconsin Geothermal Association info@wisgeo.org 888-782-6815 Responsibly advancing the geothermal heating and cooling industry in Wisconsin About Geothermal How it works Components Closed Loop Systems Open Loop Systems Applications Projects FAQ The Pros Master Geothermal Installer Find a Pro How to choose a pro Code of Ethics Events Annual Conference IGSHPA Golf Outing Geo Ride! News Newsletters Geo Tech Bulletins Links Sponsors About Contact Us Join Shop Closed Loop Systems Closed loop systems are more common than open loop systems because they can be installed at almost any site. Closed loop systems have a continuous ground loop; the fluid inside never comes in contact with the environment. Vertical loop A vertical loop system uses wells drilled one to three hundred feet into the ground as the ground loop. A u-shaped pipe is placed in each trench so that fluid can go down the well, transfer heat, and come back to the surface without ever contacting the rock or soil. These wells take up significantly less room than other configurations, but will cost more. The depth of vertical systems can also lead to consistent performance. Horizontal loop It is also possible to place the ground loop in a horizontal configuration, in which the piping is simply laid in one or many trenches in the ground. This is an inexpensive method of installation, and is often used in residential or light commercial applications. There are many different layouts for horizontal systems. In some cases 2-6 pipes are distributed in each trench; in some cases a ‘slinky’ formation is used. If a large amount of earth can be moved to create one very wide trench, rows of pipe can all be laid in this trench in a ‘racetrack’ formation. All have been successful heat transfer devices. Pond loop If a pond (or lake) is available on the building site, it is often convenient to simply sink the loop into the pond and transfer heat to and from the water of the pond. This can be just as efficient as a ground loop if care is taken in choosing a large enough body of water. Proceed to Open loop systems
+- Genesys Geothermal Solution Technology Features FAQ Contact Us Geothermal for Every Building A transformative heating & cooling solution designed to accelerate decarbonization and support building electrification. Learn More A Groundbreaking Solution Meet CLAD Our Closed-Loop Advection Device, CLAD, taps into the heat transfer attributes of groundwater to deliver heating and cooling at unmatched performance. Learn more Lower Carbon Emissions Optimize energy usage with our heating and cooling solution that significantly reduces carbon emissions - a clean replacement to traditional systems that rely on fossil fuels. Reduce Operational Expenses Genesys’ CLAD delivers unrivaled efficiency for long term savings – using less energy to achieve the same level of heating and cooling comfort as traditional HVAC systems. Optimize Performance No matter your building's size or specifications, our geothermal solutions are engineered to perfectly fit the needs of any space, ensuring peak operation year-round. Unlock the Benefits of Geothermal Why Generate Heat When You Can Transfer It? Unlike traditional HVAC systems that focus on generating heat, relying on harmful fossil fuels, our closed-loop geothermal technology transfers the natural thermal energy from water underground to heat and cool your building with improved efficiency and lower overall emissions. ‍ Our solution exchanges heat via advection by engaging the stable temperatures and high heat transfer capabilities of groundwater. Without ever coming above surface, groundwater circulates through a series of interconnected loops and past a well heat exchanger. To provide warmth in the winter, heat is extracted from the ground, and to deliver cooling in the summer, excess heat from indoors is removed and returned back underground. Genesys Elevates Geothermal Every building has unique requirements, and our geothermal systems are designed to meet them. With an array of CLAD unit sizes and configurations, we customize your geothermal solution to deliver optimal performance and measurable savings. Contact Us Why Choose Genesys Superior Heat Transfer Setting us apart from conventional geothermal systems, our closed loop design exchanges heat via advection, leveraging the high heat transfer properties of groundwater to maximize efficiency. No Thermal Buildup Due to its non-accumulating system design, CLAD reliably meets temperature demands at all times and for all building types, even those with heating or cooling dominant loads. Precision Temperature Control Engineered to deliver a consistent and narrow range of entering water temperatures (EWT), our solution enables heat pumps to operate more efficiently, reducing overall energy consumption. Zero Water Depletion Our closed-loop design prioritizes groundwater protection by keeping it below the surface, ensuring that every drop of groundwater is conserved and returned to the aquifer.
+- Connectivity and Performance Evaluations for Fractured and Closed Loop Geothermal Systems Skip to main content Cornell University Library Cornell University Library eCommons Help Log In (current) Home Cornell University Graduate School Cornell Theses and Dissertations Connectivity and Performance Evaluations for Fractured and Closed Loop Geothermal Systems Connectivity and Performance Evaluations for Fractured and Closed Loop Geothermal Systems File(s) Chandrasekar_cornell_0058O_11248.pdf (4.67 MB) Show more Permanent Link(s) https://doi.org/10.7298/f8tw-ss63 https://hdl.handle.net/1813/110796 Collections Cornell Theses and Dissertations Author Chandrasekar, Harish Abstract The thermal energy stored in the Earth’s interior to depths of 10 km is vast compared to the annual global consumption of primary energy. Despite these large resource estimates, the installed worldwide geothermal production capacity is limited to 16 GW electric and 30 GW thermal. The reason for the limited capacity primarily lies in the fact that profitable high enthalpy geothermal systems also called Hydrothermal systems are geographically rare. Two technologies are being proposed to expand deep geothermal development and to make it globally accessible, namely-Enhanced Geothermal Systems (EGS) and Closed Loop Geothermal Systems (CLG). The primary difference between the two systems being the circulation of fluid takes place through hydraulically stimulated fractures in the rock for the former and the circulation of fluid takes place in a closed pipe for the latter. This thesis aims at dealing with the connectivity and thermal hydraulic performance of both these systems through analytical and numerical modeling techniques. The connectivity and thermal hydraulic performance in the context of EGS/CLG refers to the flow and thermal profile evaluation of a working fluid as it advances through the fractures in the subsurface between an injection and production well or through a closed pipe in the subsurface. A characterization technique for evaluating the hydraulic connectivity of a fractured bedrock is developed using periodic pumping tests. Traditional pumping tests performed to characterize the subsurface are often not suitable for fractured EGS systems since the diffusion length or radius of penetration quickly expands beyond the inter-well distance. Periodic pumping tests allow us to control the diffusion length by varying the period or frequency of the oscillation. Therefore, testing at multiple frequencies help probe different distances in the system. Analytical models and signal processing techniques are developed and employed to analyze the data generated from the periodic pumping tests conducted at a meso scale field site known to exhibit extreme flow channeling. The width of the channel formed was computed for various periods or frequency of oscillations and were found to decrease with period. Besides, the storage of fluid in the medium was compared with that of the storage in the monitoring wells and the former was found to be the dominating storage mechanism at the meso scale field site. Numerical Simulations are performed using a developed Finite Element Method (FEM) technique to evaluate CLG technologies. Sensitivity analysis is performed and their thermal performance is evaluated for various operating conditions. The developed models are also validated with Slender Body Theory (SBT) based approaches. In all scenarios, the results exhibit a large rapid drop in production temperature immediately after initiation of operations that levels off to a lower near steady state value. CLG is also compared with EGS using analytical techniques. In summary, it is found that CLG may be more appropriate when traditional hydrothermal systems and EGS are off the table, in situations with existing wells and for direct-use heat applications. Description 140 pages Date Issued 2021-12 Keywords Analytical and numerical modeling • Closed loop geothermal systems • Fracture flows • Well connectivity Committee Chair
+- Geothermal Closed Loop Systems - Bergerson Caswell Incorporated Bergerson Caswell Incorporated Your full service pump, well and water conditioning contractor since 1948. Home About Us Company Profile Solar Energy Production Make a Payment Commercial Commercial Wells & Borings Commercial Services Well Video Services Residential Water Systems Residential Water Wells Residential Water Service Residential Water Treatment Make a Payment Environmental Environmental Wells & Borings Environmental Services Geothermal Geothermal Closed Loop Systems Geothermal Services Geothermal Conductivity Testing Contact Us Make a Payment Geothermal Closed Loop Systems Geothermal Closed Loop Systems Bergerson Caswell began installing vertical geothermal systems in 1987. Since then we have diversified our operation to include horizontal and lake systems as well. From large commercial projects to an individual home, we employ the most experienced craftsman to ensure your system becomes a great investment. All of our products are comprised of materials that meet the top industry standards. This ensures you are provided with a high quality product that will stand the test of time. Please contact us regarding any of these products: Vertical Heat Exchangers Horizontal Heat Exchangers Lake or Pond Systems Test Borings Clean Sites Mud & Air Rotary drilling Thermal Conductivity Testing and Reports Bergerson Caswell has project references throughout the U.S. and is a leader in commercial geothermal experience. Contact us about Geothermal services:
+- Thermoporoelastic Analysis of a Single-Well Closed-Loop Geothermal System - Penn State Skip to main navigation Skip to search Skip to main content Penn State Home Help & FAQ Link opens in a new tab Search content at Penn State Home Researchers Research output Research units Equipment Grants & Projects Prizes Activities Thermoporoelastic Analysis of a Single-Well Closed-Loop Geothermal System Milad Ahmadi , Arash Dahi Taleghani Leone Family Department of Energy and Mineral Engineering (EME) Research output : Chapter in Book/Report/Conference proceeding › Conference contribution 6 Link opens in a new tab Scopus citations Overview Fingerprint Abstract Geothermal systems are identified as either open-loop geothermal systems (OLGS) or closed-loop geothermal systems (CLGS). In OLGS, fluid is produced from the subsurface, while there might be concurrent fluid injection into the reservoir. The loss of working fluid, surface subsidence, and formation compaction are major challenges in OLGS. To address the indicated challenges, closed-loop geothermal systems can be considered as an alternative option. In CLGS, a working fluid with low boiling point is circulated through the coaxial sealed pipes to extract heat from the geothermal reservoir. Conduction is the main heat transfer mechanism in the CLGS; however, available mere-conduction configurations are not capable to quickly transfer heat from the reservoir to the wellbore. To improve conductive heat extraction from this system, we suggest induced thermal-conductive fractures for CLGS to enhance conductive heat transfer into the wellbore. Comprehensive analysis of this problem requires simultaneous modeling of fluid flow, heat transfer and rock deformation. A finite element thermo-poroelastic model represents CLGS. The numerical results suggest that fractures significantly improve thermal power and cumulative extracted heat for the proposed configuration. Thermal conductivity of the proppants filling the induced fractures is the key parameter affecting the heat extraction. Negligible surface subsidence in the proposed technique suggests this configuration is suitable for the areas where surface subsidence or induced seismicity restricts the application of OLGS. Original language English (US) Title of host publication Poromechanics 2017 - Proceedings of the 6th Biot Conference on Poromechanics Editors
+- Closed Loop Geothermal Boreholes Deeper Than 500 Feet - NYSDEC Skip to main content Department of Environmental Conservation Things To Do Things To Do There are many ways to experience New York’s great outdoors. Maybe you’ll get hooked on fishing or discover sleeping under the stars is the perfect way to spend a weekend. We have information for beginners up to the more advanced outdoor enthusiast. View All Outdoor Activities Camping Hiking Birding Hunting Trapping Freshwater Fishing Saltwater Fishing Shellfishing Boating Paddling Watchable Wildlife Summer Camps Love Our New York Lands Adventure NY Get Offline, Get Outside Places to Go Places to Go Looking for your next adventure? New York has more than 5 million acres, 7,000 lakes and streams, and 52,000 miles of rivers and streams for you to explore. Use our Places to Go search tool to find locations nearby for your favorite outdoor activity. Find Your Spot Find Places to Go Know Before You Go Accessible Recreation Maps Wildlife Management Areas Tidal Wetland Areas Agencies That Manage Public Land Discounts For Outdoor Recreation Nature Nature New York is home to many animals and plant species – both native and invasive. Learn how we protect open space and reclaim land after mining is complete. Discover the water around you in lakes and rivers, wetlands, oceans, and underground. Learn About Nature Animals, Fish & Plants Invasive Species
+- Technology - Eavor - Closed-loop Geothermal, Unlike Any Other Skip to content Home Technology Projects Eavor-Europe™ Eavor-Deep™ Eavor-Lite™ Our People Press Releases Newsroom / Media Investors Careers Contact Eavor-Lite™ Virtual Tour Home Technology Projects Eavor-Europe™ Eavor-Deep™ Eavor-Lite™ Our People Press Releases Newsroom / Media Investors Careers Contact Eavor-Lite™ Virtual Tour Technology Closed-Loop Geothermal Technology for a 24/7 Carbon-free and Secure Energy Future Technical Resources Technology Videos The Eavor-Loop™ Next Generation Geothermal ⮟ One aspect that enables Eavor to scale is the method in which it harnesses heat. Unlike traditional geothermal, Eavor-Loop™ systems extract heat from hot rock via conduction. Traditional geothermal and Enhanced Geothermal Systems (EGS) typically use convection methods, and this requires either direct access to hot aquifers or fracking to increase permeability of rock. Aquifers can be difficult to locate and fracking is associated with induced-seismicity risk. Hot rock is almost everywhere beneath our feet, which means that Eavor can harvest its energy from virtually anywhere across the planet. The Radiator ⮟ Eavor’s closed-loop geothermal technology consists of several Patented and Patent Pending innovations. The Eavor-Loop™ is a closed-loop geothermal system, drilled into the Earth with a series of multilateral wellbores. A proprietary working fluid is contained and circulated in the system which retrieves heat from the surrounding rock via conduction. The working fluid is not fluid from a reservoir flowing into our wells, it is a fluid added to the Eavor-Loop™ to create an efficient reverse radiator, much like a vehicle radiator circulates fluid in a closed loop to remove heat from a gasoline engine. Energy Generation ⮟ Eavor-Loop™ harvests heat from deep in the earth to be used for commercial heating or cooling applications (ex: greenhouses or district heating or cooling) or to be used to generate electricity using conventional heat to power engines. Eavor-Loop™ is a utility scale geothermal system that mitigates many of the issues with traditional geothermal systems, which rely upon using wells to produce brine from a subsurface aquifer. Advanced Geothermal ⮟
+- Open Loop vs Closed Loop Geothermal Systems - Dandelion Energy Skip to content Builders Homeowners Drilling Get in touch Team Careers FAQs Impact News Contact Back to site News / Post Open Loop vs Closed Loop Geothermal Systems March 16, 2020 All geothermal systems use ground loops to capture the consistent temperature of the earth to provide heating and cooling. There are several different approaches to ground loop design, but they all fall under two basic categories: closed loop and open loop. While every ground loop serves the same function, there are pros and cons to each design. In this post we’ll explore your options so you can find the right geothermal heating and cooling solution for your home. What’s a Closed Loop Geothermal System? A closed loop geothermal system continuously circulates a heat transfer solution through buried or submerged plastic pipes. The loop is filled just once and requires only a moderate amount of solution. The same solution is used again and again in a closed loop ! These underground pipes connect to an indoor heat pump to provide heating and cooling. For more information of the different ways of designing closed loop systems check out our detailed guide to geothermal ground loop systems . What’s an Open Loop Geothermal System? An open loop geothermal system pipes clean ground water directly from a nearby aquifer to an indoor geothermal heat pump. After the water leaves the home, it’s expelled back through a discharge well, which is located a suitable distance from the first. The water may also be directed into a local pond or approved drainage ditch, depending on local codes. Because open-loop systems utilize water on a “once through” basis, they are often referred to as “pump and dump” systems. Which is Better: Closed Loop or Open Loop Geothermal Systems? Cost: Because open loop systems require no trenching, drilling, or burying hundreds of feet of plastic pipe, open loop systems are the simplest and often cheapest type of geothermal to install. Those costs are unavoidable when installing any closed loop geothermal system. Feasibility: Open loop geothermal systems are only an option if there’s a plentiful supply of clean, fresh water on-site. This water source must also meet the geothermal system’s gallons-per-flow requirements, even through seasonal changes. Closed loop geothermal systems are practical for small and spacious properties alike and don’t rely on any nearby water source to heat and cool properties. Durability: The performance of an open loop system may degrade over time if water quality issues like silt, sediment or high mineral content are present or if the water supply diminishes for any reason. Closed loop geothermal ground loops can last 50+ years — even up to 100 years with little to no maintenance. Once installed, the buried ground loop will be a permanent fixture on the property for as long as there is a building to heat and cool.
+- Closed loop versus an open loop geothermal district system: A techno-economical assessment (Conference) | OSTI.GOV Skip to main content Sign In Create Account OSTI.GOV U.S. Department of Energy Office of Scientific and Technical Information U.S. Department of Energy Office of Scientific and Technical Information Search terms: ⏷ Submit Research Results Search Tools Public Access Policy PID s Services & Dev Tools About FAQs News Sign In Create Account OSTI.GOV Conference: Closed loop versus an open loop geothermal district system: A techno-economical assessment Closed loop versus an open loop geothermal district system: A techno-economical assessment Conference · 31 December 1996 OSTI ID: 494339 Kilkis, I B Fundamental techno-economical parameters governing an open loop and a closed loop geothermal district energy system are briefly discussed. The maximum allowable closed loop distance between the geothermal plant and the district entry point is directly related to the thermal capacity of the system. A case study is presented, which indicates that a closed loop distance covering 31 kilometers between the well head and the district entry point is feasible for a 89.1 MW(t) district capacity for the City of Denizli in Tuerkiye. The same study reveals that the common base unit capital cost of 240 $/kW(t)-peak for a closed loop system favorably compares with 480 $/kW(t)-peak for an open loop system for the same district capacity for the existing geothermal well output. 🛈 OSTI does not have a digital full text copy available. For more information, please see
+- Open Loop Vs. Closed Loop Geothermal • Ingrams Water & Air The store will not work correctly when cookies are disabled. X Privacy Information We use cookies to ensure fast, reliable, and secure operations, and to give you the best possible experience when using our website. We use both session-based cookies and persistent cookies . We also allow the use of third-party cookies by certain authorized third parties with whom we execute marketing campaigns. For more information, please refer to our Privacy And Cookie Policy . Skip to Content Up to 6 months 0% APR Financing Available! Learn More... Toggle Nav 1-270-575-9595 Chat Request a callback Email Support Call Center Open 6 Days a Week Our Kentucky Call Center is Open 6 Days a Week Mon - Fri: 7:00am - 7:00pm (CST) Sat: 9:00am - 3:00pm (CST) : Sales/Service Only Sun: Closed Walk-In Lobby Hours Mon - Fri: 7:30am - 4:30pm (CST) Sat: Appointment Only Sun: Closed Call Center Open 6 Days a Week Your Personal Connect ID: What is this? Save time when you speak with one of our experts 1. Call us at 1-270-575-9595 or start a chat session.
+- Geothermal Ground Loop FAQs - Dandelion Energy Skip to content Builders Homeowners Drilling Get in touch Team Careers FAQs Impact News Contact Back to site News / Post Geothermal Ground Loop Frequently Asked Questions February 19, 2024 What is a ground loop? A ground loop is a U-shaped plastic pipe (a “u-bend pipe”) buried in a borehole deep enough to reach consistent year-round temperatures. It acts as a heat exchanger, allowing the geothermal heat pump to draw heat from the earth or release heat back into it. How does a ground loop work? About 6 feet underground, the earth stays at a steady temperature, unaffected by daily or seasonal air changes.The steady, mild temperatures underground allow the earth to act as a heat source in winter and a heat sink in summer. The geothermal heat pump, which is located inside the home, captures this energy by circulating thermally conductive fluid (aka water with a non-toxic antifreeze mixed in) through the ground loop. In winter, water in the ground loop absorbs heat from the earth and delivers it to the heat pump, which concentrates it to warm your home. In summer, the system reverses, moving heat from your home into the ground to keep it cool. Types of Ground Loop Systems There are several types of ground loop designs, but they all fall under two basic categories: closed loop and open loop. Closed Loop Geothermal Systems There are 3 types of closed loop geothermal systems: vertical loops, horizontal loops, and a water, or “pond loop” system. Because pond loops require the homeowner to have a large body of water on the property, they’re relatively uncommon, and we won’t discuss them in detail here. Horizontal Ground Loops Installers lay horizontal ground loops across a wide area, digging trenches hundreds of feet long and 6–10 feet deep. These systems work only when the yard has enough space and soil conditions make trenching easy. Ground Loop Installation To install a horizontal system, workers utilize trenchers or backhoes to dig trenches 5-10 feet below ground and then install a series of plastic pipes that comprise the geothermal heat exchanger. They will then backfill the trench, taking care not to allow sharp rocks or debris to damage the pipes. A common practice is to coil the pipe into a slinky shape to fit the loop field in a smaller area. While doing this reduces the amount of land area needed, it will require installation of more pipe. This configuration is usually the most cost effective because it requires trenching rather than drilling. Vertical Ground Loop A vertical ground loop is installed in one or more boreholes about 200 to 500 feet deep in the ground. Each hole is 5 to 6 inches in diameter, and if you have more than one, they’re about 20 feet apart. This configuration works best for homes with limited yard space, shallow rock formations, or retrofit projects where homeowners want minimal disruption to landscaping. Vertical Ground Loop Installation To install a vertical loop, a contractor will use well-drilling equipment to bore a 6-8 inch diameter vertical hole in the ground 200-500 feet deep. Next, installers insert a single U-bend pipe loop into the hole, then grout it from bottom to top. The grout serves two primary functions: Ensures contact between the pipes and the earth to promote heat transfer. Seals the hole off from any aquifers or groundwater supplies that may have been penetrated during the drilling process. Protecting the deep earth environment with a proper grouting material is just as important as providing heat transfer between the piping system and the surrounding earth. Vertical loops are generally more expensive to install, but require less piping and less land area than horizontal loops. Dandelion Geothermal currently only installs vertical ground loop systems. This type of geothermal system is ideal for urban or suburban areas across the Hudson Valley and NY’s Capital Region where space is at a premium.
+- Open-Loop vs. Closed-Loop Ground Source Heat Pumps - Energy Vanguard skip to Main Content About Knowledge Newsroom Contact Us Book Dr. Bailes Blog HVAC Design HVAC Load Calculations HVAC Design Protocols HVAC Design for Code Compliance System Replacement HVAC Design Data Collection Forms Sample HVAC Design Reports Search Search Submit Open-Loop vs. Closed-Loop Ground Source Heat Pumps 2023-08-23 Allison Bailes Blog heat pump heating & cooling I mainly talk about air source heat pumps here. But ground-source heat pumps are an important type of heat pump, too. So today, let’s look at the issue of open-loop vs. closed-loop design when installing this type of heat pump. What is a ground source heat pump? First, I use the term ground source heat pump, but they’re also called ground-coupled or geothermal heat pumps. They do exactly the same thing as air source heat pumps: They move heat between indoors and outdoors. The equipment is really just a heat exchanger with a lot of interesting physics that keeps your house cool in summer and warm in winter. The only difference is that in a ground source heat pump, the outdoor exchange happens with the ground, groundwater, or surface water. The diagram below shows four different ways that outdoor heat exchange can occur. A ground source heat pump draws heat from or dumps heat into the ground, groundwater, or surface water. [Source: US Dept. of Energy Building America Solutions Center] The main advantage of ground source heat pumps is that it’s easier to draw heat from the ground in winter and dump it into the ground in summer. Why, you ask? A couple of reasons. First, the ground temperature doesn’t vary like the air temperature does. Second, the ground or water that you’re drawing heat from or dumping it into can have a higher heat capacity than air. (See the comment by RoyC below for a better understanding of that second issue. It’s the one that begins with “I have to disagree with Allison…”) Open-loop vs. closed-loop Anytime you’re in the position of choosing a heating or cooling system, you have to make decisions. One that comes up with ground source heat pumps is deciding between the open-loop vs. closed-loop types for the outdoor heat source or sink. The diagram above shows four closed-loop systems. In that type, the fluid that exchanges heat with the ground is a mixture of antifreeze and water. As the name suggests, it’s contained in a closed system that circulates the fluid through the pipes. That same fluid going through the pipes over and over. [Source: US Dept. of Energy Building America Solutions Center] One type of open-loop system is sometimes referred to as a pump-and-dump system. That pretty much tells you how it operates. You pump water from the ground or a pond, run it through the heat exchanger, and dump it onto the surface or into a storm sewer. That type is widely illegal (see next section). But there are three other types of open-loop systems that handle the water responsibly after the heat exchange. The diagram above shows one of them, the doublet. It has water being pumped out of one well and then sent back into a different well. The other two open-loop types are the standing column well and the dynamic closed loop. The latter is really an open-loop/closed-loop hybrid. See Jay Egg’s article on this topic for more detail. Pretty simple concept, right? Which type is better?
+- Geothermal Loop Design 101 | Precision Comfort Systems Services Maintenance Repair Air Conditioner Repair Furnace Repair Heat Pump Repair Replacement Air Conditioner Replacement Furnace Replacement Heat Pump Replacement Plumbing Services Indoor Air Quality Geothermal About Our Story Careers Resources Contact Search SCHEDULE ONLINE Pay Now Call 317.867.2665 Select Page Geothermal Loop Design 101 Geothermal energy systems offer a sustainable and efficient solution for heating and cooling homes, leveraging the constant temperatures beneath the Earth’s surface. Precision Comfort Systems, with our extensive experience in geothermal loop design in Hamilton County, Central Indiana, are leaders in this innovative field. But what exactly does “geothermal loop design” entail, and how does it contribute to your home’s energy efficiency? The Basics of Geothermal Loops At its core, a geothermal system consists of a heat pump and a network of pipes, known as the geothermal loop, buried underground or submerged in water. This loop is essential for transferring heat between your home and the ground, exploiting the Earth’s stable underground temperatures. There are two primary types of geothermal loops: open and closed. Open Loop Systems: These systems utilize groundwater from a well or a body of water as a direct energy source. Water is pumped from the source, circulates through the geothermal heat pump to exchange heat, and is then discharged back into the ground or water body. While cost-effective, open loop systems depend heavily on water quality and availability, making them suitable only in areas with abundant, clean groundwater. Closed Loop Systems: These are more common and versatile, consisting of a continuous piping loop filled with a heat transfer fluid. The fluid circulates in a closed circuit, absorbing heat from the ground in winter and transferring heat back into the ground in summer. A closed loop system can be further categorized based on configuration and installation method. Types of Closed Loop Systems Horizontal Loops: Ideal for properties with sufficient land area, horizontal loops involve burying pipes in trenches about 6 to 10 feet deep. To maximize space efficiency, the pipes can be laid straight or in a “slinky” pattern. This setup is typically more cost-effective but requires a large, unobstructed area for installation. Vertical Loops: Vertical loops are the go-to solution when land space is limited. These involve drilling boreholes 100 to 500 feet deep into the ground, with pipes inserted vertically and connected at the bottom with a U-bend. Although more expensive due to drilling costs, vertical loops are ideal for urban or suburban areas with limited yard space. Pond (Lake) Loops: If a property has access to a large, deep pond or lake, pond loops can be an economical and efficient option. Coils of pipe are submerged at least 8 feet deep to prevent freezing. This method eliminates the need for extensive excavation or drilling, making it a cost-effective choice for properties with suitable water bodies nearby. Directional Bore Loops:
+- Geothermal Closed Loop Heat Pump Market Skip to content PW Consulting Health Care Research Center Home About Us Contact/Customized Research Latest Reports About Us Contact/Customized Research Home Latest Reports Geothermal Closed Loop Heat Pump Market Geothermal Closed Loop Heat Pump Market March 3, 2026 Updated Sophie Turner Consumer Goods Summary Infograph Table of Contents Methodology Purchase/Customization 2030 Forecast $9.32 Bn Growth Rate ↗ 7.29% Top Region North America 👉 See Visual Breakdown What are the primary factors driving demand for geothermal closed-loop heat pumps in residential versus commercial sectors? Demand for geothermal closed-loop heat pumps (GCLHPs) is driven by distinct, sector-specific dynamics. In the residential market, rising awareness of energy efficiency and sustainability drives adoption as homeowners seek lower energy bills and smaller carbon footprints. The U.S. Department of Energy notes geothermal systems can be about 45% more efficient than traditional HVAC, a compelling efficiency premium when paired with long-term savings. Financial incentives matter; tax credits, rebates, and favorable financing can cover roughly 30% of installation costs for homeowners, strengthening ROI and reducing upfront risk. The Federal Residential Renewable Energy Tax Credit remains a pivotal lever for homeowners investing in geothermal, with policy windows influencing timing and uptake. Geography matters: areas with extreme climates benefit from stable ground temperatures, enabling consistent heating and cooling and improving economics over time. The Energy Information Administration projects growing adoption as technology costs decline and awareness grows. In the commercial sector, scale and reliability are key. Large facilities such as warehouses and office towers gain from lower operating costs and predictable performance, particularly during peak demand. Regulatory pressures to cut greenhouse gas emissions and potential carbon pricing further tilt decision-making toward renewables. LEED and other green-building standards add value through higher occupancy and premium rental rates. Across both sectors, long-term cost savings, resilience, and climate alignment sustain growth. Market forecasts indicate installations will rise globally as policy support, technology, and financing converge to broaden viability for both homes and businesses. 💡 Growth Insight: Residential demand is fuelled by energy efficiency and incentives; commercial demand hinges on lifecycle cost savings and LEED certification, shaping distinct market strategies. [Data] 45% more efficient 🛡️ Request Quote & Sample Report How do regulatory policies and energy efficiency incentives vary across regions to influence market adoption? Regulatory and incentive landscapes shape GCLHP adoption through policy design, funding levels, and enforcement. Europe advances decarbonization via the EU Green Deal, accelerating investment in renewable heating and geothermal uptake. Germany and Sweden offer subsidies and tax relief for residential installations; Germany’s policy apparatus reportedly allocates around €2 billion annually for energy-efficient initiatives, fostering low-emission options. North America presents a split picture: the United States relies largely on state programs—California’s incentives under Savings By Design promote renewable integration in public facilities—while some states with weaker programs exhibit slower growth. Asia-Pacific shows varied policy maturity; Japan combines regulation with affordable financing and low-interest loans to pivot from fossil fuels, whereas India faces policy gaps that hamper rapid deployment. Urban contexts attract front-loaded incentives to address dense housing, while rural regions contend with higher drilling costs and longer lead times. EIAs and environmental assessments are increasingly mandated, building public trust and aligning projects with sustainability goals. LEED and other green-building standards reinforce demand in commercial sectors by rewarding geothermal integration. Across regions, well-targeted incentives and clear regulatory paths accelerate adoption; misaligned or uncertain policies can dampen demand. In the near term, North America and Europe show faster uptake, with Asia-Pacific offering longer-term growth as markets mature and financing matures. 📊 Strategic Fact: Policy alignment and accessible incentives drive regional adoption; mixed regulatory landscapes create uneven global trajectories. 🛡️ Request Quote & Sample Report
+- Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives The Suffolk Times Return to Homepage Search our Archives Search the archives Youâre viewing an archive piece 05.20.2010 Columns Why âJust Saying Noâ to geothermal systems is a bad idea By Times Review It has been one year since the Town Board adopted Local Law No. 2-2009 prohibiting geothermal heating and cooling systems. In that time I have attended, as a practicing architect, several seminars concerning sustainable building design as part of my continuing professional education. Geothermal systems are now part of the subject matter at these events as it is an important new technology that architects should be familiar with. It comes as a shock to the participants of these seminars that the Town of Shelter Island has already banned all geothermal systems. In reviewing the process the town followed in adopting the new law I believe a serious error was made in prohibiting all types of geothermal systems, both the type that utilize water from wells drilled into the aquifer and those that do not. As a result of this new law, Shelter Island residents are unable to benefit from the substantial cost savings of using geothermal energy in heating and cooling their homes and businesses, in using it for domestic hot water purposes and for reducing air pollution on the Island by eliminating fossil-fuel heating systems. They are also prevented from enjoying the benefits of interest rate reductions on loans, technical assistance, grants and funding for geothermal systems now available from LIPA and other New York State sources. In describing the justification for the new law, the town determined that âGeothermal wells have two basic designs: open-loop and closed-loop systems.â This is not accurate. Geothermal systems have two basic designs but only the open-loop type involves a well. The closed-loop design does not involve a well or water from a well. The town further defines the closed-loop system, more accurately, as involving pipes placed in a trench forming a closed loop circulating a fluid into and out of a heat exchange system in the dwelling. It states âThe system functions in the same manner as the open-looped system, except that there is no pumping of groundwater.â This is true as far as energy usage is concerned but not in terms of their effect on the aquifer. The geothermal system that utilizes pipes placed in a trench 4 to 6 feet below the surface (i.e., closed-loop) requires no well or well water and presents no hazard to the water supply of Shelter Island. The board decided that both types of geothermal systems (open, which threatens the water supply, and closed, which presents no threat to the water supply) should be prohibited. There is no hint as to why both systems were dealt with identically. There appears to be no justification for banning closed-loop systems. Geothermal systems make use of the heat stored in the ground due to solar radiation. The heat is stored in the water in the ground and in the soil. Seasonal changes in the weather have little or no effect on the heat stored in the ground. It remains at an almost constant temperature. On Shelter Island this temperature is 55 degrees F. During the heating season this heat can be extracted to help provide space heating. The actual technique employed (heat pump) is not important to the concept. What is important is that no fossil fuel is used in the heating system. Electricity powers the heat pump and the energy needed to heat the house is significantly less than would be necessary if the energy source were a conventional oil or gas-fired boiler or furnace. Heating efficiencies 50 to 70 percent higher than other heating systems can be achieved. During the summer, the geothermal system can be used in reverse fashion to make use of the 55-degree ground temperature to help cool the house. The same heat pump is employed to extract the heat from the air circulating in the house and deliver it back into the ground, reducing the electrical energy required for air conditioning. No noisy outdoor compressor is required. Cooling efficiencies 20 to 40 percent higher than conventional air conditioning systems can be achieved. Whether extracting heat from the ground or returning heat to the ground, the closed-loop geothermal system has no adverse effect on the ground or the groundwater. The fluid circulated through the closed-loop can be a biodegradable anti-freeze fluid that is safe to the environment and to personnel engaged in servicing the equipment. It bears no similarity to the fluid used in automobile radiators. Standards governing this fluid and its use have been established (Closed-Loop/Geothermal Heat Pump Systems, Design and Installation Standards, 2007 Edition, International Ground Source Heat Pump Association). It is safe and does not represent a threat to the water supply of Shelter Island. The law states under findings: âA consultant-supported Town Working Group has studied geothermal closed-loop systems and has determined that these systems threaten the aquifer by piercing deep clay units (which help control saltwater intrusion and the draining of the freshwater aquifer) and have the potential to leak contaminants into the general freshwater supply.â This finding, as it pertains to closed-loop piping in a trench, is not true. The clay layer is not disturbed when closed-loop piping is placed in shallow (4- to 6-foot deep) trenches. Nor does the fluid circulating in the piping present a measurable threat of contaminating the soil as it is a relatively harmless substance. The board should reconsider this law as it pertains to closed-loop systems by consulting qualified experts specifically about the environmental threat, or lack thereof, posed by their use. I believe it will find sufficient reason to amend the law and thereby allow Shelter Islanders to make use of this sustainable technology to reduce harmful CO2 emissions and reduce their energy costs significantly, without risk to the aquifer. Please note that I am not a heating or ventilating contractor or in any way engaged in this industry. I am an independent architect who owns property on Shelter Island and I take seriously the need to design sustainable, efficient and intelligent buildings. Share on Facebook Facebook Created with Sketch. Share on Twitter Twitter Created with Sketch. Share via email Mail Created with Sketch. Newsletter Sign Up Email Address The premier news outlet covering Shelter Island. Subscribe Easter weekend gathering at Shelter Island History Museum
+- American GeoPower – Advanced Geothermal Technologies Skip to content About Contact Home Patents Team Technology About Contact Home Patents Team Technology Take Action Take Action Home American GeoPower ”The Future Is Under Our Feet” Welcome To Advanced Geothermal Energy Technologies American GeoPower (AGP) is the original granted patent holder and pioneer of advanced closed-loop geothermal technologies worldwide. AGP was first to define and introduce key terms now central to the industry, including “Geo Salt,” A.G.C.L.S. (Advanced Geothermal Closed Loop Systems), and A.G.C.L.M.S.S. (Advanced Geothermal Closed Loop Molten Salt Systems). These groundbreaking concepts continue to lead the evolution of ultra-high temperature geothermal energy. AGP is The Amazon of Renewable Energy Solutions. Not because we imitate anyone—but because we offer vast, scalable, and interconnected solutions to the world’s most urgent energy and climate challenges. And if anyone asks, we’re talking about the river—deep, diverse, and powerful. What sets AGP apart is our entire suite of solutions that integrate into one system—a complete, ready-to-deploy platform for sustainable energy transformation. From geothermal heat harvesting to molten salt thermal storage, our technologies are designed to work together to help put the greenhouse emissions genie back in its bottle—and keep it there for good. Contact AGP at info@americangeopower.com to help Planet Earth Today. American GeoPower (AGP) develops innovative and practical solutions to effectively transform how geothermal energy is accessed, harvested, stored, and distributed. A key component of our geothermal energy technology is using molten salts in a closed-loop system that is capable of extracting thermal energy from hot briny fluids and ultra-high temperature sources such as hot rock, and even magma. These are the sources that will unlock the true potential of geothermal power. We believe that our granted patent systems represent the best means of capitalizing on ultra-high temperature geothermal energy available today. Our technologies also offer an effective means to enhance conventional geothermal systems. AGP’s Concentric Molten Salt Closed Loop System Animation Approximately 1:30 Seconds. Mission Statemen t Enable Geothermal Power To Become The World’s Leading Renewable Energy Technology ADVANTAGES OVER OTHER GEOTHERMAL TECHNOLOGIES : Closed-loop system abates the release of harmful gases and fluids to the environment. The amount of water and energy consumption needed to drive the processes is greatly reduced. Operating costs are reduced by cutting the amount of maintenance compared to conventional geothermal systems. Improved ability to store and distribute thermal energy. Greatly reduced environmental impact compared to other enhanced geothermal energy extraction systems. Countries around the world are urgently searching for faster, more effective ways to meet their growing energy demands while simultaneously slashing greenhouse gas emissions. There is a pressing global need to rapidly expand renewable energy production, improve energy storage and transmission, increase access to clean water, accelerate the development of green hydrogen, and decarbonize nearly every aspect of modern life. These challenges must be tackled simultaneously, and at scale. At the same time, it is critical to protect the health of global economies, safeguard existing jobs, and create meaningful new employment opportunities. The energy transition must support both environmental goals and economic resilience.
+- Geothermal Loop Leak Verification Home Products WaterFurnace Geothermal REHAU Radiant Jaga Low Temp Radiators vanEE Air Exhangers vanEE Service Parts IBC Boilers Caleffi Hydronics Circulating Pumps Press Fittings ecobee Smart Thermostats HBX Controls Tekmar Controls News / Blog Free Tools Geothermal Troubleshooting App Radiant Material Estimator JAGA Product Selection Tool vanEE HRV Sizing / Selection Tool ( Coming Soon ) Contact Us! About Us! Geothermal Loop Leak Verification Home Main Blog Geothermal Loop Leak Verification The purpose of this Service Advisory is to identify and verify leaks in geothermal closed loop systems. The procedures in this Service Advisory are only guidelines to help assist in troubleshooting for loop leaks. Any questions regarding loop leak testing should be directed to our technical services team at 1-800-665-3336. INITIAL SERVICE CALL FOR LOOP PRESSURE PROBLEM Insert the pressure gauge into the "water in" P/T port ( pressure / temperature ) and the repressurizing device (see drawing at end of this article ) into the "water out" P/T port. Begin pressurizing the loop by adding water. Continue to watch the pressure gauge; if it takes a while for the gauge to move, this is a good indication that air is in the loop, but does not necessarily mean there's a leak (remember, air can be compressed, not water). Once pressure is back on the system, another sign that there is air in the loop is fluctuation in the loop pressure which is indicated by the bouncing gauge needle. The geothermal ground loop needs to be reflushed if air is present. If the pump is making noise, this is another sign of low pressure or air in the system. The pump should quiet down after repressurizing, *NOTE: Low loop pressure may be the result of pipe expansion do not immediately assume you have a leak in the loop! CHECKING INSIDE PIPING AND FLOW CENTER There are various methods for determining if there is a leak in the loop piping system. Do not pressure test the inside piping through the flow center. An outside leak could not be distinguished from an inside leak since the flow center joins both inside and outside systems. To isolate the inside piping from the outside portion (DO NOT remove white flushing plugs): Turn the 3-way valves on the flow center so that the outside loop is closed off. This will make it possible to pressure test the flow center and the piping to the unit(s). PRESSURE TESTING 100 psi is more than enough pressure when pressure testing a closed loop . WaterFurnace recommends a 100 psi gauge, 2-1/2" or 3" in diameter in 1 psi increments. Due to expansion of polyethylene pipe, the pressure on the system will drop about 10% on the initial pressurization and about 5% on the second. CHECKING OUTSIDE PIPING To test for outside leaks, cut the inside piping off at the supply and return lines and pressure test at the wall penetration before digging up the outside portion. Once it has been determined that the leak is outside, the manifold should be excavated to expose all the loop lines. After exposing the manifold, put pressure back on the loop and check the manifold for leaks.
+- Geoexchange, Geothermal, Project Management, Vancouver, BC, Canada, United States, Geoexchange Utility Geothermal Lease Magnum Project Management 1532 Sunrise Drive Parksville, BC, Canada V9P 1X7 Toll Free : 1-866-MAGNUMU Tel : +1 (250) 752 3699 Fax : +1 (250) 752 0267 Email us! We are keeping an eye on our planet! What is a Geothermal System? Click here to view a geothermal movie April 2007 School Geoexchange Geothermal Article Manitoba Warms up to Geothermal download and have a look Sound Geoexchange Geothermal Investment with a Magnum Geoexchange System GeoExchange is becoming the system of choice in many parts of the United States and Canada as consumers learn more about its aesthetic advantages and long-term value, and as it becomes more widely available. Use Magnum DIY Geothermal Geoexchange expertise to DIY do it your self Geoexchange,1.866-magnum-u, call, 1.866.624.6868. or geoexchange@magnumpm.com Geothermal is no longer just for the affluent, a reputation it once held because typical early buyers were owners of upscale homes. They wanted the quiet comfort Geothermal systems provide, and they were more than willing--and could afford--to pay the cost premium associated with early systems. This is because the extraordinarily low operating costs of GeoExchange tetco Geoethermal systems more than make up for any higher installation costs within a few years. According to the U.S. Environmental Protection Agency, Geothermal systems save homeowners 60 percent in heating costs, and 50 percent in cooling costs, compared to conventional systems. GeoExchange systems also save money in other ways. Geothermal is highly reliable, require little maintenance, and are built to last for decades. Geothermal adds considerably to the value of homes.Call Magnum 1.866.624.6868 for geoexchange geoexchange finance consulting.geoexchange@magnumpm.com Today, homeowners in all income brackets can take advantage of the benefits of Geothermal heating and cooling. Initial costs have declined substantially as many more builders and heating and cooling contractors nationwide make Geothermal systems available, and as innovative techniques enable the loops to be installed more quickly (often in one day) and for lower cost. Magnum Geoexchange use essential innovations to ensure a complete geoexchange installation. Many financial institutions also now allow homebuyers to qualify for larger mortgages if they purchase a house that utilizes a GeoExchange system. The reduction in monthly energy bills more than offsets the slightly higher mortgage payment. With such mortgages, homeowners with Geothermal systems can begin saving money from day one, then go on saving year after year!Magnum will help you with this task.Use Magnum DIY Geothermal Geoexchange expertise to DIY do it your self Geoexchange,1.866-magnum-u, call, 1.866.624.6868. or geoexchange@magnumpm.com Today, the major barrier to wider use of this marvelous technology is the fact that many consumers simply are not aware it is there. GeoExchange Geothermal is a smart investment for consumers who want a system that provides a high level of comfort and low monthly energy bills for as long as they own their homes. Need a Geoexchange Geothermal Lease or Geo exchange Geothermal Leases, a Geoexchange Geothermal system Leasing for a Commercial Building or Geoexchange Geothermal Lease for a Subdivision, apartment or multi-residential complex? email Magnum Project Management IGSHPA Certified Installers lease_geoexchange@magnumpm.com Geothermal Education Center Current Article : Learn the Lingo ! Get educated today...what is a Heat Pumps? Geoexchange? Geothermal? Ground source heat pumps?
+- Thermal and mechanical energy performance analysis of closed-loop systems in hot-dry-rock and hot-wet-rock reservoirs - Penn State Skip to main navigation Skip to search Skip to main content Penn State Home Help & FAQ Link opens in a new tab Search content at Penn State Home Researchers Research output Research units Equipment Grants & Projects Prizes Activities Thermal and mechanical energy performance analysis of closed-loop systems in hot-dry-rock and hot-wet-rock reservoirs Closed Loop Geothermal Working Group Mechanical Engineering Research output : Chapter in Book/Report/Conference proceeding › Conference contribution 3 Link opens in a new tab Scopus citations Overview Fingerprint Abstract To understand the potential and limitations for recovering thermal and mechanical energy from closed-loop geothermal systems a collaborative study is underway that will investigate an array of system configurations, working fluids, geothermal reservoir characteristics, operational periods, and heat transfer enhancements. Closed-loop geothermal systems are distinguished from hydrothermal or enhanced geothermal systems (EGS) in that the working fluid only circulates through drilled boreholes. Principal objectives of this study are to determine upper limits for thermal and mechanical energy recovery and optimal operational and configuration parameters for each scenario. Teams of scientists and engineers are applying a suite of numerical simulation and analytical tools to model the heat recovery from closed-loop geothermal systems, and then optimizing operational and configuration parameters to maximize the thermal and mechanical energy recovery. Results from the suite of numerical simulators and analytical tools, such as outlet and inlet states and temperature profiles in the geothermal reservoir over time are intercompared to increase confidence in the analysis. This paper documents the study findings for closed-loop systems in hot-dry-rock and hot-wet-rock reservoirs, where water is the working fluid. The characteristics of the hot-dry-rock reservoir were based on the U.S. Department of Energy's Utah Frontier Observatory for Research in Geothermal Energy (FORGE) site, near Milford Utah. Two objective functions are defined to optimize the operational and configuration parameters of the system, one each for the recovery of mechanical and thermal energy over the period of operation. For both objective functions, a surface plant thermal to mechanical energy conversion factor and an energy drilling cost is required. In keeping with the study objectives the surface plant conversion factor is determined from a second-law of thermodynamics analysis of a generic binary plant, and drilling costs are based on those from the Utah FORGE site and current national electrical costs. Original language English (US) Title of host publication Using the Earth to Save the Earth - 2021 Geothermal Rising Conference, GRC 2021 Publisher Geothermal Resources Council Pages
+- Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives The Suffolk Times Return to Homepage Search our Archives Search the archives Youâre viewing an archive piece 05.20.2010 Columns Why âJust Saying Noâ to geothermal systems is a bad idea By Times Review It has been one year since the Town Board adopted Local Law No. 2-2009 prohibiting geothermal heating and cooling systems. In that time I have attended, as a practicing architect, several seminars concerning sustainable building design as part of my continuing professional education. Geothermal systems are now part of the subject matter at these events as it is an important new technology that architects should be familiar with. It comes as a shock to the participants of these seminars that the Town of Shelter Island has already banned all geothermal systems. In reviewing the process the town followed in adopting the new law I believe a serious error was made in prohibiting all types of geothermal systems, both the type that utilize water from wells drilled into the aquifer and those that do not. As a result of this new law, Shelter Island residents are unable to benefit from the substantial cost savings of using geothermal energy in heating and cooling their homes and businesses, in using it for domestic hot water purposes and for reducing air pollution on the Island by eliminating fossil-fuel heating systems. They are also prevented from enjoying the benefits of interest rate reductions on loans, technical assistance, grants and funding for geothermal systems now available from LIPA and other New York State sources. In describing the justification for the new law, the town determined that âGeothermal wells have two basic designs: open-loop and closed-loop systems.â This is not accurate. Geothermal systems have two basic designs but only the open-loop type involves a well. The closed-loop design does not involve a well or water from a well. The town further defines the closed-loop system, more accurately, as involving pipes placed in a trench forming a closed loop circulating a fluid into and out of a heat exchange system in the dwelling. It states âThe system functions in the same manner as the open-looped system, except that there is no pumping of groundwater.â This is true as far as energy usage is concerned but not in terms of their effect on the aquifer. The geothermal system that utilizes pipes placed in a trench 4 to 6 feet below the surface (i.e., closed-loop) requires no well or well water and presents no hazard to the water supply of Shelter Island. The board decided that both types of geothermal systems (open, which threatens the water supply, and closed, which presents no threat to the water supply) should be prohibited. There is no hint as to why both systems were dealt with identically. There appears to be no justification for banning closed-loop systems. Geothermal systems make use of the heat stored in the ground due to solar radiation. The heat is stored in the water in the ground and in the soil. Seasonal changes in the weather have little or no effect on the heat stored in the ground. It remains at an almost constant temperature. On Shelter Island this temperature is 55 degrees F. During the heating season this heat can be extracted to help provide space heating. The actual technique employed (heat pump) is not important to the concept. What is important is that no fossil fuel is used in the heating system. Electricity powers the heat pump and the energy needed to heat the house is significantly less than would be necessary if the energy source were a conventional oil or gas-fired boiler or furnace. Heating efficiencies 50 to 70 percent higher than other heating systems can be achieved. During the summer, the geothermal system can be used in reverse fashion to make use of the 55-degree ground temperature to help cool the house. The same heat pump is employed to extract the heat from the air circulating in the house and deliver it back into the ground, reducing the electrical energy required for air conditioning. No noisy outdoor compressor is required. Cooling efficiencies 20 to 40 percent higher than conventional air conditioning systems can be achieved. Whether extracting heat from the ground or returning heat to the ground, the closed-loop geothermal system has no adverse effect on the ground or the groundwater. The fluid circulated through the closed-loop can be a biodegradable anti-freeze fluid that is safe to the environment and to personnel engaged in servicing the equipment. It bears no similarity to the fluid used in automobile radiators. Standards governing this fluid and its use have been established (Closed-Loop/Geothermal Heat Pump Systems, Design and Installation Standards, 2007 Edition, International Ground Source Heat Pump Association). It is safe and does not represent a threat to the water supply of Shelter Island. The law states under findings: âA consultant-supported Town Working Group has studied geothermal closed-loop systems and has determined that these systems threaten the aquifer by piercing deep clay units (which help control saltwater intrusion and the draining of the freshwater aquifer) and have the potential to leak contaminants into the general freshwater supply.â This finding, as it pertains to closed-loop piping in a trench, is not true. The clay layer is not disturbed when closed-loop piping is placed in shallow (4- to 6-foot deep) trenches. Nor does the fluid circulating in the piping present a measurable threat of contaminating the soil as it is a relatively harmless substance. The board should reconsider this law as it pertains to closed-loop systems by consulting qualified experts specifically about the environmental threat, or lack thereof, posed by their use. I believe it will find sufficient reason to amend the law and thereby allow Shelter Islanders to make use of this sustainable technology to reduce harmful CO2 emissions and reduce their energy costs significantly, without risk to the aquifer. Please note that I am not a heating or ventilating contractor or in any way engaged in this industry. I am an independent architect who owns property on Shelter Island and I take seriously the need to design sustainable, efficient and intelligent buildings. Share on Facebook Facebook Created with Sketch. Share on Twitter Twitter Created with Sketch. Share via email Mail Created with Sketch. Newsletter Sign Up Email Address The premier news outlet covering Shelter Island. Subscribe Easter weekend gathering at Shelter Island History Museum
+- Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives The Suffolk Times Return to Homepage Search our Archives Search the archives Youâre viewing an archive piece 05.20.2010 Columns Why âJust Saying Noâ to geothermal systems is a bad idea By Times Review It has been one year since the Town Board adopted Local Law No. 2-2009 prohibiting geothermal heating and cooling systems. In that time I have attended, as a practicing architect, several seminars concerning sustainable building design as part of my continuing professional education. Geothermal systems are now part of the subject matter at these events as it is an important new technology that architects should be familiar with. It comes as a shock to the participants of these seminars that the Town of Shelter Island has already banned all geothermal systems. In reviewing the process the town followed in adopting the new law I believe a serious error was made in prohibiting all types of geothermal systems, both the type that utilize water from wells drilled into the aquifer and those that do not. As a result of this new law, Shelter Island residents are unable to benefit from the substantial cost savings of using geothermal energy in heating and cooling their homes and businesses, in using it for domestic hot water purposes and for reducing air pollution on the Island by eliminating fossil-fuel heating systems. They are also prevented from enjoying the benefits of interest rate reductions on loans, technical assistance, grants and funding for geothermal systems now available from LIPA and other New York State sources. In describing the justification for the new law, the town determined that âGeothermal wells have two basic designs: open-loop and closed-loop systems.â This is not accurate. Geothermal systems have two basic designs but only the open-loop type involves a well. The closed-loop design does not involve a well or water from a well. The town further defines the closed-loop system, more accurately, as involving pipes placed in a trench forming a closed loop circulating a fluid into and out of a heat exchange system in the dwelling. It states âThe system functions in the same manner as the open-looped system, except that there is no pumping of groundwater.â This is true as far as energy usage is concerned but not in terms of their effect on the aquifer. The geothermal system that utilizes pipes placed in a trench 4 to 6 feet below the surface (i.e., closed-loop) requires no well or well water and presents no hazard to the water supply of Shelter Island. The board decided that both types of geothermal systems (open, which threatens the water supply, and closed, which presents no threat to the water supply) should be prohibited. There is no hint as to why both systems were dealt with identically. There appears to be no justification for banning closed-loop systems. Geothermal systems make use of the heat stored in the ground due to solar radiation. The heat is stored in the water in the ground and in the soil. Seasonal changes in the weather have little or no effect on the heat stored in the ground. It remains at an almost constant temperature. On Shelter Island this temperature is 55 degrees F. During the heating season this heat can be extracted to help provide space heating. The actual technique employed (heat pump) is not important to the concept. What is important is that no fossil fuel is used in the heating system. Electricity powers the heat pump and the energy needed to heat the house is significantly less than would be necessary if the energy source were a conventional oil or gas-fired boiler or furnace. Heating efficiencies 50 to 70 percent higher than other heating systems can be achieved. During the summer, the geothermal system can be used in reverse fashion to make use of the 55-degree ground temperature to help cool the house. The same heat pump is employed to extract the heat from the air circulating in the house and deliver it back into the ground, reducing the electrical energy required for air conditioning. No noisy outdoor compressor is required. Cooling efficiencies 20 to 40 percent higher than conventional air conditioning systems can be achieved. Whether extracting heat from the ground or returning heat to the ground, the closed-loop geothermal system has no adverse effect on the ground or the groundwater. The fluid circulated through the closed-loop can be a biodegradable anti-freeze fluid that is safe to the environment and to personnel engaged in servicing the equipment. It bears no similarity to the fluid used in automobile radiators. Standards governing this fluid and its use have been established (Closed-Loop/Geothermal Heat Pump Systems, Design and Installation Standards, 2007 Edition, International Ground Source Heat Pump Association). It is safe and does not represent a threat to the water supply of Shelter Island. The law states under findings: âA consultant-supported Town Working Group has studied geothermal closed-loop systems and has determined that these systems threaten the aquifer by piercing deep clay units (which help control saltwater intrusion and the draining of the freshwater aquifer) and have the potential to leak contaminants into the general freshwater supply.â This finding, as it pertains to closed-loop piping in a trench, is not true. The clay layer is not disturbed when closed-loop piping is placed in shallow (4- to 6-foot deep) trenches. Nor does the fluid circulating in the piping present a measurable threat of contaminating the soil as it is a relatively harmless substance. The board should reconsider this law as it pertains to closed-loop systems by consulting qualified experts specifically about the environmental threat, or lack thereof, posed by their use. I believe it will find sufficient reason to amend the law and thereby allow Shelter Islanders to make use of this sustainable technology to reduce harmful CO2 emissions and reduce their energy costs significantly, without risk to the aquifer. Please note that I am not a heating or ventilating contractor or in any way engaged in this industry. I am an independent architect who owns property on Shelter Island and I take seriously the need to design sustainable, efficient and intelligent buildings. Share on Facebook Facebook Created with Sketch. Share on Twitter Twitter Created with Sketch. Share via email Mail Created with Sketch. Newsletter Sign Up Email Address The premier news outlet covering Shelter Island. Subscribe Easter weekend gathering at Shelter Island History Museum
+- Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives The Suffolk Times Return to Homepage Search our Archives Search the archives Youâre viewing an archive piece 05.20.2010 Columns Why âJust Saying Noâ to geothermal systems is a bad idea By Times Review It has been one year since the Town Board adopted Local Law No. 2-2009 prohibiting geothermal heating and cooling systems. In that time I have attended, as a practicing architect, several seminars concerning sustainable building design as part of my continuing professional education. Geothermal systems are now part of the subject matter at these events as it is an important new technology that architects should be familiar with. It comes as a shock to the participants of these seminars that the Town of Shelter Island has already banned all geothermal systems. In reviewing the process the town followed in adopting the new law I believe a serious error was made in prohibiting all types of geothermal systems, both the type that utilize water from wells drilled into the aquifer and those that do not. As a result of this new law, Shelter Island residents are unable to benefit from the substantial cost savings of using geothermal energy in heating and cooling their homes and businesses, in using it for domestic hot water purposes and for reducing air pollution on the Island by eliminating fossil-fuel heating systems. They are also prevented from enjoying the benefits of interest rate reductions on loans, technical assistance, grants and funding for geothermal systems now available from LIPA and other New York State sources. In describing the justification for the new law, the town determined that âGeothermal wells have two basic designs: open-loop and closed-loop systems.â This is not accurate. Geothermal systems have two basic designs but only the open-loop type involves a well. The closed-loop design does not involve a well or water from a well. The town further defines the closed-loop system, more accurately, as involving pipes placed in a trench forming a closed loop circulating a fluid into and out of a heat exchange system in the dwelling. It states âThe system functions in the same manner as the open-looped system, except that there is no pumping of groundwater.â This is true as far as energy usage is concerned but not in terms of their effect on the aquifer. The geothermal system that utilizes pipes placed in a trench 4 to 6 feet below the surface (i.e., closed-loop) requires no well or well water and presents no hazard to the water supply of Shelter Island. The board decided that both types of geothermal systems (open, which threatens the water supply, and closed, which presents no threat to the water supply) should be prohibited. There is no hint as to why both systems were dealt with identically. There appears to be no justification for banning closed-loop systems. Geothermal systems make use of the heat stored in the ground due to solar radiation. The heat is stored in the water in the ground and in the soil. Seasonal changes in the weather have little or no effect on the heat stored in the ground. It remains at an almost constant temperature. On Shelter Island this temperature is 55 degrees F. During the heating season this heat can be extracted to help provide space heating. The actual technique employed (heat pump) is not important to the concept. What is important is that no fossil fuel is used in the heating system. Electricity powers the heat pump and the energy needed to heat the house is significantly less than would be necessary if the energy source were a conventional oil or gas-fired boiler or furnace. Heating efficiencies 50 to 70 percent higher than other heating systems can be achieved. During the summer, the geothermal system can be used in reverse fashion to make use of the 55-degree ground temperature to help cool the house. The same heat pump is employed to extract the heat from the air circulating in the house and deliver it back into the ground, reducing the electrical energy required for air conditioning. No noisy outdoor compressor is required. Cooling efficiencies 20 to 40 percent higher than conventional air conditioning systems can be achieved. Whether extracting heat from the ground or returning heat to the ground, the closed-loop geothermal system has no adverse effect on the ground or the groundwater. The fluid circulated through the closed-loop can be a biodegradable anti-freeze fluid that is safe to the environment and to personnel engaged in servicing the equipment. It bears no similarity to the fluid used in automobile radiators. Standards governing this fluid and its use have been established (Closed-Loop/Geothermal Heat Pump Systems, Design and Installation Standards, 2007 Edition, International Ground Source Heat Pump Association). It is safe and does not represent a threat to the water supply of Shelter Island. The law states under findings: âA consultant-supported Town Working Group has studied geothermal closed-loop systems and has determined that these systems threaten the aquifer by piercing deep clay units (which help control saltwater intrusion and the draining of the freshwater aquifer) and have the potential to leak contaminants into the general freshwater supply.â This finding, as it pertains to closed-loop piping in a trench, is not true. The clay layer is not disturbed when closed-loop piping is placed in shallow (4- to 6-foot deep) trenches. Nor does the fluid circulating in the piping present a measurable threat of contaminating the soil as it is a relatively harmless substance. The board should reconsider this law as it pertains to closed-loop systems by consulting qualified experts specifically about the environmental threat, or lack thereof, posed by their use. I believe it will find sufficient reason to amend the law and thereby allow Shelter Islanders to make use of this sustainable technology to reduce harmful CO2 emissions and reduce their energy costs significantly, without risk to the aquifer. Please note that I am not a heating or ventilating contractor or in any way engaged in this industry. I am an independent architect who owns property on Shelter Island and I take seriously the need to design sustainable, efficient and intelligent buildings. Share on Facebook Facebook Created with Sketch. Share on Twitter Twitter Created with Sketch. Share via email Mail Created with Sketch. Newsletter Sign Up Email Address The premier news outlet covering Shelter Island. Subscribe Easter weekend gathering at Shelter Island History Museum
+- Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives The Suffolk Times Return to Homepage Search our Archives Search the archives Youâre viewing an archive piece 05.20.2010 Columns Why âJust Saying Noâ to geothermal systems is a bad idea By Times Review It has been one year since the Town Board adopted Local Law No. 2-2009 prohibiting geothermal heating and cooling systems. In that time I have attended, as a practicing architect, several seminars concerning sustainable building design as part of my continuing professional education. Geothermal systems are now part of the subject matter at these events as it is an important new technology that architects should be familiar with. It comes as a shock to the participants of these seminars that the Town of Shelter Island has already banned all geothermal systems. In reviewing the process the town followed in adopting the new law I believe a serious error was made in prohibiting all types of geothermal systems, both the type that utilize water from wells drilled into the aquifer and those that do not. As a result of this new law, Shelter Island residents are unable to benefit from the substantial cost savings of using geothermal energy in heating and cooling their homes and businesses, in using it for domestic hot water purposes and for reducing air pollution on the Island by eliminating fossil-fuel heating systems. They are also prevented from enjoying the benefits of interest rate reductions on loans, technical assistance, grants and funding for geothermal systems now available from LIPA and other New York State sources. In describing the justification for the new law, the town determined that âGeothermal wells have two basic designs: open-loop and closed-loop systems.â This is not accurate. Geothermal systems have two basic designs but only the open-loop type involves a well. The closed-loop design does not involve a well or water from a well. The town further defines the closed-loop system, more accurately, as involving pipes placed in a trench forming a closed loop circulating a fluid into and out of a heat exchange system in the dwelling. It states âThe system functions in the same manner as the open-looped system, except that there is no pumping of groundwater.â This is true as far as energy usage is concerned but not in terms of their effect on the aquifer. The geothermal system that utilizes pipes placed in a trench 4 to 6 feet below the surface (i.e., closed-loop) requires no well or well water and presents no hazard to the water supply of Shelter Island. The board decided that both types of geothermal systems (open, which threatens the water supply, and closed, which presents no threat to the water supply) should be prohibited. There is no hint as to why both systems were dealt with identically. There appears to be no justification for banning closed-loop systems. Geothermal systems make use of the heat stored in the ground due to solar radiation. The heat is stored in the water in the ground and in the soil. Seasonal changes in the weather have little or no effect on the heat stored in the ground. It remains at an almost constant temperature. On Shelter Island this temperature is 55 degrees F. During the heating season this heat can be extracted to help provide space heating. The actual technique employed (heat pump) is not important to the concept. What is important is that no fossil fuel is used in the heating system. Electricity powers the heat pump and the energy needed to heat the house is significantly less than would be necessary if the energy source were a conventional oil or gas-fired boiler or furnace. Heating efficiencies 50 to 70 percent higher than other heating systems can be achieved. During the summer, the geothermal system can be used in reverse fashion to make use of the 55-degree ground temperature to help cool the house. The same heat pump is employed to extract the heat from the air circulating in the house and deliver it back into the ground, reducing the electrical energy required for air conditioning. No noisy outdoor compressor is required. Cooling efficiencies 20 to 40 percent higher than conventional air conditioning systems can be achieved. Whether extracting heat from the ground or returning heat to the ground, the closed-loop geothermal system has no adverse effect on the ground or the groundwater. The fluid circulated through the closed-loop can be a biodegradable anti-freeze fluid that is safe to the environment and to personnel engaged in servicing the equipment. It bears no similarity to the fluid used in automobile radiators. Standards governing this fluid and its use have been established (Closed-Loop/Geothermal Heat Pump Systems, Design and Installation Standards, 2007 Edition, International Ground Source Heat Pump Association). It is safe and does not represent a threat to the water supply of Shelter Island. The law states under findings: âA consultant-supported Town Working Group has studied geothermal closed-loop systems and has determined that these systems threaten the aquifer by piercing deep clay units (which help control saltwater intrusion and the draining of the freshwater aquifer) and have the potential to leak contaminants into the general freshwater supply.â This finding, as it pertains to closed-loop piping in a trench, is not true. The clay layer is not disturbed when closed-loop piping is placed in shallow (4- to 6-foot deep) trenches. Nor does the fluid circulating in the piping present a measurable threat of contaminating the soil as it is a relatively harmless substance. The board should reconsider this law as it pertains to closed-loop systems by consulting qualified experts specifically about the environmental threat, or lack thereof, posed by their use. I believe it will find sufficient reason to amend the law and thereby allow Shelter Islanders to make use of this sustainable technology to reduce harmful CO2 emissions and reduce their energy costs significantly, without risk to the aquifer. Please note that I am not a heating or ventilating contractor or in any way engaged in this industry. I am an independent architect who owns property on Shelter Island and I take seriously the need to design sustainable, efficient and intelligent buildings. Share on Facebook Facebook Created with Sketch. Share on Twitter Twitter Created with Sketch. Share via email Mail Created with Sketch. Newsletter Sign Up Email Address The premier news outlet covering Shelter Island. Subscribe Easter weekend gathering at Shelter Island History Museum
+- GeoNerd Digest - 14th Edition: Innovations in Vacuum Insulation for Coaxial Geothermal Systems Agree & Join LinkedIn By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Skip to main content LinkedIn Top Content People Learning Jobs Games Join now Sign in Assembly of individual pre-assembled coaxial pipe-in-pipe tubing sections on the rig floor (Source: Maver, 2025) GeoNerd Digest - 14th Edition: Innovations in Vacuum Insulation for Coaxial Geothermal Systems Report this article Matus Gajdos Matus Gajdos Published Mar 12, 2025 + Follow This week we will continue in review of papers published at the 50th Stanford Geothermal Workshop. This time we will have two papers instead of one because both solve the same challenge using slightly different approaches. Both papers, "Enhancing Thermal Efficiency in Super-Hot Geothermal Systems: Optimizing Premium Connections for Advanced Vacuum Insulated Tubulars" by Corey Dufrene , Elizabeth Cambre et al. and "Vacuumized Pipe-in-Pipe Solution for Efficient Geothermal Heat Extraction Everywhere for District Cooling and Heating and Industrial Usage" by Kim Gunn Maver focus on application of vacuum insulation. These advancements are crucial for minimizing heat loss and maximizing the economic viability of coaxial geothermal systems. The Challenge of Heat Loss in Geothermal Systems In traditional geothermal systems, heat loss during fluid circulation can be significant, often resulting in a 30-40% loss of thermal energy. This inefficiency not only reduces the overall energy output but also increases operational costs. To address this challenge, both Vallourec
+- Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives The Suffolk Times Return to Homepage Search our Archives Search the archives Youâre viewing an archive piece 05.20.2010 Columns Why âJust Saying Noâ to geothermal systems is a bad idea By Times Review It has been one year since the Town Board adopted Local Law No. 2-2009 prohibiting geothermal heating and cooling systems. In that time I have attended, as a practicing architect, several seminars concerning sustainable building design as part of my continuing professional education. Geothermal systems are now part of the subject matter at these events as it is an important new technology that architects should be familiar with. It comes as a shock to the participants of these seminars that the Town of Shelter Island has already banned all geothermal systems. In reviewing the process the town followed in adopting the new law I believe a serious error was made in prohibiting all types of geothermal systems, both the type that utilize water from wells drilled into the aquifer and those that do not. As a result of this new law, Shelter Island residents are unable to benefit from the substantial cost savings of using geothermal energy in heating and cooling their homes and businesses, in using it for domestic hot water purposes and for reducing air pollution on the Island by eliminating fossil-fuel heating systems. They are also prevented from enjoying the benefits of interest rate reductions on loans, technical assistance, grants and funding for geothermal systems now available from LIPA and other New York State sources. In describing the justification for the new law, the town determined that âGeothermal wells have two basic designs: open-loop and closed-loop systems.â This is not accurate. Geothermal systems have two basic designs but only the open-loop type involves a well. The closed-loop design does not involve a well or water from a well. The town further defines the closed-loop system, more accurately, as involving pipes placed in a trench forming a closed loop circulating a fluid into and out of a heat exchange system in the dwelling. It states âThe system functions in the same manner as the open-looped system, except that there is no pumping of groundwater.â This is true as far as energy usage is concerned but not in terms of their effect on the aquifer. The geothermal system that utilizes pipes placed in a trench 4 to 6 feet below the surface (i.e., closed-loop) requires no well or well water and presents no hazard to the water supply of Shelter Island. The board decided that both types of geothermal systems (open, which threatens the water supply, and closed, which presents no threat to the water supply) should be prohibited. There is no hint as to why both systems were dealt with identically. There appears to be no justification for banning closed-loop systems. Geothermal systems make use of the heat stored in the ground due to solar radiation. The heat is stored in the water in the ground and in the soil. Seasonal changes in the weather have little or no effect on the heat stored in the ground. It remains at an almost constant temperature. On Shelter Island this temperature is 55 degrees F. During the heating season this heat can be extracted to help provide space heating. The actual technique employed (heat pump) is not important to the concept. What is important is that no fossil fuel is used in the heating system. Electricity powers the heat pump and the energy needed to heat the house is significantly less than would be necessary if the energy source were a conventional oil or gas-fired boiler or furnace. Heating efficiencies 50 to 70 percent higher than other heating systems can be achieved. During the summer, the geothermal system can be used in reverse fashion to make use of the 55-degree ground temperature to help cool the house. The same heat pump is employed to extract the heat from the air circulating in the house and deliver it back into the ground, reducing the electrical energy required for air conditioning. No noisy outdoor compressor is required. Cooling efficiencies 20 to 40 percent higher than conventional air conditioning systems can be achieved. Whether extracting heat from the ground or returning heat to the ground, the closed-loop geothermal system has no adverse effect on the ground or the groundwater. The fluid circulated through the closed-loop can be a biodegradable anti-freeze fluid that is safe to the environment and to personnel engaged in servicing the equipment. It bears no similarity to the fluid used in automobile radiators. Standards governing this fluid and its use have been established (Closed-Loop/Geothermal Heat Pump Systems, Design and Installation Standards, 2007 Edition, International Ground Source Heat Pump Association). It is safe and does not represent a threat to the water supply of Shelter Island. The law states under findings: âA consultant-supported Town Working Group has studied geothermal closed-loop systems and has determined that these systems threaten the aquifer by piercing deep clay units (which help control saltwater intrusion and the draining of the freshwater aquifer) and have the potential to leak contaminants into the general freshwater supply.â This finding, as it pertains to closed-loop piping in a trench, is not true. The clay layer is not disturbed when closed-loop piping is placed in shallow (4- to 6-foot deep) trenches. Nor does the fluid circulating in the piping present a measurable threat of contaminating the soil as it is a relatively harmless substance. The board should reconsider this law as it pertains to closed-loop systems by consulting qualified experts specifically about the environmental threat, or lack thereof, posed by their use. I believe it will find sufficient reason to amend the law and thereby allow Shelter Islanders to make use of this sustainable technology to reduce harmful CO2 emissions and reduce their energy costs significantly, without risk to the aquifer. Please note that I am not a heating or ventilating contractor or in any way engaged in this industry. I am an independent architect who owns property on Shelter Island and I take seriously the need to design sustainable, efficient and intelligent buildings. Share on Facebook Facebook Created with Sketch. Share on Twitter Twitter Created with Sketch. Share via email Mail Created with Sketch. Newsletter Sign Up Email Address The premier news outlet covering Shelter Island. Subscribe Easter weekend gathering at Shelter Island History Museum
+- Closed Loop Geothermal System - Definition & Detailed Explanation - Geothermal Energy Glossary Terms - CleanEnergyBusinessCouncil.com Skip to content CleanEnergyBusinessCouncil.com Menu Menu About Contact Solar Energy Blog Energy Glossaries Solar Energy Glossary Battery Technology Glossary Biomass Energy Glossary Geothermal Energy Glossary Hydroelectric Power Glossary Nuclear Energy Glossary Wind Energy Glossary Fossil Fuels Glossary Closed Loop Geothermal System – Definition & Detailed Explanation – Geothermal Energy Glossary Terms December 15, 2025 by admin-cleanenergybusinesscouncil Table of Contents Toggle I. What is a Closed Loop Geothermal System? II. How does a Closed Loop Geothermal System work? III. What are the different types of Closed Loop Geothermal Systems? IV. What are the benefits of using a Closed Loop Geothermal System? V. What are the potential drawbacks of Closed Loop Geothermal Systems? VI. How does installation and maintenance of a Closed Loop Geothermal System work? I. What is a Closed Loop Geothermal System? A closed loop geothermal system is a type of heating and cooling system that harnesses the natural heat stored in the earth to regulate the temperature of a building. Unlike traditional heating and cooling systems that rely on burning fossil fuels or electricity to generate heat or cool air, closed loop geothermal systems use the constant temperature of the earth to provide a more energy-efficient and environmentally friendly alternative. II. How does a Closed Loop Geothermal System work? Closed loop geothermal systems work by circulating a heat transfer fluid through a series of underground pipes, known as a loop. The fluid absorbs heat from the ground in the winter and releases heat into the ground in the summer, providing a consistent and efficient source of heating and cooling for a building. The heat transfer fluid is pumped through the loop by a geothermal heat pump, which transfers the heat to a distribution system within the building. III. What are the different types of Closed Loop Geothermal Systems? There are several different types of closed loop geothermal systems, including horizontal, vertical, and pond/lake systems. Horizontal systems involve burying the loop pipes in trenches dug horizontally underground, while vertical systems involve drilling boreholes vertically into the ground to install the loop pipes. Pond/lake systems utilize a body of water as a heat source, circulating the heat transfer fluid through pipes submerged in the water. IV. What are the benefits of using a Closed Loop Geothermal System? There are numerous benefits to using a closed loop geothermal system, including reduced energy costs, lower carbon emissions, and increased energy efficiency. By harnessing the natural heat stored in the earth, these systems can provide consistent heating and cooling throughout the year, regardless of external weather conditions. Additionally, closed loop geothermal systems require less maintenance than traditional heating and cooling systems, resulting in lower operating costs over time. V. What are the potential drawbacks of Closed Loop Geothermal Systems? While closed loop geothermal systems offer many advantages, there are also some potential drawbacks to consider. One of the main drawbacks is the upfront cost of installation, which can be higher than traditional heating and cooling systems. Additionally, the efficiency of a geothermal system may be affected by the quality of the soil or water in the area, as well as the size and layout of the building. It is important to carefully assess these factors before deciding to install a closed loop geothermal system. VI. How does installation and maintenance of a Closed Loop Geothermal System work?
+- Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives The Suffolk Times Return to Homepage Search our Archives Search the archives Youâre viewing an archive piece 05.20.2010 Columns Why âJust Saying Noâ to geothermal systems is a bad idea By Times Review It has been one year since the Town Board adopted Local Law No. 2-2009 prohibiting geothermal heating and cooling systems. In that time I have attended, as a practicing architect, several seminars concerning sustainable building design as part of my continuing professional education. Geothermal systems are now part of the subject matter at these events as it is an important new technology that architects should be familiar with. It comes as a shock to the participants of these seminars that the Town of Shelter Island has already banned all geothermal systems. In reviewing the process the town followed in adopting the new law I believe a serious error was made in prohibiting all types of geothermal systems, both the type that utilize water from wells drilled into the aquifer and those that do not. As a result of this new law, Shelter Island residents are unable to benefit from the substantial cost savings of using geothermal energy in heating and cooling their homes and businesses, in using it for domestic hot water purposes and for reducing air pollution on the Island by eliminating fossil-fuel heating systems. They are also prevented from enjoying the benefits of interest rate reductions on loans, technical assistance, grants and funding for geothermal systems now available from LIPA and other New York State sources. In describing the justification for the new law, the town determined that âGeothermal wells have two basic designs: open-loop and closed-loop systems.â This is not accurate. Geothermal systems have two basic designs but only the open-loop type involves a well. The closed-loop design does not involve a well or water from a well. The town further defines the closed-loop system, more accurately, as involving pipes placed in a trench forming a closed loop circulating a fluid into and out of a heat exchange system in the dwelling. It states âThe system functions in the same manner as the open-looped system, except that there is no pumping of groundwater.â This is true as far as energy usage is concerned but not in terms of their effect on the aquifer. The geothermal system that utilizes pipes placed in a trench 4 to 6 feet below the surface (i.e., closed-loop) requires no well or well water and presents no hazard to the water supply of Shelter Island. The board decided that both types of geothermal systems (open, which threatens the water supply, and closed, which presents no threat to the water supply) should be prohibited. There is no hint as to why both systems were dealt with identically. There appears to be no justification for banning closed-loop systems. Geothermal systems make use of the heat stored in the ground due to solar radiation. The heat is stored in the water in the ground and in the soil. Seasonal changes in the weather have little or no effect on the heat stored in the ground. It remains at an almost constant temperature. On Shelter Island this temperature is 55 degrees F. During the heating season this heat can be extracted to help provide space heating. The actual technique employed (heat pump) is not important to the concept. What is important is that no fossil fuel is used in the heating system. Electricity powers the heat pump and the energy needed to heat the house is significantly less than would be necessary if the energy source were a conventional oil or gas-fired boiler or furnace. Heating efficiencies 50 to 70 percent higher than other heating systems can be achieved. During the summer, the geothermal system can be used in reverse fashion to make use of the 55-degree ground temperature to help cool the house. The same heat pump is employed to extract the heat from the air circulating in the house and deliver it back into the ground, reducing the electrical energy required for air conditioning. No noisy outdoor compressor is required. Cooling efficiencies 20 to 40 percent higher than conventional air conditioning systems can be achieved. Whether extracting heat from the ground or returning heat to the ground, the closed-loop geothermal system has no adverse effect on the ground or the groundwater. The fluid circulated through the closed-loop can be a biodegradable anti-freeze fluid that is safe to the environment and to personnel engaged in servicing the equipment. It bears no similarity to the fluid used in automobile radiators. Standards governing this fluid and its use have been established (Closed-Loop/Geothermal Heat Pump Systems, Design and Installation Standards, 2007 Edition, International Ground Source Heat Pump Association). It is safe and does not represent a threat to the water supply of Shelter Island. The law states under findings: âA consultant-supported Town Working Group has studied geothermal closed-loop systems and has determined that these systems threaten the aquifer by piercing deep clay units (which help control saltwater intrusion and the draining of the freshwater aquifer) and have the potential to leak contaminants into the general freshwater supply.â This finding, as it pertains to closed-loop piping in a trench, is not true. The clay layer is not disturbed when closed-loop piping is placed in shallow (4- to 6-foot deep) trenches. Nor does the fluid circulating in the piping present a measurable threat of contaminating the soil as it is a relatively harmless substance. The board should reconsider this law as it pertains to closed-loop systems by consulting qualified experts specifically about the environmental threat, or lack thereof, posed by their use. I believe it will find sufficient reason to amend the law and thereby allow Shelter Islanders to make use of this sustainable technology to reduce harmful CO2 emissions and reduce their energy costs significantly, without risk to the aquifer. Please note that I am not a heating or ventilating contractor or in any way engaged in this industry. I am an independent architect who owns property on Shelter Island and I take seriously the need to design sustainable, efficient and intelligent buildings. Share on Facebook Facebook Created with Sketch. Share on Twitter Twitter Created with Sketch. Share via email Mail Created with Sketch. Newsletter Sign Up Email Address The premier news outlet covering Shelter Island. Subscribe Easter weekend gathering at Shelter Island History Museum
+- Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives The Suffolk Times Return to Homepage Search our Archives Search the archives Youâre viewing an archive piece 05.20.2010 Columns Why âJust Saying Noâ to geothermal systems is a bad idea By Times Review It has been one year since the Town Board adopted Local Law No. 2-2009 prohibiting geothermal heating and cooling systems. In that time I have attended, as a practicing architect, several seminars concerning sustainable building design as part of my continuing professional education. Geothermal systems are now part of the subject matter at these events as it is an important new technology that architects should be familiar with. It comes as a shock to the participants of these seminars that the Town of Shelter Island has already banned all geothermal systems. In reviewing the process the town followed in adopting the new law I believe a serious error was made in prohibiting all types of geothermal systems, both the type that utilize water from wells drilled into the aquifer and those that do not. As a result of this new law, Shelter Island residents are unable to benefit from the substantial cost savings of using geothermal energy in heating and cooling their homes and businesses, in using it for domestic hot water purposes and for reducing air pollution on the Island by eliminating fossil-fuel heating systems. They are also prevented from enjoying the benefits of interest rate reductions on loans, technical assistance, grants and funding for geothermal systems now available from LIPA and other New York State sources. In describing the justification for the new law, the town determined that âGeothermal wells have two basic designs: open-loop and closed-loop systems.â This is not accurate. Geothermal systems have two basic designs but only the open-loop type involves a well. The closed-loop design does not involve a well or water from a well. The town further defines the closed-loop system, more accurately, as involving pipes placed in a trench forming a closed loop circulating a fluid into and out of a heat exchange system in the dwelling. It states âThe system functions in the same manner as the open-looped system, except that there is no pumping of groundwater.â This is true as far as energy usage is concerned but not in terms of their effect on the aquifer. The geothermal system that utilizes pipes placed in a trench 4 to 6 feet below the surface (i.e., closed-loop) requires no well or well water and presents no hazard to the water supply of Shelter Island. The board decided that both types of geothermal systems (open, which threatens the water supply, and closed, which presents no threat to the water supply) should be prohibited. There is no hint as to why both systems were dealt with identically. There appears to be no justification for banning closed-loop systems. Geothermal systems make use of the heat stored in the ground due to solar radiation. The heat is stored in the water in the ground and in the soil. Seasonal changes in the weather have little or no effect on the heat stored in the ground. It remains at an almost constant temperature. On Shelter Island this temperature is 55 degrees F. During the heating season this heat can be extracted to help provide space heating. The actual technique employed (heat pump) is not important to the concept. What is important is that no fossil fuel is used in the heating system. Electricity powers the heat pump and the energy needed to heat the house is significantly less than would be necessary if the energy source were a conventional oil or gas-fired boiler or furnace. Heating efficiencies 50 to 70 percent higher than other heating systems can be achieved. During the summer, the geothermal system can be used in reverse fashion to make use of the 55-degree ground temperature to help cool the house. The same heat pump is employed to extract the heat from the air circulating in the house and deliver it back into the ground, reducing the electrical energy required for air conditioning. No noisy outdoor compressor is required. Cooling efficiencies 20 to 40 percent higher than conventional air conditioning systems can be achieved. Whether extracting heat from the ground or returning heat to the ground, the closed-loop geothermal system has no adverse effect on the ground or the groundwater. The fluid circulated through the closed-loop can be a biodegradable anti-freeze fluid that is safe to the environment and to personnel engaged in servicing the equipment. It bears no similarity to the fluid used in automobile radiators. Standards governing this fluid and its use have been established (Closed-Loop/Geothermal Heat Pump Systems, Design and Installation Standards, 2007 Edition, International Ground Source Heat Pump Association). It is safe and does not represent a threat to the water supply of Shelter Island. The law states under findings: âA consultant-supported Town Working Group has studied geothermal closed-loop systems and has determined that these systems threaten the aquifer by piercing deep clay units (which help control saltwater intrusion and the draining of the freshwater aquifer) and have the potential to leak contaminants into the general freshwater supply.â This finding, as it pertains to closed-loop piping in a trench, is not true. The clay layer is not disturbed when closed-loop piping is placed in shallow (4- to 6-foot deep) trenches. Nor does the fluid circulating in the piping present a measurable threat of contaminating the soil as it is a relatively harmless substance. The board should reconsider this law as it pertains to closed-loop systems by consulting qualified experts specifically about the environmental threat, or lack thereof, posed by their use. I believe it will find sufficient reason to amend the law and thereby allow Shelter Islanders to make use of this sustainable technology to reduce harmful CO2 emissions and reduce their energy costs significantly, without risk to the aquifer. Please note that I am not a heating or ventilating contractor or in any way engaged in this industry. I am an independent architect who owns property on Shelter Island and I take seriously the need to design sustainable, efficient and intelligent buildings. Share on Facebook Facebook Created with Sketch. Share on Twitter Twitter Created with Sketch. Share via email Mail Created with Sketch. Newsletter Sign Up Email Address The premier news outlet covering Shelter Island. Subscribe Easter weekend gathering at Shelter Island History Museum
+- Why âJust Saying Noâ to geothermal systems is a bad idea - Shelter Island Reporter Archives The Suffolk Times Return to Homepage Search our Archives Search the archives Youâre viewing an archive piece 05.20.2010 Columns Why âJust Saying Noâ to geothermal systems is a bad idea By Times Review It has been one year since the Town Board adopted Local Law No. 2-2009 prohibiting geothermal heating and cooling systems. In that time I have attended, as a practicing architect, several seminars concerning sustainable building design as part of my continuing professional education. Geothermal systems are now part of the subject matter at these events as it is an important new technology that architects should be familiar with. It comes as a shock to the participants of these seminars that the Town of Shelter Island has already banned all geothermal systems. In reviewing the process the town followed in adopting the new law I believe a serious error was made in prohibiting all types of geothermal systems, both the type that utilize water from wells drilled into the aquifer and those that do not. As a result of this new law, Shelter Island residents are unable to benefit from the substantial cost savings of using geothermal energy in heating and cooling their homes and businesses, in using it for domestic hot water purposes and for reducing air pollution on the Island by eliminating fossil-fuel heating systems. They are also prevented from enjoying the benefits of interest rate reductions on loans, technical assistance, grants and funding for geothermal systems now available from LIPA and other New York State sources. In describing the justification for the new law, the town determined that âGeothermal wells have two basic designs: open-loop and closed-loop systems.â This is not accurate. Geothermal systems have two basic designs but only the open-loop type involves a well. The closed-loop design does not involve a well or water from a well. The town further defines the closed-loop system, more accurately, as involving pipes placed in a trench forming a closed loop circulating a fluid into and out of a heat exchange system in the dwelling. It states âThe system functions in the same manner as the open-looped system, except that there is no pumping of groundwater.â This is true as far as energy usage is concerned but not in terms of their effect on the aquifer. The geothermal system that utilizes pipes placed in a trench 4 to 6 feet below the surface (i.e., closed-loop) requires no well or well water and presents no hazard to the water supply of Shelter Island. The board decided that both types of geothermal systems (open, which threatens the water supply, and closed, which presents no threat to the water supply) should be prohibited. There is no hint as to why both systems were dealt with identically. There appears to be no justification for banning closed-loop systems. Geothermal systems make use of the heat stored in the ground due to solar radiation. The heat is stored in the water in the ground and in the soil. Seasonal changes in the weather have little or no effect on the heat stored in the ground. It remains at an almost constant temperature. On Shelter Island this temperature is 55 degrees F. During the heating season this heat can be extracted to help provide space heating. The actual technique employed (heat pump) is not important to the concept. What is important is that no fossil fuel is used in the heating system. Electricity powers the heat pump and the energy needed to heat the house is significantly less than would be necessary if the energy source were a conventional oil or gas-fired boiler or furnace. Heating efficiencies 50 to 70 percent higher than other heating systems can be achieved. During the summer, the geothermal system can be used in reverse fashion to make use of the 55-degree ground temperature to help cool the house. The same heat pump is employed to extract the heat from the air circulating in the house and deliver it back into the ground, reducing the electrical energy required for air conditioning. No noisy outdoor compressor is required. Cooling efficiencies 20 to 40 percent higher than conventional air conditioning systems can be achieved. Whether extracting heat from the ground or returning heat to the ground, the closed-loop geothermal system has no adverse effect on the ground or the groundwater. The fluid circulated through the closed-loop can be a biodegradable anti-freeze fluid that is safe to the environment and to personnel engaged in servicing the equipment. It bears no similarity to the fluid used in automobile radiators. Standards governing this fluid and its use have been established (Closed-Loop/Geothermal Heat Pump Systems, Design and Installation Standards, 2007 Edition, International Ground Source Heat Pump Association). It is safe and does not represent a threat to the water supply of Shelter Island. The law states under findings: âA consultant-supported Town Working Group has studied geothermal closed-loop systems and has determined that these systems threaten the aquifer by piercing deep clay units (which help control saltwater intrusion and the draining of the freshwater aquifer) and have the potential to leak contaminants into the general freshwater supply.â This finding, as it pertains to closed-loop piping in a trench, is not true. The clay layer is not disturbed when closed-loop piping is placed in shallow (4- to 6-foot deep) trenches. Nor does the fluid circulating in the piping present a measurable threat of contaminating the soil as it is a relatively harmless substance. The board should reconsider this law as it pertains to closed-loop systems by consulting qualified experts specifically about the environmental threat, or lack thereof, posed by their use. I believe it will find sufficient reason to amend the law and thereby allow Shelter Islanders to make use of this sustainable technology to reduce harmful CO2 emissions and reduce their energy costs significantly, without risk to the aquifer. Please note that I am not a heating or ventilating contractor or in any way engaged in this industry. I am an independent architect who owns property on Shelter Island and I take seriously the need to design sustainable, efficient and intelligent buildings. Share on Facebook Facebook Created with Sketch. Share on Twitter Twitter Created with Sketch. Share via email Mail Created with Sketch. Newsletter Sign Up Email Address The premier news outlet covering Shelter Island. Subscribe Easter weekend gathering at Shelter Island History Museum
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.

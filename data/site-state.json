@@ -3,6 +3,22 @@
   "started_at": "2026-04-10T00:00:00Z",
   "completed_topics": [
     {
+      "title": "Geothermal closed-loop systems",
+      "slug": "geothermal-closed-loop-systems",
+      "summary": "Geothermal closed-loop systems is selected because it has active scientific, industrial, and policy developments that reward a high-evidence synthesis.",
+      "tags": [
+        "research",
+        "technology",
+        "analysis"
+      ],
+      "generated_at": "2026-04-10T03:21:37.627744Z",
+      "sources_analyzed": 34,
+      "research_turns": 10,
+      "request_mode": "auto",
+      "page_path": "wiki/geothermal-closed-loop-systems.md",
+      "report_path": "reports/20260410T031641Z-geothermal-closed-loop-systems.md"
+    },
+    {
       "title": "Protein structure prediction",
       "slug": "protein-structure-prediction",
       "summary": "Protein structure prediction is selected because it has active scientific, industrial, and policy developments that reward a high-evidence synthesis.",
@@ -116,6 +132,16 @@
     }
   ],
   "run_history": [
+    {
+      "run_id": "20260410T031641Z-geothermal-closed-loop-systems",
+      "topic": "Geothermal closed-loop systems",
+      "slug": "geothermal-closed-loop-systems",
+      "generated_at": "2026-04-10T03:21:37.627744Z",
+      "sources_analyzed": 34,
+      "request_mode": "auto",
+      "report_path": "reports/20260410T031641Z-geothermal-closed-loop-systems.md",
+      "page_path": "wiki/geothermal-closed-loop-systems.md"
+    },
     {
       "run_id": "20260410T030838Z-protein-structure-prediction",
       "topic": "Protein structure prediction",
