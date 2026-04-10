@@ -12,8 +12,8 @@
     </div>
   </div>
   <div class="ap-metrics">
-    <div><span>10</span><small>pages</small></div>
-    <div><span>394</span><small>sources</small></div>
+    <div><span>11</span><small>pages</small></div>
+    <div><span>415</span><small>sources</small></div>
     <div><span>2026-04-10</span><small>latest run</small></div>
   </div>
 </section>
@@ -21,6 +21,13 @@
 ## Latest Pages
 
 <section class="ap-card-grid">
+<article class="ap-card">
+  <span class="ap-card__kicker">2026-04-10</span>
+  <h3><a href="wiki/quantum-error-correction-applications-and-constraints.md">Quantum error correction applications and constraints</a></h3>
+  <p>Quantum error correction applications and constraints is selected because it has active scientific, industrial, and policy developments that reward a high-evidence synthesis.</p>
+  <div class="ap-card__meta">21 sources</div>
+  <div class="ap-card__actions"><a href="https://github.com/Pikotyan484/very-test/issues/new?title=%5BExpand+Page%5D+Quantum+error+correction+applications+and+constraints&body=%23%23+Request+Type%0Aexpand-page%0A%0A%23%23+Topic+Title%0AQuantum+error+correction+applications+and+constraints%0A%0A%23%23+Topic+Slug%0Aquantum-error-correction-applications-and-constraints%0A%0A%23%23+Request+Notes%0APlease+update+this+page+and+expand+missing+sections+with+newer+evidence.%0A%0A%23%23+Existing+Page%0Adocs%2Fwiki%2Fquantum-error-correction-applications-and-constraints.md%0A&labels=autopedia-request%2Cexpand-page" target="_blank" rel="noopener">更新または拡張</a></div>
+</article>
 <article class="ap-card">
   <span class="ap-card__kicker">2026-04-10</span>
   <h3><a href="wiki/water-desalination-membranes.md">Water desalination membranes</a></h3>
@@ -55,13 +62,6 @@
   <p>Grid-scale battery safety is selected because it has active scientific, industrial, and policy developments that reward a high-evidence synthesis.</p>
   <div class="ap-card__meta">14 sources</div>
   <div class="ap-card__actions"><a href="https://github.com/Pikotyan484/very-test/issues/new?title=%5BExpand+Page%5D+Grid-scale+battery+safety&body=%23%23+Request+Type%0Aexpand-page%0A%0A%23%23+Topic+Title%0AGrid-scale+battery+safety%0A%0A%23%23+Topic+Slug%0Agrid-scale-battery-safety%0A%0A%23%23+Request+Notes%0APlease+update+this+page+and+expand+missing+sections+with+newer+evidence.%0A%0A%23%23+Existing+Page%0Adocs%2Fwiki%2Fgrid-scale-battery-safety.md%0A&labels=autopedia-request%2Cexpand-page" target="_blank" rel="noopener">更新または拡張</a></div>
-</article>
-<article class="ap-card">
-  <span class="ap-card__kicker">2026-04-10</span>
-  <h3><a href="wiki/crispr-therapeutics.md">CRISPR therapeutics</a></h3>
-  <p>CRISPR therapeutics is selected because it has active scientific, industrial, and policy developments that reward a high-evidence synthesis.</p>
-  <div class="ap-card__meta">41 sources</div>
-  <div class="ap-card__actions"><a href="https://github.com/Pikotyan484/very-test/issues/new?title=%5BExpand+Page%5D+CRISPR+therapeutics&body=%23%23+Request+Type%0Aexpand-page%0A%0A%23%23+Topic+Title%0ACRISPR+therapeutics%0A%0A%23%23+Topic+Slug%0Acrispr-therapeutics%0A%0A%23%23+Request+Notes%0APlease+update+this+page+and+expand+missing+sections+with+newer+evidence.%0A%0A%23%23+Existing+Page%0Adocs%2Fwiki%2Fcrispr-therapeutics.md%0A&labels=autopedia-request%2Cexpand-page" target="_blank" rel="noopener">更新または拡張</a></div>
 </article>
 </section>
 
