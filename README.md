@@ -32,6 +32,8 @@ This is the GitHub Actions-compatible way to run AutoPedia continuously without 
 
 The workflows now default to `AUTOPEDIA_DEEP_RESEARCH_MULTIPLIER=20`, which expands the research budget across turns, query breadth, fetch volume, report size, and translation/report chunking. The multiplier is intentionally capped per subsystem so GitHub-hosted runners do not explode into unbounded jobs.
 
+On GitHub-hosted runners, AutoPedia also switches to a safer HTML extraction path and clamps the heaviest fetch settings so native parser crashes and runaway failure loops are less likely.
+
 ## Recommended Production Setup
 
 For higher-quality research results, configure:
@@ -135,6 +137,6 @@ If you want closer to 500 fetched pages per turn, increase:
 - `AUTOPEDIA_SEARCH_RESULTS_PER_QUERY`
 - `AUTOPEDIA_FETCH_WORKERS`
 
-If you want to globally raise or lower the new 20x profile, change `AUTOPEDIA_DEEP_RESEARCH_MULTIPLIER`. The individual base values remain available, but the multiplier is the primary control surface for overall research depth.
+If you want to globally raise or lower the new 20x profile, change `AUTOPEDIA_DEEP_RESEARCH_MULTIPLIER`. If you also set explicit repository variables such as `AUTOPEDIA_RESEARCH_TURNS` or `AUTOPEDIA_MAX_PAGES_PER_TURN`, those explicit values are treated as final values instead of being multiplied again.
 
 Keep in mind that aggressive settings increase runtime, network failures, and the chance of hitting search-provider rate limits.

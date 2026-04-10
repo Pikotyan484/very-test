@@ -102,6 +102,16 @@ def _env_int(name: str, default: int) -> int:
         return default
 
 
+def _env_optional_int(name: str) -> int | None:
+    raw = os.getenv(name)
+    if raw is None or not raw.strip():
+        return None
+    try:
+        return int(raw.strip())
+    except ValueError:
+        return None
+
+
 def _env_float(name: str, default: float) -> float:
     raw = os.getenv(name)
     if raw is None:
@@ -150,18 +160,31 @@ def load_settings() -> Settings:
     searxng_url = os.getenv("AUTOPEDIA_SEARXNG_URL")
     default_providers = ["searxng", "ddgs"] if searxng_url else ["ddgs"]
     deep_research_multiplier = max(1.0, _env_float("AUTOPEDIA_DEEP_RESEARCH_MULTIPLIER", 1.0))
+    running_in_github_actions = _env_bool("GITHUB_ACTIONS", False)
 
-    base_research_turns = max(1, _env_int("AUTOPEDIA_RESEARCH_TURNS", 3))
-    base_search_queries_per_turn = max(3, _env_int("AUTOPEDIA_SEARCH_QUERIES_PER_TURN", 10))
-    base_search_results_per_query = max(5, _env_int("AUTOPEDIA_SEARCH_RESULTS_PER_QUERY", 24))
-    base_min_pages_per_turn = max(10, _env_int("AUTOPEDIA_MIN_PAGES_PER_TURN", 100))
-    base_max_pages_per_turn = max(20, _env_int("AUTOPEDIA_MAX_PAGES_PER_TURN", 160))
-    base_fetch_workers = max(4, _env_int("AUTOPEDIA_FETCH_WORKERS", 16))
-    base_fetch_candidate_multiplier = max(1, _env_int("AUTOPEDIA_FETCH_CANDIDATE_MULTIPLIER", 2))
-    base_report_min_lines = max(200, _env_int("AUTOPEDIA_REPORT_MIN_LINES", 2000))
-    base_min_reference_count = max(1, _env_int("AUTOPEDIA_MIN_REFERENCE_COUNT", 8))
-    base_max_report_chunk_chars = max(2000, _env_int("AUTOPEDIA_MAX_REPORT_CHUNK_CHARS", 12000))
-    base_max_report_chunks = max(2, _env_int("AUTOPEDIA_MAX_REPORT_CHUNKS", 20))
+    explicit_research_turns = _env_optional_int("AUTOPEDIA_RESEARCH_TURNS")
+    explicit_search_queries_per_turn = _env_optional_int("AUTOPEDIA_SEARCH_QUERIES_PER_TURN")
+    explicit_search_results_per_query = _env_optional_int("AUTOPEDIA_SEARCH_RESULTS_PER_QUERY")
+    explicit_min_pages_per_turn = _env_optional_int("AUTOPEDIA_MIN_PAGES_PER_TURN")
+    explicit_max_pages_per_turn = _env_optional_int("AUTOPEDIA_MAX_PAGES_PER_TURN")
+    explicit_fetch_workers = _env_optional_int("AUTOPEDIA_FETCH_WORKERS")
+    explicit_fetch_candidate_multiplier = _env_optional_int("AUTOPEDIA_FETCH_CANDIDATE_MULTIPLIER")
+    explicit_report_min_lines = _env_optional_int("AUTOPEDIA_REPORT_MIN_LINES")
+    explicit_min_reference_count = _env_optional_int("AUTOPEDIA_MIN_REFERENCE_COUNT")
+    explicit_max_report_chunk_chars = _env_optional_int("AUTOPEDIA_MAX_REPORT_CHUNK_CHARS")
+    explicit_max_report_chunks = _env_optional_int("AUTOPEDIA_MAX_REPORT_CHUNKS")
+
+    base_research_turns = max(1, explicit_research_turns or 3)
+    base_search_queries_per_turn = max(3, explicit_search_queries_per_turn or 10)
+    base_search_results_per_query = max(5, explicit_search_results_per_query or 24)
+    base_min_pages_per_turn = max(10, explicit_min_pages_per_turn or 100)
+    base_max_pages_per_turn = max(20, explicit_max_pages_per_turn or 160)
+    base_fetch_workers = max(4, explicit_fetch_workers or 16)
+    base_fetch_candidate_multiplier = max(1, explicit_fetch_candidate_multiplier or 2)
+    base_report_min_lines = max(200, explicit_report_min_lines or 2000)
+    base_min_reference_count = max(1, explicit_min_reference_count or 8)
+    base_max_report_chunk_chars = max(2000, explicit_max_report_chunk_chars or 12000)
+    base_max_report_chunks = max(2, explicit_max_report_chunks or 20)
 
     settings = Settings(
         root_dir=ROOT_DIR,
@@ -179,38 +202,68 @@ def load_settings() -> Settings:
         model=os.getenv("AUTOPEDIA_MODEL", "llama-3"),
         demo_mode=_env_bool("AUTOPEDIA_DEMO_MODE", not bool(api_key)),
         deep_research_multiplier=deep_research_multiplier,
-        research_turns=_scale_setting(base_research_turns, deep_research_multiplier, exponent=0.5, minimum=1, maximum=18),
+        research_turns=_scale_setting(
+            base_research_turns,
+            1.0 if explicit_research_turns is not None else deep_research_multiplier,
+            exponent=0.5,
+            minimum=1,
+            maximum=18,
+        ),
         search_queries_per_turn=_scale_setting(
             base_search_queries_per_turn,
-            deep_research_multiplier,
+            1.0 if explicit_search_queries_per_turn is not None else deep_research_multiplier,
             exponent=0.12,
             minimum=3,
             maximum=18,
         ),
         search_results_per_query=_scale_setting(
             base_search_results_per_query,
-            deep_research_multiplier,
+            1.0 if explicit_search_results_per_query is not None else deep_research_multiplier,
             exponent=0.08,
             minimum=5,
             maximum=36,
         ),
-        min_pages_per_turn=_scale_setting(base_min_pages_per_turn, deep_research_multiplier, exponent=0.35, minimum=10, maximum=320),
-        max_pages_per_turn=_scale_setting(base_max_pages_per_turn, deep_research_multiplier, exponent=0.4, minimum=20, maximum=560),
-        fetch_workers=_scale_setting(base_fetch_workers, deep_research_multiplier, exponent=0.28, minimum=4, maximum=40),
+        min_pages_per_turn=_scale_setting(
+            base_min_pages_per_turn,
+            1.0 if explicit_min_pages_per_turn is not None else deep_research_multiplier,
+            exponent=0.35,
+            minimum=10,
+            maximum=320,
+        ),
+        max_pages_per_turn=_scale_setting(
+            base_max_pages_per_turn,
+            1.0 if explicit_max_pages_per_turn is not None else deep_research_multiplier,
+            exponent=0.4,
+            minimum=20,
+            maximum=560,
+        ),
+        fetch_workers=_scale_setting(
+            base_fetch_workers,
+            1.0 if explicit_fetch_workers is not None else deep_research_multiplier,
+            exponent=0.28,
+            minimum=4,
+            maximum=40,
+        ),
         max_fetch_candidates_multiplier=_scale_setting(
             base_fetch_candidate_multiplier,
-            deep_research_multiplier,
+            1.0 if explicit_fetch_candidate_multiplier is not None else deep_research_multiplier,
             exponent=0.12,
             minimum=1,
             maximum=4,
         ),
         min_source_words=max(50, _env_int("AUTOPEDIA_MIN_SOURCE_WORDS", 180)),
-        report_min_lines=_scale_setting(base_report_min_lines, deep_research_multiplier, exponent=0.72, minimum=200, maximum=18000),
+        report_min_lines=_scale_setting(
+            base_report_min_lines,
+            1.0 if explicit_report_min_lines is not None else deep_research_multiplier,
+            exponent=0.72,
+            minimum=200,
+            maximum=18000,
+        ),
         store_raw_html=_env_bool("AUTOPEDIA_STORE_RAW_HTML", False),
         max_reports_to_keep=max(1, _env_int("AUTOPEDIA_MAX_REPORTS_TO_KEEP", 10)),
         minimum_reference_count=_scale_setting(
             base_min_reference_count,
-            deep_research_multiplier,
+            1.0 if explicit_min_reference_count is not None else deep_research_multiplier,
             exponent=0.2,
             minimum=1,
             maximum=16,
@@ -222,12 +275,26 @@ def load_settings() -> Settings:
         searxng_url=searxng_url,
         max_report_chunk_chars=_scale_setting(
             base_max_report_chunk_chars,
-            deep_research_multiplier,
+            1.0 if explicit_max_report_chunk_chars is not None else deep_research_multiplier,
             exponent=0.12,
             minimum=2000,
             maximum=18000,
         ),
-        max_report_chunks=_scale_setting(base_max_report_chunks, deep_research_multiplier, exponent=0.28, minimum=2, maximum=48),
+        max_report_chunks=_scale_setting(
+            base_max_report_chunks,
+            1.0 if explicit_max_report_chunks is not None else deep_research_multiplier,
+            exponent=0.28,
+            minimum=2,
+            maximum=48,
+        ),
     )
+    if running_in_github_actions:
+        settings.research_turns = min(settings.research_turns, 12)
+        settings.fetch_workers = min(settings.fetch_workers, 8)
+        settings.max_fetch_candidates_multiplier = min(settings.max_fetch_candidates_multiplier, 2)
+        settings.min_pages_per_turn = min(settings.min_pages_per_turn, 160)
+        settings.max_pages_per_turn = min(settings.max_pages_per_turn, 220)
+        settings.report_min_lines = min(settings.report_min_lines, 12000)
+        settings.max_report_chunks = min(settings.max_report_chunks, 24)
     settings.max_pages_per_turn = max(settings.max_pages_per_turn, settings.min_pages_per_turn)
     return settings

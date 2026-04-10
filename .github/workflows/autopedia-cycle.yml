@@ -52,10 +52,14 @@ jobs:
       AUTOPEDIA_CONTINUOUS_LOOP: ${{ vars.AUTOPEDIA_CONTINUOUS_LOOP || 'true' }}
       AUTOPEDIA_DEEP_RESEARCH_MULTIPLIER: ${{ vars.AUTOPEDIA_DEEP_RESEARCH_MULTIPLIER || '20' }}
       AUTOPEDIA_RESEARCH_TURNS: ${{ vars.AUTOPEDIA_RESEARCH_TURNS || '10' }}
+      AUTOPEDIA_SEARCH_QUERIES_PER_TURN: ${{ vars.AUTOPEDIA_SEARCH_QUERIES_PER_TURN }}
       AUTOPEDIA_MIN_PAGES_PER_TURN: ${{ vars.AUTOPEDIA_MIN_PAGES_PER_TURN || '200' }}
       AUTOPEDIA_MAX_PAGES_PER_TURN: ${{ vars.AUTOPEDIA_MAX_PAGES_PER_TURN || '360' }}
       AUTOPEDIA_SEARCH_RESULTS_PER_QUERY: ${{ vars.AUTOPEDIA_SEARCH_RESULTS_PER_QUERY || '24' }}
+      AUTOPEDIA_FETCH_WORKERS: ${{ vars.AUTOPEDIA_FETCH_WORKERS }}
+      AUTOPEDIA_FETCH_CANDIDATE_MULTIPLIER: ${{ vars.AUTOPEDIA_FETCH_CANDIDATE_MULTIPLIER }}
       AUTOPEDIA_REPORT_MIN_LINES: ${{ vars.AUTOPEDIA_REPORT_MIN_LINES || '4000' }}
+      AUTOPEDIA_MIN_REFERENCE_COUNT: ${{ vars.AUTOPEDIA_MIN_REFERENCE_COUNT || '8' }}
       AUTOPEDIA_REQUEST_MODE: ${{ github.event.inputs.request_mode || github.event.client_payload.request_mode || 'auto' }}
       AUTOPEDIA_REQUEST_TOPIC_TITLE: ${{ github.event.inputs.topic_title || github.event.client_payload.topic_title || '' }}
       AUTOPEDIA_REQUEST_TOPIC_SLUG: ${{ github.event.inputs.topic_slug || github.event.client_payload.topic_slug || '' }}
@@ -130,7 +134,7 @@ jobs:
           fi
 
       - name: Queue next cycle
-        if: ${{ always() && env.AUTOPEDIA_CONTINUOUS_LOOP == 'true' && env.AUTOPEDIA_REQUEST_MODE == 'auto' }}
+        if: ${{ steps.cycle.outputs.exit_code == '0' && env.AUTOPEDIA_CONTINUOUS_LOOP == 'true' && env.AUTOPEDIA_REQUEST_MODE == 'auto' }}
         uses: actions/github-script@v7
         env:
           CHAIN_DEPTH: ${{ steps.meta.outputs.chain_depth }}

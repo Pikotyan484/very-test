@@ -1,7 +1,9 @@
 from __future__ import annotations
 
 import hashlib
+import os
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from dataclasses import dataclass
 from pathlib import Path
 
 import requests
@@ -25,6 +27,13 @@ from autopedia.utils import (
     truncate_text,
     utc_timestamp,
 )
+
+
+@dataclass
+class DownloadedPage:
+    result: SearchResult
+    final_url: str
+    html: str
 
 
 class ResearchEngine:
@@ -128,26 +137,32 @@ class ResearchEngine:
         results: list[SearchResult],
     ) -> list[FetchedSource]:
         output: list[FetchedSource] = []
-        with ThreadPoolExecutor(max_workers=self.settings.fetch_workers) as executor:
+        downloaded_pages: list[DownloadedPage] = []
+        with ThreadPoolExecutor(max_workers=self._effective_fetch_workers()) as executor:
             futures = {
-                executor.submit(self._fetch_one, plan, run_id, turn_index, result): result
+                executor.submit(self._download_one, result): result
                 for result in results
             }
             for future in as_completed(futures):
                 source = future.result()
-                if source and source.word_count >= self.settings.min_source_words:
+                if source:
+                    downloaded_pages.append(source)
+
+        for downloaded_page in sorted(downloaded_pages, key=lambda item: (item.result.rank, item.final_url)):
+            source = self._build_source_from_downloaded_page(plan, run_id, turn_index, downloaded_page)
+            if source and source.word_count >= self.settings.min_source_words:
                     output.append(source)
 
         ranked = sorted(output, key=lambda source: (-source.relevance_score, source.rank, source.domain))
         return ranked[: self.settings.max_pages_per_turn]
 
-    def _fetch_one(
-        self,
-        plan: TopicPlan,
-        run_id: str,
-        turn_index: int,
-        result: SearchResult,
-    ) -> FetchedSource | None:
+    def _effective_fetch_workers(self) -> int:
+        worker_count = max(1, self.settings.fetch_workers)
+        if os.getenv("GITHUB_ACTIONS", "").strip().lower() == "true":
+            return min(worker_count, 8)
+        return worker_count
+
+    def _download_one(self, result: SearchResult) -> DownloadedPage | None:
         headers = {"User-Agent": self.USER_AGENT, "Accept-Language": "en-US,en;q=0.9"}
         try:
             response = requests.get(result.url, headers=headers, timeout=(10, 35))
@@ -160,42 +175,43 @@ class ResearchEngine:
             return None
 
         html = response.text
-        extracted = trafilatura.extract(
-            html,
-            include_comments=False,
-            include_tables=True,
-            no_fallback=False,
-            favor_recall=True,
-            deduplicate=True,
-        )
-        text = extracted or self._fallback_extract_text(html)
+        final_url = canonical_url(str(response.url)) or result.url
+        return DownloadedPage(result=result, final_url=final_url, html=html)
+
+    def _build_source_from_downloaded_page(
+        self,
+        plan: TopicPlan,
+        run_id: str,
+        turn_index: int,
+        downloaded_page: DownloadedPage,
+    ) -> FetchedSource | None:
+        text = self._extract_main_text(downloaded_page.html)
         if not text:
             return None
 
-        title = self._extract_title(html) or result.title
+        title = self._extract_title(downloaded_page.html) or downloaded_page.result.title
         preview = "\n".join(compact_lines(text)[:40])
         if not preview:
             return None
 
         html_archive_path = None
         if self.settings.store_raw_html:
-            html_archive_path = self._archive_html(run_id, turn_index, result.url, html)
+            html_archive_path = self._archive_html(run_id, turn_index, downloaded_page.final_url, downloaded_page.html)
 
-        source_id = hashlib.sha1(result.url.encode("utf-8")).hexdigest()[:12]
-        final_url = canonical_url(str(response.url)) or result.url
-        relevance_score = self._score_relevance(plan, result, preview)
+        source_id = hashlib.sha1(downloaded_page.final_url.encode("utf-8")).hexdigest()[:12]
+        relevance_score = self._score_relevance(plan, downloaded_page.result, preview)
 
         return FetchedSource(
             source_id=source_id,
             turn_index=turn_index,
-            query=result.query,
-            url=result.url,
-            final_url=final_url,
-            domain=domain_for_url(final_url),
-            provider=result.provider,
-            rank=result.rank,
-            search_title=result.title,
-            search_snippet=result.snippet,
+            query=downloaded_page.result.query,
+            url=downloaded_page.result.url,
+            final_url=downloaded_page.final_url,
+            domain=domain_for_url(downloaded_page.final_url),
+            provider=downloaded_page.result.provider,
+            rank=downloaded_page.result.rank,
+            search_title=downloaded_page.result.title,
+            search_snippet=downloaded_page.result.snippet,
             page_title=title,
             status="ok",
             word_count=len(preview.split()),
@@ -204,6 +220,23 @@ class ResearchEngine:
             relevance_score=relevance_score,
             html_archive_path=html_archive_path,
         )
+
+    def _extract_main_text(self, html: str) -> str:
+        if os.getenv("GITHUB_ACTIONS", "").strip().lower() == "true":
+            return self._fallback_extract_text(html)
+
+        try:
+            extracted = trafilatura.extract(
+                html,
+                include_comments=False,
+                include_tables=True,
+                no_fallback=False,
+                favor_recall=True,
+                deduplicate=True,
+            )
+        except Exception:
+            extracted = None
+        return extracted or self._fallback_extract_text(html)
 
     def _archive_html(self, run_id: str, turn_index: int, url: str, html: str) -> str:
         folder = ensure_dir(self.settings.html_cache_dir / run_id / f"turn-{turn_index:02d}")
