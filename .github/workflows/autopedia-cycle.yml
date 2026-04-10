@@ -55,7 +55,7 @@ jobs:
       AUTOPEDIA_MIN_PAGES_PER_TURN: ${{ vars.AUTOPEDIA_MIN_PAGES_PER_TURN || '100' }}
       AUTOPEDIA_MAX_PAGES_PER_TURN: ${{ vars.AUTOPEDIA_MAX_PAGES_PER_TURN || '160' }}
       AUTOPEDIA_SEARCH_RESULTS_PER_QUERY: ${{ vars.AUTOPEDIA_SEARCH_RESULTS_PER_QUERY || '24' }}
-      AUTOPEDIA_REPORT_MIN_LINES: ${{ vars.AUTOPEDIA_REPORT_MIN_LINES || '2000' }}
+      AUTOPEDIA_REPORT_MIN_LINES: ${{ vars.AUTOPEDIA_REPORT_MIN_LINES || '4000' }}
       AUTOPEDIA_REQUEST_MODE: ${{ github.event.inputs.request_mode || github.event.client_payload.request_mode || 'auto' }}
       AUTOPEDIA_REQUEST_TOPIC_TITLE: ${{ github.event.inputs.topic_title || github.event.client_payload.topic_title || '' }}
       AUTOPEDIA_REQUEST_TOPIC_SLUG: ${{ github.event.inputs.topic_slug || github.event.client_payload.topic_slug || '' }}
