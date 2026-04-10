@@ -3,9 +3,9 @@ title: Quantum error correction applications and constraints
 summary: Quantum error correction applications and constraints is selected because
   it has active scientific, industrial, and policy developments that reward a high-evidence
   synthesis.
-generated_at: '2026-04-10T03:43:01.839624Z'
+generated_at: '2026-04-10T03:49:25.290467Z'
 topic_slug: quantum-error-correction-applications-and-constraints
-sources_analyzed: 21
+sources_analyzed: 24
 research_turns: 10
 model: demo-mode
 request_mode: auto
@@ -31,14 +31,14 @@ available_translations:
     <section class="ap-meta-card">
       <p class="ap-meta-card__eyebrow">Signals</p>
       <ul class="ap-stat-list">
-        <li><strong>21</strong><span>sources analyzed</span></li>
+        <li><strong>24</strong><span>sources analyzed</span></li>
         <li><strong>10</strong><span>research turns</span></li>
         <li><strong>3</strong><span>translated views</span></li>
       </ul>
     </section>
     <section class="ap-meta-card">
       <p class="ap-meta-card__eyebrow">Snapshot</p>
-      <p><strong>Generated</strong><br>2026-04-10T03:43:01.839624Z</p>
+      <p><strong>Generated</strong><br>2026-04-10T03:49:25.290467Z</p>
       <p><strong>Mode</strong><br>auto</p>
       <p><strong>Model</strong><br>demo-mode</p>
     </section>
@@ -476,14 +476,14 @@ available_translations:
 <li><a href="https://www.eurekalert.org/news-releases/1113201">Quantum error correction with logical qubits | EurekAlert!</a> - www.eurekalert.org.</li>
 <li><a href="https://www.bluequbit.io/blog/quantum-error-correction">Quantum Error Correction: The Key to Quantum Computing</a> - www.bluequbit.io.</li>
 <li><a href="https://www.aliroquantum.com/blog/an-overview-of-quantan-overview-of-quantum-error-correction-in-entanglement-based-networksum-error-correction-in-entanglement-based-networks">Error Correction in Quantum Networks</a> - www.aliroquantum.com.</li>
-<li><a href="https://ncua.gov/analysis/credit-union-corporate-call-report-data">Credit Union and Corporate Call Report Data | NCUA</a> - ncua.gov.</li>
 <li><a href="https://dystopeka.com/epstein-files">Epstein Files: Timeline, Documents, People &amp; Investigation Explained</a> - dystopeka.com.</li>
+<li><a href="https://ncua.gov/analysis/credit-union-corporate-call-report-data">Credit Union and Corporate Call Report Data | NCUA</a> - ncua.gov.</li>
+<li><a href="https://www.fitchratings.com">Fitch Ratings: Credit Ratings &amp; Analysis For Financial Markets</a> - www.fitchratings.com.</li>
+<li><a href="https://myfloridacfo.com/division/sfm/bfp/florida-fire-prevention-code">Florida Fire Prevention Code (FFPC) | Florida's State Fire Marshal</a> - myfloridacfo.com.</li>
 <li><a href="https://www.sciencedaily.com/releases/2026/02/260206012208.htm">A clever quantum trick brings practical quantum computers closer | ScienceDaily</a> - www.sciencedaily.com.</li>
 <li><a href="https://www.science.gov/topicpages/e/error+correction+mechanism">error correction mechanism: Topics by Science.gov</a> - www.science.gov.</li>
-<li><a href="https://www.spinquanta.com/news-detail/master-quantum-error-correction-an-essential-guide-to-qec20250212053845">Master Quantum Error Correction: An Essential Guide to QEC | SpinQ</a> - www.spinquanta.com.</li>
-<li><a href="https://www.quantinuum.com/blog/quantinuum-with-partners-princeton-and-nist-deliver-seminal-result-in-quantum-error-correction">Quantinuum with partners Princeton and NIST deliver seminal result in quantum error correction</a> - www.quantinuum.com.</li>
-<li><a href="https://www.colorado.edu/conference/bss">Home | Boulder School for Condensed Matter and Materials Physics | University of Colorado Boulder</a> - www.colorado.edu.</li>
-<li><a href="https://health.mo.gov/safety">Licensing &amp; Regulations | Health &amp; Senior Services</a> - health.mo.gov.</li>
+<li><a href="https://support.google.com/knowledgepanel/answer/7534842?hl=en">Submit feedback on content about you - Knowledge Panel Help</a> - support.google.com.</li>
+<li><a href="https://slaveryimages.org/public/index.php">Slavery Images</a> - slaveryimages.org.</li>
 </ol>
       </div>
     </section>
