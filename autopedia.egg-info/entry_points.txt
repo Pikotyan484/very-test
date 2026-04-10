@@ -1,0 +1,2 @@
+[console_scripts]
+autopedia = autopedia.cli:main

@@ -1,0 +1,137 @@
+name: AutoPedia Cycle
+
+on:
+  workflow_dispatch:
+    inputs:
+      chain_depth:
+        description: Consecutive self-dispatch depth
+        required: false
+        default: "0"
+      reason:
+        description: Why this run was started
+        required: false
+        default: manual
+      request_mode:
+        description: auto, new-topic, update-page, or expand-page
+        required: false
+        default: auto
+      topic_title:
+        description: Requested topic title for manual runs
+        required: false
+        default: ""
+      topic_slug:
+        description: Requested topic slug for manual runs
+        required: false
+        default: ""
+      request_notes:
+        description: What to focus on for this request
+        required: false
+        default: ""
+  schedule:
+    - cron: "*/30 * * * *"
+  repository_dispatch:
+    types:
+      - autopedia-loop
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: autopedia-cycle
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    env:
+      AUTOPEDIA_GITHUB_REPOSITORY: ${{ github.repository }}
+      AUTOPEDIA_API_KEY: ${{ secrets.AUTOPEDIA_API_KEY }}
+      AUTOPEDIA_BASE_URL: ${{ secrets.AUTOPEDIA_BASE_URL || 'https://apifreellm.com/api/v1' }}
+      AUTOPEDIA_MODEL: ${{ secrets.AUTOPEDIA_MODEL || 'llama-3' }}
+      AUTOPEDIA_CONTINUOUS_LOOP: ${{ vars.AUTOPEDIA_CONTINUOUS_LOOP || 'true' }}
+      AUTOPEDIA_RESEARCH_TURNS: ${{ vars.AUTOPEDIA_RESEARCH_TURNS || '3' }}
+      AUTOPEDIA_MIN_PAGES_PER_TURN: ${{ vars.AUTOPEDIA_MIN_PAGES_PER_TURN || '100' }}
+      AUTOPEDIA_MAX_PAGES_PER_TURN: ${{ vars.AUTOPEDIA_MAX_PAGES_PER_TURN || '160' }}
+      AUTOPEDIA_SEARCH_RESULTS_PER_QUERY: ${{ vars.AUTOPEDIA_SEARCH_RESULTS_PER_QUERY || '24' }}
+      AUTOPEDIA_REPORT_MIN_LINES: ${{ vars.AUTOPEDIA_REPORT_MIN_LINES || '2000' }}
+      AUTOPEDIA_MAX_CONSECUTIVE_RUNS: ${{ vars.AUTOPEDIA_MAX_CONSECUTIVE_RUNS || '12' }}
+      AUTOPEDIA_REQUEST_MODE: ${{ github.event.inputs.request_mode || github.event.client_payload.request_mode || 'auto' }}
+      AUTOPEDIA_REQUEST_TOPIC_TITLE: ${{ github.event.inputs.topic_title || github.event.client_payload.topic_title || '' }}
+      AUTOPEDIA_REQUEST_TOPIC_SLUG: ${{ github.event.inputs.topic_slug || github.event.client_payload.topic_slug || '' }}
+      AUTOPEDIA_REQUEST_NOTES: ${{ github.event.inputs.request_notes || github.event.client_payload.request_notes || '' }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -e .
+
+      - name: Resolve chain depth
+        id: meta
+        shell: bash
+        run: |
+          depth="${{ github.event.inputs.chain_depth }}"
+          if [ -z "$depth" ]; then
+            depth="${{ github.event.client_payload.chain_depth }}"
+          fi
+          if [ -z "$depth" ]; then
+            depth="0"
+          fi
+          echo "chain_depth=$depth" >> "$GITHUB_OUTPUT"
+
+      - name: Run one AutoPedia cycle
+        run: python -m autopedia run-cycle
+
+      - name: Upload research artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: autopedia-reports-${{ github.run_number }}
+          path: reports
+          if-no-files-found: ignore
+          retention-days: 14
+
+      - name: Commit generated changes
+        id: commit
+        shell: bash
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add .
+            git commit -m "chore: autopedia cycle"
+            git push
+            echo "changes=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "changes=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Queue next cycle
+        if: ${{ env.AUTOPEDIA_CONTINUOUS_LOOP == 'true' && env.AUTOPEDIA_REQUEST_MODE == 'auto' && steps.commit.outputs.changes == 'true' && fromJSON(steps.meta.outputs.chain_depth) < fromJSON(env.AUTOPEDIA_MAX_CONSECUTIVE_RUNS) }}
+        uses: actions/github-script@v7
+        env:
+          CHAIN_DEPTH: ${{ steps.meta.outputs.chain_depth }}
+        with:
+          github-token: ${{ secrets.AUTOPEDIA_WORKFLOW_TOKEN || github.token }}
+          script: |
+            const nextDepth = Number(process.env.CHAIN_DEPTH || '0') + 1;
+            await github.rest.repos.createDispatchEvent({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              event_type: 'autopedia-loop',
+              client_payload: {
+                chain_depth: nextDepth,
+                reason: 'continuous-loop',
+                request_mode: 'auto'
+              }
+            });
+

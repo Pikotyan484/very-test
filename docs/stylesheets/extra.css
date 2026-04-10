@@ -1,0 +1,308 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+JP:wght@400;500;700&family=Space+Grotesk:wght@500;700&display=swap");
+
+:root {
+  --ap-radius-xl: 28px;
+  --ap-radius-lg: 22px;
+  --ap-shadow: 0 24px 70px rgba(14, 25, 38, 0.12);
+}
+
+[data-md-color-scheme="default"] {
+  --ap-bg: radial-gradient(circle at top left, rgba(43, 166, 151, 0.12), transparent 35%),
+    radial-gradient(circle at top right, rgba(48, 79, 254, 0.08), transparent 30%),
+    linear-gradient(180deg, #fbfdfd 0%, #f3f7f8 100%);
+  --ap-surface: rgba(255, 255, 255, 0.82);
+  --ap-surface-strong: rgba(255, 255, 255, 0.94);
+  --ap-border: rgba(11, 31, 46, 0.08);
+  --ap-text: #0c1a24;
+  --ap-muted: #5f7280;
+  --ap-accent: #138a7a;
+  --ap-accent-soft: rgba(19, 138, 122, 0.12);
+}
+
+[data-md-color-scheme="slate"] {
+  --ap-bg: radial-gradient(circle at top left, rgba(0, 211, 255, 0.12), transparent 30%),
+    radial-gradient(circle at top right, rgba(31, 95, 255, 0.14), transparent 35%),
+    linear-gradient(180deg, #071019 0%, #0d1823 100%);
+  --ap-surface: rgba(10, 21, 31, 0.78);
+  --ap-surface-strong: rgba(12, 26, 37, 0.92);
+  --ap-border: rgba(172, 218, 255, 0.12);
+  --ap-text: #eef6fb;
+  --ap-muted: #99adbb;
+  --ap-accent: #79e0d2;
+  --ap-accent-soft: rgba(121, 224, 210, 0.12);
+}
+
+body,
+input,
+button,
+textarea,
+select {
+  font-family: "IBM Plex Sans JP", sans-serif;
+}
+
+.md-header__title,
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.ap-eyebrow,
+.ap-card__kicker {
+  font-family: "Space Grotesk", "IBM Plex Sans JP", sans-serif;
+  letter-spacing: -0.03em;
+}
+
+.md-main {
+  background: var(--ap-bg);
+}
+
+.md-main__inner {
+  margin-top: 0;
+}
+
+.md-content__inner {
+  padding-top: 1.5rem;
+}
+
+.md-typeset h1 {
+  font-size: clamp(2.2rem, 6vw, 4rem);
+  font-weight: 700;
+  color: var(--ap-text);
+}
+
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset p,
+.md-typeset li,
+.md-typeset table {
+  color: var(--ap-text);
+}
+
+.ap-hero {
+  position: relative;
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) minmax(280px, 0.8fr);
+  gap: 1.5rem;
+  padding: 2rem;
+  border-radius: var(--ap-radius-xl);
+  border: 1px solid var(--ap-border);
+  background: linear-gradient(145deg, var(--ap-surface-strong), var(--ap-surface));
+  box-shadow: var(--ap-shadow);
+  overflow: hidden;
+}
+
+.ap-hero::before {
+  content: "";
+  position: absolute;
+  inset: auto -10% -30% auto;
+  width: 280px;
+  height: 280px;
+  border-radius: 999px;
+  background: radial-gradient(circle, var(--ap-accent-soft), transparent 65%);
+  pointer-events: none;
+}
+
+.ap-eyebrow {
+  margin: 0 0 0.5rem;
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--ap-accent);
+}
+
+.ap-lead {
+  max-width: 58ch;
+  font-size: 1.05rem;
+  color: var(--ap-muted);
+}
+
+.ap-hero__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  margin-top: 1.2rem;
+}
+
+.ap-metrics {
+  display: grid;
+  gap: 0.9rem;
+}
+
+.ap-metrics > div {
+  padding: 1.1rem 1.2rem;
+  border: 1px solid var(--ap-border);
+  border-radius: var(--ap-radius-lg);
+  background: var(--ap-surface);
+  backdrop-filter: blur(14px);
+}
+
+.ap-metrics span {
+  display: block;
+  font-family: "Space Grotesk", sans-serif;
+  font-size: clamp(1.8rem, 4vw, 2.6rem);
+  font-weight: 700;
+  color: var(--ap-text);
+}
+
+.ap-metrics small {
+  color: var(--ap-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.ap-card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1rem;
+}
+
+.ap-card {
+  position: relative;
+  padding: 1.3rem;
+  min-height: 220px;
+  border: 1px solid var(--ap-border);
+  border-radius: var(--ap-radius-lg);
+  background: linear-gradient(180deg, var(--ap-surface-strong), var(--ap-surface));
+  box-shadow: 0 18px 44px rgba(16, 24, 40, 0.08);
+  transition: transform 180ms ease, border-color 180ms ease, box-shadow 180ms ease;
+}
+
+.ap-card:hover {
+  transform: translateY(-4px);
+  border-color: rgba(19, 138, 122, 0.28);
+  box-shadow: 0 24px 50px rgba(16, 24, 40, 0.12);
+}
+
+.ap-card h3 {
+  margin: 0.2rem 0 0.7rem;
+  font-size: 1.15rem;
+}
+
+.ap-card a {
+  color: inherit;
+}
+
+.ap-card p {
+  color: var(--ap-muted);
+}
+
+.ap-card__actions {
+  margin-top: 1rem;
+}
+
+.ap-card__actions a {
+  color: var(--ap-accent);
+  font-weight: 700;
+}
+
+.ap-card__kicker,
+.ap-card__meta {
+  color: var(--ap-accent);
+  font-size: 0.82rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.ap-inline-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  margin: 1rem 0 1.4rem;
+}
+
+.ap-request-panel {
+  display: grid;
+  grid-template-columns: minmax(0, 0.95fr) minmax(320px, 1.05fr);
+  gap: 1.2rem;
+  padding: 1.4rem;
+  border: 1px solid var(--ap-border);
+  border-radius: var(--ap-radius-xl);
+  background: linear-gradient(160deg, var(--ap-surface-strong), var(--ap-surface));
+  box-shadow: var(--ap-shadow);
+}
+
+.ap-request-panel__copy p:last-child {
+  color: var(--ap-muted);
+}
+
+.ap-request-form {
+  display: grid;
+  gap: 0.9rem;
+}
+
+.ap-request-form label {
+  display: grid;
+  gap: 0.45rem;
+}
+
+.ap-request-form span {
+  font-size: 0.88rem;
+  font-weight: 700;
+  color: var(--ap-text);
+}
+
+.ap-request-form input,
+.ap-request-form textarea {
+  width: 100%;
+  padding: 0.9rem 1rem;
+  border: 1px solid var(--ap-border);
+  border-radius: 16px;
+  background: var(--ap-surface);
+  color: var(--ap-text);
+}
+
+.ap-request-form textarea {
+  resize: vertical;
+}
+
+.ap-request-form input:focus,
+.ap-request-form textarea:focus {
+  outline: 2px solid var(--ap-accent-soft);
+  border-color: rgba(19, 138, 122, 0.4);
+}
+
+.ap-card--empty {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 150px;
+}
+
+.md-button--primary {
+  background: var(--ap-text);
+  border-color: var(--ap-text);
+  color: white !important;
+}
+
+.md-typeset .admonition,
+.md-typeset details {
+  border-radius: 18px;
+  border-width: 1px;
+}
+
+.md-typeset table:not([class]) {
+  border-radius: 16px;
+  overflow: hidden;
+  background: var(--ap-surface);
+}
+
+.ap-reveal {
+  opacity: 0;
+  transform: translateY(16px);
+  transition: opacity 360ms ease, transform 360ms ease;
+}
+
+.ap-reveal.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+@media screen and (max-width: 900px) {
+  .ap-hero {
+    grid-template-columns: 1fr;
+    padding: 1.4rem;
+  }
+
+  .ap-request-panel {
+    grid-template-columns: 1fr;
+  }
+}

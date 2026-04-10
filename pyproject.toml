@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "autopedia"
+version = "0.1.0"
+description = "Continuous AI research wiki generator for GitHub Pages"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "openai>=1.76.0",
+    "requests>=2.32.0",
+    "beautifulsoup4>=4.12.3",
+    "trafilatura>=1.9.0",
+    "PyYAML>=6.0.2",
+    "tenacity>=9.0.0",
+    "ddgs>=6.3.0",
+    "mkdocs>=1.6.1",
+    "mkdocs-material>=9.5.18",
+    "pymdown-extensions>=10.11.2",
+]
+
+[project.scripts]
+autopedia = "autopedia.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["autopedia*"]

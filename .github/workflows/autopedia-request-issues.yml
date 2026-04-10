@@ -1,0 +1,187 @@
+name: AutoPedia Request Issues
+
+on:
+  issues:
+    types:
+      - opened
+      - edited
+      - reopened
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: autopedia-request-${{ github.event.issue.number }}
+  cancel-in-progress: true
+
+jobs:
+  process-request:
+    if: ${{ contains(join(github.event.issue.labels.*.name, ','), 'autopedia-request') }}
+    runs-on: ubuntu-latest
+    env:
+      AUTOPEDIA_GITHUB_REPOSITORY: ${{ github.repository }}
+      AUTOPEDIA_API_KEY: ${{ secrets.AUTOPEDIA_API_KEY }}
+      AUTOPEDIA_BASE_URL: ${{ secrets.AUTOPEDIA_BASE_URL || 'https://apifreellm.com/api/v1' }}
+      AUTOPEDIA_MODEL: ${{ secrets.AUTOPEDIA_MODEL || 'llama-3' }}
+      AUTOPEDIA_RESEARCH_TURNS: ${{ vars.AUTOPEDIA_RESEARCH_TURNS || '3' }}
+      AUTOPEDIA_MIN_PAGES_PER_TURN: ${{ vars.AUTOPEDIA_MIN_PAGES_PER_TURN || '100' }}
+      AUTOPEDIA_MAX_PAGES_PER_TURN: ${{ vars.AUTOPEDIA_MAX_PAGES_PER_TURN || '160' }}
+      AUTOPEDIA_SEARCH_RESULTS_PER_QUERY: ${{ vars.AUTOPEDIA_SEARCH_RESULTS_PER_QUERY || '24' }}
+      AUTOPEDIA_REPORT_MIN_LINES: ${{ vars.AUTOPEDIA_REPORT_MIN_LINES || '2000' }}
+      AUTOPEDIA_MIN_REFERENCE_COUNT: ${{ vars.AUTOPEDIA_MIN_REFERENCE_COUNT || '8' }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -e .
+
+      - name: Parse issue request
+        id: parse
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ github.token }}
+          script: |
+            const body = context.payload.issue.body || '';
+            const labels = (context.payload.issue.labels || []).map((label) => label.name);
+            function section(name) {
+              const pattern = new RegExp(`## ${name}\\s*\\n([\\s\\S]*?)(?=\\n## |$)`, 'i');
+              const match = body.match(pattern);
+              return match ? match[1].trim() : '';
+            }
+
+            let mode = section('Request Type').toLowerCase();
+            if (!mode) {
+              if (labels.includes('expand-page')) {
+                mode = 'expand-page';
+              } else if (labels.includes('update-page')) {
+                mode = 'update-page';
+              } else {
+                mode = 'new-topic';
+              }
+            }
+
+            const topicTitle = section('Topic Title');
+            const topicSlug = section('Topic Slug');
+            const requestNotes = section('Request Notes');
+            if (!topicTitle && !topicSlug) {
+              core.setFailed('The issue body must contain a topic title or topic slug.');
+              return;
+            }
+
+            core.setOutput('mode', mode);
+            core.setOutput('topic_title', topicTitle);
+            core.setOutput('topic_slug', topicSlug);
+            core.setOutput('request_notes', requestNotes);
+
+      - name: Comment processing started
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ github.token }}
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: 'AutoPedia started processing this request. A multi-turn research run is now in progress.'
+            });
+
+      - name: Run requested AutoPedia cycle
+        env:
+          AUTOPEDIA_REQUEST_MODE: ${{ steps.parse.outputs.mode }}
+          AUTOPEDIA_REQUEST_TOPIC_TITLE: ${{ steps.parse.outputs.topic_title }}
+          AUTOPEDIA_REQUEST_TOPIC_SLUG: ${{ steps.parse.outputs.topic_slug }}
+          AUTOPEDIA_REQUEST_NOTES: ${{ steps.parse.outputs.request_notes }}
+          AUTOPEDIA_REQUEST_ISSUE_NUMBER: ${{ github.event.issue.number }}
+          AUTOPEDIA_REQUEST_ISSUE_URL: ${{ github.event.issue.html_url }}
+          AUTOPEDIA_REQUESTED_BY: ${{ github.event.issue.user.login }}
+        run: python -m autopedia run-cycle
+
+      - name: Upload research artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: autopedia-issue-${{ github.event.issue.number }}
+          path: reports
+          if-no-files-found: ignore
+          retention-days: 14
+
+      - name: Commit generated changes
+        id: commit
+        shell: bash
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add .
+            git commit -m "feat: fulfill AutoPedia request #${{ github.event.issue.number }}"
+            git push
+            echo "changes=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "changes=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Comment success and close issue
+        if: ${{ success() }}
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ github.token }}
+          script: |
+            const fs = require('fs');
+            const branch = process.env.GITHUB_REF_NAME || 'main';
+            const repoUrl = `https://github.com/${context.repo.owner}/${context.repo.repo}`;
+            const state = JSON.parse(fs.readFileSync('data/site-state.json', 'utf8'));
+            const requestedSlug = `${{ steps.parse.outputs.topic_slug }}`.trim().toLowerCase();
+            const requestedTitle = `${{ steps.parse.outputs.topic_title }}`.trim().toLowerCase();
+            const entry = state.completed_topics.find((item) => (item.slug || '').toLowerCase() === requestedSlug)
+              || state.completed_topics.find((item) => (item.title || '').toLowerCase() === requestedTitle)
+              || state.completed_topics[0];
+
+            let body = 'AutoPedia finished this request.';
+            if (entry?.page_path) {
+              body += `\n\n- Page file: ${repoUrl}/blob/${branch}/docs/${entry.page_path}`;
+            }
+            if (entry?.report_path) {
+              body += `\n- Research report: ${repoUrl}/blob/${branch}/${entry.report_path}`;
+            }
+            if (`${{ steps.commit.outputs.changes }}` === 'false') {
+              body += '\n- No repository diff was produced, so the request may already have been fully reflected.';
+            }
+
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body,
+            });
+
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: 'closed',
+            });
+
+      - name: Comment failure
+        if: ${{ failure() }}
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ github.token }}
+          script: |
+            const runUrl = `https://github.com/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`;
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: `AutoPedia could not complete this request. Check the workflow logs: ${runUrl}`,
+            });

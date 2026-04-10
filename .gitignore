@@ -1,0 +1,7 @@
+.env
+.venv/
+site/
+__pycache__/
+*.pyc
+reports/html-cache/
+reports/tmp/
