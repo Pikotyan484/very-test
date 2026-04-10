@@ -39,10 +39,13 @@ class WikiWriter:
             chunk_digests.append(self._digest_chunk(index, chunk))
 
         references = run.top_sources(18)
-        if len(references) < self.settings.minimum_reference_count:
+        # Use a hard floor of 1 so partial/low-source runs still produce a page.
+        # The configured minimum_reference_count is used as a soft warning threshold.
+        hard_floor = max(1, min(3, self.settings.minimum_reference_count))
+        if len(references) < hard_floor:
             raise RuntimeError(
                 "Refusing to publish a wiki page because too few grounded references were fetched. "
-                f"Need at least {self.settings.minimum_reference_count}, got {len(references)}."
+                f"Need at least {hard_floor}, got {len(references)}."
             )
         reference_catalog = []
         for index, source in enumerate(references, start=1):

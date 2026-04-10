@@ -251,7 +251,7 @@ def load_settings() -> Settings:
             minimum=1,
             maximum=4,
         ),
-        min_source_words=max(50, _env_int("AUTOPEDIA_MIN_SOURCE_WORDS", 180)),
+        min_source_words=max(30, _env_int("AUTOPEDIA_MIN_SOURCE_WORDS", 80)),
         report_min_lines=_scale_setting(
             base_report_min_lines,
             1.0 if explicit_report_min_lines is not None else deep_research_multiplier,

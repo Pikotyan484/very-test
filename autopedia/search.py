@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import time
 from collections import Counter
 
 from ddgs import DDGS
@@ -60,6 +61,17 @@ class DuckDuckGoProvider:
     name = "ddgs"
 
     def search(self, query: str, max_results: int) -> list[SearchResult]:
+        last_exc: Exception | None = None
+        for attempt in range(3):
+            if attempt > 0:
+                time.sleep(2 ** attempt)  # 2s, 4s backoff
+            try:
+                return self._do_search(query, max_results)
+            except Exception as exc:
+                last_exc = exc
+        raise last_exc  # type: ignore[misc]
+
+    def _do_search(self, query: str, max_results: int) -> list[SearchResult]:
         output: list[SearchResult] = []
         with DDGS() as ddgs:
             results = ddgs.text(query, max_results=max_results)

@@ -57,8 +57,12 @@ def run_cycle(request: RequestContext | None = None) -> None:
         )
         site.rebuild_static_pages(state)
         site.save_state(state)
-        if request.normalized_mode() == "auto":
-            print(f"Auto cycle failed for {plan.title}: {exc}")
+        # "Too few references" means search/fetch failed entirely (e.g. rate-limiting).
+        # Treat this as a soft failure regardless of request mode so the Action
+        # doesn't crash and burn — the error is logged and state is saved.
+        is_no_sources = "too few grounded references" in str(exc).lower()
+        if request.normalized_mode() == "auto" or is_no_sources:
+            print(f"Cycle could not publish {plan.title}: {exc}")
             if report_path is not None:
                 print(f"Partial report: {report_path}")
             return
