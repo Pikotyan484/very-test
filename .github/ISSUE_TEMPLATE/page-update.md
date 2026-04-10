@@ -19,3 +19,5 @@ Describe what should be updated or expanded. For example: latest developments, m
 
 ## Existing Page
 docs/wiki/
+
+<!-- If labels are unavailable in the browser flow, the workflow still detects this request from the title/body markers. -->

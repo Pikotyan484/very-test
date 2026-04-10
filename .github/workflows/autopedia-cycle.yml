@@ -133,6 +133,23 @@ jobs:
             echo "changes=false" >> "$GITHUB_OUTPUT"
           fi
 
+      - name: Trigger Pages deploy
+        if: ${{ steps.commit.outputs.changes == 'true' }}
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.AUTOPEDIA_WORKFLOW_TOKEN || github.token }}
+          script: |
+            await github.rest.repos.createDispatchEvent({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              event_type: 'autopedia-pages-deploy',
+              client_payload: {
+                source_workflow: context.workflow,
+                source_run_id: String(context.runId),
+                source_sha: context.sha
+              }
+            });
+
       - name: Queue next cycle
         if: ${{ steps.cycle.outputs.exit_code == '0' && env.AUTOPEDIA_CONTINUOUS_LOOP == 'true' && env.AUTOPEDIA_REQUEST_MODE == 'auto' }}
         uses: actions/github-script@v7

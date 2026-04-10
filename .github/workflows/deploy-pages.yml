@@ -11,6 +11,9 @@ on:
       - data/**
       - autopedia/**
       - pyproject.toml
+  repository_dispatch:
+    types:
+      - autopedia-pages-deploy
   workflow_dispatch:
 
 permissions:
