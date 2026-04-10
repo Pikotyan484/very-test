@@ -12,8 +12,8 @@
     </div>
   </div>
   <div class="ap-metrics">
-    <div><span>3</span><small>pages</small></div>
-    <div><span>186</span><small>sources</small></div>
+    <div><span>4</span><small>pages</small></div>
+    <div><span>238</span><small>sources</small></div>
     <div><span>2026-04-10</span><small>latest run</small></div>
   </div>
 </section>
@@ -21,6 +21,13 @@
 ## Latest Pages
 
 <section class="ap-card-grid">
+<article class="ap-card">
+  <span class="ap-card__kicker">2026-04-10</span>
+  <h3><a href="wiki/advanced-lithography.md">Advanced lithography</a></h3>
+  <p>Advanced lithography is selected because it has active scientific, industrial, and policy developments that reward a high-evidence synthesis.</p>
+  <div class="ap-card__meta">52 sources</div>
+  <div class="ap-card__actions"><a href="https://github.com/Pikotyan484/very-test/issues/new?title=%5BExpand+Page%5D+Advanced+lithography&body=%23%23+Request+Type%0Aexpand-page%0A%0A%23%23+Topic+Title%0AAdvanced+lithography%0A%0A%23%23+Topic+Slug%0Aadvanced-lithography%0A%0A%23%23+Request+Notes%0APlease+update+this+page+and+expand+missing+sections+with+newer+evidence.%0A%0A%23%23+Existing+Page%0Adocs%2Fwiki%2Fadvanced-lithography.md%0A&labels=autopedia-request%2Cexpand-page" target="_blank" rel="noopener">更新または拡張</a></div>
+</article>
 <article class="ap-card">
   <span class="ap-card__kicker">2026-04-10</span>
   <h3><a href="wiki/direct-air-capture.md">Direct air capture</a></h3>
