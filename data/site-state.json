@@ -3,6 +3,22 @@
   "started_at": "2026-04-10T00:00:00Z",
   "completed_topics": [
     {
+      "title": "Water desalination membranes",
+      "slug": "water-desalination-membranes",
+      "summary": "Water desalination membranes is selected because it has active scientific, industrial, and policy developments that reward a high-evidence synthesis.",
+      "tags": [
+        "research",
+        "technology",
+        "analysis"
+      ],
+      "generated_at": "2026-04-10T03:34:56.890269Z",
+      "sources_analyzed": 22,
+      "research_turns": 10,
+      "request_mode": "auto",
+      "page_path": "wiki/water-desalination-membranes.md",
+      "report_path": "reports/20260410T032928Z-water-desalination-membranes.md"
+    },
+    {
       "title": "Synthetic aperture radar satellites",
       "slug": "synthetic-aperture-radar-satellites",
       "summary": "Synthetic aperture radar satellites is selected because it has active scientific, industrial, and policy developments that reward a high-evidence synthesis.",
@@ -148,6 +164,16 @@
     }
   ],
   "run_history": [
+    {
+      "run_id": "20260410T032928Z-water-desalination-membranes",
+      "topic": "Water desalination membranes",
+      "slug": "water-desalination-membranes",
+      "generated_at": "2026-04-10T03:34:56.890269Z",
+      "sources_analyzed": 22,
+      "request_mode": "auto",
+      "report_path": "reports/20260410T032928Z-water-desalination-membranes.md",
+      "page_path": "wiki/water-desalination-membranes.md"
+    },
     {
       "run_id": "20260410T032205Z-synthetic-aperture-radar-satellites",
       "topic": "Synthetic aperture radar satellites",
