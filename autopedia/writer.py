@@ -518,3 +518,96 @@ class WikiWriter:
             f"参照: {refs}",
         ]
         return "\n".join(lines)
+
+    # ------------------------------------------------------------------
+    # Retranslation of existing pages
+    # ------------------------------------------------------------------
+
+    def retranslate_existing_pages(self) -> int:
+        """Re-translate wiki pages whose non-primary language sections are still
+        showing the 'Translation fallback' placeholder.  Requires an LLM client.
+        Returns the number of pages that were updated."""
+        if not self.llm.enabled:
+            print("LLM is not enabled. Skipping retranslation.")
+            return 0
+        count = 0
+        for page_path in sorted(self.settings.wiki_dir.glob("*.md")):
+            if page_path.name == "index.md":
+                continue
+            if self._retranslate_page(page_path):
+                count += 1
+        return count
+
+    def _retranslate_page(self, page_path: Path) -> bool:
+        raw_text = page_path.read_text(encoding="utf-8")
+        if "Translation fallback" not in raw_text:
+            return False
+
+        # Extract the primary (ja) language HTML block
+        ja_match = re.search(
+            r'<section[^>]*\bdata-ap-language-view="ja"[^>]*>\s*\n\s*'
+            r'<div[^>]*class="ap-rendered-article"[^>]*>\n(.*?)\n\s*</div>\s*\n\s*</section>',
+            raw_text,
+            flags=re.DOTALL,
+        )
+        if not ja_match:
+            return False
+
+        primary_html = ja_match.group(1)
+
+        metadata, _ = self._split_front_matter(raw_text)
+        available_translations: list[str] = metadata.get(
+            "available_translations", self._resolved_translation_languages()
+        )
+        # Translation targets = all languages except the primary (ja)
+        primary_code = self.settings.language
+        translation_codes = [code for code in available_translations if code != primary_code]
+        if not translation_codes:
+            return False
+
+        updated_text = raw_text
+        changed = False
+        for code in translation_codes:
+            label = self._language_label(code)
+            print(f"  Translating {page_path.name} → {label} ({code}) …")
+            translated_html = self._translate_html_content(primary_html, code, label)
+
+            section_re = re.compile(
+                r'(<section[^>]*\bdata-ap-language-view="'
+                + re.escape(code)
+                + r'"[^>]*>\s*\n\s*<div[^>]*class="ap-rendered-article"[^>]*>\n)'
+                r"(.*?)"
+                r'(\n\s*</div>\s*\n\s*</section>)',
+                flags=re.DOTALL,
+            )
+            new_text = section_re.sub(
+                lambda m: m.group(1) + translated_html + m.group(3),
+                updated_text,
+            )
+            if new_text != updated_text:
+                updated_text = new_text
+                changed = True
+
+        if changed:
+            page_path.write_text(updated_text, encoding="utf-8")
+        return changed
+
+    def _translate_html_content(self, html_content: str, language_code: str, language_label: str) -> str:
+        """Translate the visible text in an HTML snippet via LLM while preserving tags."""
+        return self.llm.complete_markdown(
+            system_prompt=(
+                "You are an expert multilingual wiki translator. "
+                "Translate the visible text in the provided HTML snippet into the target language. "
+                "Preserve ALL HTML tags, attributes, href/src values, citation markers like [1] and [2], "
+                "and any code blocks exactly as-is. Return only the translated HTML with no extra commentary."
+            ),
+            user_prompt=(
+                f"Target language: {language_label} ({language_code})\n\n"
+                "Translate all visible text in this HTML to the target language. "
+                "HTML tags and attributes must remain unchanged:\n\n"
+                f"{html_content}"
+            ),
+            fallback=lambda: html_content,
+            temperature=0.1,
+            max_tokens=6000,
+        ).strip()

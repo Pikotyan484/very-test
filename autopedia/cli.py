@@ -77,6 +77,19 @@ def rebuild_site() -> None:
     print(f"Static site pages rebuilt. Upgraded pages: {upgraded_count}")
 
 
+def retranslate_pages() -> None:
+    settings = load_settings()
+    llm = LLMClient(settings)
+    writer = WikiWriter(settings, llm)
+    site = SiteBuilder(settings)
+    state = site.load_state()
+    retranslated_count = writer.retranslate_existing_pages()
+    if retranslated_count:
+        site.rebuild_static_pages(state)
+        site.save_state(state)
+    print(f"Retranslated pages: {retranslated_count}")
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description="AutoPedia autonomous wiki generator")
     parser.add_argument("--request-mode", default=None)
@@ -90,10 +103,14 @@ def main() -> None:
 
     subparsers.add_parser("run-cycle", help="Run one full topic -> research -> wiki cycle")
     subparsers.add_parser("rebuild-site", help="Rebuild index pages from saved state")
+    subparsers.add_parser("retranslate", help="Re-translate wiki pages whose translations are still placeholders")
 
     args = parser.parse_args()
     command = args.command or "run-cycle"
     if command == "rebuild-site":
         rebuild_site()
+        return
+    if command == "retranslate":
+        retranslate_pages()
         return
     run_cycle(request_from_args_and_env(args))

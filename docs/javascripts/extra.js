@@ -1,39 +1,38 @@
-document.addEventListener("DOMContentLoaded", () => {
+function initPage() {
   const targets = document.querySelectorAll(".ap-card, .ap-hero, .ap-meta-card, .ap-reference-card, .md-typeset h2, .md-typeset table, .md-typeset .admonition");
-  if (!targets.length || !("IntersectionObserver" in window)) {
-    initializeTranslationShells();
-    initializeRequestForms();
-    return;
-  }
-
-  const observer = new IntersectionObserver(
-    (entries) => {
-      for (const entry of entries) {
-        if (entry.isIntersecting) {
-          entry.target.classList.add("is-visible");
-          observer.unobserve(entry.target);
+  if (targets.length && "IntersectionObserver" in window) {
+    const observer = new IntersectionObserver(
+      (entries) => {
+        for (const entry of entries) {
+          if (entry.isIntersecting) {
+            entry.target.classList.add("is-visible");
+            observer.unobserve(entry.target);
+          }
         }
-      }
-    },
-    { threshold: 0.15 }
-  );
-
-  targets.forEach((target) => {
-    target.classList.add("ap-reveal");
-    observer.observe(target);
-  });
-
+      },
+      { threshold: 0.15 }
+    );
+    targets.forEach((target) => {
+      target.classList.add("ap-reveal");
+      observer.observe(target);
+    });
+  }
   initializeTranslationShells();
   initializeRequestForms();
-});
+}
+
+// MkDocs Material navigation.instant uses document$ observable instead of DOMContentLoaded
+if (typeof document$ !== "undefined") {
+  document$.subscribe(initPage);
+} else {
+  document.addEventListener("DOMContentLoaded", initPage);
+}
 
 function initializeTranslationShells() {
   const shells = document.querySelectorAll("[data-ap-translation-shell]");
   if (!shells.length) {
     return;
   }
-
-  const storedLanguage = window.localStorage.getItem("autopedia-language") || "";
 
   shells.forEach((shell) => {
     const buttons = [...shell.querySelectorAll("[data-ap-language-button]")];
@@ -42,10 +41,9 @@ function initializeTranslationShells() {
       return;
     }
 
-    const availableLanguages = new Set(buttons.map((button) => button.getAttribute("data-ap-language-button")));
-    const defaultLanguage = availableLanguages.has(storedLanguage)
-      ? storedLanguage
-      : buttons[0].getAttribute("data-ap-language-button");
+    // Default to the first button (site language = ja). No localStorage persistence
+    // so the site language is always shown first on every page load.
+    const defaultLanguage = buttons[0].getAttribute("data-ap-language-button");
 
     const applyLanguage = (languageCode) => {
       buttons.forEach((button) => {
@@ -59,8 +57,6 @@ function initializeTranslationShells() {
         view.classList.toggle("is-active", isActive);
         view.hidden = !isActive;
       });
-
-      window.localStorage.setItem("autopedia-language", languageCode);
     };
 
     buttons.forEach((button) => {
