@@ -3,6 +3,22 @@
   "started_at": "2026-04-10T00:00:00Z",
   "completed_topics": [
     {
+      "title": "mRNA vaccine manufacturing",
+      "slug": "mrna-vaccine-manufacturing",
+      "summary": "mRNA vaccine manufacturing is selected because it has active scientific, industrial, and policy developments that reward a high-evidence synthesis.",
+      "tags": [
+        "research",
+        "technology",
+        "analysis"
+      ],
+      "generated_at": "2026-04-10T02:29:43.418519Z",
+      "sources_analyzed": 20,
+      "research_turns": 10,
+      "request_mode": "auto",
+      "page_path": "wiki/mrna-vaccine-manufacturing.md",
+      "report_path": "reports/20260410T021856Z-mrna-vaccine-manufacturing.md"
+    },
+    {
       "title": "Quantum error correction",
       "slug": "quantum-error-correction",
       "summary": "Quantum error correction is selected because it has active scientific, industrial, and policy developments that reward a high-evidence synthesis.",
@@ -20,6 +36,16 @@
     }
   ],
   "run_history": [
+    {
+      "run_id": "20260410T021856Z-mrna-vaccine-manufacturing",
+      "topic": "mRNA vaccine manufacturing",
+      "slug": "mrna-vaccine-manufacturing",
+      "generated_at": "2026-04-10T02:29:43.418519Z",
+      "sources_analyzed": 20,
+      "request_mode": "auto",
+      "report_path": "reports/20260410T021856Z-mrna-vaccine-manufacturing.md",
+      "page_path": "wiki/mrna-vaccine-manufacturing.md"
+    },
     {
       "run_id": "20260410T011910Z-quantum-error-correction",
       "topic": "Quantum error correction",
