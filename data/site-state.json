@@ -391,5 +391,15 @@
       "page_path": "wiki/quantum-error-correction.md"
     }
   ],
-  "failed_topics": []
+  "failed_topics": [
+    {
+      "title": "Quantum error correction applications and constraints",
+      "slug": "quantum-error-correction-applications-and-constraints",
+      "generated_at": "2026-04-10T05:02:27.257128Z",
+      "request_mode": "auto",
+      "request_notes": "",
+      "error": "Refusing to publish a wiki page because too few grounded references were fetched. Need at least 8, got 6.",
+      "report_path": "reports/20260410T045442Z-quantum-error-correction-applications-and-constraints.md"
+    }
+  ]
 }
