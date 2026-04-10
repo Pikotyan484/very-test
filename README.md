@@ -17,7 +17,7 @@ If AutoPedia cannot fetch enough grounded references, it refuses to publish the 
 - A GitHub Actions workflow that continuously self-dispatches after each automatic generation cycle.
 - A GitHub Actions workflow that processes GitHub Issue-based page update and new-topic requests.
 - A GitHub Pages deployment workflow using MkDocs Material.
-- A white-first modern UI with dark mode and a generated landing page.
+- A white-first modern UI with dark mode, improved reading layout, and AI multilingual translation tabs on wiki pages.
 
 ## 24/7 Continuous Mode
 
@@ -30,12 +30,15 @@ GitHub Actions cannot keep one single process alive forever, but AutoPedia is co
 
 This is the GitHub Actions-compatible way to run AutoPedia continuously without self-hosted infrastructure.
 
+The workflows now default to `AUTOPEDIA_DEEP_RESEARCH_MULTIPLIER=20`, which expands the research budget across turns, query breadth, fetch volume, report size, and translation/report chunking. The multiplier is intentionally capped per subsystem so GitHub-hosted runners do not explode into unbounded jobs.
+
 ## Recommended Production Setup
 
 For higher-quality research results, configure:
 
 - An OpenAI-compatible model via `AUTOPEDIA_API_KEY`, `AUTOPEDIA_BASE_URL`, and `AUTOPEDIA_MODEL`
 - `AUTOPEDIA_GITHUB_REPOSITORY=owner/repo` so request buttons on the site can open GitHub Issues correctly
+- `AUTOPEDIA_DEEP_RESEARCH_MULTIPLIER=20` to enable the much longer multi-turn deep-research profile
 - A stronger model than the sample `llama-3` if you want better synthesis quality
 
 Do not hardcode API keys into the repository. Put them in GitHub Secrets.
@@ -51,6 +54,8 @@ python -m autopedia run-cycle
 ```
 
 If no API key is configured, AutoPedia falls back to demo mode for the LLM layer. Web search and fetching still use the live network.
+
+Wiki pages can include AI-generated multilingual views. By default, AutoPedia prepares Japanese, English, Simplified Chinese, and Spanish page views inside the same static page.
 
 To run a requested topic manually from the terminal:
 
@@ -71,12 +76,14 @@ Optional repository variables:
 
 - `AUTOPEDIA_CONTINUOUS_LOOP=true`
 - `AUTOPEDIA_GITHUB_REPOSITORY=owner/repo`
+- `AUTOPEDIA_DEEP_RESEARCH_MULTIPLIER=20`
 - `AUTOPEDIA_RESEARCH_TURNS=3`
 - `AUTOPEDIA_MIN_PAGES_PER_TURN=100`
 - `AUTOPEDIA_MAX_PAGES_PER_TURN=160`
 - `AUTOPEDIA_SEARCH_RESULTS_PER_QUERY=24`
 - `AUTOPEDIA_REPORT_MIN_LINES=2000`
 - `AUTOPEDIA_MIN_REFERENCE_COUNT=8`
+- `AUTOPEDIA_TRANSLATION_LANGUAGES=ja,en,zh-CN,es`
 
 There is no longer a built-in cap on automatic consecutive cycles.
 
@@ -127,5 +134,7 @@ If you want closer to 500 fetched pages per turn, increase:
 - `AUTOPEDIA_MAX_PAGES_PER_TURN`
 - `AUTOPEDIA_SEARCH_RESULTS_PER_QUERY`
 - `AUTOPEDIA_FETCH_WORKERS`
+
+If you want to globally raise or lower the new 20x profile, change `AUTOPEDIA_DEEP_RESEARCH_MULTIPLIER`. The individual base values remain available, but the multiplier is the primary control surface for overall research depth.
 
 Keep in mind that aggressive settings increase runtime, network failures, and the chance of hitting search-provider rate limits.

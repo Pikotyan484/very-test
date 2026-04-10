@@ -1,7 +1,6 @@
 {
   "project_name": "AutoPedia",
   "started_at": "2026-04-10T00:00:00Z",
-<<<<<<< Updated upstream
   "completed_topics": [
     {
       "title": "Quantum error correction",
@@ -31,10 +30,6 @@
       "report_path": "reports/20260410T011910Z-quantum-error-correction.md",
       "page_path": "wiki/quantum-error-correction.md"
     }
-  ]
-=======
-  "completed_topics": [],
-  "run_history": [],
+  ],
   "failed_topics": []
->>>>>>> Stashed changes
 }

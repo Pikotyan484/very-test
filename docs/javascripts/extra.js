@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const targets = document.querySelectorAll(".ap-card, .ap-hero, .md-typeset h2, .md-typeset table, .md-typeset .admonition");
+  const targets = document.querySelectorAll(".ap-card, .ap-hero, .ap-meta-card, .ap-reference-card, .md-typeset h2, .md-typeset table, .md-typeset .admonition");
   if (!targets.length || !("IntersectionObserver" in window)) {
+    initializeTranslationShells();
     initializeRequestForms();
     return;
   }
@@ -22,8 +23,60 @@ document.addEventListener("DOMContentLoaded", () => {
     observer.observe(target);
   });
 
+  initializeTranslationShells();
   initializeRequestForms();
 });
+
+function initializeTranslationShells() {
+  const shells = document.querySelectorAll("[data-ap-translation-shell]");
+  if (!shells.length) {
+    return;
+  }
+
+  const storedLanguage = window.localStorage.getItem("autopedia-language") || "";
+
+  shells.forEach((shell) => {
+    const buttons = [...shell.querySelectorAll("[data-ap-language-button]")];
+    const views = [...shell.querySelectorAll("[data-ap-language-view]")];
+    if (!buttons.length || !views.length) {
+      return;
+    }
+
+    const availableLanguages = new Set(buttons.map((button) => button.getAttribute("data-ap-language-button")));
+    const defaultLanguage = availableLanguages.has(storedLanguage)
+      ? storedLanguage
+      : buttons[0].getAttribute("data-ap-language-button");
+
+    const applyLanguage = (languageCode) => {
+      buttons.forEach((button) => {
+        const isActive = button.getAttribute("data-ap-language-button") === languageCode;
+        button.classList.toggle("is-active", isActive);
+        button.setAttribute("aria-pressed", isActive ? "true" : "false");
+      });
+
+      views.forEach((view) => {
+        const isActive = view.getAttribute("data-ap-language-view") === languageCode;
+        view.classList.toggle("is-active", isActive);
+        view.hidden = !isActive;
+      });
+
+      window.localStorage.setItem("autopedia-language", languageCode);
+    };
+
+    buttons.forEach((button) => {
+      button.addEventListener("click", () => {
+        const languageCode = button.getAttribute("data-ap-language-button");
+        if (languageCode) {
+          applyLanguage(languageCode);
+        }
+      });
+    });
+
+    if (defaultLanguage) {
+      applyLanguage(defaultLanguage);
+    }
+  });
+}
 
 function initializeRequestForms() {
   const forms = document.querySelectorAll("[data-autopedia-request-form]");

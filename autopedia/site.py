@@ -5,7 +5,7 @@ from pathlib import Path
 from autopedia.config import Settings
 from autopedia.models import RequestContext, ResearchRun
 from autopedia.requests import build_request_issue_url
-from autopedia.utils import ensure_dir, iso_timestamp, markdown_excerpt, read_json, slugify_text, truncate_text, write_json
+from autopedia.utils import ensure_dir, has_git_conflict_markers, iso_timestamp, markdown_excerpt, read_json, slugify_text, truncate_text, write_json
 
 
 class SiteBuilder:
@@ -13,6 +13,7 @@ class SiteBuilder:
         self.settings = settings
 
     def load_state(self) -> dict:
+        raw_text = self.settings.state_file.read_text(encoding="utf-8") if self.settings.state_file.exists() else ""
         state = read_json(
             self.settings.state_file,
             default={
@@ -27,6 +28,8 @@ class SiteBuilder:
         state.setdefault("completed_topics", [])
         state.setdefault("failed_topics", [])
         state.setdefault("run_history", [])
+        if raw_text and has_git_conflict_markers(raw_text):
+            self.save_state(state)
         return state
 
     def save_state(self, state: dict) -> None:
@@ -142,7 +145,7 @@ class SiteBuilder:
                     [
                         '<article class="ap-card">',
                         f"  <span class=\"ap-card__kicker\">{item.get('generated_at', '')[:10]}</span>",
-                        f"  <h3><a href=\"wiki/{item['slug']}/\">{item['title']}</a></h3>",
+                        f"  <h3><a href=\"{item['page_path']}\">{item['title']}</a></h3>",
                         f"  <p>{item['summary']}</p>",
                         f"  <div class=\"ap-card__meta\">{item.get('sources_analyzed', 0)} sources</div>",
                         (
@@ -243,7 +246,7 @@ class SiteBuilder:
             )
             action_cell = f"[Update / expand]({action_url})" if action_url else "--"
             lines.append(
-                f"| [{item['title']}]({item['slug']}/) | {item.get('generated_at', '')[:10]} | {item.get('sources_analyzed', 0)} | {action_cell} |"
+                f"| [{item['title']}]({item['slug']}.md) | {item.get('generated_at', '')[:10]} | {item.get('sources_analyzed', 0)} | {action_cell} |"
             )
         if len(lines) == 4:
             lines.append("| No pages yet | -- | -- | -- |")

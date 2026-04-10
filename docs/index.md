@@ -8,11 +8,7 @@
     <div class="ap-hero__actions">
       <a class="md-button md-button--primary" href="wiki/">Wiki Index</a>
       <a class="md-button" href="#request-topic">トピックを依頼</a>
-<<<<<<< Updated upstream
       <a class="md-button" href="https://github.com/Pikotyan484/very-test">GitHub</a>
-=======
-      <a class="md-button" href="https://github.com/Pikotyan484/very-very-test">GitHub</a>
->>>>>>> Stashed changes
     </div>
   </div>
   <div class="ap-metrics">
@@ -27,7 +23,7 @@
 <section class="ap-card-grid">
 <article class="ap-card">
   <span class="ap-card__kicker">2026-04-10</span>
-  <h3><a href="wiki/quantum-error-correction/">Quantum error correction</a></h3>
+  <h3><a href="wiki/quantum-error-correction.md">Quantum error correction</a></h3>
   <p>Quantum error correction is selected because it has active scientific, industrial, and policy developments that reward a high-evidence synthesis.</p>
   <div class="ap-card__meta">119 sources</div>
   <div class="ap-card__actions"><a href="https://github.com/Pikotyan484/very-test/issues/new?title=%5BExpand+Page%5D+Quantum+error+correction&body=%23%23+Request+Type%0Aexpand-page%0A%0A%23%23+Topic+Title%0AQuantum+error+correction%0A%0A%23%23+Topic+Slug%0Aquantum-error-correction%0A%0A%23%23+Request+Notes%0APlease+update+this+page+and+expand+missing+sections+with+newer+evidence.%0A%0A%23%23+Existing+Page%0Adocs%2Fwiki%2Fquantum-error-correction.md%0A&labels=autopedia-request%2Cexpand-page" target="_blank" rel="noopener">更新または拡張</a></div>
@@ -40,11 +36,7 @@
     <h2>希望のトピックをAIに依頼</h2>
     <p>ここで話題名と要望を書いて送ると、GitHub Issue が作成され、その Issue をトリガーに GitHub Actions が全自動で long deep research と wiki 生成を実行します。</p>
   </div>
-<<<<<<< Updated upstream
   <form class="ap-request-form" data-autopedia-request-form data-issues-url="https://github.com/Pikotyan484/very-test/issues/new">
-=======
-  <form class="ap-request-form" data-autopedia-request-form data-issues-url="https://github.com/Pikotyan484/very-very-test/issues/new">
->>>>>>> Stashed changes
     <label><span>Topic Title</span><input type="text" name="topic_title" placeholder="Example: Solid-state batteries" required></label>
     <label><span>What should be covered?</span><textarea name="request_notes" rows="5" placeholder="Example: Focus on commercialization, safety constraints, and latest performance benchmarks."></textarea></label>
     <button class="md-button md-button--primary" type="submit">新しいWikiを依頼する</button>

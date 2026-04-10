@@ -67,11 +67,14 @@ def run_cycle(request: RequestContext | None = None) -> None:
 
 def rebuild_site() -> None:
     settings = load_settings()
+    llm = LLMClient(settings)
+    writer = WikiWriter(settings, llm)
     site = SiteBuilder(settings)
     state = site.load_state()
+    upgraded_count = writer.upgrade_existing_pages()
     site.rebuild_static_pages(state)
     site.save_state(state)
-    print("Static site pages rebuilt.")
+    print(f"Static site pages rebuilt. Upgraded pages: {upgraded_count}")
 
 
 def main() -> None:

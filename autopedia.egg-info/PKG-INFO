@@ -4,6 +4,7 @@ Version: 0.1.0
 Summary: Continuous AI research wiki generator for GitHub Pages
 Requires-Python: >=3.11
 Description-Content-Type: text/markdown
+Requires-Dist: Markdown>=3.7
 Requires-Dist: openai>=1.76.0
 Requires-Dist: requests>=2.32.0
 Requires-Dist: beautifulsoup4>=4.12.3
@@ -34,7 +35,7 @@ If AutoPedia cannot fetch enough grounded references, it refuses to publish the 
 - A GitHub Actions workflow that continuously self-dispatches after each automatic generation cycle.
 - A GitHub Actions workflow that processes GitHub Issue-based page update and new-topic requests.
 - A GitHub Pages deployment workflow using MkDocs Material.
-- A white-first modern UI with dark mode and a generated landing page.
+- A white-first modern UI with dark mode, improved reading layout, and AI multilingual translation tabs on wiki pages.
 
 ## 24/7 Continuous Mode
 
@@ -69,6 +70,8 @@ python -m autopedia run-cycle
 
 If no API key is configured, AutoPedia falls back to demo mode for the LLM layer. Web search and fetching still use the live network.
 
+Wiki pages can include AI-generated multilingual views. By default, AutoPedia prepares Japanese, English, Simplified Chinese, and Spanish page views inside the same static page.
+
 To run a requested topic manually from the terminal:
 
 ```bash
@@ -94,6 +97,7 @@ Optional repository variables:
 - `AUTOPEDIA_SEARCH_RESULTS_PER_QUERY=24`
 - `AUTOPEDIA_REPORT_MIN_LINES=2000`
 - `AUTOPEDIA_MIN_REFERENCE_COUNT=8`
+- `AUTOPEDIA_TRANSLATION_LANGUAGES=ja,en,zh-CN,es`
 
 There is no longer a built-in cap on automatic consecutive cycles.
 

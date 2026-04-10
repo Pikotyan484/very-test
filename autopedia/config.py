@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import math
 import os
 from dataclasses import dataclass
 from pathlib import Path
@@ -38,6 +39,7 @@ class Settings:
     base_url: str
     model: str
     demo_mode: bool
+    deep_research_multiplier: float
     research_turns: int
     search_queries_per_turn: int
     search_results_per_query: int
@@ -50,6 +52,7 @@ class Settings:
     store_raw_html: bool
     max_reports_to_keep: int
     minimum_reference_count: int
+    translation_languages: list[str]
     seed_topics: list[str]
     search_providers: list[str]
     brave_api_key: str | None
@@ -99,11 +102,38 @@ def _env_int(name: str, default: int) -> int:
         return default
 
 
+def _env_float(name: str, default: float) -> float:
+    raw = os.getenv(name)
+    if raw is None:
+        return default
+    try:
+        return float(raw.strip())
+    except ValueError:
+        return default
+
+
 def _env_csv(name: str, default: list[str]) -> list[str]:
     raw = os.getenv(name)
     if not raw:
         return default
     return [item.strip() for item in raw.split(",") if item.strip()]
+
+
+def _scale_setting(
+    base_value: int,
+    multiplier: float,
+    *,
+    exponent: float,
+    minimum: int,
+    maximum: int | None = None,
+) -> int:
+    scaled = base_value
+    if multiplier > 1:
+        scaled = math.ceil(base_value * (multiplier**exponent))
+    scaled = max(minimum, scaled)
+    if maximum is not None:
+        scaled = min(maximum, scaled)
+    return scaled
 
 
 def load_settings() -> Settings:
@@ -114,10 +144,24 @@ def load_settings() -> Settings:
     reports_dir = ensure_dir(ROOT_DIR / "reports")
     data_dir = ensure_dir(ROOT_DIR / "data")
     html_cache_dir = ensure_dir(reports_dir / "html-cache")
+    site_language = os.getenv("AUTOPEDIA_LANGUAGE", "ja")
     api_key = os.getenv("AUTOPEDIA_API_KEY")
     brave_api_key = os.getenv("BRAVE_SEARCH_API_KEY")
     searxng_url = os.getenv("AUTOPEDIA_SEARXNG_URL")
     default_providers = ["searxng", "ddgs"] if searxng_url else ["ddgs"]
+    deep_research_multiplier = max(1.0, _env_float("AUTOPEDIA_DEEP_RESEARCH_MULTIPLIER", 1.0))
+
+    base_research_turns = max(1, _env_int("AUTOPEDIA_RESEARCH_TURNS", 3))
+    base_search_queries_per_turn = max(3, _env_int("AUTOPEDIA_SEARCH_QUERIES_PER_TURN", 10))
+    base_search_results_per_query = max(5, _env_int("AUTOPEDIA_SEARCH_RESULTS_PER_QUERY", 24))
+    base_min_pages_per_turn = max(10, _env_int("AUTOPEDIA_MIN_PAGES_PER_TURN", 100))
+    base_max_pages_per_turn = max(20, _env_int("AUTOPEDIA_MAX_PAGES_PER_TURN", 160))
+    base_fetch_workers = max(4, _env_int("AUTOPEDIA_FETCH_WORKERS", 16))
+    base_fetch_candidate_multiplier = max(1, _env_int("AUTOPEDIA_FETCH_CANDIDATE_MULTIPLIER", 2))
+    base_report_min_lines = max(200, _env_int("AUTOPEDIA_REPORT_MIN_LINES", 2000))
+    base_min_reference_count = max(1, _env_int("AUTOPEDIA_MIN_REFERENCE_COUNT", 8))
+    base_max_report_chunk_chars = max(2000, _env_int("AUTOPEDIA_MAX_REPORT_CHUNK_CHARS", 12000))
+    base_max_report_chunks = max(2, _env_int("AUTOPEDIA_MAX_REPORT_CHUNKS", 20))
 
     settings = Settings(
         root_dir=ROOT_DIR,
@@ -128,30 +172,62 @@ def load_settings() -> Settings:
         html_cache_dir=html_cache_dir,
         state_file=data_dir / "site-state.json",
         site_name=os.getenv("AUTOPEDIA_SITE_NAME", "AutoPedia"),
-        language=os.getenv("AUTOPEDIA_LANGUAGE", "ja"),
+        language=site_language,
         github_repository=os.getenv("AUTOPEDIA_GITHUB_REPOSITORY") or os.getenv("GITHUB_REPOSITORY", ""),
         api_key=api_key,
         base_url=os.getenv("AUTOPEDIA_BASE_URL", "https://apifreellm.com/api/v1"),
         model=os.getenv("AUTOPEDIA_MODEL", "llama-3"),
         demo_mode=_env_bool("AUTOPEDIA_DEMO_MODE", not bool(api_key)),
-        research_turns=max(1, _env_int("AUTOPEDIA_RESEARCH_TURNS", 3)),
-        search_queries_per_turn=max(3, _env_int("AUTOPEDIA_SEARCH_QUERIES_PER_TURN", 10)),
-        search_results_per_query=max(5, _env_int("AUTOPEDIA_SEARCH_RESULTS_PER_QUERY", 24)),
-        min_pages_per_turn=max(10, _env_int("AUTOPEDIA_MIN_PAGES_PER_TURN", 100)),
-        max_pages_per_turn=max(20, _env_int("AUTOPEDIA_MAX_PAGES_PER_TURN", 160)),
-        fetch_workers=max(4, _env_int("AUTOPEDIA_FETCH_WORKERS", 16)),
-        max_fetch_candidates_multiplier=max(1, _env_int("AUTOPEDIA_FETCH_CANDIDATE_MULTIPLIER", 2)),
+        deep_research_multiplier=deep_research_multiplier,
+        research_turns=_scale_setting(base_research_turns, deep_research_multiplier, exponent=0.5, minimum=1, maximum=18),
+        search_queries_per_turn=_scale_setting(
+            base_search_queries_per_turn,
+            deep_research_multiplier,
+            exponent=0.12,
+            minimum=3,
+            maximum=18,
+        ),
+        search_results_per_query=_scale_setting(
+            base_search_results_per_query,
+            deep_research_multiplier,
+            exponent=0.08,
+            minimum=5,
+            maximum=36,
+        ),
+        min_pages_per_turn=_scale_setting(base_min_pages_per_turn, deep_research_multiplier, exponent=0.35, minimum=10, maximum=320),
+        max_pages_per_turn=_scale_setting(base_max_pages_per_turn, deep_research_multiplier, exponent=0.4, minimum=20, maximum=560),
+        fetch_workers=_scale_setting(base_fetch_workers, deep_research_multiplier, exponent=0.28, minimum=4, maximum=40),
+        max_fetch_candidates_multiplier=_scale_setting(
+            base_fetch_candidate_multiplier,
+            deep_research_multiplier,
+            exponent=0.12,
+            minimum=1,
+            maximum=4,
+        ),
         min_source_words=max(50, _env_int("AUTOPEDIA_MIN_SOURCE_WORDS", 180)),
-        report_min_lines=max(200, _env_int("AUTOPEDIA_REPORT_MIN_LINES", 2000)),
+        report_min_lines=_scale_setting(base_report_min_lines, deep_research_multiplier, exponent=0.72, minimum=200, maximum=18000),
         store_raw_html=_env_bool("AUTOPEDIA_STORE_RAW_HTML", False),
         max_reports_to_keep=max(1, _env_int("AUTOPEDIA_MAX_REPORTS_TO_KEEP", 10)),
-        minimum_reference_count=max(1, _env_int("AUTOPEDIA_MIN_REFERENCE_COUNT", 8)),
+        minimum_reference_count=_scale_setting(
+            base_min_reference_count,
+            deep_research_multiplier,
+            exponent=0.2,
+            minimum=1,
+            maximum=16,
+        ),
+        translation_languages=_env_csv("AUTOPEDIA_TRANSLATION_LANGUAGES", [site_language, "en", "zh-CN", "es"]),
         seed_topics=_env_csv("AUTOPEDIA_SEED_TOPICS", DEFAULT_SEED_TOPICS),
         search_providers=_env_csv("AUTOPEDIA_SEARCH_PROVIDERS", default_providers),
         brave_api_key=brave_api_key,
         searxng_url=searxng_url,
-        max_report_chunk_chars=max(2000, _env_int("AUTOPEDIA_MAX_REPORT_CHUNK_CHARS", 12000)),
-        max_report_chunks=max(2, _env_int("AUTOPEDIA_MAX_REPORT_CHUNKS", 20)),
+        max_report_chunk_chars=_scale_setting(
+            base_max_report_chunk_chars,
+            deep_research_multiplier,
+            exponent=0.12,
+            minimum=2000,
+            maximum=18000,
+        ),
+        max_report_chunks=_scale_setting(base_max_report_chunks, deep_research_multiplier, exponent=0.28, minimum=2, maximum=48),
     )
     settings.max_pages_per_turn = max(settings.max_pages_per_turn, settings.min_pages_per_turn)
     return settings

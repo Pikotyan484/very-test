@@ -11,6 +11,7 @@ from urllib.parse import urlparse, urlunparse
 
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
+GIT_CONFLICT_MARKERS = ("<<<<<<< ", "=======", ">>>>>>> ")
 
 
 def load_env_file(path: Path) -> None:
@@ -46,7 +47,30 @@ def ensure_dir(path: Path) -> Path:
 def read_json(path: Path, default: dict | list | None = None):
     if not path.exists():
         return {} if default is None else default
-    return json.loads(path.read_text(encoding="utf-8"))
+    raw_text = path.read_text(encoding="utf-8")
+    try:
+        return json.loads(raw_text)
+    except json.JSONDecodeError:
+        stripped = raw_text.lstrip("\ufeff")
+        if stripped != raw_text:
+            try:
+                return json.loads(stripped)
+            except json.JSONDecodeError:
+                raw_text = stripped
+
+        if any(marker in raw_text for marker in GIT_CONFLICT_MARKERS):
+            candidates: list[dict | list] = []
+            for candidate_text in _git_conflict_variants(raw_text):
+                try:
+                    candidates.append(json.loads(candidate_text))
+                except json.JSONDecodeError:
+                    continue
+            if candidates:
+                merged = candidates[0]
+                for candidate in candidates[1:]:
+                    merged = _merge_json_values(merged, candidate)
+                return merged
+        raise
 
 
 def write_json(path: Path, payload: dict | list) -> None:
@@ -55,6 +79,64 @@ def write_json(path: Path, payload: dict | list) -> None:
         json.dumps(payload, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
+
+
+def has_git_conflict_markers(text: str) -> bool:
+    return any(marker in text for marker in GIT_CONFLICT_MARKERS)
+
+
+def _git_conflict_variants(raw_text: str) -> tuple[str, str]:
+    left_lines: list[str] = []
+    right_lines: list[str] = []
+    state = "normal"
+
+    for line in raw_text.splitlines():
+        if line.startswith("<<<<<<< "):
+            state = "left"
+            continue
+        if line == "=======" and state == "left":
+            state = "right"
+            continue
+        if line.startswith(">>>>>>> ") and state == "right":
+            state = "normal"
+            continue
+
+        if state in {"normal", "left"}:
+            left_lines.append(line)
+        if state in {"normal", "right"}:
+            right_lines.append(line)
+
+    return "\n".join(left_lines), "\n".join(right_lines)
+
+
+def _merge_json_values(left, right):
+    if isinstance(left, dict) and isinstance(right, dict):
+        merged: dict = {}
+        for key in left.keys() | right.keys():
+            if key in left and key in right:
+                merged[key] = _merge_json_values(left[key], right[key])
+            elif key in left:
+                merged[key] = left[key]
+            else:
+                merged[key] = right[key]
+        return merged
+
+    if isinstance(left, list) and isinstance(right, list):
+        merged_list = []
+        seen: set[str] = set()
+        for item in [*left, *right]:
+            marker = json.dumps(item, ensure_ascii=False, sort_keys=True)
+            if marker in seen:
+                continue
+            merged_list.append(item)
+            seen.add(marker)
+        return merged_list
+
+    if left in (None, "", [], {}):
+        return right
+    if right in (None, "", [], {}):
+        return left
+    return right
 
 
 def compact_lines(text: str) -> list[str]:

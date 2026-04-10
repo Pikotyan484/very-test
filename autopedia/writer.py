@@ -1,12 +1,30 @@
 from __future__ import annotations
 
+import html
+import re
+from pathlib import Path
+
+import markdown
 import yaml
 
 from autopedia.config import Settings
 from autopedia.llm_client import LLMClient
 from autopedia.models import ResearchRun
 from autopedia.requests import build_request_issue_url
-from autopedia.utils import chunk_text, truncate_text
+from autopedia.utils import chunk_text, markdown_headings, truncate_text, unique_preserve_order
+
+
+LANGUAGE_LABELS = {
+    "ja": "日本語",
+    "en": "English",
+    "zh-CN": "简体中文",
+    "zh-TW": "繁體中文",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ko": "한국어",
+    "pt-BR": "Português (Brasil)",
+}
 
 
 class WikiWriter:
@@ -32,7 +50,7 @@ class WikiWriter:
                 f"[{index}] {source.display_title()} | {source.domain} | {source.final_url} | {truncate_text(' | '.join(source.excerpt[:2]), 240)}"
             )
 
-        body = self.llm.complete_markdown(
+        body_markdown = self.llm.complete_markdown(
             system_prompt=(
                 "You write a careful, citation-aware Markdown wiki page in Japanese. "
                 "Use a neutral tone, distinguish evidence from uncertainty, and do not invent facts."
@@ -62,7 +80,7 @@ class WikiWriter:
             ),
             fallback=lambda: self._fallback_body(run, reference_catalog),
             max_tokens=4200,
-        )
+        ).strip()
 
         metadata = {
             "title": run.plan.title,
@@ -75,26 +93,99 @@ class WikiWriter:
             "request_mode": run.request.normalized_mode(),
             "request_issue": run.request.issue_url or None,
             "tags": run.plan.tags,
+            "available_translations": self._resolved_translation_languages(),
         }
-        front_matter = yaml.safe_dump(metadata, sort_keys=False, allow_unicode=True).strip()
-        references_block = "\n".join(
-            f"{index}. [{source.display_title()}]({source.final_url}) - {source.domain}."
-            for index, source in enumerate(references, start=1)
+        references_markdown = self._references_markdown(references)
+        body = self._compose_page(
+            title=run.plan.title,
+            summary=run.plan.summary,
+            slug=run.plan.slug,
+            generated_at=run.generated_at,
+            source_count=run.source_count,
+            research_turns=len(run.turns),
+            model=metadata["model"],
+            request_mode=run.request.normalized_mode(),
+            request_issue=run.request.issue_url or "",
+            tags=run.plan.tags,
+            body_markdown=body_markdown,
+            references_markdown=references_markdown,
         )
-        page_path = f"docs/wiki/{run.plan.slug}.md"
+        front_matter = yaml.safe_dump(metadata, sort_keys=False, allow_unicode=True).strip()
+        return f"---\n{front_matter}\n---\n\n{body}\n"
+
+    def upgrade_existing_pages(self) -> int:
+        upgraded = 0
+        for page_path in sorted(self.settings.wiki_dir.glob("*.md")):
+            if page_path.name == "index.md":
+                continue
+            if self.upgrade_existing_page(page_path):
+                upgraded += 1
+        return upgraded
+
+    def upgrade_existing_page(self, page_path: Path) -> bool:
+        raw_text = page_path.read_text(encoding="utf-8")
+        if "data-ap-translation-shell" in raw_text:
+            return False
+
+        metadata, content = self._split_front_matter(raw_text)
+        if not metadata:
+            return False
+
+        body_markdown, references_markdown = self._extract_body_and_references(content)
+        if not body_markdown:
+            return False
+
+        upgraded_body = self._compose_page(
+            title=str(metadata.get("title", page_path.stem)).strip() or page_path.stem,
+            summary=str(metadata.get("summary", "")).strip(),
+            slug=str(metadata.get("topic_slug", page_path.stem)).strip() or page_path.stem,
+            generated_at=str(metadata.get("generated_at", "")).strip(),
+            source_count=int(metadata.get("sources_analyzed", 0) or 0),
+            research_turns=int(metadata.get("research_turns", 0) or 0),
+            model=str(metadata.get("model", "demo-mode")).strip() or "demo-mode",
+            request_mode=str(metadata.get("request_mode", "auto")).strip() or "auto",
+            request_issue=str(metadata.get("request_issue", "") or ""),
+            tags=[str(tag) for tag in metadata.get("tags", [])],
+            body_markdown=body_markdown,
+            references_markdown=references_markdown,
+        )
+
+        normalized_metadata = dict(metadata)
+        normalized_metadata["available_translations"] = self._resolved_translation_languages()
+        front_matter = yaml.safe_dump(normalized_metadata, sort_keys=False, allow_unicode=True).strip()
+        page_path.write_text(f"---\n{front_matter}\n---\n\n{upgraded_body}\n", encoding="utf-8")
+        return True
+
+    def _compose_page(
+        self,
+        *,
+        title: str,
+        summary: str,
+        slug: str,
+        generated_at: str,
+        source_count: int,
+        research_turns: int,
+        model: str,
+        request_mode: str,
+        request_issue: str,
+        tags: list[str],
+        body_markdown: str,
+        references_markdown: str,
+    ) -> str:
+        page_path = f"docs/wiki/{slug}.md"
         update_url = build_request_issue_url(
             self.settings,
             mode="update-page",
-            topic_title=run.plan.title,
-            topic_slug=run.plan.slug,
+            topic_title=title,
+            topic_slug=slug,
             request_notes="Please refresh this page against the latest trustworthy sources.",
             existing_page_path=page_path,
         )
         expand_url = build_request_issue_url(
             self.settings,
             mode="expand-page",
-            topic_title=run.plan.title,
-            topic_slug=run.plan.slug,
+            topic_title=title,
+            topic_slug=slug,
             request_notes="Please expand this page with additional depth, missing sections, and newly available evidence.",
             existing_page_path=page_path,
         )
@@ -103,33 +194,245 @@ class WikiWriter:
             mode="new-topic",
             request_notes="Please create a new wiki page for the requested topic.",
         )
-        action_block = ""
-        if update_url and expand_url:
-            action_block = (
-                '<div class="ap-inline-actions">\n'
-                f'  <a class="md-button md-button--primary" href="{expand_url}" target="_blank" rel="noopener">このWikiページを更新または拡張して</a>\n'
-                f'  <a class="md-button" href="{update_url}" target="_blank" rel="noopener">最新情報で更新する</a>\n'
-                + (
-                    f'  <a class="md-button" href="{new_topic_url}" target="_blank" rel="noopener">別トピックを依頼</a>\n'
-                    if new_topic_url
-                    else ""
-                )
-                + '</div>\n\n'
+
+        language_articles = self._build_language_articles(title, summary, body_markdown)
+        translation_count = max(0, len(language_articles) - 1)
+        sections = markdown_headings(body_markdown, max_items=8)
+        section_items = "\n".join(
+            f"      <li>{html.escape(item)}</li>" for item in sections
+        ) or "      <li>Overview</li>"
+        tag_items = "\n".join(
+            f'      <span class="ap-tag-pill">{html.escape(tag)}</span>' for tag in tags[:6]
+        )
+        references_html = self._render_markdown_html(references_markdown)
+
+        action_lines = []
+        if expand_url:
+            action_lines.append(
+                f'  <a class="md-button md-button--primary" href="{expand_url}" target="_blank" rel="noopener">このWikiページを更新または拡張して</a>'
+            )
+        if update_url:
+            action_lines.append(
+                f'  <a class="md-button" href="{update_url}" target="_blank" rel="noopener">最新情報で更新する</a>'
+            )
+        if new_topic_url:
+            action_lines.append(
+                f'  <a class="md-button" href="{new_topic_url}" target="_blank" rel="noopener">別トピックを依頼</a>'
+            )
+        action_block = (
+            '<div class="ap-inline-actions">\n' + "\n".join(action_lines) + "\n</div>"
+            if action_lines
+            else ""
+        )
+
+        button_items = []
+        view_items = []
+        for index, article in enumerate(language_articles):
+            active_class = " is-active" if index == 0 else ""
+            hidden_attr = "" if index == 0 else " hidden"
+            button_items.append(
+                f'      <button type="button" class="ap-language-pill{active_class}" data-ap-language-button="{article["code"]}" aria-pressed="{"true" if index == 0 else "false"}">{html.escape(article["label"])}</button>'
+            )
+            view_items.append(
+                f'    <section class="ap-language-view{active_class}" data-ap-language-view="{article["code"]}"{hidden_attr}>\n'
+                f'      <div class="ap-rendered-article" lang="{article["code"]}">\n{article["html"]}\n      </div>\n'
+                f'    </section>'
             )
 
-        return (
-            f"---\n{front_matter}\n---\n\n"
-            f"# {run.plan.title}\n\n"
-            f"> {run.plan.summary}\n\n"
-            f"!!! info \"生成メタデータ\"\n"
-            f"    - Generated: {run.generated_at}\n"
-            f"    - Sources analyzed: {run.source_count}\n"
-            f"    - Research turns: {len(run.turns)}\n"
-            f"    - Topic slug: {run.plan.slug}\n\n"
-            f"{action_block}"
-            f"{body.strip()}\n\n"
-            f"## References\n\n{references_block}\n"
+        return "\n".join(
+            [
+                '<div class="ap-article-shell">',
+                '  <aside class="ap-article-sidebar">',
+                '    <section class="ap-meta-card ap-meta-card--strong">',
+                '      <p class="ap-meta-card__eyebrow">Reader View</p>',
+                f'      <h2>{html.escape(title)}</h2>',
+                '      <p>読みやすさを優先したレイアウトと AI 多言語翻訳ビューを同じページ内に統合しています。</p>',
+                '    </section>',
+                '    <section class="ap-meta-card">',
+                '      <p class="ap-meta-card__eyebrow">Signals</p>',
+                '      <ul class="ap-stat-list">',
+                f'        <li><strong>{source_count}</strong><span>sources analyzed</span></li>',
+                f'        <li><strong>{research_turns}</strong><span>research turns</span></li>',
+                f'        <li><strong>{translation_count}</strong><span>translated views</span></li>',
+                '      </ul>',
+                '    </section>',
+                '    <section class="ap-meta-card">',
+                '      <p class="ap-meta-card__eyebrow">Snapshot</p>',
+                f'      <p><strong>Generated</strong><br>{html.escape(generated_at or "n/a")}</p>',
+                f'      <p><strong>Mode</strong><br>{html.escape(request_mode)}</p>',
+                f'      <p><strong>Model</strong><br>{html.escape(model)}</p>',
+                '    </section>',
+                '    <section class="ap-meta-card">',
+                '      <p class="ap-meta-card__eyebrow">Sections</p>',
+                '      <ul class="ap-section-list">',
+                section_items,
+                '      </ul>',
+                '    </section>',
+                '    <section class="ap-meta-card">',
+                '      <p class="ap-meta-card__eyebrow">Tags</p>',
+                '      <div class="ap-tag-list">',
+                tag_items or '      <span class="ap-tag-pill">research</span>',
+                '      </div>',
+                '    </section>',
+                '    <section class="ap-meta-card ap-meta-card--subtle">',
+                '      <p class="ap-meta-card__eyebrow">Translation</p>',
+                '      <p>AI-generated translations preserve section structure and citation markers. For critical use, verify claims against the references below.</p>',
+                '    </section>',
+                (f'    <section class="ap-meta-card ap-meta-card--subtle"><p class="ap-meta-card__eyebrow">Request</p><p><a href="{html.escape(request_issue)}" target="_blank" rel="noopener">Open the originating request</a></p></section>' if request_issue else ''),
+                action_block,
+                '  </aside>',
+                '  <div class="ap-article-main">',
+                '    <section class="ap-translation-shell" data-ap-translation-shell>',
+                '      <div class="ap-language-toolbar">',
+                '        <div class="ap-language-toolbar__copy">',
+                '          <p class="ap-meta-card__eyebrow">AI Multilingual Translation</p>',
+                '          <h2>Read this page in multiple languages</h2>',
+                '          <p>Original references stay unchanged for traceability. The original page language remains the authoritative rendering.</p>',
+                '        </div>',
+                '        <div class="ap-language-toolbar__controls">',
+                *button_items,
+                '        </div>',
+                '      </div>',
+                *view_items,
+                '    </section>',
+                '    <section class="ap-reference-card">',
+                '      <div class="ap-reference-card__head">',
+                '        <p class="ap-meta-card__eyebrow">Sources</p>',
+                '        <h2>References</h2>',
+                '        <p>Reference titles and URLs remain in their source language to preserve auditability.</p>',
+                '      </div>',
+                f'      <div class="ap-rendered-article ap-reference-card__body">\n{references_html}\n      </div>',
+                '    </section>',
+                '  </div>',
+                '</div>',
+            ]
         )
+
+    def _build_language_articles(self, title: str, summary: str, body_markdown: str) -> list[dict[str, str]]:
+        original_package = self._article_markdown_package(title, summary, body_markdown)
+        articles = [
+            {
+                "code": self.settings.language,
+                "label": self._language_label(self.settings.language),
+                "html": self._render_markdown_html(original_package),
+            }
+        ]
+        for code in self._resolved_translation_languages()[1:]:
+            translated_package = self._translate_markdown_package(original_package, code)
+            articles.append(
+                {
+                    "code": code,
+                    "label": self._language_label(code),
+                    "html": self._render_markdown_html(translated_package),
+                }
+            )
+        return articles
+
+    def _translate_markdown_package(self, article_markdown: str, language_code: str) -> str:
+        language_label = self._language_label(language_code)
+        return self.llm.complete_markdown(
+            system_prompt=(
+                "You are an expert multilingual wiki translator. "
+                "Translate Markdown accurately while preserving structure, tables, admonitions, links, and citation markers like [1]."
+            ),
+            user_prompt=(
+                f"Target language: {language_label} ({language_code})\n"
+                "Translate the following Markdown article. Requirements:\n"
+                "- Preserve Markdown structure.\n"
+                "- Keep links and citation markers unchanged.\n"
+                "- Keep the tone neutral and encyclopedic.\n"
+                "- Return Markdown only.\n\n"
+                f"{article_markdown}"
+            ),
+            fallback=lambda: self._fallback_translation(article_markdown, language_label),
+            temperature=0.1,
+            max_tokens=4800,
+        ).strip()
+
+    def _fallback_translation(self, article_markdown: str, language_label: str) -> str:
+        return (
+            '!!! note "Translation fallback"\n'
+            f'    AI translation for {language_label} was unavailable during this build. The original-language article is shown below.\n\n'
+            f'{article_markdown}'
+        )
+
+    def _render_markdown_html(self, markdown_text: str) -> str:
+        renderer = markdown.Markdown(
+            extensions=[
+                "admonition",
+                "attr_list",
+                "footnotes",
+                "md_in_html",
+                "tables",
+                "pymdownx.details",
+                "pymdownx.highlight",
+                "pymdownx.inlinehilite",
+                "pymdownx.superfences",
+                "pymdownx.tabbed",
+            ],
+            extension_configs={
+                "pymdownx.highlight": {"anchor_linenums": True},
+                "pymdownx.tabbed": {"alternate_style": True},
+            },
+            output_format="html5",
+        )
+        return renderer.convert(markdown_text)
+
+    def _article_markdown_package(self, title: str, summary: str, body_markdown: str) -> str:
+        return f"# {title}\n\n> {summary}\n\n{body_markdown.strip()}\n"
+
+    def _references_markdown(self, references) -> str:
+        return "\n".join(
+            f"{index}. [{source.display_title()}]({source.final_url}) - {source.domain}."
+            for index, source in enumerate(references, start=1)
+        )
+
+    def _resolved_translation_languages(self) -> list[str]:
+        preferred = [self.settings.language, *self.settings.translation_languages]
+        return unique_preserve_order(preferred)[:6]
+
+    def _language_label(self, code: str) -> str:
+        return LANGUAGE_LABELS.get(code, code)
+
+    def _split_front_matter(self, text: str) -> tuple[dict, str]:
+        normalized = text.replace("\r\n", "\n")
+        match = re.match(r"\A---\n(.*?)\n---\n(.*)\Z", normalized, flags=re.DOTALL)
+        if not match:
+            return {}, normalized
+        payload = yaml.safe_load(match.group(1)) or {}
+        return payload, match.group(2)
+
+    def _extract_body_and_references(self, content: str) -> tuple[str, str]:
+        normalized = content.replace("\r\n", "\n").strip()
+        parts = re.split(r"\n## References\s*\n", normalized, maxsplit=1)
+        body = self._strip_existing_page_chrome(parts[0])
+        references = parts[1].strip() if len(parts) > 1 else ""
+        return body, references
+
+    def _strip_existing_page_chrome(self, markdown_text: str) -> str:
+        lines = markdown_text.splitlines()
+        index = 0
+
+        while index < len(lines) and not lines[index].strip():
+            index += 1
+        if index < len(lines) and lines[index].startswith("# "):
+            index += 1
+        while index < len(lines) and (not lines[index].strip() or lines[index].lstrip().startswith("> ")):
+            index += 1
+        if index < len(lines) and lines[index].startswith('!!! info "生成メタデータ"'):
+            index += 1
+            while index < len(lines) and (not lines[index].strip() or lines[index].startswith("    ")):
+                index += 1
+        while index < len(lines) and not lines[index].strip():
+            index += 1
+        if index < len(lines) and lines[index].startswith('<div class="ap-inline-actions"'):
+            while index < len(lines) and "</div>" not in lines[index]:
+                index += 1
+            if index < len(lines):
+                index += 1
+        while index < len(lines) and not lines[index].strip():
+            index += 1
+        return "\n".join(lines[index:]).strip()
 
     def _digest_chunk(self, index: int, chunk: str) -> str:
         return self.llm.complete_markdown(
