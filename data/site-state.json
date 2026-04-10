@@ -3,6 +3,22 @@
   "started_at": "2026-04-10T00:00:00Z",
   "completed_topics": [
     {
+      "title": "Direct air capture",
+      "slug": "direct-air-capture",
+      "summary": "Direct air capture is selected because it has active scientific, industrial, and policy developments that reward a high-evidence synthesis.",
+      "tags": [
+        "research",
+        "technology",
+        "analysis"
+      ],
+      "generated_at": "2026-04-10T02:37:25.880174Z",
+      "sources_analyzed": 47,
+      "research_turns": 10,
+      "request_mode": "auto",
+      "page_path": "wiki/direct-air-capture.md",
+      "report_path": "reports/20260410T023009Z-direct-air-capture.md"
+    },
+    {
       "title": "mRNA vaccine manufacturing",
       "slug": "mrna-vaccine-manufacturing",
       "summary": "mRNA vaccine manufacturing is selected because it has active scientific, industrial, and policy developments that reward a high-evidence synthesis.",
@@ -36,6 +52,16 @@
     }
   ],
   "run_history": [
+    {
+      "run_id": "20260410T023009Z-direct-air-capture",
+      "topic": "Direct air capture",
+      "slug": "direct-air-capture",
+      "generated_at": "2026-04-10T02:37:25.880174Z",
+      "sources_analyzed": 47,
+      "request_mode": "auto",
+      "report_path": "reports/20260410T023009Z-direct-air-capture.md",
+      "page_path": "wiki/direct-air-capture.md"
+    },
     {
       "run_id": "20260410T021856Z-mrna-vaccine-manufacturing",
       "topic": "mRNA vaccine manufacturing",
