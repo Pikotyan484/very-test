@@ -1,24 +1,24 @@
-# AutoPedia Research Report: Synthetic aperture radar satellites
+# AutoPedia Research Report: Quantum error correction applications and constraints
 
 ## Run Metadata
-- Run ID: 20260410T032205Z-synthetic-aperture-radar-satellites
-- Generated at: 2026-04-10T03:28:59.068424Z
-- Topic slug: synthetic-aperture-radar-satellites
+- Run ID: 20260410T043243Z-quantum-error-correction-applications-and-constraints
+- Generated at: 2026-04-10T04:40:24.283799Z
+- Topic slug: quantum-error-correction-applications-and-constraints
 - Research turns: 10
-- Total fetched sources: 15
+- Total fetched sources: 21
 - Request mode: auto
 
 ## Request Context
-- Topic title: Synthetic aperture radar satellites
-- Topic slug: synthetic-aperture-radar-satellites
+- Topic title: Quantum error correction applications and constraints
+- Topic slug: quantum-error-correction-applications-and-constraints
 - Requested by: n/a
 - Issue number: n/a
 - Issue URL: n/a
 - Request notes: n/a
 
 ## Topic Plan
-- Title: Synthetic aperture radar satellites
-- Summary: Synthetic aperture radar satellites is selected because it has active scientific, industrial, and policy developments that reward a high-evidence synthesis.
+- Title: Quantum error correction applications and constraints
+- Summary: Quantum error correction applications and constraints is selected because it has active scientific, industrial, and policy developments that reward a high-evidence synthesis.
 - Rationale: The topic is concrete enough for one article but broad enough to benefit from multi-turn source gathering.
 - Tags: research, technology, analysis
 - Search Angles:
@@ -38,32 +38,32 @@
 
 ## Cross-Turn Synthesis
 ## Core points
-- ICEYE launches six new synthetic aperture radar satellites: ICEYE launches six new synthetic aperture radar satellites
-- Detection and Monitoring of Oil Spills with Synthetic Aperture Radar Satellites: Detection and Monitoring of Oil Spills with Synthetic Aperture Radar Satellites
-- United States Synthetic Aperture Radar In Space Market Strategic Opportunities & Potential Investments 2026-2033: United States Synthetic Aperture Radar In Space Market Strategic Opportunities & Potential Investments 2026-2033
-- Coordinated Attitude Control for Synthetic Aperture Radar Satellites with Quantization and Communication Delay - Harbin Institute of Technology: Coordinated Attitude Control for Synthetic Aperture Radar Satellites with Quantization and Communication Delay
-- Top Career Content from LinkedIn Members: Top Career Content from LinkedIn Members
-- Synthetic-Aperture Radar (SAR), Earth Observation, and Mapping - Geography Realm: Synthetic-Aperture Radar (SAR), Earth Observation, and Mapping - Geography Realm
-- Another Commercial Imaging Group [Long March 2C Y55]: Another Commercial Imaging Group [Long March 2C Y55]
-- Explore SAR satellite imagery | Documentation: Explore SAR satellite imagery | Documentation
-- PRESSR: Space42 ships first UAE-integrated and tested synthetic aperture radar satellites to expand its foresight constellation — TradingView News: PRESSR: Space42 ships first UAE-integrated and tested synthetic aperture radar satellites to expand its foresight constellation — TradingView News
-- Synthetic Aperture Radar Systems | Springer Nature Link: Synthetic Aperture Radar Systems | Springer Nature Link
+- What is Quantum Error Correction (QEC): What is Quantum Error Correction (QEC)
+- quantum error-correcting codes: Topics by Science.gov: quantum error-correcting codes: Topics by Science.gov
+- Quantum Error Correction · Chair for Design Automation: Quantum Error Correction · Chair for Design Automation
+- Quantum Error Correction | Applications of Quantum Mechanics: Quantum Error Correction | Applications of Quantum Mechanics
+- Building the future of quantum error correction | IBM Quantum Computing Blog: Building the future of quantum error correction | IBM Quantum Computing Blog
+- Quantum Error Correction: The Key to Quantum Computing: Quantum Error Correction: The Key to Quantum Computing
+- Turn 3 gathered 28 candidate results around limitations, risks, and unresolved debates.
+- Data and Statistics: AFCARS | The Administration for Children and Families: Data and Statistics: AFCARS | The Administration for Children and Families
+- Turn 5 gathered 35 candidate results around limitations, risks, and unresolved debates.
+- Turn 6 gathered 14 candidate results around limitations, risks, and unresolved debates.
 
 ## Contested points
-- Conflicting definitions and baselines need careful wording.
+- Different sources emphasize different baselines, metrics, or time horizons. These require explicit comparison in the article.
 
 ## Missing data
-- How do authoritative sources answer: "Synthetic aperture radar satellites" overview?
+- How do authoritative sources answer: "Quantum error correction applications and constraints" overview?
 - Which metrics or dates recur across high-relevance sources for turn 1?
 - Which criticism appears consistently versus only in opinion pieces?
-- How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" overview??
+- How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview??
 - Which metrics or dates recur across high-relevance sources for turn 2?
 - Which criticism appears consistently versus only in opinion pieces?
-- How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" overview??
+- How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview??
 - Which metrics or dates recur across high-relevance sources for turn 3?
 
 ## Recommended article emphasis
-- Keep the article scoped around Synthetic aperture radar satellites rather than broad adjacent topics.
+- Keep the article scoped around Quantum error correction applications and constraints rather than broad adjacent topics.
 - Separate established facts, current deployment status, and speculative future claims.
 - Attribute contentious statements to cited source clusters rather than presenting them as settled.
 
@@ -73,222 +73,492 @@
 high-level map and authoritative definitions
 
 ### Queries
-- "Synthetic aperture radar satellites" overview
-- "Synthetic aperture radar satellites" official documentation
-- "Synthetic aperture radar satellites" academic review
-- "Synthetic aperture radar satellites" site:gov
-- "Synthetic aperture radar satellites" site:edu
-- "Synthetic aperture radar satellites" market analysis
-- "Synthetic aperture radar satellites" limitations criticism
-- "Synthetic aperture radar satellites" timeline history
-- "Synthetic aperture radar satellites" safety regulation
-- "Synthetic aperture radar satellites" benchmark data
+- "Quantum error correction applications and constraints" overview
+- "Quantum error correction applications and constraints" official documentation
+- "Quantum error correction applications and constraints" academic review
+- "Quantum error correction applications and constraints" site:gov
+- "Quantum error correction applications and constraints" site:edu
+- "Quantum error correction applications and constraints" market analysis
+- "Quantum error correction applications and constraints" limitations criticism
+- "Quantum error correction applications and constraints" timeline history
+- "Quantum error correction applications and constraints" safety regulation
+- "Quantum error correction applications and constraints" benchmark data
 
 ### Turn Findings
-- ICEYE launches six new synthetic aperture radar satellites: ICEYE launches six new synthetic aperture radar satellites
-- Detection and Monitoring of Oil Spills with Synthetic Aperture Radar Satellites: Detection and Monitoring of Oil Spills with Synthetic Aperture Radar Satellites
-- United States Synthetic Aperture Radar In Space Market Strategic Opportunities & Potential Investments 2026-2033: United States Synthetic Aperture Radar In Space Market Strategic Opportunities & Potential Investments 2026-2033
-- Coordinated Attitude Control for Synthetic Aperture Radar Satellites with Quantization and Communication Delay - Harbin Institute of Technology: Coordinated Attitude Control for Synthetic Aperture Radar Satellites with Quantization and Communication Delay
-- Why Synthetic Aperture Radar (SAR) is CRUCIAL for Earth Observation w Umbra Space's Gabe Dominocielo - The NDS Show Podcast: Why Synthetic Aperture Radar (SAR) is CRUCIAL for Earth Observation w Umbra Space's Gabe Dominocielo - The NDS Show Podcast
-- ESA - High-resolution radar satellites launched for Greece: ESA - High-resolution radar satellites launched for Greece
+- What is Quantum Error Correction (QEC): What is Quantum Error Correction (QEC)
+- quantum error-correcting codes: Topics by Science.gov: quantum error-correcting codes: Topics by Science.gov
+- Quantum Error Correction · Chair for Design Automation: Quantum Error Correction · Chair for Design Automation
+- Quantum Error Correction | Applications of Quantum Mechanics: Quantum Error Correction | Applications of Quantum Mechanics
+- [1907.11157] Quantum Error Correction: An Introductory Guide: [1907.11157] Quantum Error Correction: An Introductory Guide
+- Quantum Error Correction: The Key to Quantum Computing: Quantum Error Correction: The Key to Quantum Computing
 
 ### Contradictions
-- No explicit contradictions extracted in this turn.
+- Different sources emphasize different baselines, metrics, or time horizons. These require explicit comparison in the article.
 
 ### Open Questions
-- How do authoritative sources answer: "Synthetic aperture radar satellites" overview?
+- How do authoritative sources answer: "Quantum error correction applications and constraints" overview?
 - Which metrics or dates recur across high-relevance sources for turn 1?
 - Which criticism appears consistently versus only in opinion pieces?
 
 ### Source Catalog
-#### Source 0001: ICEYE launches six new synthetic aperture radar satellites
-- Source ID: 7e8f7d806048
+#### Source 0001: What is Quantum Error Correction (QEC)
+- Source ID: 3e45e889fbeb
 - Turn: 1
-- Query: "Synthetic aperture radar satellites" official documentation
-- Provider: ddgs
-- Search rank: 6
-- Domain: defence-industry.eu
-- URL: https://defence-industry.eu/iceye-launches-six-new-synthetic-aperture-radar-satellites
-- Search snippet: ICEYE has launched six newsyntheticapertureradarsatellitesas part of its ongoing effort to expand sovereign space-based intelligence capabilities. The satellites were deployed on 30 March 2026 aboard a SpaceX...
-- Page word count estimate: 508
-- Relevance score: 23.00
-- Key excerpt lines:
-  - ICEYE launches six new synthetic aperture radar satellites
-  - LinkedIn
-  - Air
-  - Land
-  - Sea
-  - Space/C4ISR
-  - Advertising
-  - About us
-  - Air
-  - Land
-  - Sea
-  - Space/C4ISR
-- Extended extract lines:
-  - ICEYE launches six new synthetic aperture radar satellites LinkedIn Air Land Sea Space/C4ISR Advertising About us Air Land Sea Space/C4ISR Advertising About us March 31, 2026 ICEYE launches six new SAR satellites to expand sovereign intelligence capabilities for allied nations worldwide By Martin Chomsky (Defence Industry Europe) Photo: SpaceX. ICEYE has launched six new synthetic aperture radar satellites as part of its ongoing effort to expand sovereign space-based intelligence capabilities. The satellites were deployed on 30 March 2026 aboard a SpaceX Transporter-16 rideshare mission from Vandenberg Space Force Base in California. The spacecraft were integrated via Exolaunch and have successfully established communication following launch. Routine commissioning operations are now underway as the satellites enter service. The newly launched satellites will join ICEYE’s commercial constellation while also supporting dedicated national missions. These include programmes involving ICEYE US, the Polish Armed Forces’ MikroSAR initiative, and the Atlantic Constellation led by CTI Aeroespacial, the Portuguese Air Force, CEiiA and GEOSAT. The company said the deployment strengthens imaging capacity and resilience for governments requiring persistent situational awareness. The system is designed to provide rapid, high-resolution intelligence regardless of weather conditions or time of day. ICEYE operates the world’s largest SAR satellite constellation, enabling continuous monitoring through radar-based imaging. This technology allows observation through cloud cover, smoke and darkness, supporting real-time decision-making. Officials said demand for space-based intelligence is increasing across Europe, the Americas and the Indo-Pacific. Governments are increasingly treating such capabilities as operational requirements rather than strategic advantages. ICEYE said its approach enables nations to deploy sovereign intelligence systems within months rather than years. The company provides complete systems, including satellites, ground infrastructure and training, with operational readiness achievable within 12 months of agreement. The satellites are also designed to support software-defined upgrades, allowing new capabilities to be deployed remotely. This reduces reliance on hardware modifications and supports faster adaptation to evolving operational needs. Since 2018, ICEYE has launched 70 satellites, including eight in 2026. The company is scaling production to an average of one satellite per week as it expands its global capabilities. “ICEYE protects sovereign nations from space,” said Rafal Modrzewski. “The era of relying on a single, expensive satellite for national security is ending.” “Governments now understand that resilient constellations of many satellites are what give them real intelligence advantage, with answers in minutes instead of days,” he added. “That is the shift from strategic to tactical timelines, and it changes everything about how nations defend themselves,” Modrzewski said. “Every satellite we launch brings our customers closer to that reality, and we are building the industrial capacity to keep pace with the demand.” ICEYE said it supports governments and organisations worldwide with defence, intelligence and scientific missions. Its systems are used across six continents to provide monitoring and analysis capabilities. The company added that its services extend beyond defence to include environmental monitoring, insurance and emergency response. Officials said the ability to deliver rapid, reliable intelligence is central to supporting decision-making in complex situations. Share on Facebook Share on X Share on LinkedIn Tags: ICEYE , satellite ,
-
-#### Source 0002: Detection and Monitoring of Oil Spills with Synthetic Aperture Radar Satellites
-- Source ID: 8cf63e755033
-- Turn: 1
-- Query: "Synthetic aperture radar satellites" official documentation
-- Provider: ddgs
-- Search rank: 5
-- Domain: piersight.space
-- URL: https://piersight.space/blog/detection-and-monitoring-of-oil-spills-with-synthetic-aperture-radar-satellites
-- Search snippet: SyntheticApertureRadars for Oil Spill Detection. In our search for the optimal surveillance technology, let's explore a particular solution –SyntheticApertureRadar(SAR).
-- Page word count estimate: 236
-- Relevance score: 22.33
-- Key excerpt lines:
-  - Detection and Monitoring of Oil Spills with Synthetic Aperture Radar Satellites
-  - PierSight Blog
-  - Blog Home
-  - Visit Website
-  - Open main menu
-  - Blog Home
-  - Visit Website
-  - Home
-  - Posts
-  - Detection and Monitoring of Oil Spills with Synthetic Aperture Radar Satellites
-  - Detection and Monitoring of Oil Spills with Synthetic Aperture Radar Satellites
-  - We discuss the current methods for detection and monitoring of oil spills and their limitations. Further, we present a solution in the form of a satellite constellation that provides persistent ocean monitoring.
-- Extended extract lines:
-  - Detection and Monitoring of Oil Spills with Synthetic Aperture Radar Satellites PierSight Blog Blog Home Visit Website Open main menu Blog Home Visit Website Home Posts Detection and Monitoring of Oil Spills with Synthetic Aperture Radar Satellites Detection and Monitoring of Oil Spills with Synthetic Aperture Radar Satellites We discuss the current methods for detection and monitoring of oil spills and their limitations. Further, we present a solution in the form of a satellite constellation that provides persistent ocean monitoring. Feb 19, 2024 Gaurav Seth Gaurav is CEO and Cofounder of PierSight. He spent nine years at Indian Space Research Organization developing several SAR applications for EO and multiplanetary missions Vinit Bansal Vinit is Cofounder and CTO of PierSight. He brings over nine years of experience in prototyping and commercialization of space and defense tech. Table of Contents Letâs Cry Over Spilt Oil Deepwater Horizon Oil Spill Frequency of Oil Spills What happens when oil leaks into the ocean? Ecological impact Economic impacts Plan. Preserve. Protect. Current Surveillance Standards Synthetic Aperture Radars for Oil Spill Detection Why SAR for Oil Spill Detection? Persistent Monitoring via a Constellation of SAR Satellites How PierSightâs Constellation Can Detect Oil Spills Challenges in SAR-based Oil Spill Detection In Conclusion Table of Contents Letâs Cry Over Spilt Oil Deepwater Horizon Oil Spill Frequency of Oil Spills What happens when oil leaks into the ocean? Ecological impact Economic impacts Plan. Preserve. Protect.
-
-#### Source 0003: United States Synthetic Aperture Radar In Space Market Strategic Opportunities & Potential Investments 2026-2033
-- Source ID: c59e8e205e9e
-- Turn: 1
-- Query: "Synthetic aperture radar satellites" market analysis
-- Provider: ddgs
-- Search rank: 14
-- Domain: www.linkedin.com
-- URL: https://www.linkedin.com/pulse/united-states-synthetic-aperture-radar-space-2zs2c
-- Search snippet: Syntheticapertureradar(SAR) is a form of radar that is used to create high-resolution images of objects on the ground from space.According to our latest research, the globalsyntheticapertureradarin spacemarketis estimated to be worth $X billion.
-- Page word count estimate: 626
-- Relevance score: 21.33
-- Key excerpt lines:
-  - United States Synthetic Aperture Radar In Space Market Strategic Opportunities & Potential Investments 2026-2033
-  - Agree & Join LinkedIn
-  - By clicking Continue to join or sign in, you agree to LinkedIn’s
-  - User Agreement
-  - ,
-  - Privacy Policy
-  - , and
-  - Cookie Policy
-  - .
-  - Skip to main content
-  - LinkedIn
-  - Top Content
-- Extended extract lines:
-  - United States Synthetic Aperture Radar In Space Market Strategic Opportunities & Potential Investments 2026-2033 Agree & Join LinkedIn By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Skip to main content LinkedIn Top Content People Learning Jobs Games Join now Sign in United States Synthetic Aperture Radar In Space Market Strategic Opportunities & Potential Investments 2026-2033 Report this article Industry Market Insights Hub Industry Market Insights Hub Published Nov 13, 2025 + Follow United States Synthetic Aperture Radar In Space Market Size And Forecast 2026-2033 United States Synthetic Aperture Radar In Space Market size was valued at USD XX Billion in 2024 and is projected to reach USD XX Billion by 2033, growing at a CAGR of XX% from 2026 to 2033. What factors drive and influence the growth of the United States Synthetic Aperture Radar In Space Market? The growth of the United States Synthetic Aperture Radar (SAR) in space market is primarily driven by increasing demand for high-resolution Earth observation data across various sectors such as defense, environmental monitoring, and disaster management. Technological advancements in radar imaging enhance data accuracy and operational efficiency, fueling market expansion. Government initiatives and increased funding for space-based surveillance and reconnaissance also play a significant role. The rising need for maritime surveillance, border security, and infrastructure monitoring further propels market growth. Additionally, the growing adoption of SAR technology for climate change studies and resource management contributes to its expansion. The increasing affordability of satellite launches and miniaturization of SAR sensors make space-based radar more accessible, encouraging new market entrants and innovation. Overall, technological, governmental, and sector-specific factors collectively influence the market's upward trajectory. Get the full PDF sample copy of the report: (Includes full table of contents, list of tables and figures, and graphs):- https://www.verifiedmarketreports.com/download-sample/?rid=518742/?utm_source=Pulse-Nov-B3&utm_medium=311&utm_country=United-States Which major investment opportunities exist within the United States Synthetic Aperture Radar In Space Market? Investment opportunities within the U.S. SAR in space market are abundant, especially in satellite technology development, sensor manufacturing, and data analytics platforms. Companies investing in next-generation SAR sensors that offer higher resolution, faster revisit times, and enhanced capabilities can capitalize on increasing demand from defense, agriculture, and environmental sectors. There is also significant potential in developing integrated data solutions that combine SAR imagery with other remote sensing data for comprehensive analysis. Public-private partnerships and government contracts for Earth observation projects present lucrative avenues for investment. Additionally, investing in satellite launch services and small satellite constellations tailored for SAR applications can generate substantial returns. As the market expands, opportunities also exist in developing AI-powered analytics tools to interpret SAR data efficiently. Overall, technological innovation and strategic collaborations are key areas for profitable investments in this sector. What are the major challenges affecting the growth of the United States Synthetic Aperture Radar In Space Market? The U.S. SAR space market faces several challenges that could hinder its growth. High costs associated with satellite development, launch, and maintenance pose significant barriers, especially for smaller organizations or startups. Technical complexities in designing and deploying advanced SAR sensors require specialized expertise and substantial R&D investments. Regulatory and security concerns, including export controls and data privacy issues, can restrict market expansion and international collaborations. Additionally, the saturation of satellite data sources and increasing competition may limit market profitability. Technical limitations such as data latency, resolution constraints, and the need for extensive ground infrastructure can also impede growth. Moreover, geopolitical tensions and budget constraints within government agencies may result in reduced funding or delays in satellite deployment. Overcoming these challenges requires strategic planning, technological innovation, and supportive policy frameworks to sustain market growth. United States Synthetic Aperture Radar In Space Market Segmentation Analysis Application Aerospace and Defense Agriculture Type of Satellite Small Satellites
-
-#### Source 0004: Coordinated Attitude Control for Synthetic Aperture Radar Satellites with Quantization and Communication Delay - Harbin Institute of Technology
-- Source ID: 521b69fad0c2
-- Turn: 1
-- Query: "Synthetic aperture radar satellites" academic review
-- Provider: ddgs
-- Search rank: 8
-- Domain: scholar.hit.edu.cn
-- URL: https://scholar.hit.edu.cn/en/publications/coordinated-attitude-control-for-synthetic-aperture-radar-satelli
-- Search snippet: This paper studies the coordinated attitude control problem ofsyntheticapertureradarsatellitesand proposes two types of terminal sliding mode control schemes. The first control law is investigated based on the conventional...
-- Page word count estimate: 216
-- Relevance score: 19.33
-- Key excerpt lines:
-  - Coordinated Attitude Control for Synthetic Aperture Radar Satellites with Quantization and Communication Delay
-  - - Harbin Institute of Technology
-  - Skip to main navigation
-  - Skip to search
-  - Skip to main content
-  - Harbin Institute of Technology Home
-  - Search content at Harbin Institute of Technology
-  - Home
-  - Profiles
-  - Research units
-  - Research output
-  - Coordinated Attitude Control for Synthetic Aperture Radar Satellites with Quantization and Communication Delay
-- Extended extract lines:
-  - Coordinated Attitude Control for Synthetic Aperture Radar Satellites with Quantization and Communication Delay - Harbin Institute of Technology Skip to main navigation Skip to search Skip to main content Harbin Institute of Technology Home Search content at Harbin Institute of Technology Home Profiles Research units Research output Coordinated Attitude Control for Synthetic Aperture Radar Satellites with Quantization and Communication Delay Jingbo Fu * , Ming Liu , Huayi Li , Xibin Cao * Corresponding author for this work School of Astronautics, Harbin Institute of Technology Research output : Contribution to journal › Article › peer-review 14 Link opens in a new tab Scopus citations Overview Fingerprint Abstract This paper studies the coordinated attitude control problem of synthetic aperture radar satellites and proposes two types of terminal sliding mode control schemes. The first control law is investigated based on the conventional non-singular terminal sliding mode approach and modified Rodrigues parameters with the consideration of signal quantization and communication delay. Based on the first control scheme, we develop the second control method with an integral-based event triggering condition to reduce the updating frequency of the control command from controllers to actuators. Finally, numerical simulation examples based on a cluster of three satellites are presented to show the effectiveness of the proposed two designed control methods. Original language English
-
-#### Source 0005: Why Synthetic Aperture Radar (SAR) is CRUCIAL for Earth Observation w Umbra Space's Gabe Dominocielo - The NDS Show Podcast
-- Source ID: 3c06a0a20088
-- Turn: 1
-- Query: "Synthetic aperture radar satellites" limitations criticism
+- Query: "Quantum error correction applications and constraints" overview
 - Provider: ddgs
 - Search rank: 7
-- Domain: www.ndsshow.com
-- URL: https://www.ndsshow.com/why-synthetic-aperture-radar-sar-is-crucial-for-earth-observation-w-umbra-spaces-gabe-dominocielo
-- Search snippet: Umbra is asyntheticapertureradar(SAR) company that provides high-resolution satellite imagery. The conversation covers various topics, including the challenges and opportunities in the SAR industry, the importance of communication and education, the potential risks of satellite attacks...
-- Page word count estimate: 280
-- Relevance score: 18.67
+- Domain: www.quera.com
+- URL: https://www.quera.com/glossary/quantum-error-correction
+- Search snippet: The outcomes of these measurements, known as syndromes, reveal whether and where errors have occurred, without collapsing the quantum state of the logical qubits themselves. Decoding: Decoding refers to the interpretation of syndrome data to determine the specific error or set of errors that has occurred. This step involves running classical algorithms to match the syndrome pattern to a plausible error configuration, considering the constraints imposed by the error correction code.
+- Page word count estimate: 861
+- Relevance score: 21.67
 - Key excerpt lines:
-  - Why Synthetic Aperture Radar (SAR) is CRUCIAL for Earth Observation w Umbra Space's Gabe Dominocielo - The NDS Show Podcast
-  - All Podcasts
-  - Geospatial
-  - Intelligence
-  - Military
-  - Business
-  - Science
-  - Sports & Entertainment
-  - Tech
-  - Latest
-  - About
-  - NEWSLETTER
+  - What is Quantum Error Correction (QEC)
+  - Back to Glossary page
+  - Quantum Error Correction (QEC)
+  - Quantum Error Correction (QEC)
+  - Quantum Error Correction (QEC) is a critical component for building practical and reliable quantum computers. Qubits, regardless of modality, are highly susceptible to noise and environmental disturbances that can alt...
+  - The most common method of QEC is to encode a logical qubit using several physical qubits. By entangling these qubits and carefully choosing the encoding, errors in individual qubits can be detected and corrected witho...
+  - Shor code
+  - and the Surface code, are examples of schemes that apply these principles. These codes can correct for various types of errors, including bit-flip and phase-flip errors.
+  - Quantum Error Correction is vital for the development of large-scale, fault-tolerant quantum computers. Without effective error correction, quantum computations become unreliable as the size and complexity of a quantu...
+  - Some of the key concepts of QEC include:
+  - The quantum error correction code
+  - : This is the way quantum information is encoded into logical qubits. A critical parameter of an error correction code is its
 - Extended extract lines:
-  - Why Synthetic Aperture Radar (SAR) is CRUCIAL for Earth Observation w Umbra Space's Gabe Dominocielo - The NDS Show Podcast All Podcasts Geospatial Intelligence Military Business Science Sports & Entertainment Tech Latest About NEWSLETTER Connect with us The NDS Show Podcast Why Synthetic Aperture Radar (SAR) is CRUCIAL for Earth Observation w Umbra Space’s Gabe Dominocielo All Podcasts The Return of CIA Spycraft? Iran, Russia, China & the New Intelligence War with Douglas London This OSINT AI Predicts the Future to Mitigate Risks and Protect Against Threats The Untold SACRIFICE of Law Enforcement (Extreme Violence & Scandals) | ATF Agent Peter Forcelli UNBELIEVABLE: Overcoming INSANE Adversity with Joe O’Connor The MINDBLOWING Meaning behind the HEROIC Monuments of Austin Weishel Geospatial What Is GEOINT? The Intelligence Discipline That Sees Everything Satellite Imagery in Modern Intelligence: From Spy Planes to Commercial GEOINT Pentagon’s “Ghost Recon” Program: Why the DoD Wants Satellites That Spy on Other Satellites Pentagon’s ‘Ghost Recon’ Program: Why the DoD Wants Satellites That Spy on Other Satellites What Does a GIS Analyst Actually Do in National Security? Intelligence Russia Is Feeding Iran Intel to Target U.S. Forces The 18 U.S. Intelligence Agencies: What Each One Actually Does How Intelligence Agencies Protect Their Sources and Methods How to Get Into the Intelligence Community: Career Paths and Clearances The Five Eyes Alliance Explained: Inside the World’s Most Powerful Intelligence Partnership Military Europe’s Defense Spending Surge: What NATO’s 5% GDP Target Means for America How US Intelligence Helped Mexico Kill Drug Lord El Mencho Directed Energy Weapons: The Invisible Arsenal Reshaping Modern Warfare The Army’s New Bullet Turns Apaches Into Drone Killers Space Force Races to Prepare for War in Orbit Business
+  - What is Quantum Error Correction (QEC) Back to Glossary page Quantum Error Correction (QEC) Quantum Error Correction (QEC) Quantum Error Correction (QEC) is a critical component for building practical and reliable quantum computers. Qubits, regardless of modality, are highly susceptible to noise and environmental disturbances that can alter their states. By constructing logical qubits from collections of physical qubits and using error correction codes, QEC detects and corrects errors, enabling longer and more accurate quantum computations. The most common method of QEC is to encode a logical qubit using several physical qubits. By entangling these qubits and carefully choosing the encoding, errors in individual qubits can be detected and corrected without directly measuring the qubits' states, thus preserving their quantum information. The Quantum Error Correction Codes, such as the Shor code and the Surface code, are examples of schemes that apply these principles. These codes can correct for various types of errors, including bit-flip and phase-flip errors. Quantum Error Correction is vital for the development of large-scale, fault-tolerant quantum computers. Without effective error correction, quantum computations become unreliable as the size and complexity of a quantum system increase. However, implementing QEC in physical systems is highly challenging. It requires a significant overhead in terms of additional qubits and gates, and the precise control necessary to detect and correct errors without disturbing the delicate quantum states is a significant technical hurdle. Some of the key concepts of QEC include: The quantum error correction code : This is the way quantum information is encoded into logical qubits. A critical parameter of an error correction code is its code distance , which defines the minimum number of physical qubits that need to fail simultaneously to compromise the logical qubit. Higher code distances improve error tolerance when the physical error rate is below the threshold, but generally require more physical qubits, increasing resource overhead. Syndrome extraction : Syndrome extraction is the process of measuring auxiliary qubits, often called ancilla qubits , to gather information about errors without disturbing the quantum information encoded in the logical qubits. This involves carefully designed quantum circuits that interact the data qubits with ancilla qubits. The outcomes of these measurements, known as syndromes , reveal whether and where errors have occurred, without collapsing the quantum state of the logical qubits themselves. Decoding : Decoding refers to the interpretation of syndrome data to determine the specific error or set of errors that has occurred. This step involves running classical algorithms to match the syndrome pattern to a plausible error configuration, considering the constraints imposed by the error correction code. Efficient decoders are essential to ensure that errors are accurately identified and corrected in real time. Decoding accuracy and speed are critical factors in achieving practical fault tolerance. Quantum Error Correction represents a critical intersection between the theoretical foundations of quantum computing and the practical challenges of building a quantum computer . It's an area of active research and development, with ongoing progress essential for the future of quantum technology. What is Quantum Error Correction Two classes of error correction codes help summarize popular approaches to implementing fault tolerance on quantum computers. Technically, surface codes are actually examples of stabilizer codes. However, the terms can arise separately, and so here are high level descriptions for both, as well as how to distinguish between them: Stabilizer codes use measurements to detect errors and then use classical logic to apply specific error-correcting operations to the corrupted qubits; an intuition for this can be found in examples of the Shor code and the Steane code Surface codes are two-dimensional lattices of physical qubits that form logical qubits with topological protection, which means that errors can occur throughout the lattice without negatively affecting the global state of the logical qubit As shown by the Shor and Steane codes, stabilizer codes can be demonstrated with quantum algorithms. On quantum computers that support dynamic circuits, mid-circuit measurements can be taken of stabilizer qubits, and then classical logic can implement specific operations, conditional to those measurements, in real-time during the execution time of the algorithm. One relatively-simple method to implement stabilizer qubits is to entangle and disentangle qubits in such a way that each qubit will measure 0 if its neighboring qubits are the same and 1 if they are different. A paper titled “ Quantum Error Correction: An Introductory Guide ” by Joschka Roffe of the Department of Physics & Astronomy at the University of Sheffield provides a 29-page introduction to quantum error correction. The paper goes into considerably more detail about stabilizer codes and surface codes. The author provides a combination of visuals, mathematics, and circuit diagrams. An additional article worth reading is Quantum Error Correction – The Key To Realizing Quantum Computing’s Potential. The Quantum Error Correction Paradox A Q-CTRL blog post titled “ What is Quantum Error Correction? ” explains a paradox that arises in trying to build fault-tolerant quantum computers. Although estimates vary, a common projection is that 1000 physical qubits will be required to achieve a single logical qubit. Therefore, attempting to make quantum computers useful paradoxically reduces the resources available to do anything useful. The page includes an explanatory video which visualizes
 
-#### Source 0006: ESA - High-resolution radar satellites launched for Greece
-- Source ID: f140265c9e85
+#### Source 0002: quantum error-correcting codes: Topics by Science.gov
+- Source ID: 1f33a78dd405
 - Turn: 1
-- Query: "Synthetic aperture radar satellites" overview
+- Query: "Quantum error correction applications and constraints" site:gov
 - Provider: ddgs
-- Search rank: 8
-- Domain: www.esa.int
-- URL: https://www.esa.int/Applications/Observing_the_Earth/High-resolution_radar_satellites_launched_for_Greece
-- Search snippet: “The inclusion of ICEYE’s X-bandsyntheticapertureradarcapability in the Greek National Small Satellite Programme is a compelling example of how space technologies translate into tangible and vital benefits on Earth.”
-- Page word count estimate: 648
-- Relevance score: 18.33
-- Key excerpt lines:
-  - ESA - High-resolution radar satellites launched for Greece
-  - Applications
-  - High-resolution radar satellites launched for Greece
-  - 29/11/2025
-  - 11630
-  - views
-  - 53
-  - likes
-  - ESA
-  - /
-  - Applications
-  - /
-- Extended extract lines:
-  - ESA - High-resolution radar satellites launched for Greece Applications High-resolution radar satellites launched for Greece 29/11/2025 11630 views 53 likes ESA / Applications / Observing the Earth Thanks to the EU-funded Recovery and Resilience Facility, and through collaboration between the Greek government, the private satellite company ICEYE and the European Space Agency (ESA), two new high-resolution radar satellites have been launched to strengthen disaster management, environmental monitoring and national security across Greece. The two ICEYE synthetic aperture radar satellites, integrated via Exolaunch, were lifted into orbit on 28 November 2025, aboard the SpaceX Transporter-15 rideshare mission from Vandenberg Space Force Base, California, USA – which also included two ESA HydroGNSS Scout satellites and the next batch of Italy’s IRIDE satellites. These new ICEYE satellites mark the first launch of the operational Earth observation satellites under the Greek National Small Satellite Programme, which foresees a constellation of 13 satellites, grouped into four categories based on their measurement instruments. Financed by Greece through the EU Recovery and Resilience Facility , the programme is designed to advance Greece’s satellite technology and application capabilities, promote job creation and economic growth, and strengthen the country’s capacity for disaster management, continuous environmental monitoring and national security. An ICEYE satellite While the Hellenic Space Center and the Greek Ministry of Digital Governance lead the project, ESA provides the overarching framework and supports ICEYE’s development of both satellites. Through this role, ESA ensures that such national initiatives contribute to, and benefit from, a unified system for Earth observation data exchange among its Member States. The two new ICEYE satellites, which each weigh around 120 kg, use X-band in several observation modes to provide day-and-night high-resolution images, up to 25 cm resolution. Information from the two satellites will enhance Greece's capabilities in disaster management and national security. They will enable faster response times and more effective management of natural disasters such as floods, wildfires and landslides. Greece has an agreement with ICEYE under which the satellites will be operated in orbit by ICEYE. Through this partnership, Greece also gains access to ICEYE’s existing synthetic aperture radar satellite constellation – the largest of its kind in the world – enabling the country to monitor its areas of interest while developing its own space capabilities. ESA’s Director of Earth Observation Programmes, Simonetta Cheli, said, “The selection of ICEYE to develop the synthetic aperture radar satellites for Greece underlines ESA’s ongoing commitment to supporting national space initiatives from its Member States. Athens from ICEYE “And, speaking of national space initiatives, the next batch of IRIDE satellites for Italy were also launched on the same rocket. This approach also showcases ESA’s distinctive role in maximising the shared benefits of such programmes through a unified framework for Earth observation data exchange. “The inclusion of ICEYE’s X-band synthetic aperture radar capability in the Greek National Small Satellite Programme is a compelling example of how space technologies translate into tangible and vital benefits on Earth.” Greece’s Minister of Digital Governance and AI, Dimitrios Papastergiou, said, “The launch of the two ICEYE satellites marks a significant step forward for Greece’s ability to monitor and protect key areas of interest, both on land and at sea, in day and night and under any weather conditions. They will not only strengthen our disaster response capabilities but will also drive innovation within the Greek space sector.” Next year, an additional eleven operational Earth observation satellites will join the constellation under the Greek National Small Satellite Programme, further enhancing Greece’s Earth observation and space monitoring capabilities. This expansion will include four thermal-infrared satellites developed by OroraTech, designed to detect heat signatures and monitor wildfires and thermal activity, along with seven high-resolution optical satellites developed by Open Cosmos, providing detailed imagery to support environmental monitoring, agriculture and urban planning. Like Thank you for liking You have already liked this page, you can only like it once! Related Articles Story Applications
-
-#### Source 0007: radarsat-1 synthetic aperture: Topics by Science.gov
-- Source ID: 5a46b447944f
-- Turn: 1
-- Query: "Synthetic aperture radar satellites" site:gov
-- Provider: ddgs
-- Search rank: 11
+- Search rank: 5
 - Domain: www.science.gov
-- URL: https://www.science.gov/topicpages/r/radarsat-1+synthetic+aperture
-- Search snippet: Radarsat, the Canadian synthetic aperture radar satellite to be launched in September 1995, is anticipated to become the prime active imaging system for geological mapping of tropical areas and other humid areas. Radarsat will provide adequate spatial resolution, stereo capabilities and relatively ...
-- Page word count estimate: 723
-- Relevance score: 18.33
+- URL: https://www.science.gov/topicpages/q/quantum+error-correcting+codes
+- Search snippet: We present a new class of quantum error correction codes for applications inquantum memories, communication and scalable computation. These codes are constructed from a finite superposition of Fock states and can exactly correct errors that are polynomial up to a specified degree in creation ...
+- Page word count estimate: 1530
+- Relevance score: 21.33
 - Key excerpt lines:
-  - radarsat-1 synthetic aperture: Topics by Science.gov
+  - quantum error-correcting codes: Topics by Science.gov
   - Toggle navigation
   - Topics by Science.gov
   - Home
   - About Science.gov
   - Sample records for
-  - radarsat-1 synthetic aperture
+  - quantum error-correcting codes
   - «
   - 1
   - 2
   - 3
   - 4
 - Extended extract lines:
-  - radarsat-1 synthetic aperture: Topics by Science.gov Toggle navigation Topics by Science.gov Home About Science.gov Sample records for radarsat-1 synthetic aperture « 1 2 3 4 5 » Forest-cover-type separation using RADARSAT-1 synthetic aperture radar imagery Treesearch Mark D. Nelson; Kathleen T. Ward; Marvin E. Bauer 2009-01-01 RADARSAT-1 synthetic aperture radar data, speckle reduction, and texture measures provided for separation among forest types within the Twin Cities metropolitan area, MN, USA. The highest transformed divergence values for 16-bit data resulted from speckle filtering while the highest values for 8-bit data resulted from the orthorectified image, before and after... Multi-temporal RADARSAT-1 and ERS backscattering signatures of coastal wetlands in southeastern Louisiana USGS Publications Warehouse Kwoun, Oh-Ig; Lu, Z. 2009-01-01 Using multi-temporal European Remote-sensing Satellites (ERS-1/-2) and Canadian Radar Satellite (RADARSAT-1) synthetic aperture radar (SAR) data over the Louisiana coastal zone, we characterize seasonal variations of radar backscat-tering according to vegetation type. Our main findings are as follows. First, ERS-1/-2 and RADARSAT-1 require careful radiometric calibration to perform multi-temporal backscattering analysis for wetland mapping. We use SAR backscattering signals from cities for the relative calibration. Second, using seasonally averaged backscattering coefficients from ERS-1/-2 and RADARSAT-1, we can differentiate most forests (bottomland and swamp forests) and marshes (freshwater, intermediate, brackish, and saline marshes) in coastal wetlands. The student t-test results support the usefulness of season-averaged backscatter data for classification. Third, combining SAR backscattering coefficients and an optical-sensor-based normalized difference vegetation index can provide further insight into vegetation type and enhance the separation between forests and marshes. Our study demonstrates that SAR can provide necessary information to characterize coastal wetlands and monitor their changes. RADARSAT: The Antarctic Mapping Project NASA Technical Reports Server (NTRS) Jezek, Kenneth C.; Lindstrom, E. (Technical Monitor) 2002-01-01 The first Antarctic Imaging Campaign (AIC) occurred during the period September 9, 1997 through October 20, 1997. The AIC utilized the unique attributes of the Canadian RADARSAT-1 to acquire the first, high-resolution, synthetic aperture imagery covering the entire Antarctic Continent. Although the primary goal of the mission was the acquisition of image data, the nearly flawless execution of the mission enabled additional collections of exact repeat orbit data. These data, covering an extensive portion of the interior Antarctic, potentially are suitable for interferometric analysis of topography and surface velocity. This document summarizes the Project through completion with delivery of products to the NASA DAACs. Intercomparison of synthetic- and real-aperture radar observations of Arctic sea ice during winter MIZEX '87 NASA Technical Reports Server (NTRS) Schuchmann, R. A.; Onstott, R. G.; Sutherland, L. L.; Wackerman, C. C. 1988-01-01 Active microwave measurements were made of various sea ice forms in March and April 1987 during the Marginal Ice Zone Experiment, at 1, 5, 10, 18, and 35 GHz using a synthetic aperture radar (SAR) and helicopter and ship-based scatterometers. The X-band (9.8 GHz) SAR data were compared to the scatterometer data and it was determined that for 5 GHz and higher frequencies both the SAR and scatterometers can differentiate open water, new ice (5 to 30 cm), first-year ice with rubble (0.60 -1.5 m), and multiyear ice. The analysis further confirmed that the C-band (5 GHz) SAR's flying on ESA ERS-1 and Radarsat will differentiate the mentioned ice types. Interpreting sea surface slicks on the basis of the normalized radar cross-section model using RADARSAT-2 copolarization dual-channel SAR images NASA Astrophysics Data System (ADS) Ivonin, D. V.; Skrunes, S.; Brekke, C.; Ivanov, A. Yu. 2016-03-01 A simple automatic multipolarization technique for discrimination of main types of thin oil films (of thickness less than the radio wave skin depth) from natural ones is proposed. It is based on a new multipolarization parameter related to the ratio between the damping in the slick of specially normalized resonant and nonresonant signals calculated using the normalized radar cross-section model proposed by Kudryavtsev et al. (2003a). The technique is tested on RADARSAT-2 copolarization (VV/HH) synthetic aperture radar images of slicks of a priori known provenance (mineral oils, e.g., emulsion and crude oil, and plant oil served to model a natural slick) released during annual oil-on-water exercises in the North Sea in 2011 and 2012. It has been shown that the suggested multipolarization parameter gives new capabilities in interpreting slicks visible on synthetic aperture radar images while allowing discrimination between mineral oil and plant oil slicks. Geological evaluation of Radarsat data: Plans and preliminary results
+  - quantum error-correcting codes: Topics by Science.gov Toggle navigation Topics by Science.gov Home About Science.gov Sample records for quantum error-correcting codes « 1 2 3 4 5 » Learning time-dependent noise to reduce logical errors: real time error rate estimation in quantum error correction NASA Astrophysics Data System (ADS) Huo, Ming-Xia; Li, Ying 2017-12-01 Quantum error correction is important to quantum information processing, which allows us to reliably process information encoded in quantum error correction codes. Efficient quantum error correction benefits from the knowledge of error rates. We propose a protocol for monitoring error rates in real time without interrupting the quantum error correction. Any adaptation of the quantum error correction code or its implementation circuit is not required. The protocol can be directly applied to the most advanced quantum error correction techniques, e.g. surface code. A Gaussian processes algorithm is used to estimate and predict error rates based on error correction data in the past. We find that using these estimated error rates, the probability of error correction failures can be significantly reduced by a factor increasing with the code distance. Quantum Error Correction NASA Astrophysics Data System (ADS) Lidar, Daniel A.; Brun, Todd A. 2013-09-01 Prologue; Preface; Part I. Background: 1. Introduction to decoherence and noise in open quantum systems Daniel Lidar and Todd Brun; 2. Introduction to quantum error correction Dave Bacon; 3. Introduction to decoherence-free subspaces and noiseless subsystems Daniel Lidar; 4. Introduction to quantum dynamical decoupling Lorenza Viola; 5. Introduction to quantum fault tolerance Panos Aliferis; Part II. Generalized Approaches to Quantum Error Correction: 6. Operator quantum error correction David Kribs and David Poulin; 7. Entanglement-assisted quantum error-correcting codes Todd Brun and Min-Hsiu Hsieh; 8. Continuous-time quantum error correction Ognyan Oreshkov; Part III. Advanced Quantum Codes: 9. Quantum convolutional codes Mark Wilde; 10. Non-additive quantum codes Markus Grassl and Martin RÃ¶tteler; 11. Iterative quantum coding systems David Poulin; 12. Algebraic quantum coding theory Andreas Klappenecker; 13. Optimization-based quantum error correction Andrew Fletcher; Part IV. Advanced Dynamical Decoupling: 14. High order dynamical decoupling Zhen-Yu Wang and Ren-Bao Liu; 15. Combinatorial approaches to dynamical decoupling Martin RÃ¶tteler and Pawel Wocjan; Part V. Alternative Quantum Computation Approaches: 16. Holonomic quantum computation Paolo Zanardi; 17. Fault tolerance for holonomic quantum computation Ognyan Oreshkov, Todd Brun and Daniel Lidar; 18. Fault tolerant measurement-based quantum computing Debbie Leung; Part VI. Topological Methods: 19. Topological codes HÃ©ctor BombÃ­n; 20. Fault tolerant topological cluster state quantum computing Austin Fowler and Kovid Goyal; Part VII. Applications and Implementations: 21. Experimental quantum error correction Dave Bacon; 22. Experimental dynamical decoupling Lorenza Viola; 23. Architectures Jacob Taylor; 24. Error correction in quantum communication Mark Wilde; Part VIII. Critical Evaluation of Fault Tolerance: 25. Hamiltonian methods in QEC and fault tolerance Eduardo Novais, Eduardo Mucciolo and Harold Baranger; 26. Critique of fault-tolerant quantum information processing Robert Alicki; References; Index. New Class of Quantum Error-Correcting Codes for a Bosonic Mode NASA Astrophysics Data System (ADS) Michael, Marios H.; Silveri, Matti; Brierley, R. T.; Albert, Victor V.; Salmilehto, Juha; Jiang, Liang; Girvin, S. M. 2016-07-01 We construct a new class of quantum error-correcting codes for a bosonic mode, which are advantageous for applications in quantum memories, communication, and scalable computation. These "binomial quantum codes" are formed from a finite superposition of Fock states weighted with binomial coefficients. The binomial codes can exactly correct errors that are polynomial up to a specific degree in bosonic creation and annihilation operators, including amplitude damping and displacement noise as well as boson addition and dephasing errors. For realistic continuous-time dissipative evolution, the codes can perform approximate quantum error correction to any given order in the time step between error detection measurements. We present an explicit approximate quantum error recovery operation based on projective measurements and unitary operations. The binomial codes are tailored for detecting boson loss and gain errors by means of measurements of the generalized number parity. We discuss optimization of the binomial codes and demonstrate that by relaxing the parity structure, codes with even lower unrecoverable error rates can be achieved. The binomial codes are related to existing two-mode bosonic codes, but offer the advantage of requiring only a single bosonic mode to correct amplitude damping as well as the ability to correct other errors. Our codes are similar in spirit to "cat codes" based on superpositions of the coherent states but offer several advantages such as smaller mean boson number, exact rather than approximate orthonormality of the code words, and an explicit unitary operation for repumping energy into the bosonic mode. The binomial quantum codes are realizable with current superconducting circuit technology, and they should prove useful in other quantum technologies, including bosonic quantum memories, photonic quantum communication, and optical-to-microwave up- and down-conversion. New class of photonic quantum error correction codes NASA Astrophysics Data System (ADS) Silveri, Matti; Michael, Marios; Brierley, R. T.; Salmilehto, Juha; Albert, Victor V.; Jiang, Liang; Girvin, S. M. We present a new class of quantum error correction codes for applications in quantum memories, communication and scalable computation. These codes are constructed from a finite superposition of Fock states and can exactly correct errors that are polynomial up to a specified degree in creation and destruction operators. Equivalently, they can perform approximate quantum error correction to any given order in time step for the continuous-time dissipative evolution under these errors. The codes are related to two-mode photonic codes but offer the advantage of requiring only a single photon mode to correct loss (amplitude damping), as well as the ability to correct other errors, e.g. dephasing. Our codes are also similar in spirit to photonic ''cat codes'' but have several advantages including smaller mean occupation number and exact rather than approximate orthogonality of the code words. We analyze how the rate of uncorrectable errors scales with the code complexity and discuss the unitary control for the recovery process. These codes are realizable with current superconducting qubit technology and can increase the fidelity of photonic quantum communication and memories. Quantum steganography and quantum error-correction NASA Astrophysics Data System (ADS) Shaw, Bilal A. Quantum error-correcting codes have been the cornerstone of research in quantum information science (QIS) for more than a decade. Without their conception, quantum computers would be a footnote in the history of science. When researchers embraced the idea that we live in a world where the effects of a noisy environment cannot completely be stripped away from the operations of a quantum computer, the natural way forward was to think about importing classical coding theory into the quantum arena to give birth to quantum error-correcting codes which could help in mitigating the debilitating effects of decoherence on quantum data. We first talk about the six-qubit quantum error-correcting code and show its connections to entanglement-assisted error-correcting coding theory and then to subsystem codes. This code bridges the gap between the five-qubit (perfect) and Steane codes. We discuss two methods to encode one qubit into six physical qubits. Each of the two examples corrects an arbitrary single-qubit error. The first example is a degenerate six-qubit quantum error-correcting code. We explicitly provide the stabilizer generators, encoding circuits, codewords, logical Pauli operators, and logical CNOT operator for this code. We also show how to convert this code into a non-trivial subsystem code that saturates the subsystem Singleton bound. We then prove that a six-qubit code without entanglement assistance cannot simultaneously possess a Calderbank-Shor-Steane (CSS) stabilizer and correct an arbitrary single-qubit error. A corollary of this result is that the Steane seven-qubit code is the smallest single-error correcting CSS code. Our second example is the construction of a non-degenerate six-qubit CSS entanglement-assisted code. This code uses one bit of entanglement (an ebit) shared between the sender (Alice) and the receiver (Bob) and corrects an arbitrary single-qubit error. Th...
+
+#### Source 0003: Quantum Error Correction · Chair for Design Automation
+- Source ID: f2ef956a701f
+- Turn: 1
+- Query: "Quantum error correction applications and constraints" official documentation
+- Provider: ddgs
+- Search rank: 9
+- Domain: www.cda.cit.tum.de
+- URL: https://www.cda.cit.tum.de/research/quantum_qec
+- Search snippet: On this page, we summarize our work on QEC which includes both, theoretical work on state-of-the-art quantum codes and decoding algorithms, and the implementation of open-source software tools for QEC and thereby lies on the interface between theoretical groundwork and practical applications. All proposed software tools have been implemented in the open-source quantum error-correction tool QECC as part of the open-source Munich Quantum Toolkit (MQT).
+- Page word count estimate: 266
+- Relevance score: 21.00
+- Key excerpt lines:
+  - Quantum Error Correction · Chair for Design Automation
+  - Chair for Design Automation
+  - School of Computation, Information and Technology
+  - Technical University of Munich
+  - Home/News
+  - Team
+  - Research
+  - Quantum Computing
+  - Microfluidics
+  - Nanotechnology
+  - Logic Synthesis
+  - Physical Design
+- Extended extract lines:
+  - Quantum Error Correction · Chair for Design Automation Chair for Design Automation School of Computation, Information and Technology Technical University of Munich Home/News Team Research Quantum Computing Microfluidics Nanotechnology Logic Synthesis Physical Design Machine Learning Design Automation for ETCS Publications Teaching Awards Public Outreach Videos How To Find Us â Quantum Computing Quantum Error Correction In classical computing, coding theory is an essential field of research with widespread influence in both theory and practical applications, e.g., Wifi, Bluetooth, and 4G/5G. The nature of qubits and quantum operations in quantum computing is very fragile and error-prone, which leads to the fact that quantum algorithms are currently unusable in practice and quantum advantage is out of reach. Thus, Quantum Error-Correction (QEC), i.e., methods to protect quantum information from noise, is a crucial field of research towards the realization of quantum computers. Currently, it is still unclear what the best QEC protocol is, or which protocol should be used for what scenarios. There are several factors that influence the optimal choice of Quantum Error-Correcting Code (QECC) to implement, e.g., architectural constraints of physical devices, ability of logical operations, and scalability. It is therefore crucial to develop both theoretical groundwork and QEC methods that are physically more realistic and realizable. On this page, we summarize our work on QEC which includes both, theoretical work on state-of-the-art quantum codes and decoding algorithms, and the implementation of open-source software tools for QEC and thereby lies on the interface between theoretical groundwork and practical applications. All proposed software tools have been implemented in the open-source quantum error-correction tool QECC as part of the
+
+#### Source 0004: Quantum Error Correction | Applications of Quantum Mechanics
+- Source ID: 4e94aa67e29f
+- Turn: 1
+- Query: "Quantum error correction applications and constraints" site:edu
+- Provider: ddgs
+- Search rank: 2
+- Domain: quantum.lassp.cornell.edu
+- URL: https://quantum.lassp.cornell.edu/lecture/quantum_error_correction
+- Search snippet: The smallest encoding that can correct any single qbit error requires 5 physical spins for each logical bit. Generally the more spins you have, the more robust you can make the code. Working definition: A universal quantum computer can apply an arbitrary unitary operation to the input state. From the perspective of computer science this is a bit problematic. The space of unitary operators are continuous, and computer scientists prefer discrete things.
+- Page word count estimate: 376
+- Relevance score: 20.33
+- Key excerpt lines:
+  - Quantum Error Correction | Applications of Quantum Mechanics
+  - Jump to navigation
+  - Applications of Quantum Mechanics
+  - Cornell PHYS 3317 Fall 2018
+  - Quantum Error Correction
+  - Quantum Codes
+  - There is a fundamental problem with quantum computers: any possible speed-up requires quantum entanglement and superpositions. These are vulnerable to environmental noise.
+  - For example, consider a state of the form
+  - $$
+  - |\psi\rangle= \alpha|\uparrow\rangle+ \beta |\downarrow\rangle,
+  - $$
+  - where $\alpha$ and $\beta$ are arbitrary numbers. The states $|\uparrow\rangle$ and $|\downarrow\rangle$ could, for example, be spin states of a defect in silicon. A stray magnetic field in the $\hat z$ direction woul...
+- Extended extract lines:
+  - Quantum Error Correction | Applications of Quantum Mechanics Jump to navigation Applications of Quantum Mechanics Cornell PHYS 3317 Fall 2018 Quantum Error Correction Quantum Codes There is a fundamental problem with quantum computers: any possible speed-up requires quantum entanglement and superpositions. These are vulnerable to environmental noise. For example, consider a state of the form $$ |\psi\rangle= \alpha|\uparrow\rangle+ \beta |\downarrow\rangle, $$ where $\alpha$ and $\beta$ are arbitrary numbers. The states $|\uparrow\rangle$ and $|\downarrow\rangle$ could, for example, be spin states of a defect in silicon. A stray magnetic field in the $\hat z$ direction would cause this state to evolve under the Hamiltonian $$ H=\left(\begin{array}{cc}\epsilon&0\\0&-\epsilon\end{array}\right). $$ As you know from all of the homework problems, after some time $t$ the state would become $$ |\psi\rangle\to \alpha e^{-i\phi}|\uparrow\rangle+ \beta e^{i\phi} |\downarrow\rangle, $$ where $\phi=\epsilon t/\hbar$. The phase relation is messed up. Similarly, a stray field in the $\hat x$ direction would cause this state to evolve under the Hamiltonian$$ H=\left(\begin{array}{cc}0&\epsilon\\ \epsilon&0\end{array}\right). $$ The time evolution here is harder, but you have done this in your homework as well, and the result is $$ |\psi\rangle\to \left(\alpha\cos\phi-i\beta\sin\phi\right)|\uparrow\rangle +\left(\beta\cos\phi-i\alpha\sin\phi\right)|\downarrow\rangle. $$ Again, $\phi=\epsilon t$. Of course $\epsilon$ is random and varies with time. But you get the picture, the state gets messed up pretty quick. We need a strategy to protect the quantum state from the environment. There are two principles that we will apply. First, we somehow want to add redundency. Second, we want the information to be stored in a non-local manner. In classical information theory we would describe such a way of storing information as an "encoding." Thus we describe this strategy as using "quantum codes". The simplest example of a quantum code is the "3-qbit" flip code. It stores one bit of information in three spin-1/2's. The Hilbert space for these three spins is spanned by the 8 states: $\uparrow\uparrow\uparrow,\uparrow\uparrow\downarrow,\uparrow\downarrow\uparrow,\uparrow\downarrow\downarrow, \downarrow\uparrow\uparrow,\downarrow\uparrow\downarrow,\downarrow\downarrow\uparrow,\downarrow\downarrow\downarrow$. We use only two of these, $|0\rangle = |\uparrow\uparrow\uparrow\rangle$, and $|1\rangle=|\downarrow\downarrow\downarrow\rangle$, and the encoding of an arbitrary qbit is $$ |\psi\rangle= \alpha|0\rangle+\beta|1\rangle. $$ Clearly we are using three times the resources that we need to. The benefit is that we can detect and correct any "bit-flip error". In particular, imagine a cosmic ray comes and flips the first bit, $$ |\psi\rangle\to |\psi^\prime\rangle= \alpha |\downarrow\uparrow\uparrow\rangle + \beta|\uparrow\downarrow\downarrow\rangle. $$
+
+#### Source 0005: [1907.11157] Quantum Error Correction: An Introductory Guide
+- Source ID: eb879cfcd318
+- Turn: 1
+- Query: "Quantum error correction applications and constraints" official documentation
+- Provider: ddgs
+- Search rank: 8
+- Domain: ar5iv.labs.arxiv.org
+- URL: https://ar5iv.labs.arxiv.org/html/1907.11157
+- Search snippet: March 9, 2024 -Driven by the demands of high-performance communication networks and the Internet, there is a well-developed theory of classical error correction [17, 18, 19]. However, adapting existing classical methods for quantum error correction is not straightforward. Qubits are subject to the no-cloning theorem [20], meaning quantum information cannot be duplicated in the same way as classical information. Furthermore, it is not possible to perform arbitrary measurements on a qubit register due to the problem of wavefunction collapse. It was initially feared that these constraints would pose an insurmountable challenge to the viability of quantum computing.
+- Page word count estimate: 304
+- Relevance score: 20.33
+- Key excerpt lines:
+  - [1907.11157] Quantum Error Correction: An Introductory Guide
+  - Quantum Error Correction: An Introductory Guide
+  - \name
+  - Joschka Roffe
+  - CONTACT Joschka Roffe. Email: j.roffe@sheffield.ac.uk
+  - Department of Physics & Astronomy, University of Sheffield, Sheffield, S3 7RH, United Kingdom
+  - Abstract
+  - Quantum error correction protocols will play a central role in the realisation of quantum computing; the choice of error correction code will influence the full quantum computing stack, from the layout of qubits at th...
+  - keywords:
+  - Quantum computing; quantum error correction; stabilizer codes; surface codes
+  - 1
+  - Introduction
+- Extended extract lines:
+  - [1907.11157] Quantum Error Correction: An Introductory Guide Quantum Error Correction: An Introductory Guide \name Joschka Roffe CONTACT Joschka Roffe. Email: j.roffe@sheffield.ac.uk Department of Physics & Astronomy, University of Sheffield, Sheffield, S3 7RH, United Kingdom Abstract Quantum error correction protocols will play a central role in the realisation of quantum computing; the choice of error correction code will influence the full quantum computing stack, from the layout of qubits at the physical level to gate compilation strategies at the software level. As such, familiarity with quantum coding is an essential prerequisite for the understanding of current and future quantum computing architectures. In this review, we provide an introductory guide to the theory and implementation of quantum error correction codes. Where possible, fundamental concepts are described using the simplest examples of detection and correction codes, the working of which can be verified by hand. We outline the construction and operation of the surface code, the most widely pursued error correction protocol for experiment. Finally, we discuss issues that arise in the practical implementation of the surface code and other quantum error correction codes. keywords: Quantum computing; quantum error correction; stabilizer codes; surface codes 1 Introduction In place of the bits in traditional computers, quantum computers work by controlling and manipulating quantum bits (qubits). Through the precise control of quantum phenomena such as entanglement, it is in principle possible for such qubit-based devices to outperform their classical counterparts. To this end, efficient quantum computing algorithms have been developed with applications such as integer factorisation [ 1 ] , search [ 2 ] , optimisation [ 3 ] and quantum chemistry [ 4 ] . There is currently no preferred qubit technology; a variety of physical systems are being explored for use as qubits, including photons [ 5 , 6 ] , trapped ions [ 7 , 8
+
+#### Source 0006: Quantum Error Correction: The Key to Quantum Computing
+- Source ID: f3df9181dce4
+- Turn: 1
+- Query: "Quantum error correction applications and constraints" overview
+- Provider: ddgs
+- Search rank: 6
+- Domain: www.bluequbit.io
+- URL: https://www.bluequbit.io/blog/quantum-error-correction
+- Search snippet: These emulators are used to test and optimize error correction codes before deploying them on physical quantum hardware. NVIDIA focuses on allowing researchers to refine QEC algorithms efficiently, bridging the gap between theoretical models and hardware implementation. ... Intel is pioneering the application of silicon spin qubits, which use existing semiconductor manufacturing technologies for scalable quantum systems.
+- Page word count estimate: 431
+- Relevance score: 20.00
+- Key excerpt lines:
+  - Quantum Error Correction: The Key to Quantum Computing
+  - home
+  - Our Quantum Advantage challenge with $20,000 BTC award is live.
+  - More Details →
+  - Home
+  - Hackathons
+  - Platform
+  - Team
+  - Blog
+  - Research
+  - Contact Us
+  - Platform Access
+- Extended extract lines:
+  - Quantum Error Correction: The Key to Quantum Computing home Our Quantum Advantage challenge with $20,000 BTC award is live. More Details → Home Hackathons Platform Team Blog Research Contact Us Platform Access What Is Quantum Error Correction: The Key to Quantum Computing January 9, 2025 • 7 min read Hrant Gharibyan Co-founder & CEO Quantum computing is taking the tech world by storm. This field uses quantum mechanics to process information in ways far beyond the capabilities of classical computers. Unlike traditional systems that use binary bits, quantum computers use qubits, which can exist in multiple states at the same time due to superposition and entanglement. The result is breakthroughs in areas like quantum cryptography , drug discovery, and materials science. All that said, quantum computing faces major challenges that hinder its practical implementation. Qubits are highly sensitive to environmental noise, temperature fluctuations, and electromagnetic interference, leading to errors in computation. As these errors accumulate, it becomes difficult to maintain accuracy. The biggest challenge is managing and correcting these errors without disrupting the delicate quantum state—a problem unique to quantum computing. This is where quantum error correction (QEC) comes in, presenting a way to detect and fix errors while preserving quantum coherence. As the field reaches new heights, QEC remains a key area of research, with major players like Google, IBM, and Microsoft making efforts to overcome these limitations and unleash the full potential of quantum computing. What Is Quantum Error Correction? Quantum error correction , or quantum computing error correction, is a set of techniques for protecting quantum information from errors that are caused by noise and decoherence. While classical error correction deals with 1s or 0s, QEC involves qubits that exist in superpositions. This makes it a challenging yet key aspect of quantum computing. A common method of QEC is using multiple physical qubits to encode a logical qubit. Entangling these qubits helps detect and correct quantum errors without having to directly measure the qubits’ states. QEC Codes, like the Shor code, are examples of schemes that apply these techniques and can correct various types of errors. There are two classes of error correction codes: surface and stabilizer . Surface codes: refer to two-dimensional lattices of physical qubits that create logical qubits with topological protection. Errors can happen through the lattice without affecting the logical qubit’s global state. ‍ Stabilizer codes: detect errors using measurements and apply error correction to corrupted qubits using classical logic. Examples of this class include the Shor code and Steane code.\ ‍ Types of Quantum Error Correction QEC is divided into three main categories:
+
+#### Source 0007: Quantum error correction with logical qubits | EurekAlert!
+- Source ID: 3ce2218fa74f
+- Turn: 1
+- Query: "Quantum error correction applications and constraints" market analysis
+- Provider: ddgs
+- Search rank: 12
+- Domain: www.eurekalert.org
+- URL: https://www.eurekalert.org/news-releases/1113201
+- Search snippet: January 21, 2026 -In the snaQCs project, we are demonstrating the practical usability of quantum error correction and fault-tolerant quantum circuits by investigating the integration of error correction routines into quantum algorithms,” explains project coordinator Dr. Sascha Heußen from neQxt. “With an innovative approach that combines analysis, optimization, simulation and fault-tolerant implementation of quantum algorithms, snaQCs is contributing to the realization of scalable quantum computing in Germany,” emphasizes Dr.
+- Page word count estimate: 998
+- Relevance score: 20.00
+- Key excerpt lines:
+  - Quantum error correction with logical qubits | EurekAlert!
+  - Advanced Search
+  - Home
+  - News Releases
+  - Multimedia
+  - Meetings
+  - Login
+  - Register
+  - News Release
+  - 21-Jan-2026
+  - Quantum error correction with logical qubits
+  - Scalable and fault-tolerant quantum computers: BMFTR-funded project snaQCs2025 launched
+- Extended extract lines:
+  - Quantum error correction with logical qubits | EurekAlert! Advanced Search Home News Releases Multimedia Meetings Login Register News Release 21-Jan-2026 Quantum error correction with logical qubits Scalable and fault-tolerant quantum computers: BMFTR-funded project snaQCs2025 launched Grant and Award Announcement Fraunhofer Institute for Applied Solid State Physics image: Group photo of the participants at the kick-off meeting of the snaQCs2025 project on January 14, 2026, in Cologne. From left to right: Florentin Reiter (Fraunhofer IAF), Carsten Zwilling (point8), Sascha Heußen (neQxt), Florian Kruse (point8), Roman Bansen (neQxt), Nikolas Knake (VDI TZ), Jesko Merkel (point8), Tobias Nauck (Fraunhofer IAF), Edoardo Carnio and Lina Vandré (both neQxt) view more Credit: © Markus Speier Quantum computers have immense potential because they could perform highly complex calculations much faster than current supercomputers. However, the hurdle to the practical application of quantum computers is just as immense today: the error-prone nature of their hardware. Researchers around the world are therefore working on quantum error correction methods to make the calculations of quantum computers more reliable. Against this backdrop, neQxt GmbH, the Fraunhofer Institute for Applied Solid State Physics IAF and Point 8 GmbH have launched the snaQCs2025 project to jointly advance a promising approach to quantum error correction. Using innovative simulation and integration methods, software tools for analysis and optimization, and scalable and error-resistant quantum algorithms, the partners want to develop robust logical quantum bits (qubits) for quantum computing hardware. This approach aims to compensate for the error susceptibility of physical qubits, bringing quantum computing a big step closer to practical use. On January 14, 2026, representatives of the three consortium partners met in Cologne for the project kick-off. The German Federal Ministry of Research, Technology and Space (BMFTR) is supporting the project with €2.5 million over three years as part of the funding program on application-oriented quantum informatics. Making quantum computers more practical “Quantum error correction is a promising approach to significantly reducing the error susceptibility of quantum computers and making the technology more practical. In the snaQCs project, we are demonstrating the practical usability of quantum error correction and fault-tolerant quantum circuits by investigating the integration of error correction routines into quantum algorithms,” explains project coordinator Dr. Sascha Heußen from neQxt. “With an innovative approach that combines analysis, optimization, simulation and fault-tolerant implementation of quantum algorithms, snaQCs is contributing to the realization of scalable quantum computing in Germany,” emphasizes Dr. Florentin Reiter, Head of Business Unit Quantum Systems and snaQCs subproject leader at Fraunhofer IAF. “Quantum computing is one of the most promising topics for the future worldwide. We are very happy to support both progress in this area and Germany as a center of science by contributing our expertise and experience in physics, data analysis and software development to the snaQCs project,” explains Dr. Jesko Merkel, co-founder of point8 and snaQCs subproject leader. Logical qubits outperform physical qubits The most important component of a quantum computer is the qubit. As the central information unit, it performs the same function as the bit in a conventional computer. Companies and scientific institutions around the world are working on various approaches to generating qubits: atoms in electromagnetic traps, electrons in quantum dots, superconducting circuits, or nuclear spins in solids and molecules. Unlike a bit, a qubit can assume several states (such as 0 and 1) simultaneously (superposition). Quantum entanglement also connects several qubits regardless of their distance from each other. What all approaches to realizing these physical qubits have in common is their extreme sensitivity to external influences. Even the weakest microwave pulses, magnetic fields or temperature fluctuations can disrupt the superposition and entanglement of qubits and contaminate the calculations of a quantum computer. The use of quantum error correction can compensate for this: By combining several physical qubits, logical qubits are created in which the errors of individual qubits are compensated for in the network. This is crucial for the scalability of quantum computers: while the susceptibility to errors increases with a rising number of physical qubits, it decreases through their connection to logical qubits. Complete development pipeline for logical qubits, quantum algorithms and analysis software The snaQCs project aims to help unlock the benefits of logical qubits for users and promote the real-world use of quantum computers. To this end, the project partners are working at various levels on the development of particularly reliable logical qubits, optimized, application-oriented quantum algorithms and innovative software for data analysis and characterization. The goal is to provide a complete development pipeline, ranging from the simulation, realization and integration of logical qubits in real quantum computers to the optimization and new development of application-specific and scalable algorithms, as well as data-supported validation and iterative improvement of the methods. The development and experimental implementation of the logical qubits is carried out on ion trap-based quantum computing hardware. Overview: Contributions of the project partners The company neQxt coordinates the joint project and is responsible for the simulation and further development of various quantum error correction methods as well as for the implementation of the developed logical qubits in existing quantum computing hardware. The work at Fraunhofer IAF aims to identify and optimize quantum algorithms and develop new algorithms that are specifically tailored to quantum error correction codes and enable efficient application by industry. The focus is particularly on the scalability of the algorithms. As part of snaQCs, the software company point8 is developing innovative tools for more precise analysis and optimization of quantum error correction circuits. In addition, point8 provides ongoing support to the project partners in experimental data analysis and characterization. About neQxt neQxt GmbH is a full-stack quantum computing company covering the entire spectrum from hardware manufacturing to software development. neQxt is a spin-off of Johannes Gutenberg University Mainz that emerged from the Schmidt-Kaler research group. This allows the company to draw on decades of experience in the field of ion trap quantum computers. neQxt's product portfolio includes quantum computing simulators, portable quantum computer systems, cloud access to quantum computers, and enabling technologies. https://www.neqxt.org/ About Fraunhofer IAF
+
+#### Source 0008: Error Correction in Quantum Networks
+- Source ID: 909b113ef8dc
+- Turn: 1
+- Query: "Quantum error correction applications and constraints" overview
+- Provider: ddgs
+- Search rank: 9
+- Domain: www.aliroquantum.com
+- URL: https://www.aliroquantum.com/blog/an-overview-of-quantan-overview-of-quantum-error-correction-in-entanglement-based-networksum-error-correction-in-entanglement-based-networks
+- Search snippet: The quantum processes involved in entanglement generation and distribution are fundamentally stochastic and this constrains the potential performance, necessitating retries and delays within the protocols that result in decoherence and exposure of qubits to environmental noise. Delays can quickly render a qubit(s) unusable by the network as the fidelity (a measure of qubit quality) decays exponentially with time. These errors can be corrected with Local QEC.
+- Page word count estimate: 404
+- Relevance score: 19.00
+- Key excerpt lines:
+  - Error Correction in Quantum Networks
+  - Products
+  - PRODUCTS OVERVIEW
+  - Aliro Orchestrator
+  - AliroNet® Quickstart
+  - AliroNet®
+  - Aliro Simulator
+  - Use Cases
+  - Resources
+  - Solution Briefs
+  - Webinars
+  - Blog
+- Extended extract lines:
+  - Error Correction in Quantum Networks Products PRODUCTS OVERVIEW Aliro Orchestrator AliroNet® Quickstart AliroNet® Aliro Simulator Use Cases Resources Solution Briefs Webinars Blog Research & Patents FAQ Videos Podcast About Us Company News Events Awards Strategic Partners Become a Partner Careers Contact Us Quantum Education Menu Error Correction in Quantum Networks Keith Kenemer January 09 Twitter Facebook LinkedIn A method of localized, scheduled quantum error correction (Local QEC) developed by researchers at Aliro makes it possible to correct certain errors in an entanglement-based quantum network. In this article, we’ll explain the basics of quantum error correction, and how QEC can be leveraged in an entanglement-based network for more robust connections. Quantum systems provide novel capabilities and at the same time they also impose restrictions on our ability to leverage these new capabilities. For example, the no-cloning theorem in quantum mechanics states that an arbitrary unknown quantum state can not be copied with high fidelity. This restricts how quantum data can be transmitted. On the other hand, it also prevents adversaries from intercepting quantum communications undetected. Entanglement is another uniquely quantum phenomenon which is exploited in quantum networking to support secure communication (via teleportation). The quantum processes involved in entanglement generation and distribution are fundamentally stochastic and this constrains the potential performance, necessitating retries and delays within the protocols that result in decoherence and exposure of qubits to environmental noise. Delays can quickly render a qubit(s) unusable by the network as the fidelity (a measure of qubit quality) decays exponentially with time. These errors can be corrected with Local QEC. Entanglement-based error correction basics: notation Dirac notation is used to represent quantum states in the state vector formalism. The main takeaway here is that although this notation may be unfamiliar, what it's really conveying is qubit states as vectors and linear algebra is used to create linear combinations of vectors, to compute inner products, to multiply matrices by vectors, to compute the evolution of the state. The physics is abstracted to linear algebra in all these instances. There's another, more general state formalism that can be used called the density state formalism. In this case, the states are represented by matrices. Linear algebra is still the root of the mathematics, but the density state formalism is more general, and allows for calculations regarding subsystems of composite systems or noise, or how noise affects the system. It’s much easier to compute these quantities in density state formalism.
+
+#### Source 0009: Credit Union and Corporate Call Report Data | NCUA
+- Source ID: b8229892675d
+- Turn: 1
+- Query: "Quantum error correction applications and constraints" benchmark data
+- Provider: ddgs
+- Search rank: 4
+- Domain: ncua.gov
+- URL: https://ncua.gov/analysis/credit-union-corporate-call-report-data
+- Search snippet: Mar 24, 2026 ·FinancialPerformanceReports provide a financial summary for a credit union, including assets, liabilities and capital, and income and expenses. Recently Updated Call Reports Provides Call Report filings that have been updated in the last 90 days. Users can search for a particular credit union or a group of credit unions using this utility.
+- Page word count estimate: 220
+- Relevance score: 18.67
+- Key excerpt lines:
+  - Credit Union and Corporate Call Report Data | NCUA
+  - Skip to main content
+  - An official website of the United States government
+  - Here’s how you know
+  - Help With My Credit Union
+  - Español
+  - Contact Us
+  - About
+  - About
+  - Created by the U.S. Congress in 1970, the National Credit Union Administration is an independent federal agency that insures deposits at federally insured credit unions, protects the members who own credit unions, and...
+  - Mission & Values
+  - Leadership
+- Extended extract lines:
+  - Credit Union and Corporate Call Report Data | NCUA Skip to main content An official website of the United States government Here’s how you know Help With My Credit Union Español Contact Us About About Created by the U.S. Congress in 1970, the National Credit Union Administration is an independent federal agency that insures deposits at federally insured credit unions, protects the members who own credit unions, and charters and regulates federal credit unions. Mission & Values Leadership Reports to Congress NCUA Board Speaker Request Form Staff Speaker Request Form Historical Timeline Workplace Resolutions Careers Business Opportunities Open Government Inspector General Budget & Performance AskNCUA Regulation & Supervision Regulation & Supervision The NCUA protects the safety and soundness of the credit union system by identifying, monitoring and reducing risks to the National Credit Union Share Insurance Fund. Backed by the full faith and credit of the United States, the Share Insurance Fund provides up to $250,000 of federal share insurance to millions of account holders in all federal credit unions and the overwhelming majority of state-chartered credit unions. Letters to Credit Unions & Other Guidance Examination Program Rulemakings & Proposals for Comment Legal Opinions Rules & Regulations Regulatory & Compliance Resources Supervisory Review Committee Board Appeals Corporate Credit Unions Regulatory Reporting Manuals & Guides Examination Modernization Initiatives CUSO Activities Analysis
+
+#### Source 0010: error correction mechanism: Topics by Science.gov
+- Source ID: bb46a810acd2
+- Turn: 1
+- Query: "Quantum error correction applications and constraints" site:gov
+- Provider: ddgs
+- Search rank: 12
+- Domain: www.science.gov
+- URL: https://www.science.gov/topicpages/e/error+correction+mechanism
+- Search snippet: We show how entanglement shared between encoder and decoder can simplify the theory of quantum error correction. The entanglement-assisted quantum codes we describe do not require the dual-containing constraint necessary for standard quantum error-correcting codes, thus allowing us to "quantize" all of classical linear coding theory.
+- Page word count estimate: 802
+- Relevance score: 18.00
+- Key excerpt lines:
+  - error correction mechanism: Topics by Science.gov
+  - Toggle navigation
+  - Topics by Science.gov
+  - Home
+  - About Science.gov
+  - Sample records for
+  - error correction mechanism
+  - «
+  - 1
+  - 2
+  - 3
+  - 4
+- Extended extract lines:
+  - error correction mechanism: Topics by Science.gov Toggle navigation Topics by Science.gov Home About Science.gov Sample records for error correction mechanism « 1 2 3 4 5 » Reed-Solomon error-correction as a software patch mechanism. DOE Office of Scientific and Technical Information (OSTI.GOV) Pendley, Kevin D. This report explores how error-correction data generated by a Reed-Solomon code may be used as a mechanism to apply changes to an existing installed codebase. Using the Reed-Solomon code to generate error-correction data for a changed or updated codebase will allow the error-correction data to be applied to an existing codebase to both validate and introduce changes or updates from some upstream source to the existing installed codebase. Errata report on Herbert Goldstein's Classical Mechanics: Second edition DOE Office of Scientific and Technical Information (OSTI.GOV) Unseren, M.A.; Hoffman, F.M. This report describes errors in Herbert Goldstein's textbook Classical Mechanics, Second Edition (Copyright 1980, ISBN 0-201-02918-9). Some of the errors in current printings of the text were corrected in the second printing; however, after communicating with Addison Wesley, the publisher for Classical Mechanics, it was discovered that the corrected galley proofs had been lost by the printer and that no one had complained of any errors in the eleven years since the second printing. The errata sheet corrects errors from all printings of the second edition. Subthreshold muscle twitches dissociate oscillatory neural signatures of conflicts from errors. PubMed Cohen, Michael X; van Gaal, Simon 2014-02-01 We investigated the neural systems underlying conflict detection and error monitoring during rapid online error correction/monitoring mechanisms. We combined data from four separate cognitive tasks and 64 subjects in which EEG and EMG (muscle activity from the thumb used to respond) were recorded. In typical neuroscience experiments, behavioral responses are classified as "error" or "correct"; however, closer inspection of our data revealed that correct responses were often accompanied by "partial errors" - a muscle twitch of the incorrect hand ("mixed correct trials," ~13% of the trials). We found that these muscle twitches dissociated conflicts from errors in time-frequency domain analyses of EEG data. In particular, both mixed-correct trials and full error trials were associated with enhanced theta-band power (4-9Hz) compared to correct trials. However, full errors were additionally associated with power and frontal-parietal synchrony in the delta band. Single-trial robust multiple regression analyses revealed a significant modulation of theta power as a function of partial error correction time, thus linking trial-to-trial fluctuations in power to conflict. Furthermore, single-trial correlation analyses revealed a qualitative dissociation between conflict and error processing, such that mixed correct trials were associated with positive theta-RT correlations whereas full error trials were associated with negative delta-RT correlations. These findings shed new light on the local and global network mechanisms of conflict monitoring and error detection, and their relationship to online action adjustment. Â© 2013. Supporting Dictation Speech Recognition Error Correction: The Impact of External Information ERIC Educational Resources Information Center Shi, Yongmei; Zhou, Lina 2011-01-01 Although speech recognition technology has made remarkable progress, its wide adoption is still restricted by notable effort made and frustration experienced by users while correcting speech recognition errors. One of the promising ways to improve error correction is by providing user support. Although support mechanisms have been proposed forâ¦ Alteration of a motor learning rule under mirror-reversal transformation does not depend on the amplitude of visual error. PubMed Kasuga, Shoko; Kurata, Makiko; Liu, Meigen; Ushiba, Junichi 2015-05-01 Human's sophisticated motor learning system paradoxically interferes with motor performance when visual information is mirror-reversed (MR), because normal movement error correction further aggravates the error. This error-increasing mechanism makes performing even a simple reaching task difficult, but is overcome by alterations in the error correction rule during the trials. To isolate factors that trigger learners to change the error correction rule, we manipulated the gain of visual angular errors when participants made arm-reaching movements with mirror-reversed visual feedback, and compared the rule alteration timing between groups with normal or reduced gain. Trial-by-trial changes in the visual angular error was tracked to explain the timing of the change in the error correction rule. Under both gain conditions, visual angular errors increased under the MR transformation, and suddenly decreased after 3-5 trials with increase. The increase became degressive at different amplitude between the two groups, nearly proportional to the visual gain. The findings suggest that the alteration of the error-correction rule is not dependent on the amplitude of visual angular errors, and possibly determined by the number of trials over which the errors increased or statistical property of the environment. The current results encourage future intensive studies focusing on the exact rule-change mechanism. Copyright Â© 2014 Elsevier Ireland Ltd and the Japan Neuroscience Society. All rights reserved. A Case for Soft Error Detection and Correction in Computational Chemistry. PubMed van Dam, Hubertus J J; Vishnu, Abhinav; de Jong, Wibe A
+
+#### Source 0011: A clever quantum trick brings practical quantum computers closer | ScienceDaily
+- Source ID: 8f1ba11be8d6
+- Turn: 1
+- Query: "Quantum error correction applications and constraints" overview
+- Provider: ddgs
+- Search rank: 20
+- Domain: www.sciencedaily.com
+- URL: https://www.sciencedaily.com/releases/2026/02/260206012208.htm
+- Search snippet: March 3, 2026 -Errors can occur during the operation itself, and those errors must also be corrected. "Performing a logical operation in this fault-tolerant way would be relatively easy if we could move our qubits around and connect them arbitrarily to each other," says Kerschbaum. In superconducting quantum processors, however, qubits are fixed in place. Only neighboring qubits can interact, which limits how operations can be carried out. ... To work within those constraints, the team turned to a method known as lattice surgery.
+- Page word count estimate: 469
+- Relevance score: 17.33
+- Key excerpt lines:
+  - A clever quantum trick brings practical quantum computers closer | ScienceDaily
+  - Skip to main content
+  - Your source for the latest research news
+  - Follow:
+  - Facebook
+  - X/Twitter
+  - Subscribe:
+  - RSS Feeds
+  - Newsletter
+  - New!
+  - Sign up for our free
+  - email newsletter
+- Extended extract lines:
+  - A clever quantum trick brings practical quantum computers closer | ScienceDaily Skip to main content Your source for the latest research news Follow: Facebook X/Twitter Subscribe: RSS Feeds Newsletter New! Sign up for our free email newsletter . Science News from research organizations A clever quantum trick brings practical quantum computers closer Date: February 6, 2026 Source: ETH Zurich Summary: Quantum computers struggle because their qubits are incredibly easy to disrupt, especially during calculations. A new experiment shows how to perform quantum operations while continuously fixing errors, rather than pausing protection to compute. The team used a method called lattice surgery to split a protected qubit into two entangled ones without losing control. This breakthrough moves quantum machines closer to scaling up into something truly powerful. Share: Facebook Twitter Pinterest LinkedIN Email FULL STORY Quantum computers can protect fragile qubits while storing information, but doing calculations without introducing errors has been a major challenge. Researchers have now shown that âlattice surgeryâ can safely manipulate qubits mid-operation, bringing practical quantum computing a step closer. Credit: Shutterstock Quantum computers have the potential to transform fields ranging from materials science to cryptography, but today they remain extremely difficult to build and operate. One of the biggest challenges comes from decoherence, a process that introduces errors into quantum systems. These errors usually take the form of bit flips or phase flips. A bit flip occurs when a qubit unexpectedly switches between '0' and '1'. A phase flip happens when the phase of a quantum superposition suddenly reverses, changing from positive to negative. Because these changes can happen at random, even a single error can disrupt a calculation. Preventing that disruption is one of the central problems facing quantum engineers. Protecting Information With Logical Qubits To reduce these errors, researchers combine many physical qubits into a single logical qubit and apply continuous error correction. This strategy helps preserve quantum information over time, making storage relatively stable. But storing information is only part of the task. To run a quantum algorithm, qubits must be actively manipulated using quantum gates, which are the basic operations that power quantum computation. Applying those operations without introducing new errors has proven far more difficult than simply keeping qubits stable at rest. A New Way to Compute While Fixing Errors A team led by D-PHYS Professor Andreas Wallraff has now demonstrated a method that tackles this problem directly. Working with researchers from the Paul Scherrer Institute (PSI) and theorists led by Professor Markus Müller at RWTH Aachen University and Forschungszentrum Jülich, the group showed how to perform quantum operations between superconducting logical qubits while correcting errors at the same time. Their findings were recently published in Nature Physics . The work marks an important advance toward fault tolerant quantum computing, where calculations can proceed without being derailed by constant errors.
+
+#### Source 0012: Quantinuum with partners Princeton and NIST deliver seminal result in quantum error correction
+- Source ID: 6da984acece5
+- Turn: 1
+- Query: "Quantum error correction applications and constraints" academic review
+- Provider: ddgs
+- Search rank: 17
+- Domain: www.quantinuum.com
+- URL: https://www.quantinuum.com/blog/quantinuum-with-partners-princeton-and-nist-deliver-seminal-result-in-quantum-error-correction
+- Search snippet: In this latest paper, we showed thatby using “concatenated codes” noise can be exponentially suppressed — proving that quantum computing will scale. Quantum computing is already producing results, but high-profile applications like Shor’s ...
+- Page word count estimate: 205
+- Relevance score: 16.33
+- Key excerpt lines:
+  - Quantinuum with partners Princeton and NIST deliver seminal result in quantum error correction
+  - Products & Solutions
+  - Quantum Computers
+  - Quantinuum Systems
+  - Discover the world’s highest performing quantum computers
+  - System Model H1
+  - Our first-generation quantum computer with a linear architecture
+  - System Model H2
+  - Our second-generation quantum computer with a racetrack architecture
+  - Helios
+  - Our Hardware-as-a-Service provides access on-premise, in the cloud, or both
+  - Hardware Roadmap
+- Extended extract lines:
+  - Quantinuum with partners Princeton and NIST deliver seminal result in quantum error correction Products & Solutions Quantum Computers Quantinuum Systems Discover the world’s highest performing quantum computers System Model H1 Our first-generation quantum computer with a linear architecture System Model H2 Our second-generation quantum computer with a racetrack architecture Helios Our Hardware-as-a-Service provides access on-premise, in the cloud, or both Hardware Roadmap Explore our accelerated roadmap aimed at advancing commercial quantum computing SOlutions Quantum Origin Our advanced quantum random number generator (QRNG), designed to strengthen encryption and protect data InQuanto Accelerate quantum computational chemistry for complex molecular & materials simulations Nexus All-in-one quantum computing platform for accessing and managing the highest performance full-stack Cloud Access Explore using our world-leading quantum hardware for commercial applications Developer Tools TKET Develop and execute gate-level quantum computation Guppy Program the next generation of quantum computers with our purpose-built language hosted in Python Lambeq Experiment with the structural relationships between quantum theory and natural languages Research Research Areas Discover the vast landscape of our scientific expertise Technical Blog Get educated on the world of quantum computing Publications Explore research and journal publications from our scientific teams Company About Quantinuum Learn more about the world’s largest integrated quantum computing company Careers
+
+#### Source 0013: Master Quantum Error Correction: An Essential Guide to QEC | SpinQ
+- Source ID: 53245145d744
+- Turn: 1
+- Query: "Quantum error correction applications and constraints" official documentation
+- Provider: ddgs
+- Search rank: 17
+- Domain: www.spinquanta.com
+- URL: https://www.spinquanta.com/news-detail/master-quantum-error-correction-an-essential-guide-to-qec20250212053845
+- Search snippet: The primary goal of QEC is to enable fault-tolerant quantum computing. This means ensuring that quantum computers can still perform correct calculations even when errors occur during computations, making them more practical for real-world applications.
+- Page word count estimate: 282
+- Relevance score: 16.33
+- Key excerpt lines:
+  - Master Quantum Error Correction: An Essential Guide to QEC | SpinQ
+  - Products & Services
+  - Superconducting Quantum Products & Services
+  - NMR Quantum Products & Services
+  - Quantum Computing Cloud Platform & Software
+  - Solutions
+  - Quantum Education Solution
+  - Fintech-based Solution
+  - Biomedical-based Solution
+  - AI-based Solution
+  - News
+  - About Us
+- Extended extract lines:
+  - Master Quantum Error Correction: An Essential Guide to QEC | SpinQ Products & Services Superconducting Quantum Products & Services NMR Quantum Products & Services Quantum Computing Cloud Platform & Software Solutions Quantum Education Solution Fintech-based Solution Biomedical-based Solution AI-based Solution News About Us SpinQ Cloud Contact Us 中文 | En | Es Home > Newsroom > Master Quantum Error Correction: An Essential Guide to QEC Master Quantum Error Correction: An Essential Guide to QEC 2025.02.12 · Blog quantum advantage quantum ready quantum supremacy Quantum computers represent a revolutionary leap in solving complex problems that classical computers struggle with, from optimizing logistics to simulating molecular interactions. However, unlike classical bits, quantum bits (qubits) are highly sensitive to their surroundings. They are prone to errors caused by environmental noise, thermal fluctuations, and imprecise operations, which can significantly degrade quantum computing accuracy. Quantum error correction (QEC) emerges as an indispensable technology to address this critical challenge. QEC provides a systematic way to detect and correct errors, ensuring the reliability of quantum computing. What is Quantum Error Correction? Quantum Error Correction (QEC) is a foundational concept in quantum computing, addressing the critical challenge of maintaining accurate quantum information despite the inherent fragility of qubits. Unlike classical error correction, QEC must deal with both bit flips (e.g., flipping between |0⟩ and |1⟩) and phase flips (affecting the relative phase of quantum states), as well as decoherence, which causes qubits to lose their quantum properties over time. Key Principles of Quantum Error Correction: 1. Logical vs. Physical Qubits: Logical qubits represent the actual quantum information, while physical qubits are used redundantly to protect logical qubits from errors. For example, several physical qubits may encode a single logical qubit.
+
+#### Source 0014: Home | Boulder School for Condensed Matter and Materials Physics | University of Colorado Boulder
+- Source ID: 05af1e21abe3
+- Turn: 1
+- Query: "Quantum error correction applications and constraints" site:edu
+- Provider: ddgs
+- Search rank: 16
+- Domain: www.colorado.edu
+- URL: https://www.colorado.edu/conference/bss
+- Search snippet: observables (check operators; here, 𝑍𝑍𝐼 and 𝐼𝑍𝑍 with 𝑍= 𝜎𝑧) and apply recovery 𝑈 · conditional on parity-check eigenvalue (error syndrome). This is one round of correction:
+- Page word count estimate: 259
+- Relevance score: 15.67
+- Key excerpt lines:
+  - Home | Boulder School for Condensed Matter and Materials Physics | University of Colorado Boulder
+  - Skip to main content
+  - Translate
+  - English
+  - Spanish
+  - Chinese
+  - French
+  - German
+  - Korean
+  - Lao
+  - Nepali
+  - Japanese
+- Extended extract lines:
+  - Home | Boulder School for Condensed Matter and Materials Physics | University of Colorado Boulder Skip to main content Translate English Spanish Chinese French German Korean Lao Nepali Japanese Tibetan Search Enter the terms you wish to search for. Other ways to search: Events Calendar Campus Map Boulder School for Condensed Matter and Materials Physics College of Arts and Sciences Home BSS2026 Boulder Information Miscellaneous Financial Sustainability Previous Years Home The Boulder School in Condensed Matter and Materials Physics provides education for advanced graduate students and postdoctoral fellows working in condensed matter physics, materials science and related fields. The goal is to enable students to work at the frontiers of science and technology by providing expert training not easily available within the traditional system of graduate education and postdoctoral apprenticeship. The School, which is supported by the National Science Foundation and the University of Colorado, will meet annually during July in Boulder Colorado. Director: Leo Radzihovsky (CU Boulder) 2026 School Geometry and Topology in Soft Matter Physics The Electronic Application for BSS2026 is now closed. All students are strongly urged to plan on staying for the duration of the School. Partial attendance is strongly discouraged . Small exceptions can be made is special cases but must be cleared with the organizers right away; a simple email request, explaining the situation is sufficient. Attendance for less than 3 weeks is not permitted as the spot can be more efficiently utilized by another student attending the entire school ( contact organizers ). There will be no travel support for shorter attendance.
+
+#### Source 0015: Licensing & Regulations | Health & Senior Services
+- Source ID: 884fed950fae
+- Turn: 1
+- Query: "Quantum error correction applications and constraints" safety regulation
+- Provider: ddgs
+- Search rank: 5
+- Domain: health.mo.gov
+- URL: https://health.mo.gov/safety
+- Search snippet: Look here for information about hospital treatment andsafetyissues andregulationsthe prescription of controlled substances. Read more... Emergency Medical Services The department regulates ambulance services, emergency medical response agencies and trauma centers, all of which provide treatment to people needing immediate care.
+- Page word count estimate: 205
+- Relevance score: 15.33
+- Key excerpt lines:
+  - Licensing & Regulations | Health & Senior Services
+  - Missouri Department of Health & Senior Services
+  - Quick Navigation
+  - Skip to Main Content
+  - MO.gov
+  - Governor Kehoe
+  - Find an Agency
+  - Online Services
+  - Search
+  - Search
+  - Search
+  - Mobile Menu Button
+- Extended extract lines:
+  - Licensing & Regulations | Health & Senior Services Missouri Department of Health & Senior Services Quick Navigation Skip to Main Content MO.gov Governor Kehoe Find an Agency Online Services Search Search Search Mobile Menu Button Toolbar Links Email us Flickr Watch Videos on Youtube Follow us on Twitter Follow us on Instagram Like us on Facebook Home Healthy Living Senior & Disability Services Licensing & Regulations Disaster & Emergency Planning Data & Statistics Licensing & Regulations × Survey We want to hear about health in your Missouri community! This survey will take less than 10 minutes, and we would appreciate your feedback. Click the survey link here: https://redcapdcphlinux.azurewebsites.net/redcap/surveys/?s=EJK47NCLE879M9XD Close Nursing Homes and Other Long-Term Care Long-term care facilities provide different levels of care depending upon a person’s needs. The department inspects each home at least annually to ensure residents are receiving the proper care. Inspectors also investigate complaints. Look here for information about long-term care options, employment and regulation. Read more... Ambulatory Surgery Centers The department regulates non-long term care facilities and services, and has regulatory responsibility over ambulatory surgery centers that provide surgical services outside of a hospital environment. X-ray services (Ionizing radiation facilities) The department regulates the usage of ionizing radiation machines (
+
+#### Source 0016: Making fault-tolerance a reality: Introducing our QEC decoder toolkit
+- Source ID: 8d84b3f368d2
+- Turn: 1
+- Query: "Quantum error correction applications and constraints" official documentation
+- Provider: ddgs
+- Search rank: 20
+- Domain: www.quantinuum.com
+- URL: https://www.quantinuum.com/blog/making-fault-tolerance-a-reality-introducing-our-qec-decoder-toolkit
+- Search snippet: November 14, 2024 -Our release of the QEC decoder toolkit marks a maturing from just running quantum circuits to running full quantum algorithms, interacting in depth with classical resources in real-time so that each platform (quantum, classical) can be focused where it performs best. QEC decoding is one of the most exciting – and necessary – applications of hybrid computing capacity. Before now, error correction needed to be done with lookup tables: a list specifying the correction for each syndrome.
+- Page word count estimate: 201
+- Relevance score: 15.33
+- Key excerpt lines:
+  - Making fault-tolerance a reality: Introducing our QEC decoder toolkit
+  - Products & Solutions
+  - Quantum Computers
+  - Quantinuum Systems
+  - Discover the world’s highest performing quantum computers
+  - System Model H1
+  - Our first-generation quantum computer with a linear architecture
+  - System Model H2
+  - Our second-generation quantum computer with a racetrack architecture
+  - Helios
+  - Our Hardware-as-a-Service provides access on-premise, in the cloud, or both
+  - Hardware Roadmap
+- Extended extract lines:
+  - Making fault-tolerance a reality: Introducing our QEC decoder toolkit Products & Solutions Quantum Computers Quantinuum Systems Discover the world’s highest performing quantum computers System Model H1 Our first-generation quantum computer with a linear architecture System Model H2 Our second-generation quantum computer with a racetrack architecture Helios Our Hardware-as-a-Service provides access on-premise, in the cloud, or both Hardware Roadmap Explore our accelerated roadmap aimed at advancing commercial quantum computing SOlutions Quantum Origin Our advanced quantum random number generator (QRNG), designed to strengthen encryption and protect data InQuanto Accelerate quantum computational chemistry for complex molecular & materials simulations Nexus All-in-one quantum computing platform for accessing and managing the highest performance full-stack Cloud Access Explore using our world-leading quantum hardware for commercial applications Developer Tools TKET Develop and execute gate-level quantum computation Guppy Program the next generation of quantum computers with our purpose-built language hosted in Python Lambeq Experiment with the structural relationships between quantum theory and natural languages Research Research Areas Discover the vast landscape of our scientific expertise Technical Blog Get educated on the world of quantum computing Publications Explore research and journal publications from our scientific teams Company About Quantinuum Learn more about the world’s largest integrated quantum computing company Careers
+
+#### Source 0017: Quantum error-correcting code (QECC) | Error Correction Zoo
+- Source ID: bf72622ae55c
+- Turn: 1
+- Query: "Quantum error correction applications and constraints" overview
+- Provider: ddgs
+- Search rank: 19
+- Domain: errorcorrectionzoo.org
+- URL: https://errorcorrectionzoo.org/c/qecc
+- Search snippet: Encodes quantum information in a (logical) subspace of a (physical) Hilbert space such that it is possible to recover said information from errors that act as linear maps on the physical space.
+- Page word count estimate: 261
+- Relevance score: 13.67
+- Key excerpt lines:
+  - Quantum error-correcting code (QECC) | Error Correction Zoo
+  - [Jump to code hierarchy]
+  - Quantum error-correcting code (QECC)
+  - Description
+  - Encodes quantum information in a (
+  - logical
+  - ) subspace of a (
+  - physical
+  - ) Hilbert space such that it is possible to recover said information from errors that act as linear maps on the physical space. The state space of a QECC is contained in the space of complex
+  - \(L^2\)
+  - -normalizable functions of some configuration space, which usually corresponds to the alphabet of a classical code.
+  - Since quantum information is encoded in quantum superpositions, an additional source of noise (not relevant to classical encodings) can affect the relative phase of such superpositions. Quantum error-correcting codes...
+- Extended extract lines:
+  - Quantum error-correcting code (QECC) | Error Correction Zoo [Jump to code hierarchy] Quantum error-correcting code (QECC) Description Encodes quantum information in a ( logical ) subspace of a ( physical ) Hilbert space such that it is possible to recover said information from errors that act as linear maps on the physical space. The state space of a QECC is contained in the space of complex \(L^2\) -normalizable functions of some configuration space, which usually corresponds to the alphabet of a classical code. Since quantum information is encoded in quantum superpositions, an additional source of noise (not relevant to classical encodings) can affect the relative phase of such superpositions. Quantum error-correcting codes have to protect against such phase-flip noise while also protecting against conventional classical bit-flip noise. The better a code is at protecting against phase-flip noise, the worse it is at protecting against bit-flip noise, and vice versa, so there is a tradeoff between the two types of noise. The logical subspace is spanned by a basis comprised of code basis states or codewords . Codewords may not be normalizable if the physical Hilbert space is infinite-dimensional, so approximate versions have to be constructed in practice. While all considered QECC states are complex functions, real or quaternionic function spaces can also be considered for QEC [ 1 , 2 ] . Protection Denoting Hilbert spaces by the letter \(\mathsf{H}\) , a quantum code \((U,\cal{E})\) is a partial isometry \(U:\mathsf{H}_{\text{logical}}\to\mathsf{H}_{\text{physical}}\) with a set of correctable errors \(\cal{E}\) with the following property: there exists a quantum operation \(\cal{D}\) such that for all
 
 ## Turn 2
 
@@ -296,111 +566,83 @@ high-level map and authoritative definitions
 recent evidence, performance, and industrial reality
 
 ### Queries
-- "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" overview?
-- "Synthetic aperture radar satellites" official documentation
-- "Synthetic aperture radar satellites" academic review
-- "Synthetic aperture radar satellites" site:gov
-- "Synthetic aperture radar satellites" site:edu
-- "Synthetic aperture radar satellites" market analysis
-- "Synthetic aperture radar satellites" limitations criticism
-- "Synthetic aperture radar satellites" timeline history
-- "Synthetic aperture radar satellites" safety regulation
-- "Synthetic aperture radar satellites" benchmark data
+- "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview?
+- "Quantum error correction applications and constraints" official documentation
+- "Quantum error correction applications and constraints" academic review
+- "Quantum error correction applications and constraints" site:gov
+- "Quantum error correction applications and constraints" site:edu
+- "Quantum error correction applications and constraints" market analysis
+- "Quantum error correction applications and constraints" limitations criticism
+- "Quantum error correction applications and constraints" timeline history
+- "Quantum error correction applications and constraints" safety regulation
+- "Quantum error correction applications and constraints" benchmark data
 
 ### Turn Findings
-- Top Career Content from LinkedIn Members: Top Career Content from LinkedIn Members
-- Synthetic-Aperture Radar (SAR), Earth Observation, and Mapping - Geography Realm: Synthetic-Aperture Radar (SAR), Earth Observation, and Mapping - Geography Realm
-- Another Commercial Imaging Group [Long March 2C Y55]: Another Commercial Imaging Group [Long March 2C Y55]
+- Building the future of quantum error correction | IBM Quantum Computing Blog: Building the future of quantum error correction | IBM Quantum Computing Blog
+- Quantum Error Correction: The Key to Quantum Computing: Quantum Error Correction: The Key to Quantum Computing
 
 ### Contradictions
 - No explicit contradictions extracted in this turn.
 
 ### Open Questions
-- How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" overview??
+- How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview??
 - Which metrics or dates recur across high-relevance sources for turn 2?
 - Which criticism appears consistently versus only in opinion pieces?
 
 ### Source Catalog
-#### Source 0008: Top Career Content from LinkedIn Members
-- Source ID: af76e7d3b646
+#### Source 0018: Building the future of quantum error correction | IBM Quantum Computing Blog
+- Source ID: c4a0bd35704a
 - Turn: 2
-- Query: "Synthetic aperture radar satellites" safety regulation
+- Query: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview?
 - Provider: ddgs
-- Search rank: 5
-- Domain: www.linkedin.com
-- URL: https://www.linkedin.com/top-content/career
-- Search snippet: SyntheticApertureRadar(SAR) technology in Europe finds diverse applications across various sectors. In agriculture, SAR systems are crucial for monitoring crop health, soil moisture levels, and yield estimation, aiding in precision farming practices.
-- Page word count estimate: 249
-- Relevance score: 21.33
+- Search rank: 11
+- Domain: www.ibm.com
+- URL: https://www.ibm.com/quantum/blog/future-quantum-error-correction
+- Search snippet: When we perform quantum computations with a deployed error correction code, we observe non-trivial error-sensitive events—these events are clues to what the underlying errors are, and when they occur, it is then the task of the decoder to correctly identify suitable corrections. Classical hardware performs this decoding and must keep pace with the high rate at which nontrivial events occur. Further, the amount of event data transferred from the quantum device to the classical hardware must not exceed the available bandwidth. Decoders therefore place additional constraints on the control hardware and on the way quantum computers interface with classical systems.
+- Page word count estimate: 257
+- Relevance score: 20.33
 - Key excerpt lines:
-  - Top Career Content from LinkedIn Members
+  - Building the future of quantum error correction | IBM Quantum Computing Blog
   - Skip to main content
-  - LinkedIn
-  - Top Content
-  - People
-  - Learning
-  - Jobs
-  - Games
-  - Join now
-  - Sign in
-  - Top Content
-  - Career
+  - IBM
+  - Quantum
+  - Hardware
+  - Qiskit
+  - Product
+  - Research
+  - Blog
+  - Community
+  - IBM Quantum Network
+  - Events
 - Extended extract lines:
-  - Top Career Content from LinkedIn Members Skip to main content LinkedIn Top Content People Learning Jobs Games Join now Sign in Top Content Career Explore top LinkedIn content from expert professionals. Robert Dur Professor of Economics, Erasmus University Rotterdam; Voorzitter Economenvereniging KVS (Koninklijke Vereniging voor de Staathuishoudkunde) 24,037 followers 2w Report this post Does becoming a parent affect academic trajectories? Yes, and particularly so for women: 🔹University employment drops by almost 30 percent for women, much less so for men. 🔹Probability of being tenured is about 35 percent lower for women, no change for men. 🔹Number of publications is 31 to 35 percent lower for women, no change for men. These are among the key results of a new study by Sofie Cairo , Ria Ivandic , Anne Sophie Lassen , and Valentina Tartari using rich Danish admin data. Why do women’s and men’s career trajectories diverge sharply after parenthood? The paper studies a series of candidate explanations and finds that the gap in childcare load seems mainly responsible: "women academics do almost five times more childcare than their male academic counterparts. For example, 55% of female researchers get up at night to take care of the child most or all the time, in comparison to 11% of men". Read the full paper here: Sofie Cairo, Ria Ivandic, Anne Sophie Lassen, and Valentina Tartari (2026), Parenthood and the career ladder: evidence from academia, Centre for Economic Performance discussion paper: https://lnkd.in/eK2gWzSb …more No more previous content No more next content
+  - Building the future of quantum error correction | IBM Quantum Computing Blog Skip to main content IBM Quantum Hardware Qiskit Product Research Blog Community IBM Quantum Network Events Qiskit ecosystem Resources Documentation Learning Case studies Feedback program Sign in to Platform Sign in Quantum Research Blog Building the future of quantum error correction Last week’s IEEE Quantum Week conference put the spotlight on the latest research in error correction — and a glimpse of what quantum computing’s future may look like. Date 4 Oct 2022 Authors Drew Vandeth Sarah Sheldon Antonio Córcoles Andrew Cross Topics Error Correction & Mitigation Research Share this blog Errors are an unavoidable phenomenon in computation, and this is especially true in quantum computation, where we must exercise precise control over the behavior of ultra-sensitive quantum systems. While we look for computational advantage in the near term by using techniques that reduce the effects of noise in quantum systems, extracting the full potential of computation and realizing quantum algorithms with a super-polynomial speedup will most likely require major advances in quantum error correction technology . 1 Researchers in the field have made significant progress in quantum error correction over the last few years, but there's still much left to accomplish to achieve this goal. Today, we’re working with the broader quantum community to thoughtfully bring about practical quantum computing as soon as possible. As part of our development roadmap, we see the development in this field as a continuous path forward, where we work to create value from today’s noisy quantum hardware using
 
-#### Source 0009: Synthetic-Aperture Radar (SAR), Earth Observation, and Mapping - Geography Realm
-- Source ID: 02924ae3da63
+#### Source 0019: Quantum Error Correction: The Key to Quantum Computing
+- Source ID: f3df9181dce4
 - Turn: 2
-- Query: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" overview?
+- Query: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview?
 - Provider: ddgs
-- Search rank: 6
-- Domain: www.geographyrealm.com
-- URL: https://www.geographyrealm.com/synthetic-aperture-radar-sar-earth-observation-and-mapping
-- Search snippet: Aug 12, 2024 ·Synthetic-apertureradar(SAR) has been increasingly used for Earth observations. Advancements in computing andsatellitesystems enable more use of this technology. We can expect SAR to be a key part of future developments insatelliteobservations.
-- Page word count estimate: 508
+- Search rank: 9
+- Domain: www.bluequbit.io
+- URL: https://www.bluequbit.io/blog/quantum-error-correction
+- Search snippet: These emulators are used to test and optimize error correction codes before deploying them on physical quantum hardware. NVIDIA focuses on allowing researchers to refine QEC algorithms efficiently, bridging the gap between theoretical models and hardware implementation.
+- Page word count estimate: 431
 - Relevance score: 19.00
 - Key excerpt lines:
-  - Synthetic-Aperture Radar (SAR), Earth Observation, and Mapping - Geography Realm
-  - Skip to content
-  - Menu
-  - Menu
-  - Geography Printables
-  - Geography
-  - Physical Geography
-  - Human Geography
-  - GIS
-  - Introduction to GIS
-  - GIS Articles
-  - GIS Tutorials
+  - Quantum Error Correction: The Key to Quantum Computing
+  - home
+  - Our Quantum Advantage challenge with $20,000 BTC award is live.
+  - More Details →
+  - Home
+  - Hackathons
+  - Platform
+  - Team
+  - Blog
+  - Research
+  - Contact Us
+  - Platform Access
 - Extended extract lines:
-  - Synthetic-Aperture Radar (SAR), Earth Observation, and Mapping - Geography Realm Skip to content Menu Menu Geography Printables Geography Physical Geography Human Geography GIS Introduction to GIS GIS Articles GIS Tutorials GIS Jobs GIS Conferences Maps Contact About Synthetic-Aperture Radar (SAR), Earth Observation, and Mapping By: Mark Altaweel Last updated: August 12, 2024 GIS Data Synthetic-aperture radar (SAR) has been increasingly used for Earth observations. Advancements in computing and satellite systems enable more use of this technology. We can expect SAR to be a key part of future developments in satellite observations. The use of synthetic-aperture radar (SAR) has been somewhat limited, at least in spaceborne imagery and use in remote sensing . In large part, this is because of the complexities of processing and providing the data that are easy to understand, outside of a limited group of computational and geospatial specialists. However, now SAR is becoming more widely available and increasingly part of Earth observation satellites and data provided, including those sponsored by private companies such as ICEYE. [1] In a MapScaping podcast , ICEYE’s Eric Jensen discusses the increasing benefits provided by SAR. What is Synthetic-Aperture Radar? Technology that makes SAR possible has been in development since World War II, as effectively the data represent developments in radar that have occurred since that time. The data consist of microwave data sent by an active sensor, that is the data are emitted from an energy source within an observation platform such as a satellite, and the energy then is reflected back from the surface of objects such as Earth. The radar microwave data that area reflected are then read. The microwaves are at a scale of usually centimetres wavelength, making them much larger than light waves. The radar instrumentation and antenna determine the spatial resolution of the data. Synthetic aperture is used to effectively create a sensor that works like a large antenna, which allows that radar collection to utilize a much smaller data receiver, enabling more fine-scale resolution to be observed. The first radar image obtained with the ICEYE-X1 SAR satellite on 15 January 2018, at 21:47 UTC. The image depicts Noatak National Preserve, Alaska. Image: ICEYE The instrumentation on SAR allows different pulses to not only be actively sent but also data can be recorded from different angels. Data can be then compiled to create composite or multiple imagery of features. Different wavelengths are measured, making SAR effective for range finding using different frequency bands, helping to measure surface roughness and different scales of surface properties. Bands, such as U band, enable vegetation and soil property measurements. Additionally, there is a wide variety of band types, including KA, K, KU, C, S, and others that are used. Higher frequency bands are less able to penetrate objects such as clouds. Larger wavelengths allow relatively easier penetration of clouds; radar data also allow you to operate at night. The qualities of penetrating cloud cover and for the satellites useful for night conditions have made SAR vital for Earth observation given few other sensors have such qualities. [2]
-
-#### Source 0010: Another Commercial Imaging Group [Long March 2C Y55]
-- Source ID: 737b578f7959
-- Turn: 2
-- Query: "Synthetic aperture radar satellites" timeline history
-- Provider: ddgs
-- Search rank: 10
-- Domain: www.china-in-space.com
-- URL: https://www.china-in-space.com/p/another-commercial-imaging-group
-- Search snippet: Four C-bandsyntheticapertureradarsatellitesare also planned to be a part of the constellation. The constellation is currently expected to be fully operational in mid-2025.
-- Page word count estimate: 443
-- Relevance score: 17.67
-- Key excerpt lines:
-  - Another Commercial Imaging Group [Long March 2C Y55]
-  - Subscribe
-  - Sign in
-  - Another Commercial Imaging Group [Long March 2C Y55]
-  - Four new X-band synthetic aperture radar imaging satellites are in orbit after a launch from Jiuquan.
-  - Jack C.
-  - Nov 09, 2024
-  - Share
-  - The Long March 2C Y55 vehicle during first-stage flight.
-  - A Long March 2C
-  - blasted off
-  - from Launch Area 4 at the Jiuquan Satellite Launch Center at 11:39 am China Standard Time, or 03:39 am Universal Coordinated Time, on November 9th. This launch had the vehicle flying to a sun-synchronus orbit carrying...
-- Extended extract lines:
-  - Another Commercial Imaging Group [Long March 2C Y55] Subscribe Sign in Another Commercial Imaging Group [Long March 2C Y55] Four new X-band synthetic aperture radar imaging satellites are in orbit after a launch from Jiuquan. Jack C. Nov 09, 2024 Share The Long March 2C Y55 vehicle during first-stage flight. A Long March 2C blasted off from Launch Area 4 at the Jiuquan Satellite Launch Center at 11:39 am China Standard Time, or 03:39 am Universal Coordinated Time, on November 9th. This launch had the vehicle flying to a sun-synchronus orbit carrying four satellites. The four spacecraft atop of the rocket were a group of PIESAT-02 satellites. These satellites were developed by the Shanghai Academy of Spaceflight Technology for X-band synthetic aperture radar imaging. These satellites will be owned and operated by Zhuzhou Space Interstellar Satellite Technology Co Ltd (株洲太空星际卫星科技有限公司), doubling the size of their satellite fleet. The four PIESAT-2 satellites in a cleanroom prior to integration on the launch vehicle. In March 2023 Zhuzhou Space’s first group of PIESAT spacecraft were launched from the Taiyuan Satellite Launch Center, and placed into a sun-synchronous orbit. Back in October of this year , the company announced that it would launch twelve more satellites to build sixteen spacecraft synthetic aperture radar imaging constellation. This constellation, believed to be called “Zhuzhou Constellation”, would allow for regular revisit imaging for most of China once operational, with the company’s technical director Tang Daquan (汤大权) stating : "After all 16 satellites are launched, the time interval between two consecutive observations of the same location can be greatly shortened. Any location in the country can be revisited within 2.5 hours, thus enhancing the efficiency of imaging monitoring and deformation measurement on a global scale" If there are any problems with this translation please reach out and correct me . Based on the plans announced last month , at least two more launches are expected. One of these launches will take place in December and the other before the end of March 2025. Four C-band synthetic aperture radar satellites are also planned to be a part of the constellation. The constellation is currently expected to be fully operational in mid-2025. The patch for the Long March 2C Y55 launch mission. To allow the four satellites to be delivered in one mission, the Long March 2C was equipped with its 4.2-meter diameter fairing along with a central load-bearing structure. This was the 80th launch of the Long March 2C, and was the 544th launch of the Long March launch vehicle series. Along with these, this was also the 53rd launch from China in 2024. Liftoff video via 北京蓝龙 and 航天五线谱 on Weibo.
+  - Quantum Error Correction: The Key to Quantum Computing home Our Quantum Advantage challenge with $20,000 BTC award is live. More Details → Home Hackathons Platform Team Blog Research Contact Us Platform Access What Is Quantum Error Correction: The Key to Quantum Computing January 9, 2025 • 7 min read Hrant Gharibyan Co-founder & CEO Quantum computing is taking the tech world by storm. This field uses quantum mechanics to process information in ways far beyond the capabilities of classical computers. Unlike traditional systems that use binary bits, quantum computers use qubits, which can exist in multiple states at the same time due to superposition and entanglement. The result is breakthroughs in areas like quantum cryptography , drug discovery, and materials science. All that said, quantum computing faces major challenges that hinder its practical implementation. Qubits are highly sensitive to environmental noise, temperature fluctuations, and electromagnetic interference, leading to errors in computation. As these errors accumulate, it becomes difficult to maintain accuracy. The biggest challenge is managing and correcting these errors without disrupting the delicate quantum state—a problem unique to quantum computing. This is where quantum error correction (QEC) comes in, presenting a way to detect and fix errors while preserving quantum coherence. As the field reaches new heights, QEC remains a key area of research, with major players like Google, IBM, and Microsoft making efforts to overcome these limitations and unleash the full potential of quantum computing. What Is Quantum Error Correction? Quantum error correction , or quantum computing error correction, is a set of techniques for protecting quantum information from errors that are caused by noise and decoherence. While classical error correction deals with 1s or 0s, QEC involves qubits that exist in superpositions. This makes it a challenging yet key aspect of quantum computing. A common method of QEC is using multiple physical qubits to encode a logical qubit. Entangling these qubits helps detect and correct quantum errors without having to directly measure the qubits’ states. QEC Codes, like the Shor code, are examples of schemes that apply these techniques and can correct various types of errors. There are two classes of error correction codes: surface and stabilizer . Surface codes: refer to two-dimensional lattices of physical qubits that create logical qubits with topological protection. Errors can happen through the lattice without affecting the logical qubit’s global state. ‍ Stabilizer codes: detect errors using measurements and apply error correction to corrupted qubits using classical logic. Examples of this class include the Shor code and Steane code.\ ‍ Types of Quantum Error Correction QEC is divided into three main categories:
 
 ## Turn 3
 
@@ -408,195 +650,84 @@ recent evidence, performance, and industrial reality
 limitations, risks, and unresolved debates
 
 ### Queries
-- "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" overview?
-- "Synthetic aperture radar satellites" official documentation
-- "Synthetic aperture radar satellites" academic review
-- "Synthetic aperture radar satellites" site:gov
-- "Synthetic aperture radar satellites" site:edu
-- "Synthetic aperture radar satellites" market analysis
-- "Synthetic aperture radar satellites" limitations criticism
-- "Synthetic aperture radar satellites" timeline history
-- "Synthetic aperture radar satellites" safety regulation
-- "Synthetic aperture radar satellites" benchmark data
+- "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview?
+- "Quantum error correction applications and constraints" official documentation
+- "Quantum error correction applications and constraints" academic review
+- "Quantum error correction applications and constraints" site:gov
+- "Quantum error correction applications and constraints" site:edu
+- "Quantum error correction applications and constraints" market analysis
+- "Quantum error correction applications and constraints" limitations criticism
+- "Quantum error correction applications and constraints" timeline history
+- "Quantum error correction applications and constraints" safety regulation
+- "Quantum error correction applications and constraints" benchmark data
 
 ### Turn Findings
-- Explore SAR satellite imagery | Documentation: Explore SAR satellite imagery | Documentation
-- PRESSR: Space42 ships first UAE-integrated and tested synthetic aperture radar satellites to expand its foresight constellation — TradingView News: PRESSR: Space42 ships first UAE-integrated and tested synthetic aperture radar satellites to expand its foresight constellation — TradingView News
-- Synthetic Aperture Radar Systems | Springer Nature Link: Synthetic Aperture Radar Systems | Springer Nature Link
-- Open Data Program • Umbra: Open Data Program • Umbra
+- Turn 3 gathered 28 candidate results around limitations, risks, and unresolved debates.
 
 ### Contradictions
 - No explicit contradictions extracted in this turn.
 
 ### Open Questions
-- How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" overview??
+- How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview??
 - Which metrics or dates recur across high-relevance sources for turn 3?
 - Which criticism appears consistently versus only in opinion pieces?
 
 ### Source Catalog
-#### Source 0011: Explore SAR satellite imagery | Documentation
-- Source ID: 28f128029fae
-- Turn: 3
-- Query: "Synthetic aperture radar satellites" official documentation
-- Provider: ddgs
-- Search rank: 13
-- Domain: learn.arcgis.com
-- URL: https://learn.arcgis.com/en/projects/explore-sar-satellite-imagery
-- Search snippet: Feb 27, 2025 ·Explore analysis-ready syntheticapertureradar(SAR) imagery from varioussatellitesand learn about several of its applications.Satelliteswith SyntheticApertureRadar(SAR) sensors produce images based on radar technology.
-- Page word count estimate: 269
-- Relevance score: 18.67
-- Key excerpt lines:
-  - Explore SAR satellite imagery | Documentation
-  - Contents
-  - Overview
-  - Requirements
-  - Outline
-  - Map deforestation
-  - Download and open the project
-  - Explore the map and understand the symbology
-  - Compare SAR images
-  - Monitor maritime activity
-  - Symbolize the imagery
-  - Interpret the data
-- Extended extract lines:
-  - Explore SAR satellite imagery | Documentation Contents Overview Requirements Outline Map deforestation Download and open the project Explore the map and understand the symbology Compare SAR images Monitor maritime activity Symbolize the imagery Interpret the data Identify flooded areas Create color composites Fine-tune the symbology Compare the color composites Acknowledgements Ready to learn more? Related Esri training Skip To Content Documentation Topics Tutorials Explore SAR satellite imagery Elizabeth Ashley Menezes is a raster product engineer on the Imagery and Remote Sensing team at Esri. She focuses on UX/UI design and development of radar- and SAR-based capabilities. Author Duration Difficulty Tutorials Explore SAR satellite imagery Contents Satellites with Synthetic Aperture Radar (SAR) sensors produce images based on radar technology. One of SAR's strengths is that it can create clear images in both daytime and nighttime and regardless of the presence of clouds, smoke, and rain. It has many applications and is often used to detect changes in the environment due to natural- or human-induced events. In this tutorial, you will explore three applications of SAR imagery: mapping deforestation, monitoring maritime activity, and identifying flooded areas. Your exploration will take you to Brazil, the Panama Canal, and Texas, and you will learn the basics of working with SAR imagery. The SAR images you'll use in this tutorial were downloaded from SAR imagery providers as Ground Range Detected (GRD) data products, and were then processed using ArcGIS Pro tools from the Synthetic Aperture Radar toolset to produce analysis-ready SAR data. So, they are ready for you to start exploring and interpreting them. This tutorial was last tested on February 27, 2025, using
-
-#### Source 0012: PRESSR: Space42 ships first UAE-integrated and tested synthetic aperture radar satellites to expand its foresight constellation — TradingView News
-- Source ID: da6fec944492
-- Turn: 3
-- Query: "Synthetic aperture radar satellites" timeline history
-- Provider: ddgs
-- Search rank: 10
-- Domain: www.tradingview.com
-- URL: https://www.tradingview.com/news/reuters.com,2025-10-09:newsml_Zaw5zghM5:0-pressr-space42-ships-first-uae-integrated-and-tested-synthetic-aperture-radar-satellites-to-expand-its-foresight-constellation
-- Search snippet: Abu Dhabi, UAE: Space42 SPACE42, the UAE-based AI-powered SpaceTech company with global reach, has successfully shipped threeSyntheticApertureRadar(SAR)satellites, Foresight-3, Foresight-4, and Foresight-5...
-- Page word count estimate: 712
-- Relevance score: 18.67
-- Key excerpt lines:
-  - PRESSR: Space42 ships first UAE-integrated and tested synthetic aperture radar satellites to expand its foresight constellation — TradingView News
-  - Search
-  - Products
-  - Community
-  - Markets
-  - Brokers
-  - More
-  - EN
-  - Get started
-  - News
-  - /
-  - Zawya
-- Extended extract lines:
-  - PRESSR: Space42 ships first UAE-integrated and tested synthetic aperture radar satellites to expand its foresight constellation — TradingView News Search Products Community Markets Brokers More EN Get started News / Zawya / PRESSR: Space42 ships first UAE-integrated and tested synthetic aperture radar satellites to expand its foresight constellation PRESSR: Space42 ships first UAE-integrated and tested synthetic aperture radar satellites to expand its foresight constellation Refinitiv 4 min read SPACE42 Foresight-3, Foresight-4, and Foresight-5 will expand Space42’s Earth Observation Foresight Constellation Abu Dhabi, UAE : Space42 SPACE42 , the UAE-based AI-powered SpaceTech company with global reach, has successfully shipped three Synthetic Aperture Radar (SAR) satellites, Foresight-3, Foresight-4, and Foresight-5, from its Space42 Space Systems facility in Abu Dhabi to the United States. The SAR satellites were manufactured in partnership with ICEYE, the global leader in SAR satellite operations. The milestone marks the first time advanced SAR satellites have completed critical integration and testing activities in the UAE within the Space42 AIT (Assembly, Integration, and Testing) facility. It advances sovereign resilience and accelerates progress toward the UAE’s National Space Strategy 2030. Anchored in Space42’s strategy of becoming the preferred partner for premium geospatial data, this program reaffirms the UAE’s leadership in Earth Observation, geospatial intelligence, satellite innovation, and advanced manufacturing. Khalid Al Awadhi, SVP Earth Observation Systems, Space42, said: “This is a proud moment for Space42 and the UAE. For the first time, satellites equipped with cutting-edge SAR technology have been tested in the UAE. This reflects how far we have come: from reliance on imported technology to building advanced platforms with our global partners. These satellites will expand our Foresight Constellation, deepen our sovereign capability, and reaffirm the UAE’s leadership in the next generation of AI-powered Space Technology.” Expanding the Foresight Constellation Foresight-3, -4, and -5 will join Space42’s EO Foresight Constellation, delivering persistent, all-weather imagery at 25-centimetre resolution with global coverage. The constellation will now offer enhanced tactical access to its premium SAR imagery products, enabling precise insights for disaster response, climate monitoring, urban planning, logistics, and national security. The imagery is analyzed by Space42’s AI platform, GIQ, which delivers decision-grade geospatial intelligence for planning, operations, and risk response across government and enterprise. With two satellites (Foresight-1 launched in August 2024 and -2 launched in January 2025) already in orbit, the addition of Foresight-3, -4, and -5 brings the constellation closer to its target, achieving constellation maturity in 2027. This expansion strengthens Space42’s position in the fast-growing market for high-resolution, rapid-delivery EO data. International Collaboration Driving Innovation The development of Foresight-3, -4, and -5 highlights the strength of distributed manufacturing and international collaboration. From production in Finland to AIT in the UAE, the program demonstrates how global partnership accelerates innovation and strengthens supply chain resilience. This model positions the UAE as both a sovereign operator and a trusted partner in advancing EO and shows how cooperation with global leaders like ICEYE expands capabilities while enhancing national independence. Building Sovereign Capability at Home The UAE’s growing SpaceTech leadership and manufacturing base is enabled by domestic AIT capability, Emirati engineering and leadership, and collaboration with global partners, ensuring milestones and key activities are met on time and budget. By embedding full AIT capabilities and vertically integrating satellite technology, Space42 and the UAE gain strategic agility: shaping timelines, missions, and system design. This level of capability, available to only a handful of nations, ensures the UAE can align its space assets with national and economic priorities, while cultivating the next generation of national talent. Looking ahead, Space42 plans to further grow the constellation through 2027, securing global coverage and strengthening the UAE’s position in the global space economy. About Space42 Space42 SPACE42 is a UAE-based AI-powered SpaceTech company that integrates satellite communications, geospatial analytics and artificial intelligence capabilities to enlighten the Earth from space. Formed in 2024 by the successful merger of Bayanat and Yahsat, Space42’s global reach allows it to address the rapidly evolving needs of its customers in governments, enterprises, and communities. Space42 comprises two business units: Space Services and Smart Solutions. Space Services focuses on upstream satellite operations for both fixed and mobility satellite services. Smart Solutions integrates geospatial data acquisition and processing with AI to inform decision-making, enhance situational awareness, and improve operational efficiency. Major shareholders include G42, Mubadala, and IHC.
-
-#### Source 0013: Synthetic Aperture Radar Systems | Springer Nature Link
-- Source ID: 68d4ee5d523b
-- Turn: 3
-- Query: "Synthetic aperture radar satellites" timeline history
-- Provider: ddgs
-- Search rank: 17
-- Domain: link.springer.com
-- URL: https://link.springer.com/rwe/10.1007/978-3-319-93806-6_308
-- Search snippet: Jan 1, 2021 ·It was first reduced to practice by the University of Illinois, and by the Willow Run Laboratories of the University of Michigan. Several airborne systems were developed in the 1960s, although the technique was largely classified at the time. The firstsatelliteSAR was embarked on Seasat (1978).
-- Page word count estimate: 290
-- Relevance score: 15.33
-- Key excerpt lines:
-  - Synthetic Aperture Radar Systems | Springer Nature Link
-  - Skip to main content
-  - Advertisement
-  - Log in
-  - Menu
-  - Find a journal
-  - Publish with us
-  - Track your research
-  - Search
-  - Saved research
-  - Cart
-  - Home
-- Extended extract lines:
-  - Synthetic Aperture Radar Systems | Springer Nature Link Skip to main content Advertisement Log in Menu Find a journal Publish with us Track your research Search Saved research Cart Home Encyclopedia of Coastal Science Reference work entry Synthetic Aperture Radar Systems Reference work entry First Online: 01 January 2021 pp 1674–1677 Cite this reference work entry Encyclopedia of Coastal Science R. Keith Raney 5 Part of the book series: Encyclopedia of Earth Sciences Series ((EESS)) 605 Accesses A synthetic aperture radar (SAR) is a remote sensing imaging system whose primary output product is a two-dimensional mapping of the radar brightness of a scene. Radar brightness is an expression of the scene’s reflectivity in response to oblique illumination by microwave electromagnetic emissions. By definition, a SAR must be mounted on a moving platform, such as an aircraft or a satellite, and its illumination is directed to the side (and downward) to the surface. Its images are formed by scanning the area in two dimensions: range and azimuth. Range scanning is essentially at the speed of light, as radar pulses are transmitted and their reflections (backscatter) are received and recorded. Azimuth scanning is accomplished by the forward motion of the radar. SAR imaging “works” because the speed of light is very much greater than the along-track velocity of the radar. As the radar progresses along its flight path, the reflected signals from each transmission are collected and stored... This is a preview of subscription content, log in via an institution to check access. Access this chapter Log in via an institution Subscribe and save Springer+ from $39.99 /Month Starting from 10 chapters or articles per month Access and download chapters and articles from more than 300k books and 2,500 journals Cancel anytime
-
-#### Source 0014: Open Data Program • Umbra
-- Source ID: 0452986b8755
-- Turn: 3
-- Query: "Synthetic aperture radar satellites" official documentation
-- Provider: ddgs
-- Search rank: 21
-- Domain: umbra.space
-- URL: https://umbra.space/open-data
-- Search snippet: Spotlight collects including GEC, SICD, SIDD, CPHD data and metadata. The dataset features over twenty diverse locations to experiment withSAR’s capabilities. The number of locations will continue expanding throughout the year.
-- Page word count estimate: 227
-- Relevance score: 11.00
-- Key excerpt lines:
-  - Open Data Program • Umbra
-  - Skip to content
-  - Remote Sensing
-  - Expand
-  - Dwell mode
-  - Spotlight mode
-  - Scan mode
-  - Open Data
-  - Pricing
-  - Mission Solutions
-  - Space Systems
-  - About
-- Extended extract lines:
-  - Open Data Program • Umbra Skip to content Remote Sensing Expand Dwell mode Spotlight mode Scan mode Open Data Pricing Mission Solutions Space Systems About Media Center Expand Press Releases Umbra in the News In Our Own Words Careers Contact Toggle Menu Open data program Time-series SAR data. Updated frequently. Millions worth of free data. No sign-up required. Access the dataset About the program Umbra satellites offer the highest commercially available SAR imagery, surpassing 25 cm resolution. Capable of capturing images day or night, through clouds, smoke, and rain, our technology enables all-weather monitoring. The Open Data Program monitors 20+ global locations, leveraging SAR’s unique capabilities for change monitoring. Explore our data to track floating oil lid inventory, deforestation, mines, container ports, and beyond. Play Resources on AWS Spotlight collects including GEC, SICD, SIDD, CPHD data and metadata Dataset STAC Catalog Multiple time-series locations The dataset features over twenty diverse locations to experiment with SAR’s capabilities. The number of locations will continue expanding throughout the year. Time-Series Applications With frequent updates of each location weekly, our goal is to provide you with a deep understanding on what’s possible with our data. Spotlight Mode Data Offering single-looked spotlight data in either 25cm, 35cm, 50cm, or 1m resolution, as well as multi-looked spotlight data. Assorted Collections Over 1000+ locations imaged, ranging from emergency response, ports, to picturesque places. Licensing
-
 ## Turn 4
 
 ### Focus
 limitations, risks, and unresolved debates
 
 ### Queries
-- "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" overview??
-- "Synthetic aperture radar satellites" official documentation
-- "Synthetic aperture radar satellites" academic review
-- "Synthetic aperture radar satellites" site:gov
-- "Synthetic aperture radar satellites" site:edu
-- "Synthetic aperture radar satellites" market analysis
-- "Synthetic aperture radar satellites" limitations criticism
-- "Synthetic aperture radar satellites" timeline history
-- "Synthetic aperture radar satellites" safety regulation
-- "Synthetic aperture radar satellites" benchmark data
+- "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview??
+- "Quantum error correction applications and constraints" official documentation
+- "Quantum error correction applications and constraints" academic review
+- "Quantum error correction applications and constraints" site:gov
+- "Quantum error correction applications and constraints" site:edu
+- "Quantum error correction applications and constraints" market analysis
+- "Quantum error correction applications and constraints" limitations criticism
+- "Quantum error correction applications and constraints" timeline history
+- "Quantum error correction applications and constraints" safety regulation
+- "Quantum error correction applications and constraints" benchmark data
 
 ### Turn Findings
-- Synthetic Aperture Radar: Synthetic Aperture Radar
+- Data and Statistics: AFCARS | The Administration for Children and Families: Data and Statistics: AFCARS | The Administration for Children and Families
 
 ### Contradictions
 - No explicit contradictions extracted in this turn.
 
 ### Open Questions
-- How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" overview???
+- How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview???
 - Which metrics or dates recur across high-relevance sources for turn 4?
 - Which criticism appears consistently versus only in opinion pieces?
 
 ### Source Catalog
-#### Source 0015: Synthetic Aperture Radar
-- Source ID: 84a190e6c5fa
+#### Source 0020: Data and Statistics: AFCARS | The Administration for Children and Families
+- Source ID: 422cec301a57
 - Turn: 4
-- Query: "Synthetic aperture radar satellites" benchmark data
+- Query: "Quantum error correction applications and constraints" limitations criticism
 - Provider: ddgs
-- Search rank: 14
-- Domain: www.ngs.noaa.gov
-- URL: https://www.ngs.noaa.gov/RESEARCH/RSD/main/sar/sar.shtml
-- Search snippet: We are evaluating the accuracy of shorelinedatamapped from the RADARSAT image, by comparing the shoreline vector to a more accurate representation of the shoreline measured from aerial photographs.
-- Page word count estimate: 248
-- Relevance score: 16.33
+- Search rank: 3
+- Domain: acf.gov
+- URL: https://acf.gov/cb/research-data-technology/statistics-research/afcars
+- Search snippet: Sep 30, 2025 ·The Adoption and Foster CareAnalysisand Reporting System (AFCARS) collects case-level information on all children in foster care and those who have been adopted with title IV-E agency involvement.
+- Page word count estimate: 204
+- Relevance score: 20.00
 - Key excerpt lines:
-  - Synthetic Aperture Radar
-  - April 9 2026
-  - Home
-  - --
-  - R&D Home
-  - --
-  - Resources
-  - SAR Image of Castle Bay, Alaska
-  - acquired in October of 1997
-  - Synthetic Aperture Radar (SAR) is an active
-  - remote sensing technology which uses microwave electromagnetic energy to
-  - form complex images of terrain reflectivity. Because SAR is largely unaffected
+  - Data and Statistics: AFCARS | The Administration for Children and Families
+  - Skip To Main Content
+  - An official website of the United States government
+  - Here’s how you know
+  - Here’s how you know
+  - Official websites use .gov
+  - A
+  - .gov
+  - website belongs to an official government organization in the United States.
+  - Secure .gov websites use HTTPS
+  - A
+  - lock
 - Extended extract lines:
-  - Synthetic Aperture Radar April 9 2026 Home -- R&D Home -- Resources SAR Image of Castle Bay, Alaska acquired in October of 1997 Synthetic Aperture Radar (SAR) is an active remote sensing technology which uses microwave electromagnetic energy to form complex images of terrain reflectivity. Because SAR is largely unaffected by the presence of dense cloud cover, it delivers flexibility over weather constraints, and introduces the possibility of nighttime operations. Over the past few years, high resolution airborne and satellite SAR systems have become available for civilian use. Some systems have resolutions and accuracies that approach those realized photogrammetrically. The scene above shows a 5 nautical mile stretch of the north coast of Castle Bay, AK, acquired through dense clouds. The image was generated by engineers at NGS from raw phase history data acquired aboard the Environmental Research Institute of Michigan (ERIM) DCS aircraft, and using image formation code written at Sandia National Labs (SNL). Below, the left photo shows the view out the starboard window of the ERIM aircraft at the time the SAR image was acquired. The right photo shows NOAA and ERIM engineers in the DCS aircraft, on station over Castle Bay. View from ERIM aircraft over Castle Bay, AK NOAA and ERIM engineers aboard ERIM aircraft In a second experiment with airborne SAR, NGS has contracted with a private vendor, INTERMAP Technologies Ltd. , to obtain STAR-3i imagery of Yakutat, AK. Shoreline data mapped from this system will be compared to shoreline measured photogrammetrically.
+  - Data and Statistics: AFCARS | The Administration for Children and Families Skip To Main Content An official website of the United States government Here’s how you know Here’s how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock A locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites. Click Here to Report Suspected Child Care Fraud Branding Bar Menu U.S. Department of Health & Human Services Administration for Children & Families Select an ACF Office Administration for Native Americans (ANA) Administration on Children, Youth, and Families (ACYF) Children's Bureau (CB) Early Childhood Development (ECD) Family and Youth Services Bureau (FYSB) Office of Child Care (OCC) Office of Child Support Enforcement (OCSE) Office of Community Services (OCS) Office of Family Assistance (OFA) Office of Family Violence and Prevention Services (OFVPS) Office of Head Start (OHS) Office of Human Services Emergency Preparedness and Response (OHSEPR) Office of Legislative Affairs and Budget (OLAB) Office of Planning, Research & Evaluation (OPRE) Office of Refugee Resettlement (ORR) Office of Regional Operations (ORO) Office on Trafficking in Persons (OTIP)
 
 ## Turn 5
 
@@ -604,25 +735,25 @@ limitations, risks, and unresolved debates
 limitations, risks, and unresolved debates
 
 ### Queries
-- "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" overview??
-- "Synthetic aperture radar satellites" official documentation
-- "Synthetic aperture radar satellites" academic review
-- "Synthetic aperture radar satellites" site:gov
-- "Synthetic aperture radar satellites" site:edu
-- "Synthetic aperture radar satellites" market analysis
-- "Synthetic aperture radar satellites" limitations criticism
-- "Synthetic aperture radar satellites" timeline history
-- "Synthetic aperture radar satellites" safety regulation
-- "Synthetic aperture radar satellites" benchmark data
+- "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview??
+- "Quantum error correction applications and constraints" official documentation
+- "Quantum error correction applications and constraints" academic review
+- "Quantum error correction applications and constraints" site:gov
+- "Quantum error correction applications and constraints" site:edu
+- "Quantum error correction applications and constraints" market analysis
+- "Quantum error correction applications and constraints" limitations criticism
+- "Quantum error correction applications and constraints" timeline history
+- "Quantum error correction applications and constraints" safety regulation
+- "Quantum error correction applications and constraints" benchmark data
 
 ### Turn Findings
-- Turn 5 gathered 54 candidate results around limitations, risks, and unresolved debates.
+- Turn 5 gathered 35 candidate results around limitations, risks, and unresolved debates.
 
 ### Contradictions
 - No explicit contradictions extracted in this turn.
 
 ### Open Questions
-- How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" overview???
+- How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview???
 - Which metrics or dates recur across high-relevance sources for turn 5?
 - Which criticism appears consistently versus only in opinion pieces?
 
@@ -633,25 +764,25 @@ limitations, risks, and unresolved debates
 limitations, risks, and unresolved debates
 
 ### Queries
-- "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" overview???
-- "Synthetic aperture radar satellites" official documentation
-- "Synthetic aperture radar satellites" academic review
-- "Synthetic aperture radar satellites" site:gov
-- "Synthetic aperture radar satellites" site:edu
-- "Synthetic aperture radar satellites" market analysis
-- "Synthetic aperture radar satellites" limitations criticism
-- "Synthetic aperture radar satellites" timeline history
-- "Synthetic aperture radar satellites" safety regulation
-- "Synthetic aperture radar satellites" benchmark data
+- "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview???
+- "Quantum error correction applications and constraints" official documentation
+- "Quantum error correction applications and constraints" academic review
+- "Quantum error correction applications and constraints" site:gov
+- "Quantum error correction applications and constraints" site:edu
+- "Quantum error correction applications and constraints" market analysis
+- "Quantum error correction applications and constraints" limitations criticism
+- "Quantum error correction applications and constraints" timeline history
+- "Quantum error correction applications and constraints" safety regulation
+- "Quantum error correction applications and constraints" benchmark data
 
 ### Turn Findings
-- Turn 6 gathered 66 candidate results around limitations, risks, and unresolved debates.
+- Turn 6 gathered 14 candidate results around limitations, risks, and unresolved debates.
 
 ### Contradictions
 - No explicit contradictions extracted in this turn.
 
 ### Open Questions
-- How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" overview????
+- How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview????
 - Which metrics or dates recur across high-relevance sources for turn 6?
 - Which criticism appears consistently versus only in opinion pieces?
 
@@ -662,54 +793,81 @@ limitations, risks, and unresolved debates
 limitations, risks, and unresolved debates
 
 ### Queries
-- "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" overview???
-- "Synthetic aperture radar satellites" official documentation
-- "Synthetic aperture radar satellites" academic review
-- "Synthetic aperture radar satellites" site:gov
-- "Synthetic aperture radar satellites" site:edu
-- "Synthetic aperture radar satellites" market analysis
-- "Synthetic aperture radar satellites" limitations criticism
-- "Synthetic aperture radar satellites" timeline history
-- "Synthetic aperture radar satellites" safety regulation
-- "Synthetic aperture radar satellites" benchmark data
+- "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview???
+- "Quantum error correction applications and constraints" official documentation
+- "Quantum error correction applications and constraints" academic review
+- "Quantum error correction applications and constraints" site:gov
+- "Quantum error correction applications and constraints" site:edu
+- "Quantum error correction applications and constraints" market analysis
+- "Quantum error correction applications and constraints" limitations criticism
+- "Quantum error correction applications and constraints" timeline history
+- "Quantum error correction applications and constraints" safety regulation
+- "Quantum error correction applications and constraints" benchmark data
 
 ### Turn Findings
-- Turn 7 gathered 74 candidate results around limitations, risks, and unresolved debates.
+- Business eligibility and ownership guidelines - Google Business Profile Help: Business eligibility and ownership guidelines - Google Business Profile Help
 
 ### Contradictions
 - No explicit contradictions extracted in this turn.
 
 ### Open Questions
-- How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" overview????
+- How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview????
 - Which metrics or dates recur across high-relevance sources for turn 7?
 - Which criticism appears consistently versus only in opinion pieces?
 
 ### Source Catalog
+#### Source 0021: Business eligibility and ownership guidelines - Google Business Profile Help
+- Source ID: 45cf6b24d24a
+- Turn: 7
+- Query: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview???
+- Provider: ddgs
+- Search rank: 1
+- Domain: support.google.com
+- URL: https://support.google.com/business/answer/13763036?hl=en
+- Search snippet: Not all businesses are eligible for a Business Profile on Google. To be eligible for a Business Profile, any business must meet the criteria as listed below. Ownersandauthorized representatives for a Business Profile must also follow the guidelines as listed.See full list on support.google.comTo qualify for a Business Profile, a business must make in-person contact with customers during its stated hours.There are some exceptions:• ATMs, video-rental kiosks,andexpress mail drop boxes are permitted. If you add these locations, you must include contact information for customers to get help.• Seasonal businesses, like an ice-skating rink only open in winter months, are eligible. These businesses must display permanent signage at their location year-round.See full list on support.google.comThe following are examples of businesses that aren’t eligible for a Business Profile:• Rental or for-sale properties such as vacation homes, model homes, or vacant apartments. Sales or leasing offices, however, are eligible for verification.• An ongoing service, class, or meeting at a location that you don't own or have the authority to represent.• Lead generation agents or companies.• Brands, organizations, artists,andother online-only businesses.• Any business whose address is listed as a P.O. box or mailbox in a remote location.See full list on support.google.comOnly business owners or authorized representatives may verifyandmanage their business information on a Business Profile. If you wish to share management access to your Business Profile with others, you can add a manager.In some instances ownership may be revoked due to one of the following reasons:• You haven’t signed in to your account recently• The business confirmed that you or your agency is no longer authorized to manage this page• We’ve been unable to reach you by email after multiple attempts to confirm your affiliation with the business• You or another profile owner deleted your profileSee full list on support.google.com4 days ago ·We aim to deliver shareholder valueandgrow our market share by driving our coreandculture, providing a best-in-class interconnected experience for our customers,andgrowing our sales to Pros through our unique ecosystem of capabilities. We are continuously investing to enhance our online, in-store,andfulfillment experience, which includes investing in our associatesanddeveloping ...Annual edited volume that providesauthoritativereviews of significant topics within environmental science and engineering, including ecology and conservation science, water and energy resources, atmosphere, oceans, climate change, agriculture and living resources, and human dimensions of resource use and global change. Covers 1976-present.- Persons placed horsdocombat (“out of combat”) through sickness, wounds, detention or any other cause. Common article 3 to the Geneva Conventions prohibits the following actions: - Violence to life and person, in particular murder, mutilation, cruel treatment and torture [.]The apostles also regarded the books of the Old Testament asauthoritative, so they counted as Scripture. Even certain books of the New Testament that had been written by associates of apostles—such as Mark and Luke—were held to beauthoritativeand so found a place in Scripture.Thesourcesof all photographs, maps, illustrations, computer programs, data, graphs, audio-visual, and similar material must be acknowledged if they are not your own work. Works of art, whether music, lm, dance, theatre arts, or visual arts, and where the creative use of a part of a work takes place, must be acknowledged.
+- Page word count estimate: 348
+- Relevance score: 17.67
+- Key excerpt lines:
+  - Business eligibility and ownership guidelines - Google Business Profile Help
+  - Skip to main content
+  - Google Business Profile Help
+  - Sign in
+  - Google Help
+  - Help Center
+  - Community
+  - Google Business Profile
+  - Privacy Policy
+  - Terms of Service
+  - Submit feedback
+  - Send feedback on...
+- Extended extract lines:
+  - Business eligibility and ownership guidelines - Google Business Profile Help Skip to main content Google Business Profile Help Sign in Google Help Help Center Community Google Business Profile Privacy Policy Terms of Service Submit feedback Send feedback on... This help content & information General Help Center experience Next Help Center Community Get-Started Guide Notification Do not share any private or confidential personal or business-related information in this public forum. Business eligibility and ownership guidelines Not all businesses are eligible for a Business Profile on Google. To be eligible for a Business Profile, any business must meet the criteria as listed below. Owners and authorized representatives for a Business Profile must also follow the guidelines as listed. Eligible businesses To qualify for a Business Profile, a business must make in-person contact with customers during its stated hours. There are some exceptions: ATMs, video-rental kiosks, and express mail drop boxes are permitted. If you add these locations, you must include contact information for customers to get help. Seasonal businesses, like an ice-skating rink only open in winter months, are eligible. These businesses must display permanent signage at their location year-round. Delivery-only food services are permitted with some conditions. Learn about Virtual Food Brands . Ineligible businesses The following are examples of businesses that aren’t eligible for a Business Profile: Rental or for-sale properties such as vacation homes, model homes, or vacant apartments. Sales or leasing offices, however, are eligible for verification. An ongoing service, class, or meeting at a location that you don't own or have the authority to represent. Lead generation agents or companies. Brands, organizations, artists, and other online-only businesses. Businesses associated with products or services that require the customer to be a certain minimum age, like alcohol, cannabis, or weapons, aren’t permitted as service-area businesses without a storefront. Any business whose address is listed as a P.O. box or mailbox in a remote location. Ownership Only business owners or authorized representatives may verify and manage their business information on a Business Profile. If you wish to share management access to your Business Profile with others, you can
+
 ## Turn 8
 
 ### Focus
 limitations, risks, and unresolved debates
 
 ### Queries
-- "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" overview????
-- "Synthetic aperture radar satellites" official documentation
-- "Synthetic aperture radar satellites" academic review
-- "Synthetic aperture radar satellites" site:gov
-- "Synthetic aperture radar satellites" site:edu
-- "Synthetic aperture radar satellites" market analysis
-- "Synthetic aperture radar satellites" limitations criticism
-- "Synthetic aperture radar satellites" timeline history
-- "Synthetic aperture radar satellites" safety regulation
-- "Synthetic aperture radar satellites" benchmark data
+- "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview????
+- "Quantum error correction applications and constraints" official documentation
+- "Quantum error correction applications and constraints" academic review
+- "Quantum error correction applications and constraints" site:gov
+- "Quantum error correction applications and constraints" site:edu
+- "Quantum error correction applications and constraints" market analysis
+- "Quantum error correction applications and constraints" limitations criticism
+- "Quantum error correction applications and constraints" timeline history
+- "Quantum error correction applications and constraints" safety regulation
+- "Quantum error correction applications and constraints" benchmark data
 
 ### Turn Findings
-- Turn 8 gathered 70 candidate results around limitations, risks, and unresolved debates.
+- Turn 8 gathered 21 candidate results around limitations, risks, and unresolved debates.
 
 ### Contradictions
 - No explicit contradictions extracted in this turn.
 
 ### Open Questions
-- How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" overview?????
+- How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview?????
 - Which metrics or dates recur across high-relevance sources for turn 8?
 - Which criticism appears consistently versus only in opinion pieces?
 
@@ -720,25 +878,25 @@ limitations, risks, and unresolved debates
 limitations, risks, and unresolved debates
 
 ### Queries
-- "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" overview????
-- "Synthetic aperture radar satellites" official documentation
-- "Synthetic aperture radar satellites" academic review
-- "Synthetic aperture radar satellites" site:gov
-- "Synthetic aperture radar satellites" site:edu
-- "Synthetic aperture radar satellites" market analysis
-- "Synthetic aperture radar satellites" limitations criticism
-- "Synthetic aperture radar satellites" timeline history
-- "Synthetic aperture radar satellites" safety regulation
-- "Synthetic aperture radar satellites" benchmark data
+- "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview????
+- "Quantum error correction applications and constraints" official documentation
+- "Quantum error correction applications and constraints" academic review
+- "Quantum error correction applications and constraints" site:gov
+- "Quantum error correction applications and constraints" site:edu
+- "Quantum error correction applications and constraints" market analysis
+- "Quantum error correction applications and constraints" limitations criticism
+- "Quantum error correction applications and constraints" timeline history
+- "Quantum error correction applications and constraints" safety regulation
+- "Quantum error correction applications and constraints" benchmark data
 
 ### Turn Findings
-- Turn 9 gathered 74 candidate results around limitations, risks, and unresolved debates.
+- Turn 9 gathered 35 candidate results around limitations, risks, and unresolved debates.
 
 ### Contradictions
 - No explicit contradictions extracted in this turn.
 
 ### Open Questions
-- How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" overview?????
+- How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview?????
 - Which metrics or dates recur across high-relevance sources for turn 9?
 - Which criticism appears consistently versus only in opinion pieces?
 
@@ -749,210 +907,52 @@ limitations, risks, and unresolved debates
 limitations, risks, and unresolved debates
 
 ### Queries
-- "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" overview?????
-- "Synthetic aperture radar satellites" official documentation
-- "Synthetic aperture radar satellites" academic review
-- "Synthetic aperture radar satellites" site:gov
-- "Synthetic aperture radar satellites" site:edu
-- "Synthetic aperture radar satellites" market analysis
-- "Synthetic aperture radar satellites" limitations criticism
-- "Synthetic aperture radar satellites" timeline history
-- "Synthetic aperture radar satellites" safety regulation
-- "Synthetic aperture radar satellites" benchmark data
+- "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview?????
+- "Quantum error correction applications and constraints" official documentation
+- "Quantum error correction applications and constraints" academic review
+- "Quantum error correction applications and constraints" site:gov
+- "Quantum error correction applications and constraints" site:edu
+- "Quantum error correction applications and constraints" market analysis
+- "Quantum error correction applications and constraints" limitations criticism
+- "Quantum error correction applications and constraints" timeline history
+- "Quantum error correction applications and constraints" safety regulation
+- "Quantum error correction applications and constraints" benchmark data
 
 ### Turn Findings
-- Turn 10 gathered 72 candidate results around limitations, risks, and unresolved debates.
+- Turn 10 gathered 34 candidate results around limitations, risks, and unresolved debates.
 
 ### Contradictions
 - No explicit contradictions extracted in this turn.
 
 ### Open Questions
-- How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" How do authoritative sources answer: "Synthetic aperture radar satellites" overview??????
+- How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview??????
 - Which metrics or dates recur across high-relevance sources for turn 10?
 - Which criticism appears consistently versus only in opinion pieces?
 
 ### Source Catalog
 ## Detail Reserve Appendix
 
-- ICEYE launches six new synthetic aperture radar satellites LinkedIn Air Land Sea Space/C4ISR Advertising About us Air Land Sea Space/C4ISR Advertising About us March 31, 2026 ICEYE launches six new SAR satellites to expand sovereign intelligence capabilities for allied nations worldwide By Martin Chomsky (Defence Industry Europe) Photo: SpaceX. ICEYE has launched six new synthetic aperture radar satellites as part of its ongoing effort to expand sovereign space-based intelligence capabilities. The satellites were deployed on 30 March 2026 aboard a SpaceX Transporter-16 rideshare mission from Vandenberg Space Force Base in California. The spacecraft were integrated via Exolaunch and have successfully established communication following launch. Routine commissioning operations are now underway as the satellites enter service. The newly launched satellites will join ICEYE’s commercial constellation while also supporting dedicated national missions. These include programmes involving ICEYE US, the Polish Armed Forces’ MikroSAR initiative, and the Atlantic Constellation led by CTI Aeroespacial, the Portuguese Air Force, CEiiA and GEOSAT. The company said the deployment strengthens imaging capacity and resilience for governments requiring persistent situational awareness. The system is designed to provide rapid, high-resolution intelligence regardless of weather conditions or time of day. ICEYE operates the world’s largest SAR satellite constellation, enabling continuous monitoring through radar-based imaging. This technology allows observation through cloud cover, smoke and darkness, supporting real-time decision-making. Officials said demand for space-based intelligence is increasing across Europe, the Americas and the Indo-Pacific. Governments are increasingly treating such capabilities as operational requirements rather than strategic advantages. ICEYE said its approach enables nations to deploy sovereign intelligence systems within months rather than years. The company provides complete systems, including satellites, ground infrastructure and training, with operational readiness achievable within 12 months of agreement. The satellites are also designed to support software-defined upgrades, allowing new capabilities to be deployed remotely. This reduces reliance on hardware modifications and supports faster adaptation to evolving operational needs. Since 2018, ICEYE has launched 70 satellites, including eight in 2026. The company is scaling production to an average of one satellite per week as it expands its global capabilities. “ICEYE protects sovereign nations from space,” said Rafal Modrzewski. “The era of relying on a single, expensive satellite for national security is ending.” “Governments now understand that resilient constellations of many satellites are what give them real intelligence advantage, with answers in minutes instead of days,” he added. “That is the shift from strategic to tactical timelines, and it changes everything about how nations defend themselves,” Modrzewski said. “Every satellite we launch brings our customers closer to that reality, and we are building the industrial capacity to keep pace with the demand.” ICEYE said it supports governments and organisations worldwide with defence, intelligence and scientific missions. Its systems are used across six continents to provide monitoring and analysis capabilities. The company added that its services extend beyond defence to include environmental monitoring, insurance and emergency response. Officials said the ability to deliver rapid, reliable intelligence is central to supporting decision-making in complex situations. Share on Facebook Share on X Share on LinkedIn Tags: ICEYE , satellite ,
-- Detection and Monitoring of Oil Spills with Synthetic Aperture Radar Satellites PierSight Blog Blog Home Visit Website Open main menu Blog Home Visit Website Home Posts Detection and Monitoring of Oil Spills with Synthetic Aperture Radar Satellites Detection and Monitoring of Oil Spills with Synthetic Aperture Radar Satellites We discuss the current methods for detection and monitoring of oil spills and their limitations. Further, we present a solution in the form of a satellite constellation that provides persistent ocean monitoring. Feb 19, 2024 Gaurav Seth Gaurav is CEO and Cofounder of PierSight. He spent nine years at Indian Space Research Organization developing several SAR applications for EO and multiplanetary missions Vinit Bansal Vinit is Cofounder and CTO of PierSight. He brings over nine years of experience in prototyping and commercialization of space and defense tech. Table of Contents Letâs Cry Over Spilt Oil Deepwater Horizon Oil Spill Frequency of Oil Spills What happens when oil leaks into the ocean? Ecological impact Economic impacts Plan. Preserve. Protect. Current Surveillance Standards Synthetic Aperture Radars for Oil Spill Detection Why SAR for Oil Spill Detection? Persistent Monitoring via a Constellation of SAR Satellites How PierSightâs Constellation Can Detect Oil Spills Challenges in SAR-based Oil Spill Detection In Conclusion Table of Contents Letâs Cry Over Spilt Oil Deepwater Horizon Oil Spill Frequency of Oil Spills What happens when oil leaks into the ocean? Ecological impact Economic impacts Plan. Preserve. Protect.
-- United States Synthetic Aperture Radar In Space Market Strategic Opportunities & Potential Investments 2026-2033 Agree & Join LinkedIn By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Skip to main content LinkedIn Top Content People Learning Jobs Games Join now Sign in United States Synthetic Aperture Radar In Space Market Strategic Opportunities & Potential Investments 2026-2033 Report this article Industry Market Insights Hub Industry Market Insights Hub Published Nov 13, 2025 + Follow United States Synthetic Aperture Radar In Space Market Size And Forecast 2026-2033 United States Synthetic Aperture Radar In Space Market size was valued at USD XX Billion in 2024 and is projected to reach USD XX Billion by 2033, growing at a CAGR of XX% from 2026 to 2033. What factors drive and influence the growth of the United States Synthetic Aperture Radar In Space Market? The growth of the United States Synthetic Aperture Radar (SAR) in space market is primarily driven by increasing demand for high-resolution Earth observation data across various sectors such as defense, environmental monitoring, and disaster management. Technological advancements in radar imaging enhance data accuracy and operational efficiency, fueling market expansion. Government initiatives and increased funding for space-based surveillance and reconnaissance also play a significant role. The rising need for maritime surveillance, border security, and infrastructure monitoring further propels market growth. Additionally, the growing adoption of SAR technology for climate change studies and resource management contributes to its expansion. The increasing affordability of satellite launches and miniaturization of SAR sensors make space-based radar more accessible, encouraging new market entrants and innovation. Overall, technological, governmental, and sector-specific factors collectively influence the market's upward trajectory. Get the full PDF sample copy of the report: (Includes full table of contents, list of tables and figures, and graphs):- https://www.verifiedmarketreports.com/download-sample/?rid=518742/?utm_source=Pulse-Nov-B3&utm_medium=311&utm_country=United-States Which major investment opportunities exist within the United States Synthetic Aperture Radar In Space Market? Investment opportunities within the U.S. SAR in space market are abundant, especially in satellite technology development, sensor manufacturing, and data analytics platforms. Companies investing in next-generation SAR sensors that offer higher resolution, faster revisit times, and enhanced capabilities can capitalize on increasing demand from defense, agriculture, and environmental sectors. There is also significant potential in developing integrated data solutions that combine SAR imagery with other remote sensing data for comprehensive analysis. Public-private partnerships and government contracts for Earth observation projects present lucrative avenues for investment. Additionally, investing in satellite launch services and small satellite constellations tailored for SAR applications can generate substantial returns. As the market expands, opportunities also exist in developing AI-powered analytics tools to interpret SAR data efficiently. Overall, technological innovation and strategic collaborations are key areas for profitable investments in this sector. What are the major challenges affecting the growth of the United States Synthetic Aperture Radar In Space Market? The U.S. SAR space market faces several challenges that could hinder its growth. High costs associated with satellite development, launch, and maintenance pose significant barriers, especially for smaller organizations or startups. Technical complexities in designing and deploying advanced SAR sensors require specialized expertise and substantial R&D investments. Regulatory and security concerns, including export controls and data privacy issues, can restrict market expansion and international collaborations. Additionally, the saturation of satellite data sources and increasing competition may limit market profitability. Technical limitations such as data latency, resolution constraints, and the need for extensive ground infrastructure can also impede growth. Moreover, geopolitical tensions and budget constraints within government agencies may result in reduced funding or delays in satellite deployment. Overcoming these challenges requires strategic planning, technological innovation, and supportive policy frameworks to sustain market growth. United States Synthetic Aperture Radar In Space Market Segmentation Analysis Application Aerospace and Defense Agriculture Type of Satellite Small Satellites
-- Coordinated Attitude Control for Synthetic Aperture Radar Satellites with Quantization and Communication Delay - Harbin Institute of Technology Skip to main navigation Skip to search Skip to main content Harbin Institute of Technology Home Search content at Harbin Institute of Technology Home Profiles Research units Research output Coordinated Attitude Control for Synthetic Aperture Radar Satellites with Quantization and Communication Delay Jingbo Fu * , Ming Liu , Huayi Li , Xibin Cao * Corresponding author for this work School of Astronautics, Harbin Institute of Technology Research output : Contribution to journal › Article › peer-review 14 Link opens in a new tab Scopus citations Overview Fingerprint Abstract This paper studies the coordinated attitude control problem of synthetic aperture radar satellites and proposes two types of terminal sliding mode control schemes. The first control law is investigated based on the conventional non-singular terminal sliding mode approach and modified Rodrigues parameters with the consideration of signal quantization and communication delay. Based on the first control scheme, we develop the second control method with an integral-based event triggering condition to reduce the updating frequency of the control command from controllers to actuators. Finally, numerical simulation examples based on a cluster of three satellites are presented to show the effectiveness of the proposed two designed control methods. Original language English
-- Why Synthetic Aperture Radar (SAR) is CRUCIAL for Earth Observation w Umbra Space's Gabe Dominocielo - The NDS Show Podcast All Podcasts Geospatial Intelligence Military Business Science Sports & Entertainment Tech Latest About NEWSLETTER Connect with us The NDS Show Podcast Why Synthetic Aperture Radar (SAR) is CRUCIAL for Earth Observation w Umbra Space’s Gabe Dominocielo All Podcasts The Return of CIA Spycraft? Iran, Russia, China & the New Intelligence War with Douglas London This OSINT AI Predicts the Future to Mitigate Risks and Protect Against Threats The Untold SACRIFICE of Law Enforcement (Extreme Violence & Scandals) | ATF Agent Peter Forcelli UNBELIEVABLE: Overcoming INSANE Adversity with Joe O’Connor The MINDBLOWING Meaning behind the HEROIC Monuments of Austin Weishel Geospatial What Is GEOINT? The Intelligence Discipline That Sees Everything Satellite Imagery in Modern Intelligence: From Spy Planes to Commercial GEOINT Pentagon’s “Ghost Recon” Program: Why the DoD Wants Satellites That Spy on Other Satellites Pentagon’s ‘Ghost Recon’ Program: Why the DoD Wants Satellites That Spy on Other Satellites What Does a GIS Analyst Actually Do in National Security? Intelligence Russia Is Feeding Iran Intel to Target U.S. Forces The 18 U.S. Intelligence Agencies: What Each One Actually Does How Intelligence Agencies Protect Their Sources and Methods How to Get Into the Intelligence Community: Career Paths and Clearances The Five Eyes Alliance Explained: Inside the World’s Most Powerful Intelligence Partnership Military Europe’s Defense Spending Surge: What NATO’s 5% GDP Target Means for America How US Intelligence Helped Mexico Kill Drug Lord El Mencho Directed Energy Weapons: The Invisible Arsenal Reshaping Modern Warfare The Army’s New Bullet Turns Apaches Into Drone Killers Space Force Races to Prepare for War in Orbit Business
-- ESA - High-resolution radar satellites launched for Greece Applications High-resolution radar satellites launched for Greece 29/11/2025 11630 views 53 likes ESA / Applications / Observing the Earth Thanks to the EU-funded Recovery and Resilience Facility, and through collaboration between the Greek government, the private satellite company ICEYE and the European Space Agency (ESA), two new high-resolution radar satellites have been launched to strengthen disaster management, environmental monitoring and national security across Greece. The two ICEYE synthetic aperture radar satellites, integrated via Exolaunch, were lifted into orbit on 28 November 2025, aboard the SpaceX Transporter-15 rideshare mission from Vandenberg Space Force Base, California, USA – which also included two ESA HydroGNSS Scout satellites and the next batch of Italy’s IRIDE satellites. These new ICEYE satellites mark the first launch of the operational Earth observation satellites under the Greek National Small Satellite Programme, which foresees a constellation of 13 satellites, grouped into four categories based on their measurement instruments. Financed by Greece through the EU Recovery and Resilience Facility , the programme is designed to advance Greece’s satellite technology and application capabilities, promote job creation and economic growth, and strengthen the country’s capacity for disaster management, continuous environmental monitoring and national security. An ICEYE satellite While the Hellenic Space Center and the Greek Ministry of Digital Governance lead the project, ESA provides the overarching framework and supports ICEYE’s development of both satellites. Through this role, ESA ensures that such national initiatives contribute to, and benefit from, a unified system for Earth observation data exchange among its Member States. The two new ICEYE satellites, which each weigh around 120 kg, use X-band in several observation modes to provide day-and-night high-resolution images, up to 25 cm resolution. Information from the two satellites will enhance Greece's capabilities in disaster management and national security. They will enable faster response times and more effective management of natural disasters such as floods, wildfires and landslides. Greece has an agreement with ICEYE under which the satellites will be operated in orbit by ICEYE. Through this partnership, Greece also gains access to ICEYE’s existing synthetic aperture radar satellite constellation – the largest of its kind in the world – enabling the country to monitor its areas of interest while developing its own space capabilities. ESA’s Director of Earth Observation Programmes, Simonetta Cheli, said, “The selection of ICEYE to develop the synthetic aperture radar satellites for Greece underlines ESA’s ongoing commitment to supporting national space initiatives from its Member States. Athens from ICEYE “And, speaking of national space initiatives, the next batch of IRIDE satellites for Italy were also launched on the same rocket. This approach also showcases ESA’s distinctive role in maximising the shared benefits of such programmes through a unified framework for Earth observation data exchange. “The inclusion of ICEYE’s X-band synthetic aperture radar capability in the Greek National Small Satellite Programme is a compelling example of how space technologies translate into tangible and vital benefits on Earth.” Greece’s Minister of Digital Governance and AI, Dimitrios Papastergiou, said, “The launch of the two ICEYE satellites marks a significant step forward for Greece’s ability to monitor and protect key areas of interest, both on land and at sea, in day and night and under any weather conditions. They will not only strengthen our disaster response capabilities but will also drive innovation within the Greek space sector.” Next year, an additional eleven operational Earth observation satellites will join the constellation under the Greek National Small Satellite Programme, further enhancing Greece’s Earth observation and space monitoring capabilities. This expansion will include four thermal-infrared satellites developed by OroraTech, designed to detect heat signatures and monitor wildfires and thermal activity, along with seven high-resolution optical satellites developed by Open Cosmos, providing detailed imagery to support environmental monitoring, agriculture and urban planning. Like Thank you for liking You have already liked this page, you can only like it once! Related Articles Story Applications
-- radarsat-1 synthetic aperture: Topics by Science.gov Toggle navigation Topics by Science.gov Home About Science.gov Sample records for radarsat-1 synthetic aperture « 1 2 3 4 5 » Forest-cover-type separation using RADARSAT-1 synthetic aperture radar imagery Treesearch Mark D. Nelson; Kathleen T. Ward; Marvin E. Bauer 2009-01-01 RADARSAT-1 synthetic aperture radar data, speckle reduction, and texture measures provided for separation among forest types within the Twin Cities metropolitan area, MN, USA. The highest transformed divergence values for 16-bit data resulted from speckle filtering while the highest values for 8-bit data resulted from the orthorectified image, before and after... Multi-temporal RADARSAT-1 and ERS backscattering signatures of coastal wetlands in southeastern Louisiana USGS Publications Warehouse Kwoun, Oh-Ig; Lu, Z. 2009-01-01 Using multi-temporal European Remote-sensing Satellites (ERS-1/-2) and Canadian Radar Satellite (RADARSAT-1) synthetic aperture radar (SAR) data over the Louisiana coastal zone, we characterize seasonal variations of radar backscat-tering according to vegetation type. Our main findings are as follows. First, ERS-1/-2 and RADARSAT-1 require careful radiometric calibration to perform multi-temporal backscattering analysis for wetland mapping. We use SAR backscattering signals from cities for the relative calibration. Second, using seasonally averaged backscattering coefficients from ERS-1/-2 and RADARSAT-1, we can differentiate most forests (bottomland and swamp forests) and marshes (freshwater, intermediate, brackish, and saline marshes) in coastal wetlands. The student t-test results support the usefulness of season-averaged backscatter data for classification. Third, combining SAR backscattering coefficients and an optical-sensor-based normalized difference vegetation index can provide further insight into vegetation type and enhance the separation between forests and marshes. Our study demonstrates that SAR can provide necessary information to characterize coastal wetlands and monitor their changes. RADARSAT: The Antarctic Mapping Project NASA Technical Reports Server (NTRS) Jezek, Kenneth C.; Lindstrom, E. (Technical Monitor) 2002-01-01 The first Antarctic Imaging Campaign (AIC) occurred during the period September 9, 1997 through October 20, 1997. The AIC utilized the unique attributes of the Canadian RADARSAT-1 to acquire the first, high-resolution, synthetic aperture imagery covering the entire Antarctic Continent. Although the primary goal of the mission was the acquisition of image data, the nearly flawless execution of the mission enabled additional collections of exact repeat orbit data. These data, covering an extensive portion of the interior Antarctic, potentially are suitable for interferometric analysis of topography and surface velocity. This document summarizes the Project through completion with delivery of products to the NASA DAACs. Intercomparison of synthetic- and real-aperture radar observations of Arctic sea ice during winter MIZEX '87 NASA Technical Reports Server (NTRS) Schuchmann, R. A.; Onstott, R. G.; Sutherland, L. L.; Wackerman, C. C. 1988-01-01 Active microwave measurements were made of various sea ice forms in March and April 1987 during the Marginal Ice Zone Experiment, at 1, 5, 10, 18, and 35 GHz using a synthetic aperture radar (SAR) and helicopter and ship-based scatterometers. The X-band (9.8 GHz) SAR data were compared to the scatterometer data and it was determined that for 5 GHz and higher frequencies both the SAR and scatterometers can differentiate open water, new ice (5 to 30 cm), first-year ice with rubble (0.60 -1.5 m), and multiyear ice. The analysis further confirmed that the C-band (5 GHz) SAR's flying on ESA ERS-1 and Radarsat will differentiate the mentioned ice types. Interpreting sea surface slicks on the basis of the normalized radar cross-section model using RADARSAT-2 copolarization dual-channel SAR images NASA Astrophysics Data System (ADS) Ivonin, D. V.; Skrunes, S.; Brekke, C.; Ivanov, A. Yu. 2016-03-01 A simple automatic multipolarization technique for discrimination of main types of thin oil films (of thickness less than the radio wave skin depth) from natural ones is proposed. It is based on a new multipolarization parameter related to the ratio between the damping in the slick of specially normalized resonant and nonresonant signals calculated using the normalized radar cross-section model proposed by Kudryavtsev et al. (2003a). The technique is tested on RADARSAT-2 copolarization (VV/HH) synthetic aperture radar images of slicks of a priori known provenance (mineral oils, e.g., emulsion and crude oil, and plant oil served to model a natural slick) released during annual oil-on-water exercises in the North Sea in 2011 and 2012. It has been shown that the suggested multipolarization parameter gives new capabilities in interpreting slicks visible on synthetic aperture radar images while allowing discrimination between mineral oil and plant oil slicks. Geological evaluation of Radarsat data: Plans and preliminary results
-- Top Career Content from LinkedIn Members Skip to main content LinkedIn Top Content People Learning Jobs Games Join now Sign in Top Content Career Explore top LinkedIn content from expert professionals. Robert Dur Professor of Economics, Erasmus University Rotterdam; Voorzitter Economenvereniging KVS (Koninklijke Vereniging voor de Staathuishoudkunde) 24,037 followers 2w Report this post Does becoming a parent affect academic trajectories? Yes, and particularly so for women: 🔹University employment drops by almost 30 percent for women, much less so for men. 🔹Probability of being tenured is about 35 percent lower for women, no change for men. 🔹Number of publications is 31 to 35 percent lower for women, no change for men. These are among the key results of a new study by Sofie Cairo , Ria Ivandic , Anne Sophie Lassen , and Valentina Tartari using rich Danish admin data. Why do women’s and men’s career trajectories diverge sharply after parenthood? The paper studies a series of candidate explanations and finds that the gap in childcare load seems mainly responsible: "women academics do almost five times more childcare than their male academic counterparts. For example, 55% of female researchers get up at night to take care of the child most or all the time, in comparison to 11% of men". Read the full paper here: Sofie Cairo, Ria Ivandic, Anne Sophie Lassen, and Valentina Tartari (2026), Parenthood and the career ladder: evidence from academia, Centre for Economic Performance discussion paper: https://lnkd.in/eK2gWzSb …more No more previous content No more next content
-- Synthetic-Aperture Radar (SAR), Earth Observation, and Mapping - Geography Realm Skip to content Menu Menu Geography Printables Geography Physical Geography Human Geography GIS Introduction to GIS GIS Articles GIS Tutorials GIS Jobs GIS Conferences Maps Contact About Synthetic-Aperture Radar (SAR), Earth Observation, and Mapping By: Mark Altaweel Last updated: August 12, 2024 GIS Data Synthetic-aperture radar (SAR) has been increasingly used for Earth observations. Advancements in computing and satellite systems enable more use of this technology. We can expect SAR to be a key part of future developments in satellite observations. The use of synthetic-aperture radar (SAR) has been somewhat limited, at least in spaceborne imagery and use in remote sensing . In large part, this is because of the complexities of processing and providing the data that are easy to understand, outside of a limited group of computational and geospatial specialists. However, now SAR is becoming more widely available and increasingly part of Earth observation satellites and data provided, including those sponsored by private companies such as ICEYE. [1] In a MapScaping podcast , ICEYE’s Eric Jensen discusses the increasing benefits provided by SAR. What is Synthetic-Aperture Radar? Technology that makes SAR possible has been in development since World War II, as effectively the data represent developments in radar that have occurred since that time. The data consist of microwave data sent by an active sensor, that is the data are emitted from an energy source within an observation platform such as a satellite, and the energy then is reflected back from the surface of objects such as Earth. The radar microwave data that area reflected are then read. The microwaves are at a scale of usually centimetres wavelength, making them much larger than light waves. The radar instrumentation and antenna determine the spatial resolution of the data. Synthetic aperture is used to effectively create a sensor that works like a large antenna, which allows that radar collection to utilize a much smaller data receiver, enabling more fine-scale resolution to be observed. The first radar image obtained with the ICEYE-X1 SAR satellite on 15 January 2018, at 21:47 UTC. The image depicts Noatak National Preserve, Alaska. Image: ICEYE The instrumentation on SAR allows different pulses to not only be actively sent but also data can be recorded from different angels. Data can be then compiled to create composite or multiple imagery of features. Different wavelengths are measured, making SAR effective for range finding using different frequency bands, helping to measure surface roughness and different scales of surface properties. Bands, such as U band, enable vegetation and soil property measurements. Additionally, there is a wide variety of band types, including KA, K, KU, C, S, and others that are used. Higher frequency bands are less able to penetrate objects such as clouds. Larger wavelengths allow relatively easier penetration of clouds; radar data also allow you to operate at night. The qualities of penetrating cloud cover and for the satellites useful for night conditions have made SAR vital for Earth observation given few other sensors have such qualities. [2]
-- Another Commercial Imaging Group [Long March 2C Y55] Subscribe Sign in Another Commercial Imaging Group [Long March 2C Y55] Four new X-band synthetic aperture radar imaging satellites are in orbit after a launch from Jiuquan. Jack C. Nov 09, 2024 Share The Long March 2C Y55 vehicle during first-stage flight. A Long March 2C blasted off from Launch Area 4 at the Jiuquan Satellite Launch Center at 11:39 am China Standard Time, or 03:39 am Universal Coordinated Time, on November 9th. This launch had the vehicle flying to a sun-synchronus orbit carrying four satellites. The four spacecraft atop of the rocket were a group of PIESAT-02 satellites. These satellites were developed by the Shanghai Academy of Spaceflight Technology for X-band synthetic aperture radar imaging. These satellites will be owned and operated by Zhuzhou Space Interstellar Satellite Technology Co Ltd (株洲太空星际卫星科技有限公司), doubling the size of their satellite fleet. The four PIESAT-2 satellites in a cleanroom prior to integration on the launch vehicle. In March 2023 Zhuzhou Space’s first group of PIESAT spacecraft were launched from the Taiyuan Satellite Launch Center, and placed into a sun-synchronous orbit. Back in October of this year , the company announced that it would launch twelve more satellites to build sixteen spacecraft synthetic aperture radar imaging constellation. This constellation, believed to be called “Zhuzhou Constellation”, would allow for regular revisit imaging for most of China once operational, with the company’s technical director Tang Daquan (汤大权) stating : "After all 16 satellites are launched, the time interval between two consecutive observations of the same location can be greatly shortened. Any location in the country can be revisited within 2.5 hours, thus enhancing the efficiency of imaging monitoring and deformation measurement on a global scale" If there are any problems with this translation please reach out and correct me . Based on the plans announced last month , at least two more launches are expected. One of these launches will take place in December and the other before the end of March 2025. Four C-band synthetic aperture radar satellites are also planned to be a part of the constellation. The constellation is currently expected to be fully operational in mid-2025. The patch for the Long March 2C Y55 launch mission. To allow the four satellites to be delivered in one mission, the Long March 2C was equipped with its 4.2-meter diameter fairing along with a central load-bearing structure. This was the 80th launch of the Long March 2C, and was the 544th launch of the Long March launch vehicle series. Along with these, this was also the 53rd launch from China in 2024. Liftoff video via 北京蓝龙 and 航天五线谱 on Weibo.
-- Explore SAR satellite imagery | Documentation Contents Overview Requirements Outline Map deforestation Download and open the project Explore the map and understand the symbology Compare SAR images Monitor maritime activity Symbolize the imagery Interpret the data Identify flooded areas Create color composites Fine-tune the symbology Compare the color composites Acknowledgements Ready to learn more? Related Esri training Skip To Content Documentation Topics Tutorials Explore SAR satellite imagery Elizabeth Ashley Menezes is a raster product engineer on the Imagery and Remote Sensing team at Esri. She focuses on UX/UI design and development of radar- and SAR-based capabilities. Author Duration Difficulty Tutorials Explore SAR satellite imagery Contents Satellites with Synthetic Aperture Radar (SAR) sensors produce images based on radar technology. One of SAR's strengths is that it can create clear images in both daytime and nighttime and regardless of the presence of clouds, smoke, and rain. It has many applications and is often used to detect changes in the environment due to natural- or human-induced events. In this tutorial, you will explore three applications of SAR imagery: mapping deforestation, monitoring maritime activity, and identifying flooded areas. Your exploration will take you to Brazil, the Panama Canal, and Texas, and you will learn the basics of working with SAR imagery. The SAR images you'll use in this tutorial were downloaded from SAR imagery providers as Ground Range Detected (GRD) data products, and were then processed using ArcGIS Pro tools from the Synthetic Aperture Radar toolset to produce analysis-ready SAR data. So, they are ready for you to start exploring and interpreting them. This tutorial was last tested on February 27, 2025, using
-- PRESSR: Space42 ships first UAE-integrated and tested synthetic aperture radar satellites to expand its foresight constellation — TradingView News Search Products Community Markets Brokers More EN Get started News / Zawya / PRESSR: Space42 ships first UAE-integrated and tested synthetic aperture radar satellites to expand its foresight constellation PRESSR: Space42 ships first UAE-integrated and tested synthetic aperture radar satellites to expand its foresight constellation Refinitiv 4 min read SPACE42 Foresight-3, Foresight-4, and Foresight-5 will expand Space42’s Earth Observation Foresight Constellation Abu Dhabi, UAE : Space42 SPACE42 , the UAE-based AI-powered SpaceTech company with global reach, has successfully shipped three Synthetic Aperture Radar (SAR) satellites, Foresight-3, Foresight-4, and Foresight-5, from its Space42 Space Systems facility in Abu Dhabi to the United States. The SAR satellites were manufactured in partnership with ICEYE, the global leader in SAR satellite operations. The milestone marks the first time advanced SAR satellites have completed critical integration and testing activities in the UAE within the Space42 AIT (Assembly, Integration, and Testing) facility. It advances sovereign resilience and accelerates progress toward the UAE’s National Space Strategy 2030. Anchored in Space42’s strategy of becoming the preferred partner for premium geospatial data, this program reaffirms the UAE’s leadership in Earth Observation, geospatial intelligence, satellite innovation, and advanced manufacturing. Khalid Al Awadhi, SVP Earth Observation Systems, Space42, said: “This is a proud moment for Space42 and the UAE. For the first time, satellites equipped with cutting-edge SAR technology have been tested in the UAE. This reflects how far we have come: from reliance on imported technology to building advanced platforms with our global partners. These satellites will expand our Foresight Constellation, deepen our sovereign capability, and reaffirm the UAE’s leadership in the next generation of AI-powered Space Technology.” Expanding the Foresight Constellation Foresight-3, -4, and -5 will join Space42’s EO Foresight Constellation, delivering persistent, all-weather imagery at 25-centimetre resolution with global coverage. The constellation will now offer enhanced tactical access to its premium SAR imagery products, enabling precise insights for disaster response, climate monitoring, urban planning, logistics, and national security. The imagery is analyzed by Space42’s AI platform, GIQ, which delivers decision-grade geospatial intelligence for planning, operations, and risk response across government and enterprise. With two satellites (Foresight-1 launched in August 2024 and -2 launched in January 2025) already in orbit, the addition of Foresight-3, -4, and -5 brings the constellation closer to its target, achieving constellation maturity in 2027. This expansion strengthens Space42’s position in the fast-growing market for high-resolution, rapid-delivery EO data. International Collaboration Driving Innovation The development of Foresight-3, -4, and -5 highlights the strength of distributed manufacturing and international collaboration. From production in Finland to AIT in the UAE, the program demonstrates how global partnership accelerates innovation and strengthens supply chain resilience. This model positions the UAE as both a sovereign operator and a trusted partner in advancing EO and shows how cooperation with global leaders like ICEYE expands capabilities while enhancing national independence. Building Sovereign Capability at Home The UAE’s growing SpaceTech leadership and manufacturing base is enabled by domestic AIT capability, Emirati engineering and leadership, and collaboration with global partners, ensuring milestones and key activities are met on time and budget. By embedding full AIT capabilities and vertically integrating satellite technology, Space42 and the UAE gain strategic agility: shaping timelines, missions, and system design. This level of capability, available to only a handful of nations, ensures the UAE can align its space assets with national and economic priorities, while cultivating the next generation of national talent. Looking ahead, Space42 plans to further grow the constellation through 2027, securing global coverage and strengthening the UAE’s position in the global space economy. About Space42 Space42 SPACE42 is a UAE-based AI-powered SpaceTech company that integrates satellite communications, geospatial analytics and artificial intelligence capabilities to enlighten the Earth from space. Formed in 2024 by the successful merger of Bayanat and Yahsat, Space42’s global reach allows it to address the rapidly evolving needs of its customers in governments, enterprises, and communities. Space42 comprises two business units: Space Services and Smart Solutions. Space Services focuses on upstream satellite operations for both fixed and mobility satellite services. Smart Solutions integrates geospatial data acquisition and processing with AI to inform decision-making, enhance situational awareness, and improve operational efficiency. Major shareholders include G42, Mubadala, and IHC.
-- Synthetic Aperture Radar Systems | Springer Nature Link Skip to main content Advertisement Log in Menu Find a journal Publish with us Track your research Search Saved research Cart Home Encyclopedia of Coastal Science Reference work entry Synthetic Aperture Radar Systems Reference work entry First Online: 01 January 2021 pp 1674–1677 Cite this reference work entry Encyclopedia of Coastal Science R. Keith Raney 5 Part of the book series: Encyclopedia of Earth Sciences Series ((EESS)) 605 Accesses A synthetic aperture radar (SAR) is a remote sensing imaging system whose primary output product is a two-dimensional mapping of the radar brightness of a scene. Radar brightness is an expression of the scene’s reflectivity in response to oblique illumination by microwave electromagnetic emissions. By definition, a SAR must be mounted on a moving platform, such as an aircraft or a satellite, and its illumination is directed to the side (and downward) to the surface. Its images are formed by scanning the area in two dimensions: range and azimuth. Range scanning is essentially at the speed of light, as radar pulses are transmitted and their reflections (backscatter) are received and recorded. Azimuth scanning is accomplished by the forward motion of the radar. SAR imaging “works” because the speed of light is very much greater than the along-track velocity of the radar. As the radar progresses along its flight path, the reflected signals from each transmission are collected and stored... This is a preview of subscription content, log in via an institution to check access. Access this chapter Log in via an institution Subscribe and save Springer+ from $39.99 /Month Starting from 10 chapters or articles per month Access and download chapters and articles from more than 300k books and 2,500 journals Cancel anytime
-- Open Data Program • Umbra Skip to content Remote Sensing Expand Dwell mode Spotlight mode Scan mode Open Data Pricing Mission Solutions Space Systems About Media Center Expand Press Releases Umbra in the News In Our Own Words Careers Contact Toggle Menu Open data program Time-series SAR data. Updated frequently. Millions worth of free data. No sign-up required. Access the dataset About the program Umbra satellites offer the highest commercially available SAR imagery, surpassing 25 cm resolution. Capable of capturing images day or night, through clouds, smoke, and rain, our technology enables all-weather monitoring. The Open Data Program monitors 20+ global locations, leveraging SAR’s unique capabilities for change monitoring. Explore our data to track floating oil lid inventory, deforestation, mines, container ports, and beyond. Play Resources on AWS Spotlight collects including GEC, SICD, SIDD, CPHD data and metadata Dataset STAC Catalog Multiple time-series locations The dataset features over twenty diverse locations to experiment with SAR’s capabilities. The number of locations will continue expanding throughout the year. Time-Series Applications With frequent updates of each location weekly, our goal is to provide you with a deep understanding on what’s possible with our data. Spotlight Mode Data Offering single-looked spotlight data in either 25cm, 35cm, 50cm, or 1m resolution, as well as multi-looked spotlight data. Assorted Collections Over 1000+ locations imaged, ranging from emergency response, ports, to picturesque places. Licensing
-- Synthetic Aperture Radar April 9 2026 Home -- R&D Home -- Resources SAR Image of Castle Bay, Alaska acquired in October of 1997 Synthetic Aperture Radar (SAR) is an active remote sensing technology which uses microwave electromagnetic energy to form complex images of terrain reflectivity. Because SAR is largely unaffected by the presence of dense cloud cover, it delivers flexibility over weather constraints, and introduces the possibility of nighttime operations. Over the past few years, high resolution airborne and satellite SAR systems have become available for civilian use. Some systems have resolutions and accuracies that approach those realized photogrammetrically. The scene above shows a 5 nautical mile stretch of the north coast of Castle Bay, AK, acquired through dense clouds. The image was generated by engineers at NGS from raw phase history data acquired aboard the Environmental Research Institute of Michigan (ERIM) DCS aircraft, and using image formation code written at Sandia National Labs (SNL). Below, the left photo shows the view out the starboard window of the ERIM aircraft at the time the SAR image was acquired. The right photo shows NOAA and ERIM engineers in the DCS aircraft, on station over Castle Bay. View from ERIM aircraft over Castle Bay, AK NOAA and ERIM engineers aboard ERIM aircraft In a second experiment with airborne SAR, NGS has contracted with a private vendor, INTERMAP Technologies Ltd. , to obtain STAR-3i imagery of Yakutat, AK. Shoreline data mapped from this system will be compared to shoreline measured photogrammetrically.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
-- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- What is Quantum Error Correction (QEC) Back to Glossary page Quantum Error Correction (QEC) Quantum Error Correction (QEC) Quantum Error Correction (QEC) is a critical component for building practical and reliable quantum computers. Qubits, regardless of modality, are highly susceptible to noise and environmental disturbances that can alter their states. By constructing logical qubits from collections of physical qubits and using error correction codes, QEC detects and corrects errors, enabling longer and more accurate quantum computations. The most common method of QEC is to encode a logical qubit using several physical qubits. By entangling these qubits and carefully choosing the encoding, errors in individual qubits can be detected and corrected without directly measuring the qubits' states, thus preserving their quantum information. The Quantum Error Correction Codes, such as the Shor code and the Surface code, are examples of schemes that apply these principles. These codes can correct for various types of errors, including bit-flip and phase-flip errors. Quantum Error Correction is vital for the development of large-scale, fault-tolerant quantum computers. Without effective error correction, quantum computations become unreliable as the size and complexity of a quantum system increase. However, implementing QEC in physical systems is highly challenging. It requires a significant overhead in terms of additional qubits and gates, and the precise control necessary to detect and correct errors without disturbing the delicate quantum states is a significant technical hurdle. Some of the key concepts of QEC include: The quantum error correction code : This is the way quantum information is encoded into logical qubits. A critical parameter of an error correction code is its code distance , which defines the minimum number of physical qubits that need to fail simultaneously to compromise the logical qubit. Higher code distances improve error tolerance when the physical error rate is below the threshold, but generally require more physical qubits, increasing resource overhead. Syndrome extraction : Syndrome extraction is the process of measuring auxiliary qubits, often called ancilla qubits , to gather information about errors without disturbing the quantum information encoded in the logical qubits. This involves carefully designed quantum circuits that interact the data qubits with ancilla qubits. The outcomes of these measurements, known as syndromes , reveal whether and where errors have occurred, without collapsing the quantum state of the logical qubits themselves. Decoding : Decoding refers to the interpretation of syndrome data to determine the specific error or set of errors that has occurred. This step involves running classical algorithms to match the syndrome pattern to a plausible error configuration, considering the constraints imposed by the error correction code. Efficient decoders are essential to ensure that errors are accurately identified and corrected in real time. Decoding accuracy and speed are critical factors in achieving practical fault tolerance. Quantum Error Correction represents a critical intersection between the theoretical foundations of quantum computing and the practical challenges of building a quantum computer . It's an area of active research and development, with ongoing progress essential for the future of quantum technology. What is Quantum Error Correction Two classes of error correction codes help summarize popular approaches to implementing fault tolerance on quantum computers. Technically, surface codes are actually examples of stabilizer codes. However, the terms can arise separately, and so here are high level descriptions for both, as well as how to distinguish between them: Stabilizer codes use measurements to detect errors and then use classical logic to apply specific error-correcting operations to the corrupted qubits; an intuition for this can be found in examples of the Shor code and the Steane code Surface codes are two-dimensional lattices of physical qubits that form logical qubits with topological protection, which means that errors can occur throughout the lattice without negatively affecting the global state of the logical qubit As shown by the Shor and Steane codes, stabilizer codes can be demonstrated with quantum algorithms. On quantum computers that support dynamic circuits, mid-circuit measurements can be taken of stabilizer qubits, and then classical logic can implement specific operations, conditional to those measurements, in real-time during the execution time of the algorithm. One relatively-simple method to implement stabilizer qubits is to entangle and disentangle qubits in such a way that each qubit will measure 0 if its neighboring qubits are the same and 1 if they are different. A paper titled “ Quantum Error Correction: An Introductory Guide ” by Joschka Roffe of the Department of Physics & Astronomy at the University of Sheffield provides a 29-page introduction to quantum error correction. The paper goes into considerably more detail about stabilizer codes and surface codes. The author provides a combination of visuals, mathematics, and circuit diagrams. An additional article worth reading is Quantum Error Correction – The Key To Realizing Quantum Computing’s Potential. The Quantum Error Correction Paradox A Q-CTRL blog post titled “ What is Quantum Error Correction? ” explains a paradox that arises in trying to build fault-tolerant quantum computers. Although estimates vary, a common projection is that 1000 physical qubits will be required to achieve a single logical qubit. Therefore, attempting to make quantum computers useful paradoxically reduces the resources available to do anything useful. The page includes an explanatory video which visualizes
+- quantum error-correcting codes: Topics by Science.gov Toggle navigation Topics by Science.gov Home About Science.gov Sample records for quantum error-correcting codes « 1 2 3 4 5 » Learning time-dependent noise to reduce logical errors: real time error rate estimation in quantum error correction NASA Astrophysics Data System (ADS) Huo, Ming-Xia; Li, Ying 2017-12-01 Quantum error correction is important to quantum information processing, which allows us to reliably process information encoded in quantum error correction codes. Efficient quantum error correction benefits from the knowledge of error rates. We propose a protocol for monitoring error rates in real time without interrupting the quantum error correction. Any adaptation of the quantum error correction code or its implementation circuit is not required. The protocol can be directly applied to the most advanced quantum error correction techniques, e.g. surface code. A Gaussian processes algorithm is used to estimate and predict error rates based on error correction data in the past. We find that using these estimated error rates, the probability of error correction failures can be significantly reduced by a factor increasing with the code distance. Quantum Error Correction NASA Astrophysics Data System (ADS) Lidar, Daniel A.; Brun, Todd A. 2013-09-01 Prologue; Preface; Part I. Background: 1. Introduction to decoherence and noise in open quantum systems Daniel Lidar and Todd Brun; 2. Introduction to quantum error correction Dave Bacon; 3. Introduction to decoherence-free subspaces and noiseless subsystems Daniel Lidar; 4. Introduction to quantum dynamical decoupling Lorenza Viola; 5. Introduction to quantum fault tolerance Panos Aliferis; Part II. Generalized Approaches to Quantum Error Correction: 6. Operator quantum error correction David Kribs and David Poulin; 7. Entanglement-assisted quantum error-correcting codes Todd Brun and Min-Hsiu Hsieh; 8. Continuous-time quantum error correction Ognyan Oreshkov; Part III. Advanced Quantum Codes: 9. Quantum convolutional codes Mark Wilde; 10. Non-additive quantum codes Markus Grassl and Martin RÃ¶tteler; 11. Iterative quantum coding systems David Poulin; 12. Algebraic quantum coding theory Andreas Klappenecker; 13. Optimization-based quantum error correction Andrew Fletcher; Part IV. Advanced Dynamical Decoupling: 14. High order dynamical decoupling Zhen-Yu Wang and Ren-Bao Liu; 15. Combinatorial approaches to dynamical decoupling Martin RÃ¶tteler and Pawel Wocjan; Part V. Alternative Quantum Computation Approaches: 16. Holonomic quantum computation Paolo Zanardi; 17. Fault tolerance for holonomic quantum computation Ognyan Oreshkov, Todd Brun and Daniel Lidar; 18. Fault tolerant measurement-based quantum computing Debbie Leung; Part VI. Topological Methods: 19. Topological codes HÃ©ctor BombÃ­n; 20. Fault tolerant topological cluster state quantum computing Austin Fowler and Kovid Goyal; Part VII. Applications and Implementations: 21. Experimental quantum error correction Dave Bacon; 22. Experimental dynamical decoupling Lorenza Viola; 23. Architectures Jacob Taylor; 24. Error correction in quantum communication Mark Wilde; Part VIII. Critical Evaluation of Fault Tolerance: 25. Hamiltonian methods in QEC and fault tolerance Eduardo Novais, Eduardo Mucciolo and Harold Baranger; 26. Critique of fault-tolerant quantum information processing Robert Alicki; References; Index. New Class of Quantum Error-Correcting Codes for a Bosonic Mode NASA Astrophysics Data System (ADS) Michael, Marios H.; Silveri, Matti; Brierley, R. T.; Albert, Victor V.; Salmilehto, Juha; Jiang, Liang; Girvin, S. M. 2016-07-01 We construct a new class of quantum error-correcting codes for a bosonic mode, which are advantageous for applications in quantum memories, communication, and scalable computation. These "binomial quantum codes" are formed from a finite superposition of Fock states weighted with binomial coefficients. The binomial codes can exactly correct errors that are polynomial up to a specific degree in bosonic creation and annihilation operators, including amplitude damping and displacement noise as well as boson addition and dephasing errors. For realistic continuous-time dissipative evolution, the codes can perform approximate quantum error correction to any given order in the time step between error detection measurements. We present an explicit approximate quantum error recovery operation based on projective measurements and unitary operations. The binomial codes are tailored for detecting boson loss and gain errors by means of measurements of the generalized number parity. We discuss optimization of the binomial codes and demonstrate that by relaxing the parity structure, codes with even lower unrecoverable error rates can be achieved. The binomial codes are related to existing two-mode bosonic codes, but offer the advantage of requiring only a single bosonic mode to correct amplitude damping as well as the ability to correct other errors. Our codes are similar in spirit to "cat codes" based on superpositions of the coherent states but offer several advantages such as smaller mean boson number, exact rather than approximate orthonormality of the code words, and an explicit unitary operation for repumping energy into the bosonic mode. The binomial quantum codes are realizable with current superconducting circuit technology, and they should prove useful in other quantum technologies, including bosonic quantum memories, photonic quantum communication, and optical-to-microwave up- and down-conversion. New class of photonic quantum error correction codes NASA Astrophysics Data System (ADS) Silveri, Matti; Michael, Marios; Brierley, R. T.; Salmilehto, Juha; Albert, Victor V.; Jiang, Liang; Girvin, S. M. We present a new class of quantum error correction codes for applications in quantum memories, communication and scalable computation. These codes are constructed from a finite superposition of Fock states and can exactly correct errors that are polynomial up to a specified degree in creation and destruction operators. Equivalently, they can perform approximate quantum error correction to any given order in time step for the continuous-time dissipative evolution under these errors. The codes are related to two-mode photonic codes but offer the advantage of requiring only a single photon mode to correct loss (amplitude damping), as well as the ability to correct other errors, e.g. dephasing. Our codes are also similar in spirit to photonic ''cat codes'' but have several advantages including smaller mean occupation number and exact rather than approximate orthogonality of the code words. We analyze how the rate of uncorrectable errors scales with the code complexity and discuss the unitary control for the recovery process. These codes are realizable with current superconducting qubit technology and can increase the fidelity of photonic quantum communication and memories. Quantum steganography and quantum error-correction NASA Astrophysics Data System (ADS) Shaw, Bilal A. Quantum error-correcting codes have been the cornerstone of research in quantum information science (QIS) for more than a decade. Without their conception, quantum computers would be a footnote in the history of science. When researchers embraced the idea that we live in a world where the effects of a noisy environment cannot completely be stripped away from the operations of a quantum computer, the natural way forward was to think about importing classical coding theory into the quantum arena to give birth to quantum error-correcting codes which could help in mitigating the debilitating effects of decoherence on quantum data. We first talk about the six-qubit quantum error-correcting code and show its connections to entanglement-assisted error-correcting coding theory and then to subsystem codes. This code bridges the gap between the five-qubit (perfect) and Steane codes. We discuss two methods to encode one qubit into six physical qubits. Each of the two examples corrects an arbitrary single-qubit error. The first example is a degenerate six-qubit quantum error-correcting code. We explicitly provide the stabilizer generators, encoding circuits, codewords, logical Pauli operators, and logical CNOT operator for this code. We also show how to convert this code into a non-trivial subsystem code that saturates the subsystem Singleton bound. We then prove that a six-qubit code without entanglement assistance cannot simultaneously possess a Calderbank-Shor-Steane (CSS) stabilizer and correct an arbitrary single-qubit error. A corollary of this result is that the Steane seven-qubit code is the smallest single-error correcting CSS code. Our second example is the construction of a non-degenerate six-qubit CSS entanglement-assisted code. This code uses one bit of entanglement (an ebit) shared between the sender (Alice) and the receiver (Bob) and corrects an arbitrary single-qubit error. Th...
+- Quantum Error Correction · Chair for Design Automation Chair for Design Automation School of Computation, Information and Technology Technical University of Munich Home/News Team Research Quantum Computing Microfluidics Nanotechnology Logic Synthesis Physical Design Machine Learning Design Automation for ETCS Publications Teaching Awards Public Outreach Videos How To Find Us â Quantum Computing Quantum Error Correction In classical computing, coding theory is an essential field of research with widespread influence in both theory and practical applications, e.g., Wifi, Bluetooth, and 4G/5G. The nature of qubits and quantum operations in quantum computing is very fragile and error-prone, which leads to the fact that quantum algorithms are currently unusable in practice and quantum advantage is out of reach. Thus, Quantum Error-Correction (QEC), i.e., methods to protect quantum information from noise, is a crucial field of research towards the realization of quantum computers. Currently, it is still unclear what the best QEC protocol is, or which protocol should be used for what scenarios. There are several factors that influence the optimal choice of Quantum Error-Correcting Code (QECC) to implement, e.g., architectural constraints of physical devices, ability of logical operations, and scalability. It is therefore crucial to develop both theoretical groundwork and QEC methods that are physically more realistic and realizable. On this page, we summarize our work on QEC which includes both, theoretical work on state-of-the-art quantum codes and decoding algorithms, and the implementation of open-source software tools for QEC and thereby lies on the interface between theoretical groundwork and practical applications. All proposed software tools have been implemented in the open-source quantum error-correction tool QECC as part of the
+- Quantum Error Correction | Applications of Quantum Mechanics Jump to navigation Applications of Quantum Mechanics Cornell PHYS 3317 Fall 2018 Quantum Error Correction Quantum Codes There is a fundamental problem with quantum computers: any possible speed-up requires quantum entanglement and superpositions. These are vulnerable to environmental noise. For example, consider a state of the form $$ |\psi\rangle= \alpha|\uparrow\rangle+ \beta |\downarrow\rangle, $$ where $\alpha$ and $\beta$ are arbitrary numbers. The states $|\uparrow\rangle$ and $|\downarrow\rangle$ could, for example, be spin states of a defect in silicon. A stray magnetic field in the $\hat z$ direction would cause this state to evolve under the Hamiltonian $$ H=\left(\begin{array}{cc}\epsilon&0\\0&-\epsilon\end{array}\right). $$ As you know from all of the homework problems, after some time $t$ the state would become $$ |\psi\rangle\to \alpha e^{-i\phi}|\uparrow\rangle+ \beta e^{i\phi} |\downarrow\rangle, $$ where $\phi=\epsilon t/\hbar$. The phase relation is messed up. Similarly, a stray field in the $\hat x$ direction would cause this state to evolve under the Hamiltonian$$ H=\left(\begin{array}{cc}0&\epsilon\\ \epsilon&0\end{array}\right). $$ The time evolution here is harder, but you have done this in your homework as well, and the result is $$ |\psi\rangle\to \left(\alpha\cos\phi-i\beta\sin\phi\right)|\uparrow\rangle +\left(\beta\cos\phi-i\alpha\sin\phi\right)|\downarrow\rangle. $$ Again, $\phi=\epsilon t$. Of course $\epsilon$ is random and varies with time. But you get the picture, the state gets messed up pretty quick. We need a strategy to protect the quantum state from the environment. There are two principles that we will apply. First, we somehow want to add redundency. Second, we want the information to be stored in a non-local manner. In classical information theory we would describe such a way of storing information as an "encoding." Thus we describe this strategy as using "quantum codes". The simplest example of a quantum code is the "3-qbit" flip code. It stores one bit of information in three spin-1/2's. The Hilbert space for these three spins is spanned by the 8 states: $\uparrow\uparrow\uparrow,\uparrow\uparrow\downarrow,\uparrow\downarrow\uparrow,\uparrow\downarrow\downarrow, \downarrow\uparrow\uparrow,\downarrow\uparrow\downarrow,\downarrow\downarrow\uparrow,\downarrow\downarrow\downarrow$. We use only two of these, $|0\rangle = |\uparrow\uparrow\uparrow\rangle$, and $|1\rangle=|\downarrow\downarrow\downarrow\rangle$, and the encoding of an arbitrary qbit is $$ |\psi\rangle= \alpha|0\rangle+\beta|1\rangle. $$ Clearly we are using three times the resources that we need to. The benefit is that we can detect and correct any "bit-flip error". In particular, imagine a cosmic ray comes and flips the first bit, $$ |\psi\rangle\to |\psi^\prime\rangle= \alpha |\downarrow\uparrow\uparrow\rangle + \beta|\uparrow\downarrow\downarrow\rangle. $$
+- [1907.11157] Quantum Error Correction: An Introductory Guide Quantum Error Correction: An Introductory Guide \name Joschka Roffe CONTACT Joschka Roffe. Email: j.roffe@sheffield.ac.uk Department of Physics & Astronomy, University of Sheffield, Sheffield, S3 7RH, United Kingdom Abstract Quantum error correction protocols will play a central role in the realisation of quantum computing; the choice of error correction code will influence the full quantum computing stack, from the layout of qubits at the physical level to gate compilation strategies at the software level. As such, familiarity with quantum coding is an essential prerequisite for the understanding of current and future quantum computing architectures. In this review, we provide an introductory guide to the theory and implementation of quantum error correction codes. Where possible, fundamental concepts are described using the simplest examples of detection and correction codes, the working of which can be verified by hand. We outline the construction and operation of the surface code, the most widely pursued error correction protocol for experiment. Finally, we discuss issues that arise in the practical implementation of the surface code and other quantum error correction codes. keywords: Quantum computing; quantum error correction; stabilizer codes; surface codes 1 Introduction In place of the bits in traditional computers, quantum computers work by controlling and manipulating quantum bits (qubits). Through the precise control of quantum phenomena such as entanglement, it is in principle possible for such qubit-based devices to outperform their classical counterparts. To this end, efficient quantum computing algorithms have been developed with applications such as integer factorisation [ 1 ] , search [ 2 ] , optimisation [ 3 ] and quantum chemistry [ 4 ] . There is currently no preferred qubit technology; a variety of physical systems are being explored for use as qubits, including photons [ 5 , 6 ] , trapped ions [ 7 , 8
+- Quantum Error Correction: The Key to Quantum Computing home Our Quantum Advantage challenge with $20,000 BTC award is live. More Details → Home Hackathons Platform Team Blog Research Contact Us Platform Access What Is Quantum Error Correction: The Key to Quantum Computing January 9, 2025 • 7 min read Hrant Gharibyan Co-founder & CEO Quantum computing is taking the tech world by storm. This field uses quantum mechanics to process information in ways far beyond the capabilities of classical computers. Unlike traditional systems that use binary bits, quantum computers use qubits, which can exist in multiple states at the same time due to superposition and entanglement. The result is breakthroughs in areas like quantum cryptography , drug discovery, and materials science. All that said, quantum computing faces major challenges that hinder its practical implementation. Qubits are highly sensitive to environmental noise, temperature fluctuations, and electromagnetic interference, leading to errors in computation. As these errors accumulate, it becomes difficult to maintain accuracy. The biggest challenge is managing and correcting these errors without disrupting the delicate quantum state—a problem unique to quantum computing. This is where quantum error correction (QEC) comes in, presenting a way to detect and fix errors while preserving quantum coherence. As the field reaches new heights, QEC remains a key area of research, with major players like Google, IBM, and Microsoft making efforts to overcome these limitations and unleash the full potential of quantum computing. What Is Quantum Error Correction? Quantum error correction , or quantum computing error correction, is a set of techniques for protecting quantum information from errors that are caused by noise and decoherence. While classical error correction deals with 1s or 0s, QEC involves qubits that exist in superpositions. This makes it a challenging yet key aspect of quantum computing. A common method of QEC is using multiple physical qubits to encode a logical qubit. Entangling these qubits helps detect and correct quantum errors without having to directly measure the qubits’ states. QEC Codes, like the Shor code, are examples of schemes that apply these techniques and can correct various types of errors. There are two classes of error correction codes: surface and stabilizer . Surface codes: refer to two-dimensional lattices of physical qubits that create logical qubits with topological protection. Errors can happen through the lattice without affecting the logical qubit’s global state. ‍ Stabilizer codes: detect errors using measurements and apply error correction to corrupted qubits using classical logic. Examples of this class include the Shor code and Steane code.\ ‍ Types of Quantum Error Correction QEC is divided into three main categories:
+- Quantum error correction with logical qubits | EurekAlert! Advanced Search Home News Releases Multimedia Meetings Login Register News Release 21-Jan-2026 Quantum error correction with logical qubits Scalable and fault-tolerant quantum computers: BMFTR-funded project snaQCs2025 launched Grant and Award Announcement Fraunhofer Institute for Applied Solid State Physics image: Group photo of the participants at the kick-off meeting of the snaQCs2025 project on January 14, 2026, in Cologne. From left to right: Florentin Reiter (Fraunhofer IAF), Carsten Zwilling (point8), Sascha Heußen (neQxt), Florian Kruse (point8), Roman Bansen (neQxt), Nikolas Knake (VDI TZ), Jesko Merkel (point8), Tobias Nauck (Fraunhofer IAF), Edoardo Carnio and Lina Vandré (both neQxt) view more Credit: © Markus Speier Quantum computers have immense potential because they could perform highly complex calculations much faster than current supercomputers. However, the hurdle to the practical application of quantum computers is just as immense today: the error-prone nature of their hardware. Researchers around the world are therefore working on quantum error correction methods to make the calculations of quantum computers more reliable. Against this backdrop, neQxt GmbH, the Fraunhofer Institute for Applied Solid State Physics IAF and Point 8 GmbH have launched the snaQCs2025 project to jointly advance a promising approach to quantum error correction. Using innovative simulation and integration methods, software tools for analysis and optimization, and scalable and error-resistant quantum algorithms, the partners want to develop robust logical quantum bits (qubits) for quantum computing hardware. This approach aims to compensate for the error susceptibility of physical qubits, bringing quantum computing a big step closer to practical use. On January 14, 2026, representatives of the three consortium partners met in Cologne for the project kick-off. The German Federal Ministry of Research, Technology and Space (BMFTR) is supporting the project with €2.5 million over three years as part of the funding program on application-oriented quantum informatics. Making quantum computers more practical “Quantum error correction is a promising approach to significantly reducing the error susceptibility of quantum computers and making the technology more practical. In the snaQCs project, we are demonstrating the practical usability of quantum error correction and fault-tolerant quantum circuits by investigating the integration of error correction routines into quantum algorithms,” explains project coordinator Dr. Sascha Heußen from neQxt. “With an innovative approach that combines analysis, optimization, simulation and fault-tolerant implementation of quantum algorithms, snaQCs is contributing to the realization of scalable quantum computing in Germany,” emphasizes Dr. Florentin Reiter, Head of Business Unit Quantum Systems and snaQCs subproject leader at Fraunhofer IAF. “Quantum computing is one of the most promising topics for the future worldwide. We are very happy to support both progress in this area and Germany as a center of science by contributing our expertise and experience in physics, data analysis and software development to the snaQCs project,” explains Dr. Jesko Merkel, co-founder of point8 and snaQCs subproject leader. Logical qubits outperform physical qubits The most important component of a quantum computer is the qubit. As the central information unit, it performs the same function as the bit in a conventional computer. Companies and scientific institutions around the world are working on various approaches to generating qubits: atoms in electromagnetic traps, electrons in quantum dots, superconducting circuits, or nuclear spins in solids and molecules. Unlike a bit, a qubit can assume several states (such as 0 and 1) simultaneously (superposition). Quantum entanglement also connects several qubits regardless of their distance from each other. What all approaches to realizing these physical qubits have in common is their extreme sensitivity to external influences. Even the weakest microwave pulses, magnetic fields or temperature fluctuations can disrupt the superposition and entanglement of qubits and contaminate the calculations of a quantum computer. The use of quantum error correction can compensate for this: By combining several physical qubits, logical qubits are created in which the errors of individual qubits are compensated for in the network. This is crucial for the scalability of quantum computers: while the susceptibility to errors increases with a rising number of physical qubits, it decreases through their connection to logical qubits. Complete development pipeline for logical qubits, quantum algorithms and analysis software The snaQCs project aims to help unlock the benefits of logical qubits for users and promote the real-world use of quantum computers. To this end, the project partners are working at various levels on the development of particularly reliable logical qubits, optimized, application-oriented quantum algorithms and innovative software for data analysis and characterization. The goal is to provide a complete development pipeline, ranging from the simulation, realization and integration of logical qubits in real quantum computers to the optimization and new development of application-specific and scalable algorithms, as well as data-supported validation and iterative improvement of the methods. The development and experimental implementation of the logical qubits is carried out on ion trap-based quantum computing hardware. Overview: Contributions of the project partners The company neQxt coordinates the joint project and is responsible for the simulation and further development of various quantum error correction methods as well as for the implementation of the developed logical qubits in existing quantum computing hardware. The work at Fraunhofer IAF aims to identify and optimize quantum algorithms and develop new algorithms that are specifically tailored to quantum error correction codes and enable efficient application by industry. The focus is particularly on the scalability of the algorithms. As part of snaQCs, the software company point8 is developing innovative tools for more precise analysis and optimization of quantum error correction circuits. In addition, point8 provides ongoing support to the project partners in experimental data analysis and characterization. About neQxt neQxt GmbH is a full-stack quantum computing company covering the entire spectrum from hardware manufacturing to software development. neQxt is a spin-off of Johannes Gutenberg University Mainz that emerged from the Schmidt-Kaler research group. This allows the company to draw on decades of experience in the field of ion trap quantum computers. neQxt's product portfolio includes quantum computing simulators, portable quantum computer systems, cloud access to quantum computers, and enabling technologies. https://www.neqxt.org/ About Fraunhofer IAF
+- Error Correction in Quantum Networks Products PRODUCTS OVERVIEW Aliro Orchestrator AliroNet® Quickstart AliroNet® Aliro Simulator Use Cases Resources Solution Briefs Webinars Blog Research & Patents FAQ Videos Podcast About Us Company News Events Awards Strategic Partners Become a Partner Careers Contact Us Quantum Education Menu Error Correction in Quantum Networks Keith Kenemer January 09 Twitter Facebook LinkedIn A method of localized, scheduled quantum error correction (Local QEC) developed by researchers at Aliro makes it possible to correct certain errors in an entanglement-based quantum network. In this article, we’ll explain the basics of quantum error correction, and how QEC can be leveraged in an entanglement-based network for more robust connections. Quantum systems provide novel capabilities and at the same time they also impose restrictions on our ability to leverage these new capabilities. For example, the no-cloning theorem in quantum mechanics states that an arbitrary unknown quantum state can not be copied with high fidelity. This restricts how quantum data can be transmitted. On the other hand, it also prevents adversaries from intercepting quantum communications undetected. Entanglement is another uniquely quantum phenomenon which is exploited in quantum networking to support secure communication (via teleportation). The quantum processes involved in entanglement generation and distribution are fundamentally stochastic and this constrains the potential performance, necessitating retries and delays within the protocols that result in decoherence and exposure of qubits to environmental noise. Delays can quickly render a qubit(s) unusable by the network as the fidelity (a measure of qubit quality) decays exponentially with time. These errors can be corrected with Local QEC. Entanglement-based error correction basics: notation Dirac notation is used to represent quantum states in the state vector formalism. The main takeaway here is that although this notation may be unfamiliar, what it's really conveying is qubit states as vectors and linear algebra is used to create linear combinations of vectors, to compute inner products, to multiply matrices by vectors, to compute the evolution of the state. The physics is abstracted to linear algebra in all these instances. There's another, more general state formalism that can be used called the density state formalism. In this case, the states are represented by matrices. Linear algebra is still the root of the mathematics, but the density state formalism is more general, and allows for calculations regarding subsystems of composite systems or noise, or how noise affects the system. It’s much easier to compute these quantities in density state formalism.
+- Credit Union and Corporate Call Report Data | NCUA Skip to main content An official website of the United States government Here’s how you know Help With My Credit Union Español Contact Us About About Created by the U.S. Congress in 1970, the National Credit Union Administration is an independent federal agency that insures deposits at federally insured credit unions, protects the members who own credit unions, and charters and regulates federal credit unions. Mission & Values Leadership Reports to Congress NCUA Board Speaker Request Form Staff Speaker Request Form Historical Timeline Workplace Resolutions Careers Business Opportunities Open Government Inspector General Budget & Performance AskNCUA Regulation & Supervision Regulation & Supervision The NCUA protects the safety and soundness of the credit union system by identifying, monitoring and reducing risks to the National Credit Union Share Insurance Fund. Backed by the full faith and credit of the United States, the Share Insurance Fund provides up to $250,000 of federal share insurance to millions of account holders in all federal credit unions and the overwhelming majority of state-chartered credit unions. Letters to Credit Unions & Other Guidance Examination Program Rulemakings & Proposals for Comment Legal Opinions Rules & Regulations Regulatory & Compliance Resources Supervisory Review Committee Board Appeals Corporate Credit Unions Regulatory Reporting Manuals & Guides Examination Modernization Initiatives CUSO Activities Analysis
+- error correction mechanism: Topics by Science.gov Toggle navigation Topics by Science.gov Home About Science.gov Sample records for error correction mechanism « 1 2 3 4 5 » Reed-Solomon error-correction as a software patch mechanism. DOE Office of Scientific and Technical Information (OSTI.GOV) Pendley, Kevin D. This report explores how error-correction data generated by a Reed-Solomon code may be used as a mechanism to apply changes to an existing installed codebase. Using the Reed-Solomon code to generate error-correction data for a changed or updated codebase will allow the error-correction data to be applied to an existing codebase to both validate and introduce changes or updates from some upstream source to the existing installed codebase. Errata report on Herbert Goldstein's Classical Mechanics: Second edition DOE Office of Scientific and Technical Information (OSTI.GOV) Unseren, M.A.; Hoffman, F.M. This report describes errors in Herbert Goldstein's textbook Classical Mechanics, Second Edition (Copyright 1980, ISBN 0-201-02918-9). Some of the errors in current printings of the text were corrected in the second printing; however, after communicating with Addison Wesley, the publisher for Classical Mechanics, it was discovered that the corrected galley proofs had been lost by the printer and that no one had complained of any errors in the eleven years since the second printing. The errata sheet corrects errors from all printings of the second edition. Subthreshold muscle twitches dissociate oscillatory neural signatures of conflicts from errors. PubMed Cohen, Michael X; van Gaal, Simon 2014-02-01 We investigated the neural systems underlying conflict detection and error monitoring during rapid online error correction/monitoring mechanisms. We combined data from four separate cognitive tasks and 64 subjects in which EEG and EMG (muscle activity from the thumb used to respond) were recorded. In typical neuroscience experiments, behavioral responses are classified as "error" or "correct"; however, closer inspection of our data revealed that correct responses were often accompanied by "partial errors" - a muscle twitch of the incorrect hand ("mixed correct trials," ~13% of the trials). We found that these muscle twitches dissociated conflicts from errors in time-frequency domain analyses of EEG data. In particular, both mixed-correct trials and full error trials were associated with enhanced theta-band power (4-9Hz) compared to correct trials. However, full errors were additionally associated with power and frontal-parietal synchrony in the delta band. Single-trial robust multiple regression analyses revealed a significant modulation of theta power as a function of partial error correction time, thus linking trial-to-trial fluctuations in power to conflict. Furthermore, single-trial correlation analyses revealed a qualitative dissociation between conflict and error processing, such that mixed correct trials were associated with positive theta-RT correlations whereas full error trials were associated with negative delta-RT correlations. These findings shed new light on the local and global network mechanisms of conflict monitoring and error detection, and their relationship to online action adjustment. Â© 2013. Supporting Dictation Speech Recognition Error Correction: The Impact of External Information ERIC Educational Resources Information Center Shi, Yongmei; Zhou, Lina 2011-01-01 Although speech recognition technology has made remarkable progress, its wide adoption is still restricted by notable effort made and frustration experienced by users while correcting speech recognition errors. One of the promising ways to improve error correction is by providing user support. Although support mechanisms have been proposed forâ¦ Alteration of a motor learning rule under mirror-reversal transformation does not depend on the amplitude of visual error. PubMed Kasuga, Shoko; Kurata, Makiko; Liu, Meigen; Ushiba, Junichi 2015-05-01 Human's sophisticated motor learning system paradoxically interferes with motor performance when visual information is mirror-reversed (MR), because normal movement error correction further aggravates the error. This error-increasing mechanism makes performing even a simple reaching task difficult, but is overcome by alterations in the error correction rule during the trials. To isolate factors that trigger learners to change the error correction rule, we manipulated the gain of visual angular errors when participants made arm-reaching movements with mirror-reversed visual feedback, and compared the rule alteration timing between groups with normal or reduced gain. Trial-by-trial changes in the visual angular error was tracked to explain the timing of the change in the error correction rule. Under both gain conditions, visual angular errors increased under the MR transformation, and suddenly decreased after 3-5 trials with increase. The increase became degressive at different amplitude between the two groups, nearly proportional to the visual gain. The findings suggest that the alteration of the error-correction rule is not dependent on the amplitude of visual angular errors, and possibly determined by the number of trials over which the errors increased or statistical property of the environment. The current results encourage future intensive studies focusing on the exact rule-change mechanism. Copyright Â© 2014 Elsevier Ireland Ltd and the Japan Neuroscience Society. All rights reserved. A Case for Soft Error Detection and Correction in Computational Chemistry. PubMed van Dam, Hubertus J J; Vishnu, Abhinav; de Jong, Wibe A
+- A clever quantum trick brings practical quantum computers closer | ScienceDaily Skip to main content Your source for the latest research news Follow: Facebook X/Twitter Subscribe: RSS Feeds Newsletter New! Sign up for our free email newsletter . Science News from research organizations A clever quantum trick brings practical quantum computers closer Date: February 6, 2026 Source: ETH Zurich Summary: Quantum computers struggle because their qubits are incredibly easy to disrupt, especially during calculations. A new experiment shows how to perform quantum operations while continuously fixing errors, rather than pausing protection to compute. The team used a method called lattice surgery to split a protected qubit into two entangled ones without losing control. This breakthrough moves quantum machines closer to scaling up into something truly powerful. Share: Facebook Twitter Pinterest LinkedIN Email FULL STORY Quantum computers can protect fragile qubits while storing information, but doing calculations without introducing errors has been a major challenge. Researchers have now shown that âlattice surgeryâ can safely manipulate qubits mid-operation, bringing practical quantum computing a step closer. Credit: Shutterstock Quantum computers have the potential to transform fields ranging from materials science to cryptography, but today they remain extremely difficult to build and operate. One of the biggest challenges comes from decoherence, a process that introduces errors into quantum systems. These errors usually take the form of bit flips or phase flips. A bit flip occurs when a qubit unexpectedly switches between '0' and '1'. A phase flip happens when the phase of a quantum superposition suddenly reverses, changing from positive to negative. Because these changes can happen at random, even a single error can disrupt a calculation. Preventing that disruption is one of the central problems facing quantum engineers. Protecting Information With Logical Qubits To reduce these errors, researchers combine many physical qubits into a single logical qubit and apply continuous error correction. This strategy helps preserve quantum information over time, making storage relatively stable. But storing information is only part of the task. To run a quantum algorithm, qubits must be actively manipulated using quantum gates, which are the basic operations that power quantum computation. Applying those operations without introducing new errors has proven far more difficult than simply keeping qubits stable at rest. A New Way to Compute While Fixing Errors A team led by D-PHYS Professor Andreas Wallraff has now demonstrated a method that tackles this problem directly. Working with researchers from the Paul Scherrer Institute (PSI) and theorists led by Professor Markus Müller at RWTH Aachen University and Forschungszentrum Jülich, the group showed how to perform quantum operations between superconducting logical qubits while correcting errors at the same time. Their findings were recently published in Nature Physics . The work marks an important advance toward fault tolerant quantum computing, where calculations can proceed without being derailed by constant errors.
+- Quantinuum with partners Princeton and NIST deliver seminal result in quantum error correction Products & Solutions Quantum Computers Quantinuum Systems Discover the world’s highest performing quantum computers System Model H1 Our first-generation quantum computer with a linear architecture System Model H2 Our second-generation quantum computer with a racetrack architecture Helios Our Hardware-as-a-Service provides access on-premise, in the cloud, or both Hardware Roadmap Explore our accelerated roadmap aimed at advancing commercial quantum computing SOlutions Quantum Origin Our advanced quantum random number generator (QRNG), designed to strengthen encryption and protect data InQuanto Accelerate quantum computational chemistry for complex molecular & materials simulations Nexus All-in-one quantum computing platform for accessing and managing the highest performance full-stack Cloud Access Explore using our world-leading quantum hardware for commercial applications Developer Tools TKET Develop and execute gate-level quantum computation Guppy Program the next generation of quantum computers with our purpose-built language hosted in Python Lambeq Experiment with the structural relationships between quantum theory and natural languages Research Research Areas Discover the vast landscape of our scientific expertise Technical Blog Get educated on the world of quantum computing Publications Explore research and journal publications from our scientific teams Company About Quantinuum Learn more about the world’s largest integrated quantum computing company Careers
+- Master Quantum Error Correction: An Essential Guide to QEC | SpinQ Products & Services Superconducting Quantum Products & Services NMR Quantum Products & Services Quantum Computing Cloud Platform & Software Solutions Quantum Education Solution Fintech-based Solution Biomedical-based Solution AI-based Solution News About Us SpinQ Cloud Contact Us 中文 | En | Es Home > Newsroom > Master Quantum Error Correction: An Essential Guide to QEC Master Quantum Error Correction: An Essential Guide to QEC 2025.02.12 · Blog quantum advantage quantum ready quantum supremacy Quantum computers represent a revolutionary leap in solving complex problems that classical computers struggle with, from optimizing logistics to simulating molecular interactions. However, unlike classical bits, quantum bits (qubits) are highly sensitive to their surroundings. They are prone to errors caused by environmental noise, thermal fluctuations, and imprecise operations, which can significantly degrade quantum computing accuracy. Quantum error correction (QEC) emerges as an indispensable technology to address this critical challenge. QEC provides a systematic way to detect and correct errors, ensuring the reliability of quantum computing. What is Quantum Error Correction? Quantum Error Correction (QEC) is a foundational concept in quantum computing, addressing the critical challenge of maintaining accurate quantum information despite the inherent fragility of qubits. Unlike classical error correction, QEC must deal with both bit flips (e.g., flipping between |0⟩ and |1⟩) and phase flips (affecting the relative phase of quantum states), as well as decoherence, which causes qubits to lose their quantum properties over time. Key Principles of Quantum Error Correction: 1. Logical vs. Physical Qubits: Logical qubits represent the actual quantum information, while physical qubits are used redundantly to protect logical qubits from errors. For example, several physical qubits may encode a single logical qubit.
+- Home | Boulder School for Condensed Matter and Materials Physics | University of Colorado Boulder Skip to main content Translate English Spanish Chinese French German Korean Lao Nepali Japanese Tibetan Search Enter the terms you wish to search for. Other ways to search: Events Calendar Campus Map Boulder School for Condensed Matter and Materials Physics College of Arts and Sciences Home BSS2026 Boulder Information Miscellaneous Financial Sustainability Previous Years Home The Boulder School in Condensed Matter and Materials Physics provides education for advanced graduate students and postdoctoral fellows working in condensed matter physics, materials science and related fields. The goal is to enable students to work at the frontiers of science and technology by providing expert training not easily available within the traditional system of graduate education and postdoctoral apprenticeship. The School, which is supported by the National Science Foundation and the University of Colorado, will meet annually during July in Boulder Colorado. Director: Leo Radzihovsky (CU Boulder) 2026 School Geometry and Topology in Soft Matter Physics The Electronic Application for BSS2026 is now closed. All students are strongly urged to plan on staying for the duration of the School. Partial attendance is strongly discouraged . Small exceptions can be made is special cases but must be cleared with the organizers right away; a simple email request, explaining the situation is sufficient. Attendance for less than 3 weeks is not permitted as the spot can be more efficiently utilized by another student attending the entire school ( contact organizers ). There will be no travel support for shorter attendance.
+- Licensing & Regulations | Health & Senior Services Missouri Department of Health & Senior Services Quick Navigation Skip to Main Content MO.gov Governor Kehoe Find an Agency Online Services Search Search Search Mobile Menu Button Toolbar Links Email us Flickr Watch Videos on Youtube Follow us on Twitter Follow us on Instagram Like us on Facebook Home Healthy Living Senior & Disability Services Licensing & Regulations Disaster & Emergency Planning Data & Statistics Licensing & Regulations × Survey We want to hear about health in your Missouri community! This survey will take less than 10 minutes, and we would appreciate your feedback. Click the survey link here: https://redcapdcphlinux.azurewebsites.net/redcap/surveys/?s=EJK47NCLE879M9XD Close Nursing Homes and Other Long-Term Care Long-term care facilities provide different levels of care depending upon a person’s needs. The department inspects each home at least annually to ensure residents are receiving the proper care. Inspectors also investigate complaints. Look here for information about long-term care options, employment and regulation. Read more... Ambulatory Surgery Centers The department regulates non-long term care facilities and services, and has regulatory responsibility over ambulatory surgery centers that provide surgical services outside of a hospital environment. X-ray services (Ionizing radiation facilities) The department regulates the usage of ionizing radiation machines (
+- Making fault-tolerance a reality: Introducing our QEC decoder toolkit Products & Solutions Quantum Computers Quantinuum Systems Discover the world’s highest performing quantum computers System Model H1 Our first-generation quantum computer with a linear architecture System Model H2 Our second-generation quantum computer with a racetrack architecture Helios Our Hardware-as-a-Service provides access on-premise, in the cloud, or both Hardware Roadmap Explore our accelerated roadmap aimed at advancing commercial quantum computing SOlutions Quantum Origin Our advanced quantum random number generator (QRNG), designed to strengthen encryption and protect data InQuanto Accelerate quantum computational chemistry for complex molecular & materials simulations Nexus All-in-one quantum computing platform for accessing and managing the highest performance full-stack Cloud Access Explore using our world-leading quantum hardware for commercial applications Developer Tools TKET Develop and execute gate-level quantum computation Guppy Program the next generation of quantum computers with our purpose-built language hosted in Python Lambeq Experiment with the structural relationships between quantum theory and natural languages Research Research Areas Discover the vast landscape of our scientific expertise Technical Blog Get educated on the world of quantum computing Publications Explore research and journal publications from our scientific teams Company About Quantinuum Learn more about the world’s largest integrated quantum computing company Careers
+- Quantum error-correcting code (QECC) | Error Correction Zoo [Jump to code hierarchy] Quantum error-correcting code (QECC) Description Encodes quantum information in a ( logical ) subspace of a ( physical ) Hilbert space such that it is possible to recover said information from errors that act as linear maps on the physical space. The state space of a QECC is contained in the space of complex \(L^2\) -normalizable functions of some configuration space, which usually corresponds to the alphabet of a classical code. Since quantum information is encoded in quantum superpositions, an additional source of noise (not relevant to classical encodings) can affect the relative phase of such superpositions. Quantum error-correcting codes have to protect against such phase-flip noise while also protecting against conventional classical bit-flip noise. The better a code is at protecting against phase-flip noise, the worse it is at protecting against bit-flip noise, and vice versa, so there is a tradeoff between the two types of noise. The logical subspace is spanned by a basis comprised of code basis states or codewords . Codewords may not be normalizable if the physical Hilbert space is infinite-dimensional, so approximate versions have to be constructed in practice. While all considered QECC states are complex functions, real or quaternionic function spaces can also be considered for QEC [ 1 , 2 ] . Protection Denoting Hilbert spaces by the letter \(\mathsf{H}\) , a quantum code \((U,\cal{E})\) is a partial isometry \(U:\mathsf{H}_{\text{logical}}\to\mathsf{H}_{\text{physical}}\) with a set of correctable errors \(\cal{E}\) with the following property: there exists a quantum operation \(\cal{D}\) such that for all
+- Building the future of quantum error correction | IBM Quantum Computing Blog Skip to main content IBM Quantum Hardware Qiskit Product Research Blog Community IBM Quantum Network Events Qiskit ecosystem Resources Documentation Learning Case studies Feedback program Sign in to Platform Sign in Quantum Research Blog Building the future of quantum error correction Last week’s IEEE Quantum Week conference put the spotlight on the latest research in error correction — and a glimpse of what quantum computing’s future may look like. Date 4 Oct 2022 Authors Drew Vandeth Sarah Sheldon Antonio Córcoles Andrew Cross Topics Error Correction & Mitigation Research Share this blog Errors are an unavoidable phenomenon in computation, and this is especially true in quantum computation, where we must exercise precise control over the behavior of ultra-sensitive quantum systems. While we look for computational advantage in the near term by using techniques that reduce the effects of noise in quantum systems, extracting the full potential of computation and realizing quantum algorithms with a super-polynomial speedup will most likely require major advances in quantum error correction technology . 1 Researchers in the field have made significant progress in quantum error correction over the last few years, but there's still much left to accomplish to achieve this goal. Today, we’re working with the broader quantum community to thoughtfully bring about practical quantum computing as soon as possible. As part of our development roadmap, we see the development in this field as a continuous path forward, where we work to create value from today’s noisy quantum hardware using
+- Quantum Error Correction: The Key to Quantum Computing home Our Quantum Advantage challenge with $20,000 BTC award is live. More Details → Home Hackathons Platform Team Blog Research Contact Us Platform Access What Is Quantum Error Correction: The Key to Quantum Computing January 9, 2025 • 7 min read Hrant Gharibyan Co-founder & CEO Quantum computing is taking the tech world by storm. This field uses quantum mechanics to process information in ways far beyond the capabilities of classical computers. Unlike traditional systems that use binary bits, quantum computers use qubits, which can exist in multiple states at the same time due to superposition and entanglement. The result is breakthroughs in areas like quantum cryptography , drug discovery, and materials science. All that said, quantum computing faces major challenges that hinder its practical implementation. Qubits are highly sensitive to environmental noise, temperature fluctuations, and electromagnetic interference, leading to errors in computation. As these errors accumulate, it becomes difficult to maintain accuracy. The biggest challenge is managing and correcting these errors without disrupting the delicate quantum state—a problem unique to quantum computing. This is where quantum error correction (QEC) comes in, presenting a way to detect and fix errors while preserving quantum coherence. As the field reaches new heights, QEC remains a key area of research, with major players like Google, IBM, and Microsoft making efforts to overcome these limitations and unleash the full potential of quantum computing. What Is Quantum Error Correction? Quantum error correction , or quantum computing error correction, is a set of techniques for protecting quantum information from errors that are caused by noise and decoherence. While classical error correction deals with 1s or 0s, QEC involves qubits that exist in superpositions. This makes it a challenging yet key aspect of quantum computing. A common method of QEC is using multiple physical qubits to encode a logical qubit. Entangling these qubits helps detect and correct quantum errors without having to directly measure the qubits’ states. QEC Codes, like the Shor code, are examples of schemes that apply these techniques and can correct various types of errors. There are two classes of error correction codes: surface and stabilizer . Surface codes: refer to two-dimensional lattices of physical qubits that create logical qubits with topological protection. Errors can happen through the lattice without affecting the logical qubit’s global state. ‍ Stabilizer codes: detect errors using measurements and apply error correction to corrupted qubits using classical logic. Examples of this class include the Shor code and Steane code.\ ‍ Types of Quantum Error Correction QEC is divided into three main categories:
+- Data and Statistics: AFCARS | The Administration for Children and Families Skip To Main Content An official website of the United States government Here’s how you know Here’s how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock A locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites. Click Here to Report Suspected Child Care Fraud Branding Bar Menu U.S. Department of Health & Human Services Administration for Children & Families Select an ACF Office Administration for Native Americans (ANA) Administration on Children, Youth, and Families (ACYF) Children's Bureau (CB) Early Childhood Development (ECD) Family and Youth Services Bureau (FYSB) Office of Child Care (OCC) Office of Child Support Enforcement (OCSE) Office of Community Services (OCS) Office of Family Assistance (OFA) Office of Family Violence and Prevention Services (OFVPS) Office of Head Start (OHS) Office of Human Services Emergency Preparedness and Response (OHSEPR) Office of Legislative Affairs and Budget (OLAB) Office of Planning, Research & Evaluation (OPRE) Office of Refugee Resettlement (ORR) Office of Regional Operations (ORO) Office on Trafficking in Persons (OTIP)
+- Business eligibility and ownership guidelines - Google Business Profile Help Skip to main content Google Business Profile Help Sign in Google Help Help Center Community Google Business Profile Privacy Policy Terms of Service Submit feedback Send feedback on... This help content & information General Help Center experience Next Help Center Community Get-Started Guide Notification Do not share any private or confidential personal or business-related information in this public forum. Business eligibility and ownership guidelines Not all businesses are eligible for a Business Profile on Google. To be eligible for a Business Profile, any business must meet the criteria as listed below. Owners and authorized representatives for a Business Profile must also follow the guidelines as listed. Eligible businesses To qualify for a Business Profile, a business must make in-person contact with customers during its stated hours. There are some exceptions: ATMs, video-rental kiosks, and express mail drop boxes are permitted. If you add these locations, you must include contact information for customers to get help. Seasonal businesses, like an ice-skating rink only open in winter months, are eligible. These businesses must display permanent signage at their location year-round. Delivery-only food services are permitted with some conditions. Learn about Virtual Food Brands . Ineligible businesses The following are examples of businesses that aren’t eligible for a Business Profile: Rental or for-sale properties such as vacation homes, model homes, or vacant apartments. Sales or leasing offices, however, are eligible for verification. An ongoing service, class, or meeting at a location that you don't own or have the authority to represent. Lead generation agents or companies. Brands, organizations, artists, and other online-only businesses. Businesses associated with products or services that require the customer to be a certain minimum age, like alcohol, cannabis, or weapons, aren’t permitted as service-area businesses without a storefront. Any business whose address is listed as a P.O. box or mailbox in a remote location. Ownership Only business owners or authorized representatives may verify and manage their business information on a Business Profile. If you wish to share management access to your Business Profile with others, you can
 - Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
 - Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
 - Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
