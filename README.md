@@ -14,14 +14,21 @@ If AutoPedia cannot fetch enough grounded references, it refuses to publish the 
 ## What Is Included
 
 - A Python pipeline for planning, searching, fetching, synthesizing, and writing pages.
-- A GitHub Actions workflow that can self-dispatch after each completed page.
+- A GitHub Actions workflow that continuously self-dispatches after each automatic generation cycle.
 - A GitHub Actions workflow that processes GitHub Issue-based page update and new-topic requests.
 - A GitHub Pages deployment workflow using MkDocs Material.
 - A white-first modern UI with dark mode and a generated landing page.
 
-## Important Reality Check
+## 24/7 Continuous Mode
 
-GitHub Actions cannot run forever inside one job. This project handles "continuous" generation by chaining workflow runs immediately after each completed cycle and also keeping a scheduled trigger as a recovery mechanism. In practice, that is the reliable way to approximate an endless loop on GitHub-hosted runners.
+GitHub Actions cannot keep one single process alive forever, but AutoPedia is configured to behave like a practical nonstop loop on GitHub-hosted runners:
+
+1. One cycle finishes.
+2. The workflow immediately dispatches the next cycle.
+3. A `*/5` cron trigger restarts the chain if a dispatch is dropped or a run fails unexpectedly.
+4. Every successful content commit triggers the GitHub Pages deployment workflow automatically.
+
+This is the GitHub Actions-compatible way to run AutoPedia continuously without self-hosted infrastructure.
 
 ## Recommended Production Setup
 
@@ -70,7 +77,8 @@ Optional repository variables:
 - `AUTOPEDIA_SEARCH_RESULTS_PER_QUERY=24`
 - `AUTOPEDIA_REPORT_MIN_LINES=2000`
 - `AUTOPEDIA_MIN_REFERENCE_COUNT=8`
-- `AUTOPEDIA_MAX_CONSECUTIVE_RUNS=12`
+
+There is no longer a built-in cap on automatic consecutive cycles.
 
 ## User Request Flow
 
@@ -93,7 +101,7 @@ GitHub Pages is static, so it cannot create Issues or dispatch workflows directl
 3. Set Source to `GitHub Actions`.
 4. Run the `AutoPedia Cycle` workflow manually once.
 
-After the first successful run, the site will be deployed by the `Deploy GitHub Pages` workflow.
+After the first successful run, AutoPedia keeps chaining the next automatic cycle on GitHub Actions, and every successful content commit triggers `Deploy GitHub Pages` automatically.
 
 ## Project Structure
 

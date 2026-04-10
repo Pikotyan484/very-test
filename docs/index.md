@@ -8,7 +8,11 @@
     <div class="ap-hero__actions">
       <a class="md-button md-button--primary" href="wiki/">Wiki Index</a>
       <a class="md-button" href="#request-topic">トピックを依頼</a>
+<<<<<<< Updated upstream
       <a class="md-button" href="https://github.com/Pikotyan484/very-test">GitHub</a>
+=======
+      <a class="md-button" href="https://github.com/Pikotyan484/very-very-test">GitHub</a>
+>>>>>>> Stashed changes
     </div>
   </div>
   <div class="ap-metrics">
@@ -36,7 +40,11 @@
     <h2>希望のトピックをAIに依頼</h2>
     <p>ここで話題名と要望を書いて送ると、GitHub Issue が作成され、その Issue をトリガーに GitHub Actions が全自動で long deep research と wiki 生成を実行します。</p>
   </div>
+<<<<<<< Updated upstream
   <form class="ap-request-form" data-autopedia-request-form data-issues-url="https://github.com/Pikotyan484/very-test/issues/new">
+=======
+  <form class="ap-request-form" data-autopedia-request-form data-issues-url="https://github.com/Pikotyan484/very-very-test/issues/new">
+>>>>>>> Stashed changes
     <label><span>Topic Title</span><input type="text" name="topic_title" placeholder="Example: Solid-state batteries" required></label>
     <label><span>What should be covered?</span><textarea name="request_notes" rows="5" placeholder="Example: Focus on commercialization, safety constraints, and latest performance benchmarks."></textarea></label>
     <button class="md-button md-button--primary" type="submit">新しいWikiを依頼する</button>

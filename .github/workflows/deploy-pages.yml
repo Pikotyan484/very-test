@@ -42,6 +42,9 @@ jobs:
           python -m pip install --upgrade pip
           python -m pip install -e .
 
+      - name: Rebuild generated docs from current state
+        run: python -m autopedia rebuild-site
+
       - name: Build static site
         run: mkdocs build --strict
 

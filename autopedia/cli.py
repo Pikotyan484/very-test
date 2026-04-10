@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+from pathlib import Path
 
 from autopedia.config import load_settings
 from autopedia.llm_client import LLMClient
@@ -25,23 +26,43 @@ def run_cycle(request: RequestContext | None = None) -> None:
 
     plan = planner.select_topic(state, request)
     research_engine = ResearchEngine(settings, llm, planner, search_client)
-    run = research_engine.run_with_request(plan, request)
+    report_path: Path | None = None
 
-    report_builder = ReportBuilder(settings)
-    report_path, report_text = report_builder.write(run)
+    try:
+        run = research_engine.run_with_request(plan, request)
 
-    writer = WikiWriter(settings, llm)
-    page_markdown = writer.build_page(run, report_text)
-    page_path = site.write_wiki_page(run, page_markdown, report_path)
+        report_builder = ReportBuilder(settings)
+        report_path, report_text = report_builder.write(run)
 
-    site.register_run(state, run, report_path, page_path)
-    site.rebuild_static_pages(state)
-    site.save_state(state)
+        writer = WikiWriter(settings, llm)
+        page_markdown = writer.build_page(run, report_text)
+        page_path = site.write_wiki_page(run, page_markdown, report_path)
 
-    print(f"Generated {run.plan.title} with {run.source_count} sources.")
-    print(f"Request mode: {run.request.normalized_mode()}")
-    print(f"Report: {report_path}")
-    print(f"Page: {page_path}")
+        site.register_run(state, run, report_path, page_path)
+        site.rebuild_static_pages(state)
+        site.save_state(state)
+
+        print(f"Generated {run.plan.title} with {run.source_count} sources.")
+        print(f"Request mode: {run.request.normalized_mode()}")
+        print(f"Report: {report_path}")
+        print(f"Page: {page_path}")
+    except Exception as exc:
+        site.register_failure(
+            state,
+            title=plan.title,
+            slug=plan.slug,
+            request=request,
+            error_message=str(exc),
+            report_path=report_path,
+        )
+        site.rebuild_static_pages(state)
+        site.save_state(state)
+        if request.normalized_mode() == "auto":
+            print(f"Auto cycle failed for {plan.title}: {exc}")
+            if report_path is not None:
+                print(f"Partial report: {report_path}")
+            return
+        raise
 
 
 def rebuild_site() -> None:

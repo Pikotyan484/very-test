@@ -28,7 +28,7 @@ on:
         required: false
         default: ""
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/5 * * * *"
   repository_dispatch:
     types:
       - autopedia-loop
@@ -55,7 +55,6 @@ jobs:
       AUTOPEDIA_MAX_PAGES_PER_TURN: ${{ vars.AUTOPEDIA_MAX_PAGES_PER_TURN || '160' }}
       AUTOPEDIA_SEARCH_RESULTS_PER_QUERY: ${{ vars.AUTOPEDIA_SEARCH_RESULTS_PER_QUERY || '24' }}
       AUTOPEDIA_REPORT_MIN_LINES: ${{ vars.AUTOPEDIA_REPORT_MIN_LINES || '2000' }}
-      AUTOPEDIA_MAX_CONSECUTIVE_RUNS: ${{ vars.AUTOPEDIA_MAX_CONSECUTIVE_RUNS || '12' }}
       AUTOPEDIA_REQUEST_MODE: ${{ github.event.inputs.request_mode || github.event.client_payload.request_mode || 'auto' }}
       AUTOPEDIA_REQUEST_TOPIC_TITLE: ${{ github.event.inputs.topic_title || github.event.client_payload.topic_title || '' }}
       AUTOPEDIA_REQUEST_TOPIC_SLUG: ${{ github.event.inputs.topic_slug || github.event.client_payload.topic_slug || '' }}
@@ -90,9 +89,22 @@ jobs:
           echo "chain_depth=$depth" >> "$GITHUB_OUTPUT"
 
       - name: Run one AutoPedia cycle
-        run: python -m autopedia run-cycle
+        id: cycle
+        shell: bash
+        run: |
+          set +e
+          python -m autopedia run-cycle
+          exit_code=$?
+          echo "exit_code=$exit_code" >> "$GITHUB_OUTPUT"
+          if [ "$exit_code" -eq 0 ]; then
+            echo "status=success" >> "$GITHUB_OUTPUT"
+          else
+            echo "status=failure" >> "$GITHUB_OUTPUT"
+          fi
+          exit 0
 
       - name: Upload research artifacts
+        if: ${{ always() }}
         uses: actions/upload-artifact@v4
         with:
           name: autopedia-reports-${{ github.run_number }}
@@ -102,6 +114,7 @@ jobs:
 
       - name: Commit generated changes
         id: commit
+        if: ${{ always() }}
         shell: bash
         run: |
           if [ -n "$(git status --porcelain)" ]; then
@@ -116,10 +129,12 @@ jobs:
           fi
 
       - name: Queue next cycle
-        if: ${{ env.AUTOPEDIA_CONTINUOUS_LOOP == 'true' && env.AUTOPEDIA_REQUEST_MODE == 'auto' && steps.commit.outputs.changes == 'true' && fromJSON(steps.meta.outputs.chain_depth) < fromJSON(env.AUTOPEDIA_MAX_CONSECUTIVE_RUNS) }}
+        if: ${{ always() && env.AUTOPEDIA_CONTINUOUS_LOOP == 'true' && env.AUTOPEDIA_REQUEST_MODE == 'auto' }}
         uses: actions/github-script@v7
         env:
           CHAIN_DEPTH: ${{ steps.meta.outputs.chain_depth }}
+          CYCLE_STATUS: ${{ steps.cycle.outputs.status }}
+          COMMIT_STATUS: ${{ steps.commit.outputs.changes }}
         with:
           github-token: ${{ secrets.AUTOPEDIA_WORKFLOW_TOKEN || github.token }}
           script: |
@@ -131,7 +146,14 @@ jobs:
               client_payload: {
                 chain_depth: nextDepth,
                 reason: 'continuous-loop',
-                request_mode: 'auto'
+                request_mode: 'auto',
+                prior_cycle_status: process.env.CYCLE_STATUS || 'unknown',
+                prior_commit_changes: process.env.COMMIT_STATUS || 'false'
               }
             });
+
+      - name: Fail non-auto runs when cycle failed
+        if: ${{ steps.cycle.outputs.exit_code != '0' && env.AUTOPEDIA_REQUEST_MODE != 'auto' }}
+        shell: bash
+        run: exit 1
 

@@ -5,7 +5,7 @@ from pathlib import Path
 from autopedia.config import Settings
 from autopedia.models import RequestContext, ResearchRun
 from autopedia.requests import build_request_issue_url
-from autopedia.utils import ensure_dir, markdown_excerpt, read_json, slugify_text, write_json
+from autopedia.utils import ensure_dir, iso_timestamp, markdown_excerpt, read_json, slugify_text, truncate_text, write_json
 
 
 class SiteBuilder:
@@ -19,11 +19,13 @@ class SiteBuilder:
                 "project_name": self.settings.site_name,
                 "started_at": "",
                 "completed_topics": [],
+                "failed_topics": [],
                 "run_history": [],
             },
         )
         state.setdefault("project_name", self.settings.site_name)
         state.setdefault("completed_topics", [])
+        state.setdefault("failed_topics", [])
         state.setdefault("run_history", [])
         return state
 
@@ -70,6 +72,9 @@ class SiteBuilder:
         completed = [item for item in state.get("completed_topics", []) if item.get("slug") != run.plan.slug]
         completed.insert(0, entry)
         state["completed_topics"] = completed[:200]
+        state["failed_topics"] = [
+            item for item in state.get("failed_topics", []) if item.get("slug") != run.plan.slug
+        ][:200]
 
         run_entry = {
             "run_id": run.run_id,
@@ -84,6 +89,33 @@ class SiteBuilder:
         history = state.get("run_history", [])
         history.insert(0, run_entry)
         state["run_history"] = history[:300]
+
+    def register_failure(
+        self,
+        state: dict,
+        *,
+        title: str,
+        slug: str,
+        request: RequestContext,
+        error_message: str,
+        report_path: Path | None = None,
+    ) -> None:
+        failure_entry = {
+            "title": title,
+            "slug": slug,
+            "generated_at": iso_timestamp(),
+            "request_mode": request.normalized_mode(),
+            "request_notes": truncate_text(request.request_notes or "", 240),
+            "error": truncate_text(error_message, 400),
+            "report_path": (
+                str(report_path.relative_to(self.settings.root_dir)).replace("\\", "/")
+                if report_path is not None and report_path.exists()
+                else ""
+            ),
+        }
+        failures = [item for item in state.get("failed_topics", []) if item.get("slug") != slug]
+        failures.insert(0, failure_entry)
+        state["failed_topics"] = failures[:200]
 
     def rebuild_static_pages(self, state: dict) -> None:
         self._write_home_page(state)

@@ -14,6 +14,8 @@ class Planner:
     def select_topic(self, state: dict, request: RequestContext | None = None) -> TopicPlan:
         request = request or RequestContext()
         completed_titles = [item["title"] for item in state.get("completed_topics", [])[:40]]
+        failed_titles = [item["title"] for item in state.get("failed_topics", [])[:30]]
+        failed_slugs = {str(item.get("slug", "")).strip().lower() for item in state.get("failed_topics", [])[:30]}
         latest_tags = unique_preserve_order(
             tag for item in state.get("completed_topics", [])[:15] for tag in item.get("tags", [])
         )[:25]
@@ -35,6 +37,7 @@ class Planner:
                     f"Existing summary: {request.existing_summary or 'No prior page summary available.'}\n"
                     f"Existing page excerpt:\n{request.existing_page_excerpt[:6000] or 'No prior page excerpt available.'}\n\n"
                     f"Already covered topics: {completed_titles}\n"
+                    f"Recently failed topics: {failed_titles}\n"
                     f"Recent tags: {latest_tags}\n\n"
                     "Return an object with keys: title, slug, summary, rationale, tags, search_angles, outline. "
                     "Preserve the existing topic if this is an update/expand request. Use an ASCII slug."
@@ -54,6 +57,7 @@ class Planner:
                     f"Site: {self.settings.site_name}\n"
                     f"Language: {self.settings.language}\n"
                     f"Already covered topics: {completed_titles}\n"
+                    f"Recently failed topics to avoid immediately retrying: {failed_titles}\n"
                     f"Recent tags: {latest_tags}\n"
                     f"Seed topics: {self.settings.seed_topics}\n\n"
                     "Return an object with keys: title, slug, summary, rationale, tags, search_angles, outline. "
@@ -66,6 +70,9 @@ class Planner:
         title = str(payload.get("title", fallback_plan.title)).strip() or fallback_plan.title
         preferred_slug = request.topic_slug if request.is_manual() and request.topic_slug else str(payload.get("slug", title))
         slug = slugify_text(preferred_slug, fallback=fallback_plan.slug)
+        if not request.is_manual() and (title in failed_titles or slug in failed_slugs):
+            title = fallback_plan.title
+            slug = fallback_plan.slug
         summary = truncate_text(str(payload.get("summary", fallback_plan.summary)).strip(), 420)
         rationale = truncate_text(str(payload.get("rationale", fallback_plan.rationale)).strip(), 420)
         tags = unique_preserve_order(str(tag) for tag in payload.get("tags", fallback_plan.tags))[:8]
@@ -124,8 +131,10 @@ class Planner:
 
     def _fallback_plan(self, state: dict) -> TopicPlan:
         completed = {item["title"] for item in state.get("completed_topics", [])}
+        failed = {item["title"] for item in state.get("failed_topics", [])[:30]}
+        blocked = completed | failed
         topic_title = next(
-            (topic for topic in self.settings.seed_topics if topic not in completed),
+            (topic for topic in self.settings.seed_topics if topic not in blocked),
             f"{self.settings.seed_topics[0]} applications and constraints",
         )
         slug = slugify_text(topic_title)
