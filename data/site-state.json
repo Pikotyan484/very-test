@@ -11,12 +11,12 @@
         "technology",
         "analysis"
       ],
-      "generated_at": "2026-04-11T11:25:41.834383Z",
-      "sources_analyzed": 117,
+      "generated_at": "2026-04-11T11:40:09.392462Z",
+      "sources_analyzed": 109,
       "research_turns": 10,
       "request_mode": "auto",
       "page_path": "wiki/quantum-error-correction-applications-and-constraints.md",
-      "report_path": "reports/20260411T110206Z-quantum-error-correction-applications-and-constraints.md"
+      "report_path": "reports/20260411T112611Z-quantum-error-correction-applications-and-constraints.md"
     },
     {
       "title": "Water desalination membranes",
@@ -180,6 +180,16 @@
     }
   ],
   "run_history": [
+    {
+      "run_id": "20260411T112611Z-quantum-error-correction-applications-and-constraints",
+      "topic": "Quantum error correction applications and constraints",
+      "slug": "quantum-error-correction-applications-and-constraints",
+      "generated_at": "2026-04-11T11:40:09.392462Z",
+      "sources_analyzed": 109,
+      "request_mode": "auto",
+      "report_path": "reports/20260411T112611Z-quantum-error-correction-applications-and-constraints.md",
+      "page_path": "wiki/quantum-error-correction-applications-and-constraints.md"
+    },
     {
       "run_id": "20260411T110206Z-quantum-error-correction-applications-and-constraints",
       "topic": "Quantum error correction applications and constraints",
