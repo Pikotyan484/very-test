@@ -1,11 +1,11 @@
 # AutoPedia Research Report: Quantum error correction applications and constraints
 
 ## Run Metadata
-- Run ID: 20260411T063043Z-quantum-error-correction-applications-and-constraints
-- Generated at: 2026-04-11T06:47:49.388871Z
+- Run ID: 20260411T083930Z-quantum-error-correction-applications-and-constraints
+- Generated at: 2026-04-11T08:53:17.589811Z
 - Topic slug: quantum-error-correction-applications-and-constraints
 - Research turns: 10
-- Total fetched sources: 105
+- Total fetched sources: 103
 - Request mode: auto
 
 ## Request Context
@@ -43,11 +43,11 @@
 - What is Quantum Error Correction (QEC): What is Quantum Error Correction (QEC)
 - quantum error-correcting codes: Topics by Science.gov: quantum error-correcting codes: Topics by Science.gov
 - Building the future of quantum error correction | IBM Quantum Computing Blog: Building the future of quantum error correction | IBM Quantum Computing Blog
+- Common Looker Studio Limitations & How to Work Around it: Common Looker Studio Limitations & How to Work Around it
 - Quantum Error Correction: The Key to Quantum Computing: Quantum Error Correction: The Key to Quantum Computing
-- Quantum Errors and Quantum Error Correction (QEC) Methods: Quantum Errors and Quantum Error Correction (QEC) Methods
-- Price Analysis | In-Depth Crypto Price Trends & Daily Analysis: Price Analysis | In-Depth Crypto Price Trends & Daily Analysis
-- GitHub - lishix520/academic-paper-skills: Systematic framework for planning and writing academic papers using Claude Code. Includes strategist (planning) and composer (writing)...: GitHub - lishix520/academic-paper-skills: Systematic framework for planning and writing academic papers using Claude Code. Includes strategist (planning) and composer (writing)...
-- Google AI Agents for Academic Figures and Peer Review | AIToolly: Google AI Agents for Academic Figures and Peer Review | AIToolly
+- AI in Qualitative Research Analysis: Too good to be true? - Crescendo Consulting Group: AI in Qualitative Research Analysis: Too good to be true? - Crescendo Consulting Group
+- Statista - The Statistics Portal for Market Data, Market Research and Market Studies: Statista - The Statistics Portal for Market Data, Market Research and Market Studies
+- Databases A-Z: Databases A-Z
 
 ## Contested points
 - Different sources emphasize different baselines, metrics, or time horizons. These require explicit comparison in the article.
@@ -292,34 +292,7 @@ high-level map and authoritative definitions
 - Extended extract lines:
   - [1907.11157] Quantum Error Correction: An Introductory Guide Quantum Error Correction: An Introductory Guide \name Joschka Roffe CONTACT Joschka Roffe. Email: j.roffe@sheffield.ac.uk Department of Physics & Astronomy, University of Sheffield, Sheffield, S3 7RH, United Kingdom Abstract Quantum error correction protocols will play a central role in the realisation of quantum computing; the choice of error correction code will influence the full quantum computing stack, from the layout of qubits at the physical level to gate compilation strategies at the software level. As such, familiarity with quantum coding is an essential prerequisite for the understanding of current and future quantum computing architectures. In this review, we provide an introductory guide to the theory and implementation of quantum error correction codes. Where possible, fundamental concepts are described using the simplest examples of detection and correction codes, the working of which can be verified by hand. We outline the construction and operation of the surface code, the most widely pursued error correction protocol for experiment. Finally, we discuss issues that arise in the practical implementation of the surface code and other quantum error correction codes. keywords: Quantum computing; quantum error correction; stabilizer codes; surface codes 1 Introduction In place of the bits in traditional computers, quantum computers work by controlling and manipulating quantum bits (qubits). Through the precise control of quantum phenomena such as entanglement, it is in principle possible for such qubit-based devices to outperform their classical counterparts. To this end, efficient quantum computing algorithms have been developed with applications such as integer factorisation [ 1 ] , search [ 2 ] , optimisation [ 3 ] and quantum chemistry [ 4 ] . There is currently no preferred qubit technology; a variety of physical systems are being explored for use as qubits, including photons [ 5 , 6 ] , trapped ions [ 7 , 8
 
-#### Source 0008: Quantum Error Correction Materials Market Size Report, 2034
-- Source ID: aeef75ec6fe9
-- Turn: 1
-- Query: "Quantum error correction applications and constraints" market analysis
-- Provider: ddgs
-- Search rank: 8
-- Domain: www.gminsights.com
-- URL: https://www.gminsights.com/industry-analysis/quantum-error-correction-materials-market
-- Search snippet: December 1, 2025 -High fidelity, long duration quantum operations have propelled applications to in the Quantum Error Correction (QEC) market. Fault-tolerant quantum computation has emerged as the most compelling demand with QEC due to large-scale circuits without ...
-- Page word count estimate: 108
-- Relevance score: 20.33
-- Key excerpt lines:
-  - Quantum Error Correction Materials Market Size Report, 2034
-  - Skip to main content
-  - Industry Reports
-  - Aerospace and Defense
-  - Agriculture
-  - Animal Health and Nutrition
-  - Automotive
-  - Chemicals and Materials
-  - Construction
-  - Consumer Goods and Services
-  - Energy and Power
-  - Food and Beverages
-- Extended extract lines:
-  - Quantum Error Correction Materials Market Size Report, 2034 Skip to main content Industry Reports Aerospace and Defense Agriculture Animal Health and Nutrition Automotive Chemicals and Materials Construction Consumer Goods and Services Energy and Power Food and Beverages Healthcare Industrial Machinery Media and Technology Packaging Professional Services Semiconductors and Electronics GMIPulse Resources Press Release Blogs Infographics Whitepapers Media Citations Megatrends About About Us Our People Our Services Contact us Home Chemicals and Materials Advanced Materials Nanomaterials Quantum Error Correction Materials Market call us Download free PDF Quantum Error Correction Materials Market Size & Share 2025 - 2034 Market Size by Material Type, by Qubit Platform, by Application, Global Forecast.
-
-#### Source 0009: Demonstrating quantum error mitigation on logical qubits - PMC
+#### Source 0008: Demonstrating quantum error mitigation on logical qubits - PMC
 - Source ID: 592f94c099cf
 - Turn: 1
 - Query: "Quantum error correction applications and constraints" site:gov
@@ -346,7 +319,7 @@ high-level map and authoritative definitions
 - Extended extract lines:
   - Demonstrating quantum error mitigation on logical qubits - PMC Skip to main content An official website of the United States government Here's how you know Here's how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. Search Log in Dashboard Publications Account settings Log out Search… Search NCBI Primary site navigation Search Logged in as: Dashboard Publications Account settings Log in Search PMC Full-Text Archive Search in PMC Journal List User Guide
 
-#### Source 0010: Quantum Error Correction: The Key to Quantum Computing
+#### Source 0009: Quantum Error Correction: The Key to Quantum Computing
 - Source ID: f3df9181dce4
 - Turn: 1
 - Query: "Quantum error correction applications and constraints" overview
@@ -373,61 +346,34 @@ high-level map and authoritative definitions
 - Extended extract lines:
   - Quantum Error Correction: The Key to Quantum Computing home Our Quantum Advantage challenge with $20,000 BTC award is live. More Details → Home Hackathons Platform Team Blog Research Contact Us Platform Access What Is Quantum Error Correction: The Key to Quantum Computing January 9, 2025 • 7 min read Hrant Gharibyan Co-founder & CEO Quantum computing is taking the tech world by storm. This field uses quantum mechanics to process information in ways far beyond the capabilities of classical computers. Unlike traditional systems that use binary bits, quantum computers use qubits, which can exist in multiple states at the same time due to superposition and entanglement. The result is breakthroughs in areas like quantum cryptography , drug discovery, and materials science. All that said, quantum computing faces major challenges that hinder its practical implementation. Qubits are highly sensitive to environmental noise, temperature fluctuations, and electromagnetic interference, leading to errors in computation. As these errors accumulate, it becomes difficult to maintain accuracy. The biggest challenge is managing and correcting these errors without disrupting the delicate quantum state—a problem unique to quantum computing. This is where quantum error correction (QEC) comes in, presenting a way to detect and fix errors while preserving quantum coherence. As the field reaches new heights, QEC remains a key area of research, with major players like Google, IBM, and Microsoft making efforts to overcome these limitations and unleash the full potential of quantum computing. What Is Quantum Error Correction? Quantum error correction , or quantum computing error correction, is a set of techniques for protecting quantum information from errors that are caused by noise and decoherence. While classical error correction deals with 1s or 0s, QEC involves qubits that exist in superpositions. This makes it a challenging yet key aspect of quantum computing. A common method of QEC is using multiple physical qubits to encode a logical qubit. Entangling these qubits helps detect and correct quantum errors without having to directly measure the qubits’ states. QEC Codes, like the Shor code, are examples of schemes that apply these techniques and can correct various types of errors. There are two classes of error correction codes: surface and stabilizer . Surface codes: refer to two-dimensional lattices of physical qubits that create logical qubits with topological protection. Errors can happen through the lattice without affecting the logical qubit’s global state. ‍ Stabilizer codes: detect errors using measurements and apply error correction to corrupted qubits using classical logic. Examples of this class include the Shor code and Steane code.\ ‍ Types of Quantum Error Correction QEC is divided into three main categories:
 
-#### Source 0011: Frontiers | Quantum computing: foundations, algorithms, and emerging applications
-- Source ID: 054d71aac6c6
+#### Source 0010: Quantum Error Correction Materials Market Size Report, 2034
+- Source ID: aeef75ec6fe9
 - Turn: 1
-- Query: "Quantum error correction applications and constraints" academic review
+- Query: "Quantum error correction applications and constraints" market analysis
 - Provider: ddgs
-- Search rank: 12
-- Domain: www.frontiersin.org
-- URL: https://www.frontiersin.org/journals/quantum-science-and-technology/articles/10.3389/frqst.2025.1723319/full
-- Search snippet: December 8, 2025 -Quantum computing is not just another incremental technology—it represents a paradigm shift, enabling new computational capabilities rooted in quantum mechanics (Benioff, 1980; Feynman, 1982; Deutsch, 1985; Shor, 1995; Grover, 1996; Preskill, 2018; Dalzell, 2023). Its potential spans cryptography, materials science, drug discovery, optimization, AI, finance, and beyond. Yet substantial challenges remain: decoherence, error correction, scaling, environmental and physical constraints, and software reliability (Preskill, 2018; Dalzell, 2023; Chae et al., 2024; IBM Quantum, 2025).
-- Page word count estimate: 92
+- Search rank: 9
+- Domain: www.gminsights.com
+- URL: https://www.gminsights.com/industry-analysis/quantum-error-correction-materials-market
+- Search snippet: December 1, 2025 -High fidelity, long duration quantum operations have propelled applications to in the Quantum Error Correction (QEC) market. Fault-tolerant quantum computation has emerged as the most compelling demand with QEC due to large-scale circuits without ...
+- Page word count estimate: 108
 - Relevance score: 20.00
 - Key excerpt lines:
-  - Frontiers | Quantum computing: foundations, algorithms, and emerging applications
-  - Frontiers in
-  - Quantum Science and Technology
-  - About us
-  - About us
-  - Who we are
-  - Mission and values
-  - History
-  - Leadership
-  - Awards
-  - Impact and progress
-  - Frontiers' impact
+  - Quantum Error Correction Materials Market Size Report, 2034
+  - Skip to main content
+  - Industry Reports
+  - Aerospace and Defense
+  - Agriculture
+  - Animal Health and Nutrition
+  - Automotive
+  - Chemicals and Materials
+  - Construction
+  - Consumer Goods and Services
+  - Energy and Power
+  - Food and Beverages
 - Extended extract lines:
-  - Frontiers | Quantum computing: foundations, algorithms, and emerging applications Frontiers in Quantum Science and Technology About us About us Who we are Mission and values History Leadership Awards Impact and progress Frontiers' impact Our annual reports Thought leadership Publishing model How we publish Open access Peer review Research integrity Research Topics FAIR² Data Management Fee policy Services Societies National consortia Institutional partnerships Collaborators More from Frontiers Frontiers Forum Frontiers Planet Prize Press office Sustainability Career opportunities Contact us All journals All articles Submit your research Search Frontiers in Quantum Science and Technology
+  - Quantum Error Correction Materials Market Size Report, 2034 Skip to main content Industry Reports Aerospace and Defense Agriculture Animal Health and Nutrition Automotive Chemicals and Materials Construction Consumer Goods and Services Energy and Power Food and Beverages Healthcare Industrial Machinery Media and Technology Packaging Professional Services Semiconductors and Electronics GMIPulse Resources Press Release Blogs Infographics Whitepapers Media Citations Megatrends About About Us Our People Our Services Contact us Home Chemicals and Materials Advanced Materials Nanomaterials Quantum Error Correction Materials Market call us Download free PDF Quantum Error Correction Materials Market Size & Share 2025 - 2034 Market Size by Material Type, by Qubit Platform, by Application, Global Forecast.
 
-#### Source 0012: Common Looker Studio Limitations & How to Work Around it
-- Source ID: 151d0916145f
-- Turn: 1
-- Query: "Quantum error correction applications and constraints" limitations criticism
-- Provider: ddgs
-- Search rank: 1
-- Domain: coefficient.io
-- URL: https://coefficient.io/looker-studio-limitations-and-workarounds
-- Search snippet: 1 day ago ·Theselimitationsare real, but every one of them has a workaround — most of which involve moving the data work upstream into Google Sheets rather than asking Looker Studio to do it at render time. If you are hitting several of these regularly, Coefficient solves the data layer problems and Vibe Reporting replaces the output layer entirely.
-- Page word count estimate: 529
-- Relevance score: 19.67
-- Key excerpt lines:
-  - Common Looker Studio Limitations & How to Work Around it
-  - Skip to content
-  - Get Started Free
-  - Product
-  - Integrations
-  - Solutions
-  - Resources
-  - Pricing
-  - Get a Demo
-  - Get Started Free
-  - Blog/
-  - 7 Looker Studio Limitations Nobody Warns You About (And How to Work Around Each One)
-- Extended extract lines:
-  - Common Looker Studio Limitations & How to Work Around it Skip to content Get Started Free Product Integrations Solutions Resources Pricing Get a Demo Get Started Free Blog/ 7 Looker Studio Limitations Nobody Warns You About (And How to Work Around Each One) Published: April 10, 2026 - 9 min read Vijay Srinivas Join our community Did you know? Coefficient eliminates the need to export data manually and rebuild stale dashboards. Get started by pulling live data into pre-built Sheets dashboards. Looker Studio is genuinely useful and genuinely free — for most Google-ecosystem reporting it does the job well. But it has real limitations that only show up after you’ve built a few dashboards and run into them. This guide covers the seven that catch teams most often, with a practical workaround for each one. 1. Slow Load Times on Large Datasets What the problem is This is the most commonly cited Looker Studio complaint. In 2025 G2 reviews, 38% of users flagged performance issues — slow dashboards, timeouts and visualisations that take several seconds to render. The more data sources and blends in a report, the worse it gets. Why it happens Looker Studio runs queries against the data source every time a report loads or a filter changes. It does not cache aggressively. Community connectors add extra latency on top. The result: a 10-widget dashboard pulling from three sources can take 10 to 20 seconds to load — which is long enough for a stakeholder to assume something is broken. Pricing note Looker Studio Pro ($9/user/month) does not fix slow load times. The performance issue is architectural. Pro adds governance features, not query speed. More on what Pro actually includes here . Workaround Push the heavy lifting upstream. Pre-aggregate and pre-join your data in Google Sheets or BigQuery before connecting to Looker Studio. Instead of asking Looker Studio to calculate on the fly, feed it a clean, pre-calculated table. One clean Sheets tab connected to Looker Studio loads in a fraction of the time of a multi-source blend queried at render. Coefficient pulls live data from 100+ sources into Google Sheets on a refresh schedule. Your Looker Studio report reads from a clean, pre-calculated Sheets tab — no multi-source query at load time. Get started free . 2. Data Blending Is Capped at 5 Sources What the problem is Looker Studio limits data blending to five sources per blend. For marketing teams combining CRM, paid ads, SEO, email and financial data that ceiling is reached fast. Hit it and your only options are cutting a data source or splitting analysis across multiple reports — neither of which gives stakeholders the unified view they need. Why it matters The cap itself is bad enough. The silent failure mode is worse. When a schema changes upstream — a renamed column in Google Sheets, an updated field in your CRM — blends break without a useful error message. Your dashboard just shows empty charts. You may not find out for days if no one is actively monitoring it. Pricing note The 5-source blending limit applies on both the free tier and Looker Studio Pro. Upgrading does not raise the cap.
-
-#### Source 0013: eCFR :: 49 CFR Chapter I -- Pipeline and Hazardous Materials Safety Administration, Department of Transportation
+#### Source 0011: eCFR :: 49 CFR Chapter I -- Pipeline and Hazardous Materials Safety Administration, Department of Transportation
 - Source ID: 110d5092a79b
 - Turn: 1
 - Query: "Quantum error correction applications and constraints" safety regulation
@@ -454,32 +400,86 @@ high-level map and authoritative definitions
 - Extended extract lines:
   - eCFR :: 49 CFR Chapter I -- Pipeline and Hazardous Materials Safety Administration, Department of Transportation Site Feedback You are using an unsupported browser × You are using an unsupported browser. This web site is designed for the current versions of Microsoft Edge, Google Chrome, Mozilla Firefox, or Safari. × Site Feedback The Office of the Federal Register publishes documents on behalf of Federal agencies but does not have any authority over their programs. We recommend you directly contact the agency associated with the content in question. If you have comments or suggestions on how to improve the www.ecfr.gov website or have questions about using www.ecfr.gov, please choose the 'Website Feedback' button below. Website Feedback If you would like to comment on the current content, please use the 'Content Feedback' button below for instructions on contacting the issuing agency Content Feedback If you have questions for the Agency that issued the current document please contact the agency directly. × Website Feedback * Your Name * Email Attachment * How can we help you? * I am requesting technical help or providing website feedback This contact form is only for website help or website suggestions. If you have questions or comments regarding a published document please contact the publishing agency. Comments or questions about document content can not be answered by OFR staff. Please do not provide confidential information or personal data. ☰ Home Browse Titles Agencies Incorporation by Reference Recent Updates Search Recent Changes Corrections Reader Aids Reader Aids Home
 
-#### Source 0014: [2412.20380] Artificial Intelligence for Quantum Error Correction: A Comprehensive Review
-- Source ID: 5e5ef8d5a090
+#### Source 0012: Safety Regulations 2025 Key Changes & Compliance Tips - Intrinsically Safe Store
+- Source ID: d456576727a5
 - Turn: 1
-- Query: "Quantum error correction applications and constraints" academic review
+- Query: "Quantum error correction applications and constraints" safety regulation
 - Provider: ddgs
-- Search rank: 5
-- Domain: arxiv.org
-- URL: https://arxiv.org/abs/2412.20380
-- Search snippet: December 29, 2024 -We organized the reviewed literature on the basis of the AI strategies employed and improvements in error correction performance. We also discuss challenges ahead such as data sparsity caused by limited quantum error datasets and scalability issues as the number of quantum bits (qubits) in quantum systems kept increasing very fast.
-- Page word count estimate: 86
+- Search rank: 2
+- Domain: intrinsicallysafestore.com
+- URL: https://intrinsicallysafestore.com/blog/safety-regulations-2025
+- Search snippet: Feb 5, 2025 ·Discover the latest updates insafetyregulationsfor 2025. Stay compliant with new workplacesafety, OSHA, and industry-specific standards.
+- Page word count estimate: 105
 - Relevance score: 19.33
 - Key excerpt lines:
-  - [2412.20380] Artificial Intelligence for Quantum Error Correction: A Comprehensive Review
-  - Skip to main content
-  - Learn about arXiv becoming an independent nonprofit.
-  - We gratefully acknowledge support from the Simons Foundation,
-  - member institutions
-  - , and all contributors.
-  - Donate
-  - >
-  - quant-ph
-  - >
-  - arXiv:2412.20380
-  - Help
+  - Safety Regulations 2025 Key Changes & Compliance Tips - Intrinsically Safe Store
+  - Skip to content
+  - PRICE
+  - MATCH
+  - GUARANTEE
+  - +1,000
+  - Certified products
+  - Speak to an expert
+  - 832 699 6726
+  - SIGN IN
+  - Your Global Authority in Hazardous Areas
+  - INTRINSICALLY SAFE
 - Extended extract lines:
-  - [2412.20380] Artificial Intelligence for Quantum Error Correction: A Comprehensive Review Skip to main content Learn about arXiv becoming an independent nonprofit. We gratefully acknowledge support from the Simons Foundation, member institutions , and all contributors. Donate > quant-ph > arXiv:2412.20380 Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About Quantum Physics arXiv:2412.20380 (quant-ph)
+  - Safety Regulations 2025 Key Changes & Compliance Tips - Intrinsically Safe Store Skip to content PRICE MATCH GUARANTEE +1,000 Certified products Speak to an expert 832 699 6726 SIGN IN Your Global Authority in Hazardous Areas INTRINSICALLY SAFE PRODUCTS Cameras All Cameras Digital Camera Camera Enclosures CCTV Cameras Wearable Cameras Drones Explosion Proof Fans All Explosion Proof Fans Class 2 Division 1 Heater Exhaust Fans Fan & Blower Heaters Refrigerators Lighting - Fixed All Lighting - Fixed Annular Light Fittings Explosion-Proof Emergency Indicator LED Light Fixed Lighting Floodlight Work Light Lighting - Portable All Lighting - Portable Rechargeable Cap Lamp Dual-Light Flashlights Flashlights Hand Lamp
+
+#### Source 0013: Credit Union and Corporate Call Report Data | NCUA
+- Source ID: b8229892675d
+- Turn: 1
+- Query: "Quantum error correction applications and constraints" benchmark data
+- Provider: ddgs
+- Search rank: 2
+- Domain: ncua.gov
+- URL: https://ncua.gov/analysis/credit-union-corporate-call-report-data
+- Search snippet: Mar 24, 2026 ·FinancialPerformanceReports provide a financial summary for a credit union, including assets, liabilities and capital, and income and expenses. Recently Updated Call Reports Provides Call Report filings that have been updated in the last 90 days. Users can search for a particular credit union or a group of credit unions using this utility.
+- Page word count estimate: 220
+- Relevance score: 19.33
+- Key excerpt lines:
+  - Credit Union and Corporate Call Report Data | NCUA
+  - Skip to main content
+  - An official website of the United States government
+  - Here’s how you know
+  - Help With My Credit Union
+  - Español
+  - Contact Us
+  - About
+  - About
+  - Created by the U.S. Congress in 1970, the National Credit Union Administration is an independent federal agency that insures deposits at federally insured credit unions, protects the members who own credit unions, and...
+  - Mission & Values
+  - Leadership
+- Extended extract lines:
+  - Credit Union and Corporate Call Report Data | NCUA Skip to main content An official website of the United States government Here’s how you know Help With My Credit Union Español Contact Us About About Created by the U.S. Congress in 1970, the National Credit Union Administration is an independent federal agency that insures deposits at federally insured credit unions, protects the members who own credit unions, and charters and regulates federal credit unions. Mission & Values Leadership Reports to Congress NCUA Board Speaker Request Form Staff Speaker Request Form Historical Timeline Workplace Resolutions Careers Business Opportunities Open Government Inspector General Budget & Performance AskNCUA Regulation & Supervision Regulation & Supervision The NCUA protects the safety and soundness of the credit union system by identifying, monitoring and reducing risks to the National Credit Union Share Insurance Fund. Backed by the full faith and credit of the United States, the Share Insurance Fund provides up to $250,000 of federal share insurance to millions of account holders in all federal credit unions and the overwhelming majority of state-chartered credit unions. Letters to Credit Unions & Other Guidance Examination Program Rulemakings & Proposals for Comment Legal Opinions Rules & Regulations Regulatory & Compliance Resources Supervisory Review Committee Board Appeals Corporate Credit Unions Regulatory Reporting Manuals & Guides Examination Modernization Initiatives CUSO Activities Analysis
+
+#### Source 0014: Quantum error correction below the surface code threshold | Nature
+- Source ID: 55a2d4978225
+- Turn: 1
+- Query: "Quantum error correction applications and constraints" overview
+- Provider: ddgs
+- Search rank: 2
+- Domain: www.nature.com
+- URL: https://www.nature.com/articles/s41586-024-08449-y
+- Search snippet: December 9, 2024 -Quantum error correction1–4provides a path to reach practical quantum computing by combining multiple physical qubits into a logical qubit, in which the logical error rate is suppressed exponentially as more qubits are added.
+- Page word count estimate: 139
+- Relevance score: 19.33
+- Key excerpt lines:
+  - Quantum error correction below the surface code threshold | Nature
+  - Skip to main content
+  - Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+  - the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+  - Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+  - and JavaScript.
+  - Advertisement
+  - View all journals
+  - Search
+  - My Account
+  - Login
+  - Content
+- Extended extract lines:
+  - Quantum error correction below the surface code threshold | Nature Skip to main content Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript. Advertisement View all journals Search My Account Login Content Explore content About the journal Publish with us Sign up for alerts RSS feed nature articles article Quantum error correction below the surface code threshold Download PDF Download PDF Article Open access Published: 09 December 2024 Quantum error correction below the surface code threshold Google Quantum AI and Collaborators Nature volume 638 , pages 920–926 ( 2025 ) Cite this article
 
 #### Source 0015: IBM lays out clear path to fault-tolerant quantum computing | IBM Quantum Computing Blog
 - Source ID: a0dc06dcda65
@@ -508,61 +508,88 @@ high-level map and authoritative definitions
 - Extended extract lines:
   - IBM lays out clear path to fault-tolerant quantum computing | IBM Quantum Computing Blog Skip to main content IBM Quantum Hardware Qiskit Product Research Blog Community IBM Quantum Network Events Qiskit ecosystem Resources Documentation Learning Case studies Feedback program Sign in to Platform Sign in Quantum Research Blog How IBM will build the world's first large-scale, fault-tolerant quantum computer With two new research papers and an updated quantum roadmap, IBM® lays out a clear, rigorous, comprehensive framework for realizing a large-scale, fault-tolerant quantum computer by 2029. Date 10 Jun 2025 Authors Ryan Mandelbaum Jay Gambetta Jerry Chow Tushar Mittal Theodore J. Yoder Andrew Cross Matthias Steffen Topics Research Systems Error Correction & Mitigation Community Share this blog
 
-#### Source 0016: Safety Regulations 2025 Key Changes & Compliance Tips - Intrinsically Safe Store
-- Source ID: d456576727a5
+#### Source 0016: GitHub - lishix520/academic-paper-skills: Systematic framework for planning and writing academic papers using Claude Code. Includes strategist (planning) and composer (writing)...
+- Source ID: 92155c89c08a
+- Turn: 1
+- Query: "Quantum error correction applications and constraints" academic review
+- Provider: ddgs
+- Search rank: 3
+- Domain: github.com
+- URL: https://github.com/lishix520/academic-paper-skills
+- Search snippet: Jan 4, 2026 ·A systematic framework for planning and writing philosophy and interdisciplinaryacademicpapers using Claude Code. These skills transform your research ideas into submission-ready manuscripts through structured workflows with quality checkpoints.
+- Page word count estimate: 121
+- Relevance score: 19.00
+- Key excerpt lines:
+  - GitHub - lishix520/academic-paper-skills: Systematic framework for planning and writing academic papers using Claude Code. Includes strategist (planning) and composer (writing) skills with quality checkpoints. · GitHub
+  - Skip to content
+  - Navigation Menu
+  - Toggle navigation
+  - Sign in
+  - Appearance settings
+  - Platform
+  - AI CODE CREATION
+  - GitHub Copilot
+  - Write better code with AI
+  - GitHub Spark
+  - Build and deploy intelligent apps
+- Extended extract lines:
+  - GitHub - lishix520/academic-paper-skills: Systematic framework for planning and writing academic papers using Claude Code. Includes strategist (planning) and composer (writing) skills with quality checkpoints. · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities Code security Secure your code as you build Secret protection Stop leaks before they start EXPLORE Why GitHub Documentation Blog Changelog Marketplace View all features
+
+#### Source 0017: Amendments to Parts 8 and 31 of the OHS Regulation Begin Apr 1 - Manufacturing Safety Alliance of BC (2026)
+- Source ID: 0c2c50eace23
 - Turn: 1
 - Query: "Quantum error correction applications and constraints" safety regulation
 - Provider: ddgs
 - Search rank: 3
-- Domain: intrinsicallysafestore.com
-- URL: https://intrinsicallysafestore.com/blog/safety-regulations-2025
-- Search snippet: Feb 5, 2025 ·Discover the latest updates insafetyregulationsfor 2025. Stay compliant with new workplacesafety, OSHA, and industry-specific standards.
-- Page word count estimate: 105
+- Domain: safetyalliancebc.ca
+- URL: https://safetyalliancebc.ca/effective-apr-1-amendments-to-parts-8-and-31-of-the-ohs-regulation
+- Search snippet: 2 days ago ·Starting April 1, amendments to Parts 8 and 31 of the Occupational Health andSafetyRegulationare in effect. These amendments update references to selectedsafetyheadgear and respirator standards. The amendments are intended to: Bring theRegulationin line with existing OHS Guidelines Reflect standards that are already widely used and accepted in practice Improve […]
+- Page word count estimate: 134
 - Relevance score: 19.00
 - Key excerpt lines:
-  - Safety Regulations 2025 Key Changes & Compliance Tips - Intrinsically Safe Store
-  - Skip to content
-  - PRICE
-  - MATCH
-  - GUARANTEE
-  - +1,000
-  - Certified products
-  - Speak to an expert
-  - 832 699 6726
-  - SIGN IN
-  - Your Global Authority in Hazardous Areas
-  - INTRINSICALLY SAFE
+  - Amendments to Parts 8 and 31 of the OHS Regulation Begin Apr 1 - Manufacturing Safety Alliance of BC (2026)
+  - News
+  - Careers
+  - Events
+  - Event calendar
+  - Safety Pinnacle Awards | Excellence Award Nominations
+  - Make It Safe Conference
+  - Webinars
+  - Sponsorship Opportunities
+  - FAQ
+  - Board & Governance
+  - Our research and projects
 - Extended extract lines:
-  - Safety Regulations 2025 Key Changes & Compliance Tips - Intrinsically Safe Store Skip to content PRICE MATCH GUARANTEE +1,000 Certified products Speak to an expert 832 699 6726 SIGN IN Your Global Authority in Hazardous Areas INTRINSICALLY SAFE PRODUCTS Cameras All Cameras Digital Camera Camera Enclosures CCTV Cameras Wearable Cameras Drones Explosion Proof Fans All Explosion Proof Fans Class 2 Division 1 Heater Exhaust Fans Fan & Blower Heaters Refrigerators Lighting - Fixed All Lighting - Fixed Annular Light Fittings Explosion-Proof Emergency Indicator LED Light Fixed Lighting Floodlight Work Light Lighting - Portable All Lighting - Portable Rechargeable Cap Lamp Dual-Light Flashlights Flashlights Hand Lamp
+  - Amendments to Parts 8 and 31 of the OHS Regulation Begin Apr 1 - Manufacturing Safety Alliance of BC (2026) News Careers Events Event calendar Safety Pinnacle Awards | Excellence Award Nominations Make It Safe Conference Webinars Sponsorship Opportunities FAQ Board & Governance Our research and projects About About the Alliance Our Story Our People Safety Advisors Training Instructors Research Projects OHS Competency Tools and Framework News and Events News Make It Safe Conferences MIS Vancouver Island | March 2026 MIS Okanagan | April 2026 2026 Safety Pinnacle Awards Gala | Get Tickets 2026 Safety Pinnacles – Excellence Award Nominations Open Financial Academic Awards The 2025 Safety Pinnacle Awards Gala Honourees Partnerships Partners Associate Members Sponsorship Opportunities Board & Governance Board of Directors Committees Overview Constitution and Bylaws Strategic Plan Business Plan Financial Statements
 
-#### Source 0017: Quantum error correction below the surface code threshold | Nature
-- Source ID: 55a2d4978225
+#### Source 0018: Error Correction in Quantum Networks
+- Source ID: 909b113ef8dc
 - Turn: 1
 - Query: "Quantum error correction applications and constraints" overview
 - Provider: ddgs
-- Search rank: 3
-- Domain: www.nature.com
-- URL: https://www.nature.com/articles/s41586-024-08449-y
-- Search snippet: December 9, 2024 -Quantum error correction1–4provides a path to reach practical quantum computing by combining multiple physical qubits into a logical qubit, in which the logical error rate is suppressed exponentially as more qubits are added.
-- Page word count estimate: 139
+- Search rank: 9
+- Domain: www.aliroquantum.com
+- URL: https://www.aliroquantum.com/blog/an-overview-of-quantan-overview-of-quantum-error-correction-in-entanglement-based-networksum-error-correction-in-entanglement-based-networks
+- Search snippet: The quantum processes involved in entanglement generation and distribution are fundamentally stochastic and this constrains the potential performance, necessitating retries and delays within the protocols that result in decoherence and exposure of qubits to environmental noise. Delays can quickly render a qubit(s) unusable by the network as the fidelity (a measure of qubit quality) decays exponentially with time. These errors can be corrected with Local QEC.
+- Page word count estimate: 404
 - Relevance score: 19.00
 - Key excerpt lines:
-  - Quantum error correction below the surface code threshold | Nature
-  - Skip to main content
-  - Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
-  - the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
-  - Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
-  - and JavaScript.
-  - Advertisement
-  - View all journals
-  - Search
-  - My Account
-  - Login
-  - Content
+  - Error Correction in Quantum Networks
+  - Products
+  - PRODUCTS OVERVIEW
+  - Aliro Orchestrator
+  - AliroNet® Quickstart
+  - AliroNet®
+  - Aliro Simulator
+  - Use Cases
+  - Resources
+  - Solution Briefs
+  - Webinars
+  - Blog
 - Extended extract lines:
-  - Quantum error correction below the surface code threshold | Nature Skip to main content Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript. Advertisement View all journals Search My Account Login Content Explore content About the journal Publish with us Sign up for alerts RSS feed nature articles article Quantum error correction below the surface code threshold Download PDF Download PDF Article Open access Published: 09 December 2024 Quantum error correction below the surface code threshold Google Quantum AI and Collaborators Nature volume 638 , pages 920–926 ( 2025 ) Cite this article
+  - Error Correction in Quantum Networks Products PRODUCTS OVERVIEW Aliro Orchestrator AliroNet® Quickstart AliroNet® Aliro Simulator Use Cases Resources Solution Briefs Webinars Blog Research & Patents FAQ Videos Podcast About Us Company News Events Awards Strategic Partners Become a Partner Careers Contact Us Quantum Education Menu Error Correction in Quantum Networks Keith Kenemer January 09 Twitter Facebook LinkedIn A method of localized, scheduled quantum error correction (Local QEC) developed by researchers at Aliro makes it possible to correct certain errors in an entanglement-based quantum network. In this article, we’ll explain the basics of quantum error correction, and how QEC can be leveraged in an entanglement-based network for more robust connections. Quantum systems provide novel capabilities and at the same time they also impose restrictions on our ability to leverage these new capabilities. For example, the no-cloning theorem in quantum mechanics states that an arbitrary unknown quantum state can not be copied with high fidelity. This restricts how quantum data can be transmitted. On the other hand, it also prevents adversaries from intercepting quantum communications undetected. Entanglement is another uniquely quantum phenomenon which is exploited in quantum networking to support secure communication (via teleportation). The quantum processes involved in entanglement generation and distribution are fundamentally stochastic and this constrains the potential performance, necessitating retries and delays within the protocols that result in decoherence and exposure of qubits to environmental noise. Delays can quickly render a qubit(s) unusable by the network as the fidelity (a measure of qubit quality) decays exponentially with time. These errors can be corrected with Local QEC. Entanglement-based error correction basics: notation Dirac notation is used to represent quantum states in the state vector formalism. The main takeaway here is that although this notation may be unfamiliar, what it's really conveying is qubit states as vectors and linear algebra is used to create linear combinations of vectors, to compute inner products, to multiply matrices by vectors, to compute the evolution of the state. The physics is abstracted to linear algebra in all these instances. There's another, more general state formalism that can be used called the density state formalism. In this case, the states are represented by matrices. Linear algebra is still the root of the mathematics, but the density state formalism is more general, and allows for calculations regarding subsystems of composite systems or noise, or how noise affects the system. It’s much easier to compute these quantities in density state formalism.
 
-#### Source 0018: Artificial Intelligence for Quantum Error Correction: A Comprehensive Review
+#### Source 0019: Artificial Intelligence for Quantum Error Correction: A Comprehensive Review
 - Source ID: 6efa1eb88e8f
 - Turn: 1
 - Query: "Quantum error correction applications and constraints" overview
@@ -589,17 +616,17 @@ high-level map and authoritative definitions
 - Extended extract lines:
   - Artificial Intelligence for Quantum Error Correction: A Comprehensive Review 1 Introduction 2 Preliminaries 2.1 Quantum Computing 2.2 Quantum Errors and Noise 2.3 AI and ML 2.3.1 Overview of AI and ML 2.3.2 Machine Learning Paradigms 2.3.3 Neural Networks and Deep Learning 2.3.4 Training Machine Learning Models 2.4 Mathematical Notations and Conventions 2.4.1 Quantum Mechanics Notations 2.4.2 ML Notations 3 Conventional QEC Methods 3.1 Conventional QEC Codes 3.2 Stabilizer Formalism 3.3 Syndrome Measurement and Decoding 4 Limitations of Conventional QEC Methods 4.1 High Resource Overhead 4.2 Complexity of Decoding Algorithms 4.3
 
-#### Source 0019: Quantum Error Correction Materials Market Opportunity, Growth Drivers, Industry Trend Analysis, and Forecast 2025 - 2034
+#### Source 0020: Quantum Error Correction Materials Market Opportunity, Growth Drivers, Industry Trend Analysis, and Forecast 2025 - 2034
 - Source ID: d3ebaadafbd0
 - Turn: 1
 - Query: "Quantum error correction applications and constraints" market analysis
 - Provider: ddgs
-- Search rank: 12
+- Search rank: 13
 - Domain: www.giiresearch.com
 - URL: https://www.giiresearch.com/report/gmi1892656-quantum-error-correction-materials-market.html
 - Search snippet: December 3, 2025 -Market growth is being shaped by innovations in materials that support qubit function, with superconducting options increasingly optimized for reduced energy loss and enhanced purity to maintain strong coherence and support high-threshold quantum error-correcting designs.
 - Page word count estimate: 88
-- Relevance score: 19.00
+- Relevance score: 18.67
 - Key excerpt lines:
   - Quantum Error Correction Materials Market Opportunity, Growth Drivers, Industry Trend Analysis, and Forecast 2025 - 2034
   - Questions?
@@ -616,88 +643,142 @@ high-level map and authoritative definitions
 - Extended extract lines:
   - Quantum Error Correction Materials Market Opportunity, Growth Drivers, Industry Trend Analysis, and Forecast 2025 - 2034 Questions? +1-866-353-3335 0 Reports Custom Research Research Partners FAQ Enterprise Solution Contact Us Fraud Alert English Japanese English Japanese 0 Reports Custom Research Research Partners FAQ Enterprise Solution Contact Us Fraud Alert Questions? +1-866-353-3335 SEARCH What are you looking for? Need help finding what you are looking for? Contact Us Compare Free Samples Home Market Research Reports Electronic Components Semiconductor Manufacturing & Equipment PUBLISHER: Global Market Insights Inc. | PRODUCT CODE: 1892656
 
-#### Source 0020: Amendments to Parts 8 and 31 of the OHS Regulation Begin Apr 1 - Manufacturing Safety Alliance of BC (2026)
-- Source ID: 0c2c50eace23
+#### Source 0021: Popular Timelines - Famous people, events, places and more
+- Source ID: 41b080e6545a
 - Turn: 1
-- Query: "Quantum error correction applications and constraints" safety regulation
+- Query: "Quantum error correction applications and constraints" timeline history
 - Provider: ddgs
 - Search rank: 4
-- Domain: safetyalliancebc.ca
-- URL: https://safetyalliancebc.ca/effective-apr-1-amendments-to-parts-8-and-31-of-the-ohs-regulation
-- Search snippet: 2 days ago ·Starting April 1, amendments to Parts 8 and 31 of the Occupational Health andSafetyRegulationare in effect. These amendments update references to selectedsafetyheadgear and respirator standards. The amendments are intended to: Bring theRegulationin line with existing OHS Guidelines Reflect standards that are already widely used and accepted in practice Improve […]
-- Page word count estimate: 134
+- Domain: www.populartimelines.com
+- URL: https://www.populartimelines.com
+- Search snippet: Explorehistoryon PopularTimelines.com, your ultimate destination for detailedtimelinesof famous people, events, and places. Dive into the past with visually engaging, well-researched content. Start your journey today!
+- Page word count estimate: 210
 - Relevance score: 18.67
 - Key excerpt lines:
-  - Amendments to Parts 8 and 31 of the OHS Regulation Begin Apr 1 - Manufacturing Safety Alliance of BC (2026)
-  - News
-  - Careers
-  - Events
-  - Event calendar
-  - Safety Pinnacle Awards | Excellence Award Nominations
-  - Make It Safe Conference
-  - Webinars
-  - Sponsorship Opportunities
-  - FAQ
-  - Board & Governance
-  - Our research and projects
+  - Popular Timelines - Famous people, events, places and more
+  - Recently Updated
+  - Most Popular
+  - Birthdays
+  - Trending
+  - Carolina Durante
+  - 2 hours ago
+  - Coachella 2026: Bieber's Nostalgia, Karol G's Achievement, and Radiohead's Immersive Art
+  - The Wire
+  - 2 hours ago
+  - US and Israel conflict escalates amid Gaza tensions and Iran ceasefire efforts.
+  - Will Ferrell
 - Extended extract lines:
-  - Amendments to Parts 8 and 31 of the OHS Regulation Begin Apr 1 - Manufacturing Safety Alliance of BC (2026) News Careers Events Event calendar Safety Pinnacle Awards | Excellence Award Nominations Make It Safe Conference Webinars Sponsorship Opportunities FAQ Board & Governance Our research and projects About About the Alliance Our Story Our People Safety Advisors Training Instructors Research Projects OHS Competency Tools and Framework News and Events News Make It Safe Conferences MIS Vancouver Island | March 2026 MIS Okanagan | April 2026 2026 Safety Pinnacle Awards Gala | Get Tickets 2026 Safety Pinnacles – Excellence Award Nominations Open Financial Academic Awards The 2025 Safety Pinnacle Awards Gala Honourees Partnerships Partners Associate Members Sponsorship Opportunities Board & Governance Board of Directors Committees Overview Constitution and Bylaws Strategic Plan Business Plan Financial Statements
+  - Popular Timelines - Famous people, events, places and more Recently Updated Most Popular Birthdays Trending Carolina Durante 2 hours ago Coachella 2026: Bieber's Nostalgia, Karol G's Achievement, and Radiohead's Immersive Art The Wire 2 hours ago US and Israel conflict escalates amid Gaza tensions and Iran ceasefire efforts. Will Ferrell 3 hours ago Will Ferrell, Olivia Rodrigo, and Matt Damon to Close Out SNL Season 51 Barbie Ferreira 3 hours ago Barbie Ferreira trending amidst 'Faces of Death' release and new movie highlights. Swae Lee 3 hours ago Swae Lee to Headline SUNY Cortland's Spring Fling Concert This Year League of Legends 2 hours ago Nocturne Rework Speculation and Locke Champion Leaks Stir League of Legends Community Cub Swanson 3 hours ago Cub Swanson's UFC 327 Fight: A Look at Legacy, Opponent, and Roufus' Influence. Rui Hachimura 3 hours ago Hachimura's role with Lakers amidst injuries to key players like Doncic and Reaves. Joshua Bassett 4 hours ago Joshua Bassett faces backlash for Olivia Rodrigo mention, hints side of story. Dennis Rodman 19 days ago Dennis Rodman to be inducted into WWE Hall of Fame Class of 2026. Stephen Curry 4 hours ago Stephen Curry Returns to Warriors' Starting Lineup After Injury Layoff Against Kings. Joc Pederson 4 hours ago
 
-#### Source 0021: Error Correction in Quantum Networks
-- Source ID: 909b113ef8dc
-- Turn: 1
-- Query: "Quantum error correction applications and constraints" overview
-- Provider: ddgs
-- Search rank: 10
-- Domain: www.aliroquantum.com
-- URL: https://www.aliroquantum.com/blog/an-overview-of-quantan-overview-of-quantum-error-correction-in-entanglement-based-networksum-error-correction-in-entanglement-based-networks
-- Search snippet: The quantum processes involved in entanglement generation and distribution are fundamentally stochastic and this constrains the potential performance, necessitating retries and delays within the protocols that result in decoherence and exposure of qubits to environmental noise. Delays can quickly render a qubit(s) unusable by the network as the fidelity (a measure of qubit quality) decays exponentially with time. These errors can be corrected with Local QEC.
-- Page word count estimate: 404
-- Relevance score: 18.67
-- Key excerpt lines:
-  - Error Correction in Quantum Networks
-  - Products
-  - PRODUCTS OVERVIEW
-  - Aliro Orchestrator
-  - AliroNet® Quickstart
-  - AliroNet®
-  - Aliro Simulator
-  - Use Cases
-  - Resources
-  - Solution Briefs
-  - Webinars
-  - Blog
-- Extended extract lines:
-  - Error Correction in Quantum Networks Products PRODUCTS OVERVIEW Aliro Orchestrator AliroNet® Quickstart AliroNet® Aliro Simulator Use Cases Resources Solution Briefs Webinars Blog Research & Patents FAQ Videos Podcast About Us Company News Events Awards Strategic Partners Become a Partner Careers Contact Us Quantum Education Menu Error Correction in Quantum Networks Keith Kenemer January 09 Twitter Facebook LinkedIn A method of localized, scheduled quantum error correction (Local QEC) developed by researchers at Aliro makes it possible to correct certain errors in an entanglement-based quantum network. In this article, we’ll explain the basics of quantum error correction, and how QEC can be leveraged in an entanglement-based network for more robust connections. Quantum systems provide novel capabilities and at the same time they also impose restrictions on our ability to leverage these new capabilities. For example, the no-cloning theorem in quantum mechanics states that an arbitrary unknown quantum state can not be copied with high fidelity. This restricts how quantum data can be transmitted. On the other hand, it also prevents adversaries from intercepting quantum communications undetected. Entanglement is another uniquely quantum phenomenon which is exploited in quantum networking to support secure communication (via teleportation). The quantum processes involved in entanglement generation and distribution are fundamentally stochastic and this constrains the potential performance, necessitating retries and delays within the protocols that result in decoherence and exposure of qubits to environmental noise. Delays can quickly render a qubit(s) unusable by the network as the fidelity (a measure of qubit quality) decays exponentially with time. These errors can be corrected with Local QEC. Entanglement-based error correction basics: notation Dirac notation is used to represent quantum states in the state vector formalism. The main takeaway here is that although this notation may be unfamiliar, what it's really conveying is qubit states as vectors and linear algebra is used to create linear combinations of vectors, to compute inner products, to multiply matrices by vectors, to compute the evolution of the state. The physics is abstracted to linear algebra in all these instances. There's another, more general state formalism that can be used called the density state formalism. In this case, the states are represented by matrices. Linear algebra is still the root of the mathematics, but the density state formalism is more general, and allows for calculations regarding subsystems of composite systems or noise, or how noise affects the system. It’s much easier to compute these quantities in density state formalism.
-
-#### Source 0022: Building a quantum implementation roadmap with the arrival of Quantum Error Correction | Q-CTRL
-- Source ID: 36845b76a877
+#### Source 0022: ICIS data and analytics for confident decisions | ICIS | ICIS
+- Source ID: e87cca8009d5
 - Turn: 1
 - Query: "Quantum error correction applications and constraints" market analysis
 - Provider: ddgs
-- Search rank: 17
-- Domain: q-ctrl.com
-- URL: https://q-ctrl.com/topics/building-a-quantum-implementation-roadmap-with-the-arrival-of-quantum-error-correction
-- Search snippet: August 23, 2025 -Impact: This is the era of “logical QC” and users will likely prefer to execute using logically encoded qubits given the choice, subject to hardware-size constraints. The Fault-Tolerant Regime: QEC efficiently delivers very large benefits, and enables large-scale quantum computing. QEC is essential at this stage and broadly used commercially, combined with background error-suppression processes.
-- Page word count estimate: 118
+- Search rank: 2
+- Domain: www.icis.com
+- URL: https://www.icis.com/explore/services/data-and-analytics
+- Search snippet: Boost productivity and make smart decisions quickly with easily accessible data and insights delivered seamlessly across different workflows and systems. Forward-looking intelligence Plan ahead confidently and optimise decision-making with 18-month price forecasts, plus the latest price andmarketintelligence, andanalysisof events in real time.
+- Page word count estimate: 152
 - Relevance score: 18.33
 - Key excerpt lines:
-  - Building a quantum implementation roadmap with the arrival of Quantum Error Correction | Q-CTRL
-  - Products
-  - Our products
-  - View all
-  - Quantum navigation
-  - Navigate without GPS
-  - Quantum computing
-  - Learn quantum computing
-  - Run quantum algorithms
-  - Build quantum computers
-  - Documentation
-  - Integrations
+  - ICIS data and analytics for confident decisions | ICIS | ICIS
+  - Customer login
+  - Buy now
+  - Commodities
+  - Inform your decision making with data that supports thousands of decisions daily.
+  - Markets
+  - Commodity finder
+  - Chemicals
+  - Energy
+  - Sustainability
+  - Fertilizers
+  - Find a commodity
 - Extended extract lines:
-  - Building a quantum implementation roadmap with the arrival of Quantum Error Correction | Q-CTRL Products Our products View all Quantum navigation Navigate without GPS Quantum computing Learn quantum computing Run quantum algorithms Build quantum computers Documentation Integrations Solutions Our work AI for quantum Advancing quantum tech with AI innovation Education Begin your quantum journey with Q-CTRL Quantum sensing Detect the undetectable Quantum computing Unleash the hidden potential of quantum computers Defense Mission-ready quantum tools for defense PNT Quantum-augmented positioning, navigation and timing Our users Educators Enterprise and government Data center and HPC providers Defense and aerospace Quantum computing developers Quantum learners Quantum hardware suppliers Industry leaders Biotechnology and pharmaceuticals Cybersecurity Finance Materials and industrial chemistry Transport and logistics
+  - ICIS data and analytics for confident decisions | ICIS | ICIS Customer login Buy now Commodities Inform your decision making with data that supports thousands of decisions daily. Markets Commodity finder Chemicals Energy Sustainability Fertilizers Find a commodity Search for individual chemicals, energy or fertilizers commodities to learn more about the pricing, news and analysis we offer. Commodity finder Industries Find out how ICIS data is helping businesses in your sector. Sectors Chemicals producer Energy producer Consumer durables & non-durables Finance Health & Pharmaceutical Logistics & Transport Plastics & Rubber converter Recycling Research & Consulting services Retail Trader & Distributor Utilities Make the decisions that matter when they matter Get the latest commodity news and analysis – instantly, effortlessly and reliably. Discover Ask ICIS Solutions Meet strategic objectives with specialised analytics that optimise outcomes. Data & intelligence Pricing News & analysis Data & analytics Data as a Service Supply & Demand Database
 
-#### Source 0023: A New Link Between Generalized Quantum Error-Correcting Codes, Complexity and Physics | Joint Center for Quantum Information and Computer Science (QuICS)
+#### Source 0023: Frontiers | Quantum computing: foundations, algorithms, and emerging applications
+- Source ID: 054d71aac6c6
+- Turn: 1
+- Query: "Quantum error correction applications and constraints" academic review
+- Provider: ddgs
+- Search rank: 17
+- Domain: www.frontiersin.org
+- URL: https://www.frontiersin.org/journals/quantum-science-and-technology/articles/10.3389/frqst.2025.1723319/full
+- Search snippet: December 8, 2025 -Quantum computing is not just another incremental technology—it represents a paradigm shift, enabling new computational capabilities rooted in quantum mechanics (Benioff, 1980; Feynman, 1982; Deutsch, 1985; Shor, 1995; Grover, 1996; Preskill, 2018; Dalzell, 2023). Its potential spans cryptography, materials science, drug discovery, optimization, AI, finance, and beyond. Yet substantial challenges remain: decoherence, error correction, scaling, environmental and physical constraints, and software reliability (Preskill, 2018; Dalzell, 2023; Chae et al., 2024; IBM Quantum, 2025).
+- Page word count estimate: 92
+- Relevance score: 18.33
+- Key excerpt lines:
+  - Frontiers | Quantum computing: foundations, algorithms, and emerging applications
+  - Frontiers in
+  - Quantum Science and Technology
+  - About us
+  - About us
+  - Who we are
+  - Mission and values
+  - History
+  - Leadership
+  - Awards
+  - Impact and progress
+  - Frontiers' impact
+- Extended extract lines:
+  - Frontiers | Quantum computing: foundations, algorithms, and emerging applications Frontiers in Quantum Science and Technology About us About us Who we are Mission and values History Leadership Awards Impact and progress Frontiers' impact Our annual reports Thought leadership Publishing model How we publish Open access Peer review Research integrity Research Topics FAIR² Data Management Fee policy Services Societies National consortia Institutional partnerships Collaborators More from Frontiers Frontiers Forum Frontiers Planet Prize Press office Sustainability Career opportunities Contact us All journals All articles Submit your research Search Frontiers in Quantum Science and Technology
+
+#### Source 0024: Price Analysis | In-Depth Crypto Price Trends & Daily Analysis
+- Source ID: 19dab7cb1db9
+- Turn: 1
+- Query: "Quantum error correction applications and constraints" market analysis
+- Provider: ddgs
+- Search rank: 3
+- Domain: coinpedia.org
+- URL: https://coinpedia.org/price-analysis
+- Search snippet: 14 hours ago ·Get real-time crypto priceanalysis, trends, and expert predictions for top coins. Stay ahead with accuratemarketinsights and price forecasts
+- Page word count estimate: 100
+- Relevance score: 18.00
+- Key excerpt lines:
+  - Price Analysis | In-Depth Crypto Price Trends & Daily Analysis
+  - Menu
+  - Advertise
+  - ✖
+  - Posts
+  - Events
+  - Professionals
+  - Companies
+  - Coins/Tokens
+  - Exchanges
+  - View All Posts
+  - View All Events
+- Extended extract lines:
+  - Price Analysis | In-Depth Crypto Price Trends & Daily Analysis Menu Advertise ✖ Posts Events Professionals Companies Coins/Tokens Exchanges View All Posts View All Events View All Professionals View All Companies View All Coins/Tokens View All Exchanges Login Log In to View Notifications. Log in to access your notifications and stay updated. If you’re not a member yet, Sign Up to get started! Login / Signup Portfolio Home News Information Research Report Press Release Guest Post Sponsored Cryptocurrency Regulation Markets Live Market Price Analysis Cryptocurrency Price Prediction Launchpad Airdrops Product Reviews Centralised Exchanges Decentralised Exchanges Cryptocurrency Wallets Crypto Tracking Tools
+
+#### Source 0025: [2412.20380] Artificial Intelligence for Quantum Error Correction: A Comprehensive Review
+- Source ID: 5e5ef8d5a090
+- Turn: 1
+- Query: "Quantum error correction applications and constraints" academic review
+- Provider: ddgs
+- Search rank: 9
+- Domain: arxiv.org
+- URL: https://arxiv.org/abs/2412.20380
+- Search snippet: December 29, 2024 -We organized the reviewed literature on the basis of the AI strategies employed and improvements in error correction performance. We also discuss challenges ahead such as data sparsity caused by limited quantum error datasets and scalability issues as the number of quantum bits (qubits) in quantum systems kept increasing very fast.
+- Page word count estimate: 86
+- Relevance score: 18.00
+- Key excerpt lines:
+  - [2412.20380] Artificial Intelligence for Quantum Error Correction: A Comprehensive Review
+  - Skip to main content
+  - Learn about arXiv becoming an independent nonprofit.
+  - We gratefully acknowledge support from the Simons Foundation,
+  - member institutions
+  - , and all contributors.
+  - Donate
+  - >
+  - quant-ph
+  - >
+  - arXiv:2412.20380
+  - Help
+- Extended extract lines:
+  - [2412.20380] Artificial Intelligence for Quantum Error Correction: A Comprehensive Review Skip to main content Learn about arXiv becoming an independent nonprofit. We gratefully acknowledge support from the Simons Foundation, member institutions , and all contributors. Donate > quant-ph > arXiv:2412.20380 Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About Quantum Physics arXiv:2412.20380 (quant-ph)
+
+#### Source 0026: A New Link Between Generalized Quantum Error-Correcting Codes, Complexity and Physics | Joint Center for Quantum Information and Computer Science (QuICS)
 - Source ID: aed50193ca3c
 - Turn: 1
 - Query: "Quantum error correction applications and constraints" site:edu
@@ -724,34 +805,7 @@ high-level map and authoritative definitions
 - Extended extract lines:
   - A New Link Between Generalized Quantum Error-Correcting Codes, Complexity and Physics | Joint Center for Quantum Information and Computer Science (QuICS) Skip to main content Search Show Main Menu About Expand child menu of About Mission & Vision News Join QuICS Partners Quantum Information at UMD Contact Us Directions People Expand child menu of People Fellows Administration Fellowship Programs Postdoctoral Researchers Graduate Students Alumni Visitors Events Expand child menu of Events Past Events Past Seminars Research Expand child menu of Research Theory of Quantum Computation and Communication Implementations of Quantum Computers and Networks Quantum Information and Physics What Is Quantum Information Science? Error Correction Zoo Quantum Algorithm Zoo Publications Education Expand child menu of Education Courses Previous Courses Search
 
-#### Source 0024: Quantum error correction near the coding theoretical bound | npj Quantum Information
-- Source ID: e0740550b7ab
-- Turn: 1
-- Query: "Quantum error correction applications and constraints" academic review
-- Provider: ddgs
-- Search rank: 9
-- Domain: www.nature.com
-- URL: https://www.nature.com/articles/s41534-025-01090-1
-- Search snippet: September 30, 2025 -To the best of our knowledge, such codes exhibit quantum error-correcting performance that is closest to the hashing bound. However, since the girth of the original QC-LDPC codes is upper-bounded by 129, these codes also exhibited a high error floor. Furthermore, Hagiwara’s construction method imposes strict constraints on the allowable code lengths; even the subsequent work based on it16 was limited to code lengths containing large prime factors.
-- Page word count estimate: 142
-- Relevance score: 18.00
-- Key excerpt lines:
-  - Quantum error correction near the coding theoretical bound | npj Quantum Information
-  - Skip to main content
-  - Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
-  - the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
-  - Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
-  - and JavaScript.
-  - Advertisement
-  - View all journals
-  - Search
-  - My Account
-  - Login
-  - Content
-- Extended extract lines:
-  - Quantum error correction near the coding theoretical bound | npj Quantum Information Skip to main content Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript. Advertisement View all journals Search My Account Login Content Explore content About the journal Publish with us Sign up for alerts RSS feed nature npj quantum information articles article Quantum error correction near the coding theoretical bound Download PDF Download PDF Article Open access Published: 30 September 2025 Quantum error correction near the coding theoretical bound Daiki Komoto 1 & Kenta Kasai 1 npj Quantum Information volume 11 , Article number:
-
-#### Source 0025: error correction mechanism: Topics by Science.gov
+#### Source 0027: error correction mechanism: Topics by Science.gov
 - Source ID: bb46a810acd2
 - Turn: 1
 - Query: "Quantum error correction applications and constraints" site:gov
@@ -778,7 +832,34 @@ high-level map and authoritative definitions
 - Extended extract lines:
   - error correction mechanism: Topics by Science.gov Toggle navigation Topics by Science.gov Home About Science.gov Sample records for error correction mechanism « 1 2 3 4 5 » Reed-Solomon error-correction as a software patch mechanism. DOE Office of Scientific and Technical Information (OSTI.GOV) Pendley, Kevin D. This report explores how error-correction data generated by a Reed-Solomon code may be used as a mechanism to apply changes to an existing installed codebase. Using the Reed-Solomon code to generate error-correction data for a changed or updated codebase will allow the error-correction data to be applied to an existing codebase to both validate and introduce changes or updates from some upstream source to the existing installed codebase. Errata report on Herbert Goldstein's Classical Mechanics: Second edition DOE Office of Scientific and Technical Information (OSTI.GOV) Unseren, M.A.; Hoffman, F.M. This report describes errors in Herbert Goldstein's textbook Classical Mechanics, Second Edition (Copyright 1980, ISBN 0-201-02918-9). Some of the errors in current printings of the text were corrected in the second printing; however, after communicating with Addison Wesley, the publisher for Classical Mechanics, it was discovered that the corrected galley proofs had been lost by the printer and that no one had complained of any errors in the eleven years since the second printing. The errata sheet corrects errors from all printings of the second edition. Subthreshold muscle twitches dissociate oscillatory neural signatures of conflicts from errors. PubMed Cohen, Michael X; van Gaal, Simon 2014-02-01 We investigated the neural systems underlying conflict detection and error monitoring during rapid online error correction/monitoring mechanisms. We combined data from four separate cognitive tasks and 64 subjects in which EEG and EMG (muscle activity from the thumb used to respond) were recorded. In typical neuroscience experiments, behavioral responses are classified as "error" or "correct"; however, closer inspection of our data revealed that correct responses were often accompanied by "partial errors" - a muscle twitch of the incorrect hand ("mixed correct trials," ~13% of the trials). We found that these muscle twitches dissociated conflicts from errors in time-frequency domain analyses of EEG data. In particular, both mixed-correct trials and full error trials were associated with enhanced theta-band power (4-9Hz) compared to correct trials. However, full errors were additionally associated with power and frontal-parietal synchrony in the delta band. Single-trial robust multiple regression analyses revealed a significant modulation of theta power as a function of partial error correction time, thus linking trial-to-trial fluctuations in power to conflict. Furthermore, single-trial correlation analyses revealed a qualitative dissociation between conflict and error processing, such that mixed correct trials were associated with positive theta-RT correlations whereas full error trials were associated with negative delta-RT correlations. These findings shed new light on the local and global network mechanisms of conflict monitoring and error detection, and their relationship to online action adjustment. Â© 2013. Supporting Dictation Speech Recognition Error Correction: The Impact of External Information ERIC Educational Resources Information Center Shi, Yongmei; Zhou, Lina 2011-01-01 Although speech recognition technology has made remarkable progress, its wide adoption is still restricted by notable effort made and frustration experienced by users while correcting speech recognition errors. One of the promising ways to improve error correction is by providing user support. Although support mechanisms have been proposed forâ¦ Alteration of a motor learning rule under mirror-reversal transformation does not depend on the amplitude of visual error. PubMed Kasuga, Shoko; Kurata, Makiko; Liu, Meigen; Ushiba, Junichi 2015-05-01 Human's sophisticated motor learning system paradoxically interferes with motor performance when visual information is mirror-reversed (MR), because normal movement error correction further aggravates the error. This error-increasing mechanism makes performing even a simple reaching task difficult, but is overcome by alterations in the error correction rule during the trials. To isolate factors that trigger learners to change the error correction rule, we manipulated the gain of visual angular errors when participants made arm-reaching movements with mirror-reversed visual feedback, and compared the rule alteration timing between groups with normal or reduced gain. Trial-by-trial changes in the visual angular error was tracked to explain the timing of the change in the error correction rule. Under both gain conditions, visual angular errors increased under the MR transformation, and suddenly decreased after 3-5 trials with increase. The increase became degressive at different amplitude between the two groups, nearly proportional to the visual gain. The findings suggest that the alteration of the error-correction rule is not dependent on the amplitude of visual angular errors, and possibly determined by the number of trials over which the errors increased or statistical property of the environment. The current results encourage future intensive studies focusing on the exact rule-change mechanism. Copyright Â© 2014 Elsevier Ireland Ltd and the Japan Neuroscience Society. All rights reserved. A Case for Soft Error Detection and Correction in Computational Chemistry. PubMed van Dam, Hubertus J J; Vishnu, Abhinav; de Jong, Wibe A
 
-#### Source 0026: Scalable Quantum Error Correction | Quantum Machines
+#### Source 0028: Building a quantum implementation roadmap with the arrival of Quantum Error Correction | Q-CTRL
+- Source ID: 36845b76a877
+- Turn: 1
+- Query: "Quantum error correction applications and constraints" market analysis
+- Provider: ddgs
+- Search rank: 18
+- Domain: q-ctrl.com
+- URL: https://q-ctrl.com/topics/building-a-quantum-implementation-roadmap-with-the-arrival-of-quantum-error-correction
+- Search snippet: August 23, 2025 -Impact: This is the era of “logical QC” and users will likely prefer to execute using logically encoded qubits given the choice, subject to hardware-size constraints. The Fault-Tolerant Regime: QEC efficiently delivers very large benefits, and enables large-scale quantum computing. QEC is essential at this stage and broadly used commercially, combined with background error-suppression processes.
+- Page word count estimate: 118
+- Relevance score: 18.00
+- Key excerpt lines:
+  - Building a quantum implementation roadmap with the arrival of Quantum Error Correction | Q-CTRL
+  - Products
+  - Our products
+  - View all
+  - Quantum navigation
+  - Navigate without GPS
+  - Quantum computing
+  - Learn quantum computing
+  - Run quantum algorithms
+  - Build quantum computers
+  - Documentation
+  - Integrations
+- Extended extract lines:
+  - Building a quantum implementation roadmap with the arrival of Quantum Error Correction | Q-CTRL Products Our products View all Quantum navigation Navigate without GPS Quantum computing Learn quantum computing Run quantum algorithms Build quantum computers Documentation Integrations Solutions Our work AI for quantum Advancing quantum tech with AI innovation Education Begin your quantum journey with Q-CTRL Quantum sensing Detect the undetectable Quantum computing Unleash the hidden potential of quantum computers Defense Mission-ready quantum tools for defense PNT Quantum-augmented positioning, navigation and timing Our users Educators Enterprise and government Data center and HPC providers Defense and aerospace Quantum computing developers Quantum learners Quantum hardware suppliers Industry leaders Biotechnology and pharmaceuticals Cybersecurity Finance Materials and industrial chemistry Transport and logistics
+
+#### Source 0029: Scalable Quantum Error Correction | Quantum Machines
 - Source ID: c1743ae2e34c
 - Turn: 1
 - Query: "Quantum error correction applications and constraints" overview
@@ -805,34 +886,34 @@ high-level map and authoritative definitions
 - Extended extract lines:
   - Scalable Quantum Error Correction | Quantum Machines Products Control Hardware OPX1000 Modular High-Density Quantum Control Platform OPX+ Ultra-Fast Quantum Controller QDAC-II Compact High-Density DAC QDAC-II Ultra-Low-Noise 24-Channel DAC Control Hardware Second Column QSwitch Software-Controlled Breakout Box Octave Up/Down Conversion Up to 18 GHz QBox Highly Reliable 24-Channel Breakout Box Cryogenic Electronics Control Software QUA Intuitive pulse-level programming QUAlibrate Automated Calibration Software Solutions Use Cases Open Acceleration Stack Advancing Quantum Research Quantum Computing at Scale Quantum for HPC Quantum Control for Transducers Quantum Sensing Quantum Networks Qubit Types Superconducting Semiconductor Spins Optically Addressable Neutral Atoms OPX1000 Microwave Module The Microwave Frontend Module for OPX1000 sets a new benchmark for controllers.
 
-#### Source 0027: Quantum Error Correction Software Market Research Report 2033
-- Source ID: c621f44ed6b5
+#### Source 0030: Quantum computing on the verge: correcting errors, developing algorithms and building up the user base – Physics World
+- Source ID: a3bba9937f25
 - Turn: 1
 - Query: "Quantum error correction applications and constraints" market analysis
 - Provider: ddgs
 - Search rank: 16
-- Domain: dataintelo.com
-- URL: https://dataintelo.com/report/quantum-error-correction-software-market
-- Search snippet: Dataintelo Trusted by Fortune 500 companies across various industries, for insightful high-quality market research reports and customized business solutions.
-- Page word count estimate: 156
+- Domain: physicsworld.com
+- URL: https://physicsworld.com/a/quantum-computing-on-the-verge-correcting-errors-developing-algorithms-and-building-up-the-user-base
+- Search snippet: November 19, 2025 -According to Maria Maragkou, commercial vice-president of quantum error-correction company Riverlane, the goal of full QEC has ramifications for the design of the machines all the way from hardware to workflow planning. “The shift to support error correction has a profound effect on the way quantum processors themselves are built, the way we control and operate them, through a robust software stack on top of which the applications can be run,” she explains.
+- Page word count estimate: 101
 - Relevance score: 17.67
 - Key excerpt lines:
-  - Quantum Error Correction Software Market Research Report 2033
-  - Home
-  - Dashboard
-  - Report Store
-  - Aerospace & Defense
-  - Automotive & Logistics
-  - Banking, Financial Services & Insurance
-  - Construction & Manufacturing
-  - Consumer Goods
-  - Energy & Power
-  - Food & Beverage
-  - Healthcare
+  - Quantum computing on the verge: correcting errors, developing algorithms and building up the user base – Physics World
+  - Skip to main content
+  - IOP Publishing site
+  - Menu
+  - Sign in
+  - Register
+  - Back to homepage
+  - Topics
+  - Browse articles by topic
+  - Astronomy and space
+  - Atomic and molecular
+  - Biophysics and bioengineering
 - Extended extract lines:
-  - Quantum Error Correction Software Market Research Report 2033 Home Dashboard Report Store Aerospace & Defense Automotive & Logistics Banking, Financial Services & Insurance Construction & Manufacturing Consumer Goods Energy & Power Food & Beverage Healthcare ICT, Semiconductor & Electronics Materials & Chemicals About About Us Blogs Careers Contact Us Request Dashboard Demo Report Description Table Of Content Methodology Home ICT, Semiconductor & Electronics Software & Services Quantum Error Correction Software Market Research Report 2033 Quantum Error Correction Software Market Segments - by Component (Software, Services), Deployment Mode (On-Premises, Cloud), Application (Quantum Computing, Quantum Communication, Quantum Cryptography, and Others), End-User (BFSI, Healthcare, Government, IT and Telecommunications, Research & Academia, and Others), and Region (North America, Europe, Asia Pacific, Latin America, and Middle East & Africa) – Global Industry Analysis, Growth, Share, Size, Trends, and Forecast 2025-2033 + Read More ICT-SE-696852 Published Updated: Sep 2025 4.0 Rating 96 Reviews 294 Pages Author: Raksha Sharma Fact-checked by: V. Chandola
+  - Quantum computing on the verge: correcting errors, developing algorithms and building up the user base – Physics World Skip to main content IOP Publishing site Menu Sign in Register Back to homepage Topics Browse articles by topic Astronomy and space Atomic and molecular Biophysics and bioengineering Condensed matter Culture, history and society Environment and energy Instrumentation and measurement Materials Mathematics and computation Medical physics Optics and photonics Particle and nuclear People Quantum Scientific enterprise Latest content Browse articles by content type Short reads Research updates News Blog Innovation showcases Events Long reads Features Opinion and reviews Interviews Analysis Multimedia Podcasts Puzzles
 
-#### Source 0028: Making quantum error correction work
+#### Source 0031: Making quantum error correction work
 - Source ID: d7a06f6bf126
 - Turn: 1
 - Query: "Quantum error correction applications and constraints" overview
@@ -859,7 +940,7 @@ high-level map and authoritative definitions
 - Extended extract lines:
   - Making quantum error correction work Jump to Content Research Research Who we are Back to Who we are menu Defining the technology of today and tomorrow. Philosophy We strive to create an environment conducive to many different types of research across many different time scales and levels of risk. Learn more about our Philosophy Learn more Philosophy People Our researchers drive advancements in computer science through both fundamental and applied research. Learn more about our People Learn more People Research areas Back to Research areas menu Research areas Explore all research areas Research areas Back to Research areas menu Explore all research areas Foundational ML & Algorithms Algorithms & Theory Data Management Data Mining & Modeling Information Retrieval & the Web Machine Intelligence Machine Perception Machine Translation Natural Language Processing Speech Processing
 
-#### Source 0029: Homotopy Theoretic and Categorical Models of Neural Information Networks | NSF Public Access Repository
+#### Source 0032: Homotopy Theoretic and Categorical Models of Neural Information Networks | NSF Public Access Repository
 - Source ID: 7518e8e59977
 - Turn: 1
 - Query: "Quantum error correction applications and constraints" site:gov
@@ -886,142 +967,115 @@ high-level map and authoritative definitions
 - Extended extract lines:
   - Homotopy Theoretic and Categorical Models of Neural Information Networks | NSF Public Access Repository skip to main content An official website of the United States government Here's how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( lock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. PAR Home Contact FAQ NSF PAGES Navigation Toggle Navigation PAR Home Contact FAQ Explore Research Products in the PAR It may take a few hours for recently added research products to appear in PAR search results. × Search + Advanced Search × Advanced Search Options Search Across All Fields Subject(s) / Keyword(s): × Identifier Number: What does this include? × Resource Type: Audiovisual Book Book Chapter Conference Paper
 
-#### Source 0030: Quantum error correction with logical qubits | EurekAlert!
-- Source ID: 3ce2218fa74f
+#### Source 0033: The KITTI Vision Benchmark Suite
+- Source ID: af28f19f75c4
 - Turn: 1
-- Query: "Quantum error correction applications and constraints" market analysis
+- Query: "Quantum error correction applications and constraints" benchmark data
 - Provider: ddgs
-- Search rank: 19
-- Domain: www.eurekalert.org
-- URL: https://www.eurekalert.org/news-releases/1113201
-- Search snippet: January 21, 2026 -In the snaQCs project, we are demonstrating the practical usability of quantum error correction and fault-tolerant quantum circuits by investigating the integration of error correction routines into quantum algorithms,” explains project coordinator Dr. Sascha Heußen from neQxt. “With an innovative approach that combines analysis, optimization, simulation and fault-tolerant implementation of quantum algorithms, snaQCs is contributing to the realization of scalable quantum computing in Germany,” emphasizes Dr.
-- Page word count estimate: 998
+- Search rank: 1
+- Domain: www.cvlibs.net
+- URL: https://www.cvlibs.net/datasets/kitti/raw_data.php
+- Search snippet: RawDataThis page contains our rawdatarecordings, sorted by category (see menu above). So far, we included only sequences, for which we either have 3D object labels or which occur in our odometrybenchmarktraining set. The dataset comprises the following information, captured and synchronized at 10 Hz:
+- Page word count estimate: 81
 - Relevance score: 17.67
 - Key excerpt lines:
-  - Quantum error correction with logical qubits | EurekAlert!
-  - Advanced Search
-  - Home
-  - News Releases
-  - Multimedia
-  - Meetings
-  - Login
-  - Register
-  - News Release
-  - 21-Jan-2026
-  - Quantum error correction with logical qubits
-  - Scalable and fault-tolerant quantum computers: BMFTR-funded project snaQCs2025 launched
+  - The KITTI Vision Benchmark Suite
+  - The KITTI Vision Benchmark Suite
+  - A project of
+  - Karlsruhe Institute of Technology
+  - and
+  - Toyota Technological Institute at Chicago
+  - home
+  - setup
+  - stereo
+  - Stereo 2012
+  - Stereo 2015
+  - flow
 - Extended extract lines:
-  - Quantum error correction with logical qubits | EurekAlert! Advanced Search Home News Releases Multimedia Meetings Login Register News Release 21-Jan-2026 Quantum error correction with logical qubits Scalable and fault-tolerant quantum computers: BMFTR-funded project snaQCs2025 launched Grant and Award Announcement Fraunhofer Institute for Applied Solid State Physics image: Group photo of the participants at the kick-off meeting of the snaQCs2025 project on January 14, 2026, in Cologne. From left to right: Florentin Reiter (Fraunhofer IAF), Carsten Zwilling (point8), Sascha Heußen (neQxt), Florian Kruse (point8), Roman Bansen (neQxt), Nikolas Knake (VDI TZ), Jesko Merkel (point8), Tobias Nauck (Fraunhofer IAF), Edoardo Carnio and Lina Vandré (both neQxt) view more Credit: © Markus Speier Quantum computers have immense potential because they could perform highly complex calculations much faster than current supercomputers. However, the hurdle to the practical application of quantum computers is just as immense today: the error-prone nature of their hardware. Researchers around the world are therefore working on quantum error correction methods to make the calculations of quantum computers more reliable. Against this backdrop, neQxt GmbH, the Fraunhofer Institute for Applied Solid State Physics IAF and Point 8 GmbH have launched the snaQCs2025 project to jointly advance a promising approach to quantum error correction. Using innovative simulation and integration methods, software tools for analysis and optimization, and scalable and error-resistant quantum algorithms, the partners want to develop robust logical quantum bits (qubits) for quantum computing hardware. This approach aims to compensate for the error susceptibility of physical qubits, bringing quantum computing a big step closer to practical use. On January 14, 2026, representatives of the three consortium partners met in Cologne for the project kick-off. The German Federal Ministry of Research, Technology and Space (BMFTR) is supporting the project with €2.5 million over three years as part of the funding program on application-oriented quantum informatics. Making quantum computers more practical “Quantum error correction is a promising approach to significantly reducing the error susceptibility of quantum computers and making the technology more practical. In the snaQCs project, we are demonstrating the practical usability of quantum error correction and fault-tolerant quantum circuits by investigating the integration of error correction routines into quantum algorithms,” explains project coordinator Dr. Sascha Heußen from neQxt. “With an innovative approach that combines analysis, optimization, simulation and fault-tolerant implementation of quantum algorithms, snaQCs is contributing to the realization of scalable quantum computing in Germany,” emphasizes Dr. Florentin Reiter, Head of Business Unit Quantum Systems and snaQCs subproject leader at Fraunhofer IAF. “Quantum computing is one of the most promising topics for the future worldwide. We are very happy to support both progress in this area and Germany as a center of science by contributing our expertise and experience in physics, data analysis and software development to the snaQCs project,” explains Dr. Jesko Merkel, co-founder of point8 and snaQCs subproject leader. Logical qubits outperform physical qubits The most important component of a quantum computer is the qubit. As the central information unit, it performs the same function as the bit in a conventional computer. Companies and scientific institutions around the world are working on various approaches to generating qubits: atoms in electromagnetic traps, electrons in quantum dots, superconducting circuits, or nuclear spins in solids and molecules. Unlike a bit, a qubit can assume several states (such as 0 and 1) simultaneously (superposition). Quantum entanglement also connects several qubits regardless of their distance from each other. What all approaches to realizing these physical qubits have in common is their extreme sensitivity to external influences. Even the weakest microwave pulses, magnetic fields or temperature fluctuations can disrupt the superposition and entanglement of qubits and contaminate the calculations of a quantum computer. The use of quantum error correction can compensate for this: By combining several physical qubits, logical qubits are created in which the errors of individual qubits are compensated for in the network. This is crucial for the scalability of quantum computers: while the susceptibility to errors increases with a rising number of physical qubits, it decreases through their connection to logical qubits. Complete development pipeline for logical qubits, quantum algorithms and analysis software The snaQCs project aims to help unlock the benefits of logical qubits for users and promote the real-world use of quantum computers. To this end, the project partners are working at various levels on the development of particularly reliable logical qubits, optimized, application-oriented quantum algorithms and innovative software for data analysis and characterization. The goal is to provide a complete development pipeline, ranging from the simulation, realization and integration of logical qubits in real quantum computers to the optimization and new development of application-specific and scalable algorithms, as well as data-supported validation and iterative improvement of the methods. The development and experimental implementation of the logical qubits is carried out on ion trap-based quantum computing hardware. Overview: Contributions of the project partners The company neQxt coordinates the joint project and is responsible for the simulation and further development of various quantum error correction methods as well as for the implementation of the developed logical qubits in existing quantum computing hardware. The work at Fraunhofer IAF aims to identify and optimize quantum algorithms and develop new algorithms that are specifically tailored to quantum error correction codes and enable efficient application by industry. The focus is particularly on the scalability of the algorithms. As part of snaQCs, the software company point8 is developing innovative tools for more precise analysis and optimization of quantum error correction circuits. In addition, point8 provides ongoing support to the project partners in experimental data analysis and characterization. About neQxt neQxt GmbH is a full-stack quantum computing company covering the entire spectrum from hardware manufacturing to software development. neQxt is a spin-off of Johannes Gutenberg University Mainz that emerged from the Schmidt-Kaler research group. This allows the company to draw on decades of experience in the field of ion trap quantum computers. neQxt's product portfolio includes quantum computing simulators, portable quantum computer systems, cloud access to quantum computers, and enabling technologies. https://www.neqxt.org/ About Fraunhofer IAF
+  - The KITTI Vision Benchmark Suite The KITTI Vision Benchmark Suite A project of Karlsruhe Institute of Technology and Toyota Technological Institute at Chicago home setup stereo Stereo 2012 Stereo 2015 flow Flow 2012 Flow 2015 sceneflow depth Depth Completion Depth Prediction odometry object 2d object 3d object bird's eye view tracking multi-object tracking multi-object tracking and segmentation segmenting and tracking every pixel road semantics pixel-level instance-level raw data submit results A. Geiger | P. Lenz | C. Stiller | R. Urtasun
 
-#### Source 0031: DirectQuery in Power BI: When to Use, Limitations, Alternatives - Power BI | Microsoft Learn
-- Source ID: 8f9811d040b6
+#### Source 0034: Timeline Maker - Online Timeline Maker & Creator
+- Source ID: 40cacf31aa61
 - Turn: 1
-- Query: "Quantum error correction applications and constraints" limitations criticism
+- Query: "Quantum error correction applications and constraints" timeline history
 - Provider: ddgs
-- Search rank: 2
-- Domain: learn.microsoft.com
-- URL: https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-directquery-about
-- Search snippet: 5 days ago ·Learn when to use DirectQuery in Power BI versus Import, Hybrid tables, Direct Lake, or live connections,andget guidance to optimize performance.
-- Page word count estimate: 191
-- Relevance score: 17.33
+- Search rank: 1
+- Domain: www.smartdraw.com
+- URL: https://www.smartdraw.com/timeline/timeline-maker.htm
+- Search snippet: Makehistorytimelines, projecttimelines, andtimelinesfor PowerPoint presentations or infographics with SmartDraw'stimelinemaker. Works online, on a Mac, or on a PC.
+- Page word count estimate: 84
+- Relevance score: 17.67
 - Key excerpt lines:
-  - DirectQuery in Power BI: When to Use, Limitations, Alternatives - Power BI | Microsoft Learn
+  - Timeline Maker - Online Timeline Maker & Creator
+  - Product
+  - Floor Planning
+  - Easier Than CAD
+  - Import & Scale
+  - Custom Shapes & Libraries
+  - Data Enabled
+  - Diagrams
+  - Checks Every Box
+  - Collaboration
+  - Integrations
+  - AI Diagrams
+- Extended extract lines:
+  - Timeline Maker - Online Timeline Maker & Creator Product Floor Planning Easier Than CAD Import & Scale Custom Shapes & Libraries Data Enabled Diagrams Checks Every Box Collaboration Integrations AI Diagrams Platform Microsoft Google Floor Planning Easier Than CAD Import & Scale Custom Shapes & Libraries Data Enabled Diagrams Checks Every Box Collaboration Integrations AI Diagrams Platform Microsoft Google Enterprise Enterprise License Enterprise License Control Your Data Security Why SmartDraw Resources IT Admin Guide Getting Started Customer Stories Lucidchart Users Guide Visio Users Guide
+
+#### Source 0035: Decoding quantum errors with subspace expansions - PMC
+- Source ID: 5f20047b392a
+- Turn: 1
+- Query: "Quantum error correction applications and constraints" site:gov
+- Provider: ddgs
+- Search rank: 7
+- Domain: pmc.ncbi.nlm.nih.gov
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC6994666
+- Search snippet: Although a connection to symmetries was explored in the original work27 and this connection was extended in subsequent work36,37 that has also been verified by experimental implementation38, these papers have focused on application specific contexts. Here we generalize this to any circuit performed within a quantum code, and show how subspace expansions may be used to then correct some logical errors within the code space, as well as be applied to approximate symmetries of unencoded Hamiltonians.
+- Page word count estimate: 112
+- Relevance score: 17.67
+- Key excerpt lines:
+  - Decoding quantum errors with subspace expansions - PMC
   - Skip to main content
-  - Skip to Ask Learn chat experience
-  - This browser is no longer supported.
-  - Upgrade to Microsoft Edge to take advantage of the latest features, security updates, and technical support.
-  - Download Microsoft Edge
-  - More info about Internet Explorer and Microsoft Edge
-  - Table of contents
-  - Exit editor mode
-  - Ask Learn
-  - Ask Learn
-  - Focus mode
+  - An official website of the United States government
+  - Here's how you know
+  - Here's how you know
+  - Official websites use .gov
+  - A
+  - .gov
+  - website belongs to an official
+  - government organization in the United States.
+  - Secure .gov websites use HTTPS
+  - A
 - Extended extract lines:
-  - DirectQuery in Power BI: When to Use, Limitations, Alternatives - Power BI | Microsoft Learn Skip to main content Skip to Ask Learn chat experience This browser is no longer supported. Upgrade to Microsoft Edge to take advantage of the latest features, security updates, and technical support. Download Microsoft Edge More info about Internet Explorer and Microsoft Edge Table of contents Exit editor mode Ask Learn Ask Learn Focus mode Table of contents Read in English Add Add to plan Edit Share via Facebook x.com LinkedIn Email Copy Markdown Print Note Access to this page requires authorization. You can try signing in or changing directories . Access to this page requires authorization. You can try changing directories . DirectQuery in Power BI Feedback Summarize this article for me In this article DirectQuery in Power BI lets you keep data in the source and query it at report time instead of importing it. This article explains when to use DirectQuery, its limitations, and alternatives such as hybrid tables, Direct Lake, and live connections so you can choose the right mode. This article describes: Power BI data connectivity modes and where DirectQuery fits
+  - Decoding quantum errors with subspace expansions - PMC Skip to main content An official website of the United States government Here's how you know Here's how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. Search Log in Dashboard Publications Account settings Log out Search… Search NCBI Primary site navigation Search Logged in as: Dashboard Publications Account settings Log in Search PMC Full-Text Archive Search in PMC Journal List User Guide
 
-#### Source 0032: 1926.650 - Scope, application, and definitions applicable to this subpart. | Occupational Safety and Health Administration
-- Source ID: b0fa0cc35681
+#### Source 0036: Combating errors in quantum communication: an integrated approach - PMC
+- Source ID: dfed9afa5d7d
 - Turn: 1
-- Query: "Quantum error correction applications and constraints" safety regulation
+- Query: "Quantum error correction applications and constraints" site:gov
 - Provider: ddgs
-- Search rank: 2
-- Domain: www.osha.gov
-- URL: https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.650
-- Search snippet: Home By Standard Number 1926.650 - Scope, application,anddefinitions applicable to this subpart.
-- Page word count estimate: 133
-- Relevance score: 17.33
+- Search rank: 10
+- Domain: pmc.ncbi.nlm.nih.gov
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC9941483
+- Search snippet: In fact, we have shown how standard quantum error-correcting codes emerge if suitable restrictions are imposed on the choices of logical basis states. As applications, for illustration, we propose a quantum key distribution protocol and an error-immune information transfer protocol.
+- Page word count estimate: 114
+- Relevance score: 17.67
 - Key excerpt lines:
-  - 1926.650 - Scope, application, and definitions applicable to this subpart. | Occupational Safety and Health Administration
+  - Combating errors in quantum communication: an integrated approach - PMC
   - Skip to main content
-  - An official website of the United States government.
-  - Here’s how you know
-  - Here’s how you know
-  - The .gov means it’s official.
-  - Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
-  - The site is secure.
-  - The
-  - https://
-  - ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
-  - U.S. Department of Labor
+  - An official website of the United States government
+  - Here's how you know
+  - Here's how you know
+  - Official websites use .gov
+  - A
+  - .gov
+  - website belongs to an official
+  - government organization in the United States.
+  - Secure .gov websites use HTTPS
+  - A
 - Extended extract lines:
-  - 1926.650 - Scope, application, and definitions applicable to this subpart. | Occupational Safety and Health Administration Skip to main content An official website of the United States government. Here’s how you know Here’s how you know The .gov means it’s official. Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site. The site is secure. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely. U.S. Department of Labor MENU Occupational Safety and Health Administration Contact Us FAQ A to Z Index Select Target Language Select Language Afrikaans Albanian Amharic Arabic Armenian Azerbaijani Basque Belarusian Bengali Bosnian Bulgarian Catalan Cebuano Chichewa Chinese (Simplified) Chinese (Traditional) Corsican Croatian Czech Danish Dutch
+  - Combating errors in quantum communication: an integrated approach - PMC Skip to main content An official website of the United States government Here's how you know Here's how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. Search Log in Dashboard Publications Account settings Log out Search… Search NCBI Primary site navigation Search Logged in as: Dashboard Publications Account settings Log in Search PMC Full-Text Archive Search in PMC Journal List User Guide
 
-#### Source 0033: [2601.07223] Quantum Error Correction and Detection for Quantum Machine Learning
-- Source ID: 1b7ed5d68784
-- Turn: 1
-- Query: "Quantum error correction applications and constraints" academic review
-- Provider: ddgs
-- Search rank: 8
-- Domain: arxiv.org
-- URL: https://arxiv.org/abs/2601.07223
-- Search snippet: January 12, 2026 -We first quantify the resource demands of fully error-corrected QML and propose a partial QEC approach that reduces overhead while enabling error correction. We then demonstrate the application of a simple QED method, evaluating its impact on ...
-- Page word count estimate: 86
-- Relevance score: 17.33
-- Key excerpt lines:
-  - [2601.07223] Quantum Error Correction and Detection for Quantum Machine Learning
-  - Skip to main content
-  - Learn about arXiv becoming an independent nonprofit.
-  - We gratefully acknowledge support from the Simons Foundation,
-  - member institutions
-  - , and all contributors.
-  - Donate
-  - >
-  - quant-ph
-  - >
-  - arXiv:2601.07223
-  - Help
-- Extended extract lines:
-  - [2601.07223] Quantum Error Correction and Detection for Quantum Machine Learning Skip to main content Learn about arXiv becoming an independent nonprofit. We gratefully acknowledge support from the Simons Foundation, member institutions , and all contributors. Donate > quant-ph > arXiv:2601.07223 Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About Quantum Physics arXiv:2601.07223 (quant-ph)
-
-#### Source 0034: Quantum error correction below the surface code threshold
-- Source ID: 69930c94033e
-- Turn: 1
-- Query: "Quantum error correction applications and constraints" academic review
-- Provider: ddgs
-- Search rank: 11
-- Domain: arxiv.org
-- URL: https://arxiv.org/html/2408.13687v1
-- Search snippet: August 24, 2024 -< 10 start_POSTSUPERSCRIPT - 10 end_POSTSUPERSCRIPT error rates needed for many applications [11, 12]. Quantum error correction ispostulated to realize high-fidelity logical qubits by distributing quantum information over many entangled physical qubits to protect against errors.
-- Page word count estimate: 149
-- Relevance score: 17.33
-- Key excerpt lines:
-  - Quantum error correction below the surface code threshold
-  - I
-  - Introduction
-  - II
-  - A Surface code memory below threshold
-  - III
-  - Logical error sensitivity
-  - IV
-  - Probing the ultra-low error regime with repetition codes
-  - V
-  - Real-time decoding
-  - VI
-- Extended extract lines:
-  - Quantum error correction below the surface code threshold I Introduction II A Surface code memory below threshold III Logical error sensitivity IV Probing the ultra-low error regime with repetition codes V Real-time decoding VI Outlook VII Author Contributions VIII Acknowledgements IX Ethics Declarations X Additional Information XI Data Availability Quantum error correction below the surface code threshold Google Quantum AI and Collaborators (August 24, 2024) Abstract Quantum error correction [ 1 , 2 , 3 , 4 ] provides a path to reach practical quantum computing by combining multiple physical qubits into a logical qubit, where the logical error rate is suppressed exponentially as more qubits are added. However, this exponential suppression only occurs if the physical error rate is below a critical threshold. In this work, we present two surface code memories operating below this threshold: a distance-7 code and a distance-5 code integrated with a real-time decoder.
-
-#### Source 0035: Practical Applications for Partial Quantum Error Correction | Joint Center for Quantum Information and Computer Science (QuICS)
+#### Source 0037: Practical Applications for Partial Quantum Error Correction | Joint Center for Quantum Information and Computer Science (QuICS)
 - Source ID: 6f3a77436de6
 - Turn: 1
 - Query: "Quantum error correction applications and constraints" site:edu
@@ -1048,88 +1102,115 @@ high-level map and authoritative definitions
 - Extended extract lines:
   - Practical Applications for Partial Quantum Error Correction | Joint Center for Quantum Information and Computer Science (QuICS) Skip to main content Search Show Main Menu About Expand child menu of About Mission & Vision News Join QuICS Partners Quantum Information at UMD Contact Us Directions People Expand child menu of People Fellows Administration Fellowship Programs Postdoctoral Researchers Graduate Students Alumni Visitors Events Expand child menu of Events Past Events Past Seminars Research Expand child menu of Research Theory of Quantum Computation and Communication Implementations of Quantum Computers and Networks Quantum Information and Physics What Is Quantum Information Science? Error Correction Zoo Quantum Algorithm Zoo Publications Education Expand child menu of Education Courses Previous Courses Search
 
-#### Source 0036: A clever quantum trick brings practical quantum computers closer | ScienceDaily
-- Source ID: 8f1ba11be8d6
-- Turn: 1
-- Query: "Quantum error correction applications and constraints" overview
-- Provider: ddgs
-- Search rank: 20
-- Domain: www.sciencedaily.com
-- URL: https://www.sciencedaily.com/releases/2026/02/260206012208.htm
-- Search snippet: March 3, 2026 -Errors can occur during the operation itself, and those errors must also be corrected. "Performing a logical operation in this fault-tolerant way would be relatively easy if we could move our qubits around and connect them arbitrarily to each other," says Kerschbaum. In superconducting quantum processors, however, qubits are fixed in place. Only neighboring qubits can interact, which limits how operations can be carried out. ... To work within those constraints, the team turned to a method known as lattice surgery.
-- Page word count estimate: 469
-- Relevance score: 17.33
-- Key excerpt lines:
-  - A clever quantum trick brings practical quantum computers closer | ScienceDaily
-  - Skip to main content
-  - Your source for the latest research news
-  - Follow:
-  - Facebook
-  - X/Twitter
-  - Subscribe:
-  - RSS Feeds
-  - Newsletter
-  - New!
-  - Sign up for our free
-  - email newsletter
-- Extended extract lines:
-  - A clever quantum trick brings practical quantum computers closer | ScienceDaily Skip to main content Your source for the latest research news Follow: Facebook X/Twitter Subscribe: RSS Feeds Newsletter New! Sign up for our free email newsletter . Science News from research organizations A clever quantum trick brings practical quantum computers closer Date: February 6, 2026 Source: ETH Zurich Summary: Quantum computers struggle because their qubits are incredibly easy to disrupt, especially during calculations. A new experiment shows how to perform quantum operations while continuously fixing errors, rather than pausing protection to compute. The team used a method called lattice surgery to split a protected qubit into two entangled ones without losing control. This breakthrough moves quantum machines closer to scaling up into something truly powerful. Share: Facebook Twitter Pinterest LinkedIN Email FULL STORY Quantum computers can protect fragile qubits while storing information, but doing calculations without introducing errors has been a major challenge. Researchers have now shown that âlattice surgeryâ can safely manipulate qubits mid-operation, bringing practical quantum computing a step closer. Credit: Shutterstock Quantum computers have the potential to transform fields ranging from materials science to cryptography, but today they remain extremely difficult to build and operate. One of the biggest challenges comes from decoherence, a process that introduces errors into quantum systems. These errors usually take the form of bit flips or phase flips. A bit flip occurs when a qubit unexpectedly switches between '0' and '1'. A phase flip happens when the phase of a quantum superposition suddenly reverses, changing from positive to negative. Because these changes can happen at random, even a single error can disrupt a calculation. Preventing that disruption is one of the central problems facing quantum engineers. Protecting Information With Logical Qubits To reduce these errors, researchers combine many physical qubits into a single logical qubit and apply continuous error correction. This strategy helps preserve quantum information over time, making storage relatively stable. But storing information is only part of the task. To run a quantum algorithm, qubits must be actively manipulated using quantum gates, which are the basic operations that power quantum computation. Applying those operations without introducing new errors has proven far more difficult than simply keeping qubits stable at rest. A New Way to Compute While Fixing Errors A team led by D-PHYS Professor Andreas Wallraff has now demonstrated a method that tackles this problem directly. Working with researchers from the Paul Scherrer Institute (PSI) and theorists led by Professor Markus Müller at RWTH Aachen University and Forschungszentrum Jülich, the group showed how to perform quantum operations between superconducting logical qubits while correcting errors at the same time. Their findings were recently published in Nature Physics . The work marks an important advance toward fault tolerant quantum computing, where calculations can proceed without being derailed by constant errors.
-
-#### Source 0037: [1907.11157] Quantum Error Correction: An Introductory Guide
-- Source ID: e162461c3a1d
-- Turn: 1
-- Query: "Quantum error correction applications and constraints" overview
-- Provider: ddgs
-- Search rank: 9
-- Domain: arxiv.org
-- URL: https://arxiv.org/abs/1907.11157
-- Search snippet: July 25, 2019 -Abstract:Quantum error correction protocols will play a central role in the realisation of quantum computing; the choice of error correction code will influence the full quantum computing stack, from the layout of qubits at the physical level ...
-- Page word count estimate: 83
-- Relevance score: 17.00
-- Key excerpt lines:
-  - [1907.11157] Quantum Error Correction: An Introductory Guide
-  - Skip to main content
-  - Learn about arXiv becoming an independent nonprofit.
-  - We gratefully acknowledge support from the Simons Foundation,
-  - member institutions
-  - , and all contributors.
-  - Donate
-  - >
-  - quant-ph
-  - >
-  - arXiv:1907.11157
-  - Help
-- Extended extract lines:
-  - [1907.11157] Quantum Error Correction: An Introductory Guide Skip to main content Learn about arXiv becoming an independent nonprofit. We gratefully acknowledge support from the Simons Foundation, member institutions , and all contributors. Donate > quant-ph > arXiv:1907.11157 Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About Quantum Physics arXiv:1907.11157 (quant-ph)
-
-#### Source 0038: Quantum computing on the verge: correcting errors, developing algorithms and building up the user base – Physics World
-- Source ID: a3bba9937f25
+#### Source 0038: Quantum Error Correction Software Market Research Report 2033
+- Source ID: c621f44ed6b5
 - Turn: 1
 - Query: "Quantum error correction applications and constraints" market analysis
 - Provider: ddgs
-- Search rank: 15
-- Domain: physicsworld.com
-- URL: https://physicsworld.com/a/quantum-computing-on-the-verge-correcting-errors-developing-algorithms-and-building-up-the-user-base
-- Search snippet: November 19, 2025 -But a truly useful universal quantum computer capable of running complex algorithms would have to entangle millions of coherent qubits, which are extremely fragile. Because of environmental factors such as temperature, interference from other electronic systems in hardware, and even errors in measurement, today’s devices would fail under an avalanche of errors long before reaching that point. So the problem of error correction is a key issue for the future of the market.
-- Page word count estimate: 101
+- Search rank: 17
+- Domain: dataintelo.com
+- URL: https://dataintelo.com/report/quantum-error-correction-software-market
+- Search snippet: Dataintelo Trusted by Fortune 500 companies across various industries, for insightful high-quality market research reports and customized business solutions.
+- Page word count estimate: 156
+- Relevance score: 17.33
+- Key excerpt lines:
+  - Quantum Error Correction Software Market Research Report 2033
+  - Home
+  - Dashboard
+  - Report Store
+  - Aerospace & Defense
+  - Automotive & Logistics
+  - Banking, Financial Services & Insurance
+  - Construction & Manufacturing
+  - Consumer Goods
+  - Energy & Power
+  - Food & Beverage
+  - Healthcare
+- Extended extract lines:
+  - Quantum Error Correction Software Market Research Report 2033 Home Dashboard Report Store Aerospace & Defense Automotive & Logistics Banking, Financial Services & Insurance Construction & Manufacturing Consumer Goods Energy & Power Food & Beverage Healthcare ICT, Semiconductor & Electronics Materials & Chemicals About About Us Blogs Careers Contact Us Request Dashboard Demo Report Description Table Of Content Methodology Home ICT, Semiconductor & Electronics Software & Services Quantum Error Correction Software Market Research Report 2033 Quantum Error Correction Software Market Segments - by Component (Software, Services), Deployment Mode (On-Premises, Cloud), Application (Quantum Computing, Quantum Communication, Quantum Cryptography, and Others), End-User (BFSI, Healthcare, Government, IT and Telecommunications, Research & Academia, and Others), and Region (North America, Europe, Asia Pacific, Latin America, and Middle East & Africa) – Global Industry Analysis, Growth, Share, Size, Trends, and Forecast 2025-2033 + Read More ICT-SE-696852 Published Updated: Sep 2025 4.0 Rating 96 Reviews 294 Pages Author: Raksha Sharma Fact-checked by: V. Chandola
+
+#### Source 0039: Quantum error correction with logical qubits | EurekAlert!
+- Source ID: 3ce2218fa74f
+- Turn: 1
+- Query: "Quantum error correction applications and constraints" market analysis
+- Provider: ddgs
+- Search rank: 20
+- Domain: www.eurekalert.org
+- URL: https://www.eurekalert.org/news-releases/1113201
+- Search snippet: January 21, 2026 -Against this backdrop, neQxt GmbH, the Fraunhofer Institute for Applied Solid State Physics IAF and Point 8 GmbH have launched the snaQCs2025 project to jointly advance a promising approach to quantum error correction. Using innovative simulation and integration methods, software tools for analysis and optimization, and scalable and error-resistant quantum algorithms, the partners want to develop robust logical quantum bits (qubits) for quantum computing hardware.
+- Page word count estimate: 998
+- Relevance score: 17.33
+- Key excerpt lines:
+  - Quantum error correction with logical qubits | EurekAlert!
+  - Advanced Search
+  - Home
+  - News Releases
+  - Multimedia
+  - Meetings
+  - Login
+  - Register
+  - News Release
+  - 21-Jan-2026
+  - Quantum error correction with logical qubits
+  - Scalable and fault-tolerant quantum computers: BMFTR-funded project snaQCs2025 launched
+- Extended extract lines:
+  - Quantum error correction with logical qubits | EurekAlert! Advanced Search Home News Releases Multimedia Meetings Login Register News Release 21-Jan-2026 Quantum error correction with logical qubits Scalable and fault-tolerant quantum computers: BMFTR-funded project snaQCs2025 launched Grant and Award Announcement Fraunhofer Institute for Applied Solid State Physics image: Group photo of the participants at the kick-off meeting of the snaQCs2025 project on January 14, 2026, in Cologne. From left to right: Florentin Reiter (Fraunhofer IAF), Carsten Zwilling (point8), Sascha Heußen (neQxt), Florian Kruse (point8), Roman Bansen (neQxt), Nikolas Knake (VDI TZ), Jesko Merkel (point8), Tobias Nauck (Fraunhofer IAF), Edoardo Carnio and Lina Vandré (both neQxt) view more Credit: © Markus Speier Quantum computers have immense potential because they could perform highly complex calculations much faster than current supercomputers. However, the hurdle to the practical application of quantum computers is just as immense today: the error-prone nature of their hardware. Researchers around the world are therefore working on quantum error correction methods to make the calculations of quantum computers more reliable. Against this backdrop, neQxt GmbH, the Fraunhofer Institute for Applied Solid State Physics IAF and Point 8 GmbH have launched the snaQCs2025 project to jointly advance a promising approach to quantum error correction. Using innovative simulation and integration methods, software tools for analysis and optimization, and scalable and error-resistant quantum algorithms, the partners want to develop robust logical quantum bits (qubits) for quantum computing hardware. This approach aims to compensate for the error susceptibility of physical qubits, bringing quantum computing a big step closer to practical use. On January 14, 2026, representatives of the three consortium partners met in Cologne for the project kick-off. The German Federal Ministry of Research, Technology and Space (BMFTR) is supporting the project with €2.5 million over three years as part of the funding program on application-oriented quantum informatics. Making quantum computers more practical “Quantum error correction is a promising approach to significantly reducing the error susceptibility of quantum computers and making the technology more practical. In the snaQCs project, we are demonstrating the practical usability of quantum error correction and fault-tolerant quantum circuits by investigating the integration of error correction routines into quantum algorithms,” explains project coordinator Dr. Sascha Heußen from neQxt. “With an innovative approach that combines analysis, optimization, simulation and fault-tolerant implementation of quantum algorithms, snaQCs is contributing to the realization of scalable quantum computing in Germany,” emphasizes Dr. Florentin Reiter, Head of Business Unit Quantum Systems and snaQCs subproject leader at Fraunhofer IAF. “Quantum computing is one of the most promising topics for the future worldwide. We are very happy to support both progress in this area and Germany as a center of science by contributing our expertise and experience in physics, data analysis and software development to the snaQCs project,” explains Dr. Jesko Merkel, co-founder of point8 and snaQCs subproject leader. Logical qubits outperform physical qubits The most important component of a quantum computer is the qubit. As the central information unit, it performs the same function as the bit in a conventional computer. Companies and scientific institutions around the world are working on various approaches to generating qubits: atoms in electromagnetic traps, electrons in quantum dots, superconducting circuits, or nuclear spins in solids and molecules. Unlike a bit, a qubit can assume several states (such as 0 and 1) simultaneously (superposition). Quantum entanglement also connects several qubits regardless of their distance from each other. What all approaches to realizing these physical qubits have in common is their extreme sensitivity to external influences. Even the weakest microwave pulses, magnetic fields or temperature fluctuations can disrupt the superposition and entanglement of qubits and contaminate the calculations of a quantum computer. The use of quantum error correction can compensate for this: By combining several physical qubits, logical qubits are created in which the errors of individual qubits are compensated for in the network. This is crucial for the scalability of quantum computers: while the susceptibility to errors increases with a rising number of physical qubits, it decreases through their connection to logical qubits. Complete development pipeline for logical qubits, quantum algorithms and analysis software The snaQCs project aims to help unlock the benefits of logical qubits for users and promote the real-world use of quantum computers. To this end, the project partners are working at various levels on the development of particularly reliable logical qubits, optimized, application-oriented quantum algorithms and innovative software for data analysis and characterization. The goal is to provide a complete development pipeline, ranging from the simulation, realization and integration of logical qubits in real quantum computers to the optimization and new development of application-specific and scalable algorithms, as well as data-supported validation and iterative improvement of the methods. The development and experimental implementation of the logical qubits is carried out on ion trap-based quantum computing hardware. Overview: Contributions of the project partners The company neQxt coordinates the joint project and is responsible for the simulation and further development of various quantum error correction methods as well as for the implementation of the developed logical qubits in existing quantum computing hardware. The work at Fraunhofer IAF aims to identify and optimize quantum algorithms and develop new algorithms that are specifically tailored to quantum error correction codes and enable efficient application by industry. The focus is particularly on the scalability of the algorithms. As part of snaQCs, the software company point8 is developing innovative tools for more precise analysis and optimization of quantum error correction circuits. In addition, point8 provides ongoing support to the project partners in experimental data analysis and characterization. About neQxt neQxt GmbH is a full-stack quantum computing company covering the entire spectrum from hardware manufacturing to software development. neQxt is a spin-off of Johannes Gutenberg University Mainz that emerged from the Schmidt-Kaler research group. This allows the company to draw on decades of experience in the field of ion trap quantum computers. neQxt's product portfolio includes quantum computing simulators, portable quantum computer systems, cloud access to quantum computers, and enabling technologies. https://www.neqxt.org/ About Fraunhofer IAF
+
+#### Source 0040: Israeli-Palestinian Conflict Timeline | CFR Education
+- Source ID: 3ab867c7816a
+- Turn: 1
+- Query: "Quantum error correction applications and constraints" timeline history
+- Provider: ddgs
+- Search rank: 3
+- Domain: education.cfr.org
+- URL: https://education.cfr.org/learn/timeline/israeli-palestinian-conflict-timeline
+- Search snippet: Israeli-Palestinian ConflictTimelineExplore thehistoryand important events behind the long-standing Middle East conflict between the Israelis and the Palestinians from 1947 to today.
+- Page word count estimate: 241
 - Relevance score: 17.00
 - Key excerpt lines:
-  - Quantum computing on the verge: correcting errors, developing algorithms and building up the user base – Physics World
+  - Israeli-Palestinian Conflict Timeline | CFR Education
   - Skip to main content
-  - IOP Publishing site
-  - Menu
-  - Sign in
-  - Register
-  - Back to homepage
-  - Topics
-  - Browse articles by topic
-  - Astronomy and space
-  - Atomic and molecular
-  - Biophysics and bioengineering
+  - Find Resources
+  - Search
+  - Find Resources
+  - Search
+  - Main navigation
+  - Learn
+  - Teach
+  - Simulations
+  - More
+  - About
 - Extended extract lines:
-  - Quantum computing on the verge: correcting errors, developing algorithms and building up the user base – Physics World Skip to main content IOP Publishing site Menu Sign in Register Back to homepage Topics Browse articles by topic Astronomy and space Atomic and molecular Biophysics and bioengineering Condensed matter Culture, history and society Environment and energy Instrumentation and measurement Materials Mathematics and computation Medical physics Optics and photonics Particle and nuclear People Quantum Scientific enterprise Latest content Browse articles by content type Short reads Research updates News Blog Innovation showcases Events Long reads Features Opinion and reviews Interviews Analysis Multimedia Podcasts Puzzles
+  - Israeli-Palestinian Conflict Timeline | CFR Education Skip to main content Find Resources Search Find Resources Search Main navigation Learn Teach Simulations More About Professional Development Ambassador Program Events CFR Education Blog: Global Matters Partners Contact Us Timeline from Conflict & Warfare and Contemporary History Israeli-Palestinian Conflict Timeline Explore the history and important events behind the long-standing Middle East conflict between the Israelis and the Palestinians from 1947 to today. Last Updated June 24, 2025 Smoke rises in Gaza following Israeli strikes on October 9, 2023. Source: Mohammed Salem / Reuters Facebook Twitter Share on Linkedin Created with sketchtool. Email Share The conflict between the Israelis and the Palestinians reflects a long-standing struggle in the region encompassing the land between the Jordan River to the east and the Mediterranean Sea to the west. That conflict has deep historical roots, shaped by statehood claims from the Israelis and the Palestinians that have been supported by various international agendas and activities over time. The Israeli-Palestinian conflict dates back more than a century, with flashpoints building from the United Nations’ 1947 initial UN Partition Plan to the 1973 Yom Kippur War, to the recent Israel-Hamas war sparked in October 2023. Despite continued efforts at brokering peace—including the 1978 Camp David Accords, the Oslo Accords of the 1990s, and the 2020 Abraham Accords—conflict has persisted. This timeline explores some of the pivotal moments in the conflict from 1947 to today. Nov 29, 1947 Nov 29, 1947
 
-#### Source 0039: Quantum Processing Unit Market Size | Industry Report, 2030
+#### Source 0041: Market & Financial Insights, Research & Strategy - BofA Securities
+- Source ID: ca6cd7a1f560
+- Turn: 1
+- Query: "Quantum error correction applications and constraints" market analysis
+- Provider: ddgs
+- Search rank: 6
+- Domain: business.bofa.com
+- URL: https://business.bofa.com/en-us/content/market-strategies-insights.html
+- Search snippet: Mar 29, 2026 ·Tap into innovative financial and investing research,marketinsights and strategies from BofA Securities. Explore our latest insights here.
+- Page word count estimate: 162
+- Relevance score: 17.00
+- Key excerpt lines:
+  - Market & Financial Insights, Research & Strategy - BofA Securities
+  - Skip to main content
+  - We’re proud to support U.S. Soccer and FIFA World Cup 2026™.
+  - Learn more
+  - BankofAmerica.com
+  - About Bank of America
+  - Client Login
+  - CashPro®
+  - ExpressView®
+  - Global Card Access
+  - CashPro API Developer Portal
+  - Business Advantage 360
+- Extended extract lines:
+  - Market & Financial Insights, Research & Strategy - BofA Securities Skip to main content We’re proud to support U.S. Soccer and FIFA World Cup 2026™. Learn more BankofAmerica.com About Bank of America Client Login CashPro® ExpressView® Global Card Access CashPro API Developer Portal Business Advantage 360 Mercury™ Auto Dealer Portal RV Dealer Portal Account Management Online Who we serve Business Small Business Banking U.S. companies with up to $1 million in revenue. Business Banking U.S. companies with $1 million to $50 million in revenue. Global Commercial Banking Multinational companies with $50 million to $2 billion in revenue. Global Corporate & Investment Banking Multinational companies with over $2 billion in revenue. Institutional Investors Global Markets Global asset managers, hedge funds, pensions and insurance, corporates, governments and other financial institutions. BofA Global Research Our award-winning analysts provide insightful, objective and in-depth research to help you make informed investing decisions. Featured Industries Auto Dealerships Healthcare Higher Education Not-for-profit organizations Public Sector Real Estate Restaurant Technology
+
+#### Source 0042: Quantum Processing Unit Market Size | Industry Report, 2030
 - Source ID: d64697d5e9db
 - Turn: 1
 - Query: "Quantum error correction applications and constraints" market analysis
@@ -1156,17 +1237,125 @@ high-level map and authoritative definitions
 - Extended extract lines:
   - Quantum Processing Unit Market Size | Industry Report, 2030 Grand View Research Logo Home Industries Consumer Goods Beauty & Personal Care Specialty & Fine Chemicals Food & Beverages Advanced Materials Explore All Industries Companies Basic Materials Consumer Defensive Energy Financial Services Healthcare Industrials Real Estate Technology Utilities Explore All Companies Services Astra (ESG Solution) Brainshare (Consulting) Pipeline (Supplier DB) Signal (Pricing Database) Survey Contact Us Collapse Toggle navigation Reports Consumer Goods » Beauty & Personal Care Clothing, Footwear & Accessories Consumer F&B Electronic & Electrical Homecare & Decor Semiconductors & Electronics » Display Technologies Electronic Security Systems
 
-#### Source 0040: Gold News | Gold Market Analysis & Gold Investment Research - Gold Price Commentary & Forecasts
+#### Source 0043: Quality Management System Regulation (QMSR) | FDA
+- Source ID: fe3bc05ddeae
+- Turn: 1
+- Query: "Quantum error correction applications and constraints" safety regulation
+- Provider: ddgs
+- Search rank: 4
+- Domain: www.fda.gov
+- URL: https://www.fda.gov/medical-devices/postmarket-requirements-devices/quality-management-system-regulation-qmsr
+- Search snippet: Feb 2, 2026 ·The Quality Management SystemRegulation(QMSR) that became effective on February 2, 2026, amends the device current good manufacturing practice (CGMP) requirements of 21 CFR Part 820 ...
+- Page word count estimate: 144
+- Relevance score: 16.67
+- Key excerpt lines:
+  - Quality Management System Regulation (QMSR) | FDA
+  - Skip to main content
+  - Skip to FDA Search
+  - Skip to in this section menu
+  - Skip to footer links
+  - An official website of the United States government
+  - Here’s how you know
+  - The .gov means it’s official.
+  - Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site.
+  - The site is secure.
+  - The
+  - https://
+- Extended extract lines:
+  - Quality Management System Regulation (QMSR) | FDA Skip to main content Skip to FDA Search Skip to in this section menu Skip to footer links An official website of the United States government Here’s how you know The .gov means it’s official. Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site. The site is secure. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely. Search Menu Search FDA Submit search Featured Report a Product Problem Contact FDA FDA Guidance Documents Recalls, Market Withdrawals and Safety Alerts Press Announcements Warning Letters Advisory Committees En Español Products Food Drugs Medical Devices Radiation-Emitting Products Vaccines, Blood, and Biologics Animal and Veterinary Cosmetics Tobacco Products Topics About FDA Combination Products Regulatory Information Safety
+
+#### Source 0044: California Gun Laws: A Complete Guide | Giffords
+- Source ID: eb1c24c7150d
+- Turn: 1
+- Query: "Quantum error correction applications and constraints" safety regulation
+- Provider: ddgs
+- Search rank: 7
+- Domain: giffords.org
+- URL: https://giffords.org/lawcenter/gun-laws/states/california
+- Search snippet: California has been the first state in the nation to adopt a number of gunsafetyreforms, ranging from assault weapons restrictions and strong background check requirements to extreme risk protection orders and domestic violence protections. In 2024, California had the seventh lowest gun death rate among the states. In an average year, 3,314 people die from gun violence in the state. That ...
+- Page word count estimate: 100
+- Relevance score: 16.67
+- Key excerpt lines:
+  - California Gun Laws: A Complete Guide | Giffords
+  - Skip to Main Content
+  - LAW CENTER TO PREVENT
+  - GUN VIOLENCE
+  - Who We Are
+  - Back
+  - Who We Are
+  - Gabby’s Story
+  - Overview
+  - About Giffords
+  - Giffords Law Center
+  - Giffords PAC
+- Extended extract lines:
+  - California Gun Laws: A Complete Guide | Giffords Skip to Main Content LAW CENTER TO PREVENT GUN VIOLENCE Who We Are Back Who We Are Gabby’s Story Overview About Giffords Giffords Law Center Giffords PAC Programs Center for Violence Intervention Gun Owners for Safety What We Do Back What We Do Stopping Gun Violence A complex crisis demands a comprehensive response. Legislation Litigation Elections Intervention Culture Change Our Resources Back Our Resources Learn the Facts The problem is clear—and so are the solutions. Issues States Gun Laws Statistics Reports & Research The Latest Back The Latest Press Stories & Analysis
+
+#### Source 0045: [1907.11157] Quantum Error Correction: An Introductory Guide
+- Source ID: e162461c3a1d
+- Turn: 1
+- Query: "Quantum error correction applications and constraints" overview
+- Provider: ddgs
+- Search rank: 10
+- Domain: arxiv.org
+- URL: https://arxiv.org/abs/1907.11157
+- Search snippet: July 25, 2019 -Abstract:Quantum error correction protocols will play a central role in the realisation of quantum computing; the choice of error correction code will influence the full quantum computing stack, from the layout of qubits at the physical level ...
+- Page word count estimate: 83
+- Relevance score: 16.67
+- Key excerpt lines:
+  - [1907.11157] Quantum Error Correction: An Introductory Guide
+  - Skip to main content
+  - Learn about arXiv becoming an independent nonprofit.
+  - We gratefully acknowledge support from the Simons Foundation,
+  - member institutions
+  - , and all contributors.
+  - Donate
+  - >
+  - quant-ph
+  - >
+  - arXiv:1907.11157
+  - Help
+- Extended extract lines:
+  - [1907.11157] Quantum Error Correction: An Introductory Guide Skip to main content Learn about arXiv becoming an independent nonprofit. We gratefully acknowledge support from the Simons Foundation, member institutions , and all contributors. Donate > quant-ph > arXiv:1907.11157 Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About Quantum Physics arXiv:1907.11157 (quant-ph)
+
+#### Source 0046: Timeline: The Trump administration’s attacks on history since 2025
+- Source ID: 415ab3404a0d
+- Turn: 1
+- Query: "Quantum error correction applications and constraints" timeline history
+- Provider: ddgs
+- Search rank: 2
+- Domain: www.splcenter.org
+- URL: https://www.splcenter.org/resources/hatewatch/attacks-history-timeline-trump-administration
+- Search snippet: Feb 5, 2026 ·Reviewing thetimelineof Trump’s attacks on Americanhistoryand putting them in historical context can reveal this administration’s aims and help counter them.
+- Page word count estimate: 128
+- Relevance score: 16.33
+- Key excerpt lines:
+  - Timeline: The Trump administration’s attacks on history since 2025
+  - Close Alert
+  - SPLC and Al Otro Lado File Motion to Prevent ICE From Forcing Orleans Parish Sheriff’s Office to Provide Access to Clients and Records –
+  - Learn More
+  - Explore Our Sites
+  - SPLC
+  - Learning for Justice
+  - Civil Rights Memorial Center
+  - Press Center
+  - Donate
+  - Open submenu
+  - Support Us
+- Extended extract lines:
+  - Timeline: The Trump administration’s attacks on history since 2025 Close Alert SPLC and Al Otro Lado File Motion to Prevent ICE From Forcing Orleans Parish Sheriff’s Office to Provide Access to Clients and Records – Learn More Explore Our Sites SPLC Learning for Justice Civil Rights Memorial Center Press Center Donate Open submenu Support Us Member Center Friends of the Center Seen us on TV? Toggle Mobile Navigation Racial Justice Issues Open submenu Strengthening Democracy & Voting Rights Dismantling White Supremacy Ending Unjust Imprisonment Eliminating Poverty and Economic Inequality Empowering Voters in the South Find Resources Open submenu Elevating Hope Hopewatch Civil Rights Memorial Center Apathy Is Not An Option Podcast Tracking Hate Extremist Files Hate Map Hatewatch Report Hate Techwatch Case Docket Policy Advocacy Resources Reports Stories
+
+#### Source 0047: Gold News | Gold Market Analysis & Gold Investment Research - Gold Price Commentary & Forecasts
 - Source ID: 766b7baf3202
 - Turn: 1
 - Query: "Quantum error correction applications and constraints" market analysis
 - Provider: ddgs
-- Search rank: 7
+- Search rank: 8
 - Domain: www.bullionvault.com
 - URL: https://www.bullionvault.com/gold-news
 - Search snippet: Apr 1, 2026 ·Goldmarketanalysis& gold investment research 09 Apr '26 Iran War Spurs Record Central Bank Gold Selling
 - Page word count estimate: 146
-- Relevance score: 16.67
+- Relevance score: 16.33
 - Key excerpt lines:
   - Gold News | Gold Market Analysis & Gold Investment Research - Gold Price Commentary & Forecasts
   - Tell others what you think
@@ -1183,34 +1372,61 @@ high-level map and authoritative definitions
 - Extended extract lines:
   - Gold News | Gold Market Analysis & Gold Investment Research - Gold Price Commentary & Forecasts Tell others what you think Please take a moment to review us on Trustpilot. Not now Review us We use cookies (including third-party cookies) to remember your site preferences, to help us understand how visitors use our sites and to make any adverts we show on 3rd party sites more relevant. To learn more, please see our privacy policy and our cookie policy . To agree to our use of cookies, click 'Accept' or choose 'Options' to set your preferences by cookie type. Options Accept About us About BullionVault In the press Reviews English English English (UK) Deutsch Español Français Italiano Polski 日本語 简体中文 繁體中文 Daily audit Help Contact Deposit Log in Open account Buy/sell bullion Live order board Daily Price Investment guide Guide to gold How to buy gold
 
-#### Source 0041: Quantinuum with partners Princeton and NIST deliver seminal result in quantum error correction
-- Source ID: 6da984acece5
+#### Source 0048: Quantum error correction near the coding theoretical bound | npj Quantum Information
+- Source ID: e0740550b7ab
 - Turn: 1
 - Query: "Quantum error correction applications and constraints" academic review
 - Provider: ddgs
-- Search rank: 17
-- Domain: www.quantinuum.com
-- URL: https://www.quantinuum.com/blog/quantinuum-with-partners-princeton-and-nist-deliver-seminal-result-in-quantum-error-correction
-- Search snippet: In this latest paper, we showed thatby using “concatenated codes” noise can be exponentially suppressed — proving that quantum computing will scale. Quantum computing is already producing results, but high-profile applications like Shor’s ...
-- Page word count estimate: 205
+- Search rank: 14
+- Domain: www.nature.com
+- URL: https://www.nature.com/articles/s41534-025-01090-1
+- Search snippet: September 30, 2025 -To the best of our knowledge, such codes exhibit quantum error-correcting performance that is closest to the hashing bound. However, since the girth of the original QC-LDPC codes is upper-bounded by 129, these codes also exhibited a high error floor. Furthermore, Hagiwara’s construction method imposes strict constraints on the allowable code lengths; even the subsequent work based on it16 was limited to code lengths containing large prime factors.
+- Page word count estimate: 142
 - Relevance score: 16.33
 - Key excerpt lines:
-  - Quantinuum with partners Princeton and NIST deliver seminal result in quantum error correction
-  - Products & Solutions
-  - Quantum Computers
-  - Quantinuum Systems
-  - Discover the world’s highest performing quantum computers
-  - System Model H1
-  - Our first-generation quantum computer with a linear architecture
-  - System Model H2
-  - Our second-generation quantum computer with a racetrack architecture
-  - Helios
-  - Our Hardware-as-a-Service provides access on-premise, in the cloud, or both
-  - Hardware Roadmap
+  - Quantum error correction near the coding theoretical bound | npj Quantum Information
+  - Skip to main content
+  - Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+  - the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+  - Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+  - and JavaScript.
+  - Advertisement
+  - View all journals
+  - Search
+  - My Account
+  - Login
+  - Content
 - Extended extract lines:
-  - Quantinuum with partners Princeton and NIST deliver seminal result in quantum error correction Products & Solutions Quantum Computers Quantinuum Systems Discover the world’s highest performing quantum computers System Model H1 Our first-generation quantum computer with a linear architecture System Model H2 Our second-generation quantum computer with a racetrack architecture Helios Our Hardware-as-a-Service provides access on-premise, in the cloud, or both Hardware Roadmap Explore our accelerated roadmap aimed at advancing commercial quantum computing SOlutions Quantum Origin Our advanced quantum random number generator (QRNG), designed to strengthen encryption and protect data InQuanto Accelerate quantum computational chemistry for complex molecular & materials simulations Nexus All-in-one quantum computing platform for accessing and managing the highest performance full-stack Cloud Access Explore using our world-leading quantum hardware for commercial applications Developer Tools TKET Develop and execute gate-level quantum computation Guppy Program the next generation of quantum computers with our purpose-built language hosted in Python Lambeq Experiment with the structural relationships between quantum theory and natural languages Research Research Areas Discover the vast landscape of our scientific expertise Technical Blog Get educated on the world of quantum computing Publications Explore research and journal publications from our scientific teams Company About Quantinuum Learn more about the world’s largest integrated quantum computing company Careers
+  - Quantum error correction near the coding theoretical bound | npj Quantum Information Skip to main content Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript. Advertisement View all journals Search My Account Login Content Explore content About the journal Publish with us Sign up for alerts RSS feed nature npj quantum information articles article Quantum error correction near the coding theoretical bound Download PDF Download PDF Article Open access Published: 30 September 2025 Quantum error correction near the coding theoretical bound Daiki Komoto 1 & Kenta Kasai 1 npj Quantum Information volume 11 , Article number:
 
-#### Source 0042: Daniel Gottesman's Papers
+#### Source 0049: Master Quantum Error Correction: An Essential Guide to QEC | SpinQ
+- Source ID: 53245145d744
+- Turn: 1
+- Query: "Quantum error correction applications and constraints" official documentation
+- Provider: ddgs
+- Search rank: 17
+- Domain: www.spinquanta.com
+- URL: https://www.spinquanta.com/news-detail/master-quantum-error-correction-an-essential-guide-to-qec20250212053845
+- Search snippet: The primary goal of QEC is to enable fault-tolerant quantum computing. This means ensuring that quantum computers can still perform correct calculations even when errors occur during computations, making them more practical for real-world applications.
+- Page word count estimate: 282
+- Relevance score: 16.33
+- Key excerpt lines:
+  - Master Quantum Error Correction: An Essential Guide to QEC | SpinQ
+  - Products & Services
+  - Superconducting Quantum Products & Services
+  - NMR Quantum Products & Services
+  - Quantum Computing Cloud Platform & Software
+  - Solutions
+  - Quantum Education Solution
+  - Fintech-based Solution
+  - Biomedical-based Solution
+  - AI-based Solution
+  - News
+  - About Us
+- Extended extract lines:
+  - Master Quantum Error Correction: An Essential Guide to QEC | SpinQ Products & Services Superconducting Quantum Products & Services NMR Quantum Products & Services Quantum Computing Cloud Platform & Software Solutions Quantum Education Solution Fintech-based Solution Biomedical-based Solution AI-based Solution News About Us SpinQ Cloud Contact Us 中文 | En | Es Home > Newsroom > Master Quantum Error Correction: An Essential Guide to QEC Master Quantum Error Correction: An Essential Guide to QEC 2025.02.12 · Blog quantum advantage quantum ready quantum supremacy Quantum computers represent a revolutionary leap in solving complex problems that classical computers struggle with, from optimizing logistics to simulating molecular interactions. However, unlike classical bits, quantum bits (qubits) are highly sensitive to their surroundings. They are prone to errors caused by environmental noise, thermal fluctuations, and imprecise operations, which can significantly degrade quantum computing accuracy. Quantum error correction (QEC) emerges as an indispensable technology to address this critical challenge. QEC provides a systematic way to detect and correct errors, ensuring the reliability of quantum computing. What is Quantum Error Correction? Quantum Error Correction (QEC) is a foundational concept in quantum computing, addressing the critical challenge of maintaining accurate quantum information despite the inherent fragility of qubits. Unlike classical error correction, QEC must deal with both bit flips (e.g., flipping between |0⟩ and |1⟩) and phase flips (affecting the relative phase of quantum states), as well as decoherence, which causes qubits to lose their quantum properties over time. Key Principles of Quantum Error Correction: 1. Logical vs. Physical Qubits: Logical qubits represent the actual quantum information, while physical qubits are used redundantly to protect logical qubits from errors. For example, several physical qubits may encode a single logical qubit.
+
+#### Source 0050: Daniel Gottesman's Papers
 - Source ID: 1a29b7da5f63
 - Turn: 1
 - Query: "Quantum error correction applications and constraints" site:edu
@@ -1237,88 +1453,61 @@ high-level map and authoritative definitions
 - Extended extract lines:
   - Daniel Gottesman's Papers My Papers See also my CV or the list of papers with bibliographic info only . Quantum computation and quantum information : Quantum error correction Stabilizer codes Non-standard codes Overview papers Fault-tolerance papers Fault-tolerant gates and protocols Threshold analysis Quantum cryptography Quantum key distribution Cryptography for quantum states Other quantum cryptographic protocols Other quantum information topics Stabilizer states Quantum complexity Quantum compression and entanglement concentration Locality of quantum operations Error characterization Implementations of quantum information processing Applications of quantum information ideas outside the field Miscellaneous non-quantum information topics Laser cooling Black holes Locality in gauge theories Classical cryptography Foundations of statistical mechanics Spin systems Telescopes Ten of My Most Cited Papers: Class of quantum error-correcting codes saturating the quantum Hamming bound
 
-#### Source 0043: Crypto Market Fear & Greed Index | Real-time Cryptocurrency Sentiment Analysis
-- Source ID: 8f9909ee2f7e
+#### Source 0051: [2601.07223] Quantum Error Correction and Detection for Quantum Machine Learning
+- Source ID: 1b7ed5d68784
 - Turn: 1
-- Query: "Quantum error correction applications and constraints" market analysis
+- Query: "Quantum error correction applications and constraints" academic review
 - Provider: ddgs
-- Search rank: 6
-- Domain: feargreedtracker.com
-- URL: https://feargreedtracker.com/fear-greed-index-crypto-market
-- Search snippet: 6 hours ago ·Track the Cryptocurrency Fear & Greed Index in real-time. Get insights into cryptomarketsentiment, historical data, and expertanalysis.
-- Page word count estimate: 93
+- Search rank: 12
+- Domain: arxiv.org
+- URL: https://arxiv.org/abs/2601.07223
+- Search snippet: January 12, 2026 -We first quantify the resource demands of fully error-corrected QML and propose a partial QEC approach that reduces overhead while enabling error correction. We then demonstrate the application of a simple QED method, evaluating its impact on ...
+- Page word count estimate: 86
 - Relevance score: 16.00
 - Key excerpt lines:
-  - Crypto Market Fear & Greed Index | Real-time Cryptocurrency Sentiment Analysis
-  - Fear & Greed Tracker
-  - Fear & Greed Tracker
-  - Fear & Greed Index
-  - Stock Market
-  - Crypto Market
-  - How it works
-  - Guides
-  - Get in Touch
+  - [2601.07223] Quantum Error Correction and Detection for Quantum Machine Learning
+  - Skip to main content
+  - Learn about arXiv becoming an independent nonprofit.
+  - We gratefully acknowledge support from the Simons Foundation,
+  - member institutions
+  - , and all contributors.
+  - Donate
+  - >
+  - quant-ph
+  - >
+  - arXiv:2601.07223
+  - Help
+- Extended extract lines:
+  - [2601.07223] Quantum Error Correction and Detection for Quantum Machine Learning Skip to main content Learn about arXiv becoming an independent nonprofit. We gratefully acknowledge support from the Simons Foundation, member institutions , and all contributors. Donate > quant-ph > arXiv:2601.07223 Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About Quantum Physics arXiv:2601.07223 (quant-ph)
+
+#### Source 0052: Introduction to quantum error correction (Chapter 2) - Quantum Error Correction
+- Source ID: 5266bbac5ebf
+- Turn: 1
+- Query: "Quantum error correction applications and constraints" official documentation
+- Provider: ddgs
+- Search rank: 15
+- Domain: www.cambridge.org
+- URL: https://www.cambridge.org/core/books/abs/quantum-error-correction/introduction-to-quantum-error-correction/DA6D97A3C50495F6351FFFB35C4CFA63
+- Search snippet: Historically, the problem of overcoming decoherence was thought to be a major obstacle towards building a quantum computer. However, it was discovered that, under suitable conditions, the decoherence problem could be overcome. The main idea behind how this can be achieved is through the theory of quantum error correction (QEC).
+- Page word count estimate: 115
+- Relevance score: 16.00
+- Key excerpt lines:
+  - Introduction to quantum error correction (Chapter 2) - Quantum Error Correction
+  - Skip to main content
+  - Accessibility help
+  - Login Alert
+  - Cancel
   - Log in
-  - Real-time Crypto market Fear & Greed Index
-  - Last updated:
+  - ×
+  - ×
+  - Discover Content
+  - Products and Services
+  - Register
+  - Log In
 - Extended extract lines:
-  - Crypto Market Fear & Greed Index | Real-time Cryptocurrency Sentiment Analysis Fear & Greed Tracker Fear & Greed Tracker Fear & Greed Index Stock Market Crypto Market How it works Guides Get in Touch Log in Real-time Crypto market Fear & Greed Index Last updated: 12:00 AM CRYPTO Fear & Greed Index Market sentiment indicator from extreme fear (0) to extreme greed (100). i Fear & Greed Levels: Extreme Fear 0-25 Fear 25-45 Neutral 45-55 Greed 55-75 Extreme Greed 75-100 16 Extreme Fear + 2 points BTC $ 72,734.14 -0.36 % ETH $
+  - Introduction to quantum error correction (Chapter 2) - Quantum Error Correction Skip to main content Accessibility help Login Alert Cancel Log in × × Discover Content Products and Services Register Log In (0) Cart Logo for Cambridge Core from Cambridge University Press. Click to return to homepage. Search Logo for Cambridge Core from Cambridge University Press. Click to return to homepage. Browse Services Open research Institution Login Search Hostname: page-component-77f85d65b8-grvzd Total loading time: 0 Render date: 2026-04-09T09:39:56.868Z Has data issue: false hasContentIssue false Home > Books > Quantum Error Correction > Introduction to quantum error correction Quantum Error Correction Buy print or eBook [Opens in a new window] Read book online Book contents Frontmatter Contents
 
-#### Source 0044: Quality Management System Regulation (QMSR) | FDA
-- Source ID: fe3bc05ddeae
-- Turn: 1
-- Query: "Quantum error correction applications and constraints" safety regulation
-- Provider: ddgs
-- Search rank: 6
-- Domain: www.fda.gov
-- URL: https://www.fda.gov/medical-devices/postmarket-requirements-devices/quality-management-system-regulation-qmsr
-- Search snippet: Feb 2, 2026 ·The Quality Management SystemRegulation(QMSR) that became effective on February 2, 2026, amends the device current good manufacturing practice (CGMP) requirements of 21 CFR Part 820 ...
-- Page word count estimate: 144
-- Relevance score: 16.00
-- Key excerpt lines:
-  - Quality Management System Regulation (QMSR) | FDA
-  - Skip to main content
-  - Skip to FDA Search
-  - Skip to in this section menu
-  - Skip to footer links
-  - An official website of the United States government
-  - Here’s how you know
-  - The .gov means it’s official.
-  - Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site.
-  - The site is secure.
-  - The
-  - https://
-- Extended extract lines:
-  - Quality Management System Regulation (QMSR) | FDA Skip to main content Skip to FDA Search Skip to in this section menu Skip to footer links An official website of the United States government Here’s how you know The .gov means it’s official. Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site. The site is secure. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely. Search Menu Search FDA Submit search Featured Report a Product Problem Contact FDA FDA Guidance Documents Recalls, Market Withdrawals and Safety Alerts Press Announcements Warning Letters Advisory Committees En Español Products Food Drugs Medical Devices Radiation-Emitting Products Vaccines, Blood, and Biologics Animal and Veterinary Cosmetics Tobacco Products Topics About FDA Combination Products Regulatory Information Safety
-
-#### Source 0045: 💡 Azure Cost Management – Redeployment Limitation (Bicep / ARM)
-- Source ID: ba2b406be5aa
-- Turn: 1
-- Query: "Quantum error correction applications and constraints" limitations criticism
-- Provider: ddgs
-- Search rank: 6
-- Domain: www.linkedin.com
-- URL: https://www.linkedin.com/pulse/azure-cost-management-redeployment-limitation-bicep-arm-kumar-gajula-u2qsc
-- Search snippet: 2 days ago ·While automating CostAnalysisViews using Bicep, I came across an interestinglimitation: 👉 Cost Management Views (Microsoft.CostManagement/views) do not support update via ARM/Bicep ...
-- Page word count estimate: 150
-- Relevance score: 16.00
-- Key excerpt lines:
-  - 💡 Azure Cost Management – Redeployment Limitation (Bicep / ARM)
-  - Agree & Join LinkedIn
-  - By clicking Continue to join or sign in, you agree to LinkedIn’s
-  - User Agreement
-  - ,
-  - Privacy Policy
-  - , and
-  - Cookie Policy
-  - .
-  - Skip to main content
-  - LinkedIn
-  - Top Content
-- Extended extract lines:
-  - 💡 Azure Cost Management – Redeployment Limitation (Bicep / ARM) Agree & Join LinkedIn By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Skip to main content LinkedIn Top Content People Learning Jobs Games Join now Sign in 💡 Azure Cost Management – Redeployment Limitation (Bicep / ARM) Report this article Pavan Kumar Gajula Pavan Kumar Gajula Published Apr 9, 2026 + Follow While automating Cost Analysis Views using Bicep, I came across an interesting limitation: 👉 Cost Management Views ( Microsoft.CostManagement/views) do not support update via ARM/Bicep Redeploying the same view results in: The eTag property cannot be used in templates (it’s only supported via REST headers) 🔍 Current workaround To ensure consistent deployments, the only reliable approach is: Delete existing view via REST: Recreate using Bicep ⚠️ Implications Deployment becomes non-idempotent Existing views are always
-
-#### Source 0046: Home | Boulder School for Condensed Matter and Materials Physics | University of Colorado Boulder
+#### Source 0053: Home | Boulder School for Condensed Matter and Materials Physics | University of Colorado Boulder
 - Source ID: 05af1e21abe3
 - Turn: 1
 - Query: "Quantum error correction applications and constraints" site:edu
@@ -1345,7 +1534,7 @@ high-level map and authoritative definitions
 - Extended extract lines:
   - Home | Boulder School for Condensed Matter and Materials Physics | University of Colorado Boulder Skip to main content Translate English Spanish Chinese French German Korean Lao Nepali Japanese Tibetan Search Enter the terms you wish to search for. Other ways to search: Events Calendar Campus Map Boulder School for Condensed Matter and Materials Physics College of Arts and Sciences Home BSS2026 Boulder Information Miscellaneous Financial Sustainability Previous Years Home The Boulder School in Condensed Matter and Materials Physics provides education for advanced graduate students and postdoctoral fellows working in condensed matter physics, materials science and related fields. The goal is to enable students to work at the frontiers of science and technology by providing expert training not easily available within the traditional system of graduate education and postdoctoral apprenticeship. The School, which is supported by the National Science Foundation and the University of Colorado, will meet annually during July in Boulder Colorado. Director: Leo Radzihovsky (CU Boulder) 2026 School Geometry and Topology in Soft Matter Physics The Electronic Application for BSS2026 is now closed. All students are strongly urged to plan on staying for the duration of the School. Partial attendance is strongly discouraged . Small exceptions can be made is special cases but must be cleared with the organizers right away; a simple email request, explaining the situation is sufficient. Attendance for less than 3 weeks is not permitted as the spot can be more efficiently utilized by another student attending the entire school ( contact organizers ). There will be no travel support for shorter attendance.
 
-#### Source 0047: (PDF) Introduction to quantum error correction
+#### Source 0054: (PDF) Introduction to quantum error correction
 - Source ID: cc635be1187b
 - Turn: 1
 - Query: "Quantum error correction applications and constraints" site:edu
@@ -1372,61 +1561,61 @@ high-level map and authoritative definitions
 - Extended extract lines:
   - (PDF) Introduction to quantum error correction Log In Sign Up Log In Sign Up more About Press Papers Terms Privacy Copyright We're Hiring! Help Center less Outline keyboard_arrow_down Title Abstract Figures Quantum Error Analysis References All Topics Physics Quantum Mechanics download Download Free PDF Download Free PDF Introduction to quantum error correction Lorenza Viola 1998, Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences visibility … description 44 pages description See full PDF download Download PDF bookmark
 
-#### Source 0048: Introduction to quantum error correction (Chapter 2) - Quantum Error Correction
-- Source ID: 5266bbac5ebf
+#### Source 0055: Tracking Trump’s threats and deadlines to reopen the Strait of Hormuz | Fox News
+- Source ID: 6729c9bd66fe
 - Turn: 1
-- Query: "Quantum error correction applications and constraints" official documentation
+- Query: "Quantum error correction applications and constraints" timeline history
 - Provider: ddgs
-- Search rank: 16
-- Domain: www.cambridge.org
-- URL: https://www.cambridge.org/core/books/abs/quantum-error-correction/introduction-to-quantum-error-correction/DA6D97A3C50495F6351FFFB35C4CFA63
-- Search snippet: Historically, the problem of overcoming decoherence was thought to be a major obstacle towards building a quantum computer. However, it was discovered that, under suitable conditions, the decoherence problem could be overcome. The main idea behind how this can be achieved is through the theory of quantum error correction (QEC).
-- Page word count estimate: 115
+- Search rank: 7
+- Domain: www.foxnews.com
+- URL: https://www.foxnews.com/politics/timeline-trumps-escalating-deadlines-on-iran-and-the-strait-hormuz
+- Search snippet: 3 days ago ·President Trump issues a fresh ultimatum to Iran, threatening strikes on infrastructure unless all vessels can transit the Strait of Hormuz freely.
+- Page word count estimate: 80
 - Relevance score: 15.67
 - Key excerpt lines:
-  - Introduction to quantum error correction (Chapter 2) - Quantum Error Correction
-  - Skip to main content
-  - Accessibility help
-  - Login Alert
-  - Cancel
-  - Log in
-  - ×
-  - ×
-  - Discover Content
-  - Products and Services
-  - Register
-  - Log In
+  - Tracking Trump’s threats and deadlines to reopen the Strait of Hormuz | Fox News
+  - Fox News Media
+  - Fox News Media
+  - Fox Business
+  - Fox Nation
+  - Fox News Audio
+  - Fox Weather
+  - Outkick
+  - Fox Noticias
+  - Books
+  - Fox News
+  - U.S.
 - Extended extract lines:
-  - Introduction to quantum error correction (Chapter 2) - Quantum Error Correction Skip to main content Accessibility help Login Alert Cancel Log in × × Discover Content Products and Services Register Log In (0) Cart Logo for Cambridge Core from Cambridge University Press. Click to return to homepage. Search Logo for Cambridge Core from Cambridge University Press. Click to return to homepage. Browse Services Open research Institution Login Search Hostname: page-component-77f85d65b8-2tv5m Total loading time: 0 Render date: 2026-04-10T03:35:43.959Z Has data issue: false hasContentIssue false Home > Books > Quantum Error Correction > Introduction to quantum error correction Quantum Error Correction Buy print or eBook [Opens in a new window] Read book online Book contents Frontmatter Contents
+  - Tracking Trump’s threats and deadlines to reopen the Strait of Hormuz | Fox News Fox News Media Fox News Media Fox Business Fox Nation Fox News Audio Fox Weather Outkick Fox Noticias Books Fox News U.S. Blue City Crime Campus Radicals Border Crisis True Crime Politics Donald Trump Senate House Judiciary Foreign Policy Fox News Polls Elections World U.N. Conflicts Terrorism Disasters Global Economy Environment Religion Scandals Opinion Media Fox Nation Coverage Entertainment Former Prince Andrew Sydney Sweeney Royal Families
 
-#### Source 0049: Master Quantum Error Correction: An Essential Guide to QEC | SpinQ
-- Source ID: 53245145d744
+#### Source 0056: NYU Stern School of Business | Full-time MBA, Part-time ...
+- Source ID: 11c33ed2f095
 - Turn: 1
-- Query: "Quantum error correction applications and constraints" official documentation
+- Query: "Quantum error correction applications and constraints" benchmark data
 - Provider: ddgs
-- Search rank: 19
-- Domain: www.spinquanta.com
-- URL: https://www.spinquanta.com/news-detail/master-quantum-error-correction-an-essential-guide-to-qec20250212053845
-- Search snippet: The primary goal of QEC is to enable fault-tolerant quantum computing. This means ensuring that quantum computers can still perform correct calculations even when errors occur during computations, making them more practical for real-world applications.
-- Page word count estimate: 282
-- Relevance score: 15.67
+- Search rank: 5
+- Domain: pages.stern.nyu.edu
+- URL: https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/histretSP.html
+- Search snippet: Jan 5, 2026 ·Update: I have replaced the end-of-the-period T.Bill rates that I used to report in this table, with the average T.Bill rate during the year, since it better measures what you wou
+- Page word count estimate: 136
+- Relevance score: 15.33
 - Key excerpt lines:
-  - Master Quantum Error Correction: An Essential Guide to QEC | SpinQ
-  - Products & Services
-  - Superconducting Quantum Products & Services
-  - NMR Quantum Products & Services
-  - Quantum Computing Cloud Platform & Software
-  - Solutions
-  - Quantum Education Solution
-  - Fintech-based Solution
-  - Biomedical-based Solution
-  - AI-based Solution
-  - News
-  - About Us
+  - Historical
+  - Returns on Stocks, Bonds and Bills: 1928-2024
+  - Data Used
+  - : Multiple data services
+  - Data
+  - : Historical Returns for the US
+  - Date
+  - : January 2026
+  - Download as an excel file instead
+  - :
+  - https://www.stern.nyu.edu/~adamodar/pc/datasets/histretSP.xls
+  - Update:
 - Extended extract lines:
-  - Master Quantum Error Correction: An Essential Guide to QEC | SpinQ Products & Services Superconducting Quantum Products & Services NMR Quantum Products & Services Quantum Computing Cloud Platform & Software Solutions Quantum Education Solution Fintech-based Solution Biomedical-based Solution AI-based Solution News About Us SpinQ Cloud Contact Us 中文 | En | Es Home > Newsroom > Master Quantum Error Correction: An Essential Guide to QEC Master Quantum Error Correction: An Essential Guide to QEC 2025.02.12 · Blog quantum advantage quantum ready quantum supremacy Quantum computers represent a revolutionary leap in solving complex problems that classical computers struggle with, from optimizing logistics to simulating molecular interactions. However, unlike classical bits, quantum bits (qubits) are highly sensitive to their surroundings. They are prone to errors caused by environmental noise, thermal fluctuations, and imprecise operations, which can significantly degrade quantum computing accuracy. Quantum error correction (QEC) emerges as an indispensable technology to address this critical challenge. QEC provides a systematic way to detect and correct errors, ensuring the reliability of quantum computing. What is Quantum Error Correction? Quantum Error Correction (QEC) is a foundational concept in quantum computing, addressing the critical challenge of maintaining accurate quantum information despite the inherent fragility of qubits. Unlike classical error correction, QEC must deal with both bit flips (e.g., flipping between |0⟩ and |1⟩) and phase flips (affecting the relative phase of quantum states), as well as decoherence, which causes qubits to lose their quantum properties over time. Key Principles of Quantum Error Correction: 1. Logical vs. Physical Qubits: Logical qubits represent the actual quantum information, while physical qubits are used redundantly to protect logical qubits from errors. For example, several physical qubits may encode a single logical qubit.
+  - Historical Returns on Stocks, Bonds and Bills: 1928-2024 Data Used : Multiple data services Data : Historical Returns for the US Date : January 2026 Download as an excel file instead : https://www.stern.nyu.edu/~adamodar/pc/datasets/histretSP.xls Update: I have replaced the end-of-the-period T.Bill rates that I used to report in this table, with the average T.Bill rate during the year, since it better measures what you would have earned on that investment during the year. Annual Returns on Investments in Value of $100 invested at start of 1928 in Year S&P 500 (includes dividends) US Small cap (bottom decile) 3-month T.Bill US T. Bond (10-year) Baa Corporate Bond Real Estate Gold* S&P 500 (includes dividends)3 US Small cap (bottom decile) Cum Value 3-month T.Bill4 US T. Bond5 Baa Corporate Bond2 Real Estate2 Gold2 1928 43.81% 62.15% 3.08% 0.84% 3.22%
 
-#### Source 0050: Making fault-tolerance a reality: Introducing our QEC decoder toolkit
+#### Source 0057: Making fault-tolerance a reality: Introducing our QEC decoder toolkit
 - Source ID: 8d84b3f368d2
 - Turn: 1
 - Query: "Quantum error correction applications and constraints" official documentation
@@ -1453,17 +1642,44 @@ high-level map and authoritative definitions
 - Extended extract lines:
   - Making fault-tolerance a reality: Introducing our QEC decoder toolkit Products & Solutions Quantum Computers Quantinuum Systems Discover the world’s highest performing quantum computers System Model H1 Our first-generation quantum computer with a linear architecture System Model H2 Our second-generation quantum computer with a racetrack architecture Helios Our Hardware-as-a-Service provides access on-premise, in the cloud, or both Hardware Roadmap Explore our accelerated roadmap aimed at advancing commercial quantum computing SOlutions Quantum Origin Our advanced quantum random number generator (QRNG), designed to strengthen encryption and protect data InQuanto Accelerate quantum computational chemistry for complex molecular & materials simulations Nexus All-in-one quantum computing platform for accessing and managing the highest performance full-stack Cloud Access Explore using our world-leading quantum hardware for commercial applications Developer Tools TKET Develop and execute gate-level quantum computation Guppy Program the next generation of quantum computers with our purpose-built language hosted in Python Lambeq Experiment with the structural relationships between quantum theory and natural languages Research Research Areas Discover the vast landscape of our scientific expertise Technical Blog Get educated on the world of quantum computing Publications Explore research and journal publications from our scientific teams Company About Quantinuum Learn more about the world’s largest integrated quantum computing company Careers
 
-#### Source 0051: A Short Introduction to Quantum Error Correction | Brazilian Journal of Physics | Springer Nature Link
+#### Source 0058: Quantum error correction below the surface code threshold
+- Source ID: 69930c94033e
+- Turn: 1
+- Query: "Quantum error correction applications and constraints" academic review
+- Provider: ddgs
+- Search rank: 15
+- Domain: arxiv.org
+- URL: https://arxiv.org/html/2408.13687v1
+- Search snippet: August 24, 2024 -[13] Fowler, A. G., Mariantoni, M., Martinis, J. M. & Cleland, A. N. Surface codes: Towards practical large-scale quantum computation. Physical Review A—Atomic, Molecular, and Optical Physics 86, 032324 (2012). [14] Ryan-Anderson, C. et al. Realization of real-time fault-tolerant quantum error correction.
+- Page word count estimate: 149
+- Relevance score: 15.00
+- Key excerpt lines:
+  - Quantum error correction below the surface code threshold
+  - I
+  - Introduction
+  - II
+  - A Surface code memory below threshold
+  - III
+  - Logical error sensitivity
+  - IV
+  - Probing the ultra-low error regime with repetition codes
+  - V
+  - Real-time decoding
+  - VI
+- Extended extract lines:
+  - Quantum error correction below the surface code threshold I Introduction II A Surface code memory below threshold III Logical error sensitivity IV Probing the ultra-low error regime with repetition codes V Real-time decoding VI Outlook VII Author Contributions VIII Acknowledgements IX Ethics Declarations X Additional Information XI Data Availability Quantum error correction below the surface code threshold Google Quantum AI and Collaborators (August 24, 2024) Abstract Quantum error correction [ 1 , 2 , 3 , 4 ] provides a path to reach practical quantum computing by combining multiple physical qubits into a logical qubit, where the logical error rate is suppressed exponentially as more qubits are added. However, this exponential suppression only occurs if the physical error rate is below a critical threshold. In this work, we present two surface code memories operating below this threshold: a distance-7 code and a distance-5 code integrated with a real-time decoder.
+
+#### Source 0059: A Short Introduction to Quantum Error Correction | Brazilian Journal of Physics | Springer Nature Link
 - Source ID: 231d4fb81519
 - Turn: 1
 - Query: "Quantum error correction applications and constraints" overview
 - Provider: ddgs
-- Search rank: 19
+- Search rank: 18
 - Domain: link.springer.com
 - URL: https://link.springer.com/article/10.1007/s13538-026-02007-9
 - Search snippet: February 14, 2026 -Although one could directly correct the logical state based on the most probable error configuration deduced from the measured syndrome, since implementing gates on the logical states usually introduces additional errors due to gate noise, it is often preferred to account for the most probable correction only at the end of the computation, once all data qubits have been measured. ... Schematic representation of state encoding, noise application and syndrome measurement for the quantum repetition code [[3, 1, 1]]. On the left side, a single-qubit quantum state \(|\psi \rangle\) is encoded into the repetition-code logical state \(|\Psi \rangle\) via 2 CNOT gates.
 - Page word count estimate: 112
-- Relevance score: 14.67
+- Relevance score: 15.00
 - Key excerpt lines:
   - A Short Introduction to Quantum Error Correction | Brazilian Journal of Physics | Springer Nature Link
   - Skip to main content
@@ -1480,61 +1696,34 @@ high-level map and authoritative definitions
 - Extended extract lines:
   - A Short Introduction to Quantum Error Correction | Brazilian Journal of Physics | Springer Nature Link Skip to main content Account Menu Find a journal Publish with us Track your research Search Saved research Cart Home Brazilian Journal of Physics Article A Short Introduction to Quantum Error Correction Open access Published: 14 February 2026 Volume 56 , article number 94 , ( 2026 ) Cite this article You have full access to this open access article Download PDF Save article View saved research Brazilian Journal of Physics Aims and scope Submit manuscript A Short Introduction to Quantum Error Correction Download PDF Thiago Lucena de Macedo Guedes 1 848 Accesses Explore all metrics
 
-#### Source 0052: Crabbing & Clamming Report - Marine Zone | Oregon Department of Fish & Wildlife
-- Source ID: 9e8e179a2aef
+#### Source 0060: Quantinuum with partners Princeton and NIST deliver seminal result in quantum error correction
+- Source ID: 6da984acece5
 - Turn: 1
-- Query: "Quantum error correction applications and constraints" safety regulation
+- Query: "Quantum error correction applications and constraints" academic review
 - Provider: ddgs
-- Search rank: 7
-- Domain: myodfw.com
-- URL: https://myodfw.com/recreation-report/crabbing-clamming-report/marine-zone
-- Search snippet: 2 days ago ·"Not too crabby!" Dungeness crab, Siletz Bay-Photo by Ben Watts- Crabbing and Clamming April 9, 2026Regulation updates as of Nov. 21, 2025These are in-seasonregulationchanges adopted on a temporary or emergency basis. Please see e-regulationsfor permanentregulations.Before clamming or crabbing, call ODA's shellfishsafetyinformation hotline at (800) 448-2474 or visit the ODA shellfish ...
-- Page word count estimate: 130
-- Relevance score: 14.67
+- Search rank: 21
+- Domain: www.quantinuum.com
+- URL: https://www.quantinuum.com/blog/quantinuum-with-partners-princeton-and-nist-deliver-seminal-result-in-quantum-error-correction
+- Search snippet: In this latest paper, we showed thatby using “concatenated codes” noise can be exponentially suppressed — proving that quantum computing will scale. Quantum computing is already producing results, but high-profile applications like Shor’s ...
+- Page word count estimate: 205
+- Relevance score: 15.00
 - Key excerpt lines:
-  - Crabbing & Clamming Report - Marine Zone | Oregon Department of Fish & Wildlife
-  - Skip to main content
-  - Accessibility
-  - Oregon Department of Fish & Wildlife
-  - 2 Alerts
-  - X
-  - Additional days for Columbia River salmon fishery announced
-  - Dates
-  - : Chinook retention allowed Saturday, April 11 – Monday, April 13.
-  - 2026 Winter Steelhead validation required thru April 30
-  - 2026 Rogue South Coast Winter Steelhead Validation
-  - is required to target steelhead Dec. 1-April 30.
+  - Quantinuum with partners Princeton and NIST deliver seminal result in quantum error correction
+  - Products & Solutions
+  - Quantum Computers
+  - Quantinuum Systems
+  - Discover the world’s highest performing quantum computers
+  - System Model H1
+  - Our first-generation quantum computer with a linear architecture
+  - System Model H2
+  - Our second-generation quantum computer with a racetrack architecture
+  - Helios
+  - Our Hardware-as-a-Service provides access on-premise, in the cloud, or both
+  - Hardware Roadmap
 - Extended extract lines:
-  - Crabbing & Clamming Report - Marine Zone | Oregon Department of Fish & Wildlife Skip to main content Accessibility Oregon Department of Fish & Wildlife 2 Alerts X Additional days for Columbia River salmon fishery announced Dates : Chinook retention allowed Saturday, April 11 – Monday, April 13. 2026 Winter Steelhead validation required thru April 30 2026 Rogue South Coast Winter Steelhead Validation is required to target steelhead Dec. 1-April 30. Secondary About ODFW Commission News Volunteer Workshops & Events Regulations Buy a license Buy license Keywords Activity - Any - Big Game Hunting Big Game Hunting Report Crabbing & Clamming Crabbing & Clamming Report Fishing Fishing Report Game Bird Hunting Game Bird Hunting Report Recreation Report Wildlife Viewing Wildlife Viewing Report News Type - Any - Article Educational Moment
+  - Quantinuum with partners Princeton and NIST deliver seminal result in quantum error correction Products & Solutions Quantum Computers Quantinuum Systems Discover the world’s highest performing quantum computers System Model H1 Our first-generation quantum computer with a linear architecture System Model H2 Our second-generation quantum computer with a racetrack architecture Helios Our Hardware-as-a-Service provides access on-premise, in the cloud, or both Hardware Roadmap Explore our accelerated roadmap aimed at advancing commercial quantum computing SOlutions Quantum Origin Our advanced quantum random number generator (QRNG), designed to strengthen encryption and protect data InQuanto Accelerate quantum computational chemistry for complex molecular & materials simulations Nexus All-in-one quantum computing platform for accessing and managing the highest performance full-stack Cloud Access Explore using our world-leading quantum hardware for commercial applications Developer Tools TKET Develop and execute gate-level quantum computation Guppy Program the next generation of quantum computers with our purpose-built language hosted in Python Lambeq Experiment with the structural relationships between quantum theory and natural languages Research Research Areas Discover the vast landscape of our scientific expertise Technical Blog Get educated on the world of quantum computing Publications Explore research and journal publications from our scientific teams Company About Quantinuum Learn more about the world’s largest integrated quantum computing company Careers
 
-#### Source 0053: [0905.2794] Quantum Error Correction for Beginners
-- Source ID: 00797cf931d4
-- Turn: 1
-- Query: "Quantum error correction applications and constraints" official documentation
-- Provider: ddgs
-- Search rank: 17
-- Domain: arxiv.org
-- URL: https://arxiv.org/abs/0905.2794
-- Search snippet: June 21, 2013 -However, quantum error correction and fault-tolerant computation is now a much larger field and many new codes, techniques, and methodologies have been developed to implement error correction for large scale quantum algorithms. In response, we have attempted to summarize the basic aspects of quantum error correction and fault-tolerance, not as a detailed guide, but rather as a basic introduction.
-- Page word count estimate: 82
-- Relevance score: 14.33
-- Key excerpt lines:
-  - [0905.2794] Quantum Error Correction for Beginners
-  - Skip to main content
-  - Learn about arXiv becoming an independent nonprofit.
-  - We gratefully acknowledge support from the Simons Foundation,
-  - member institutions
-  - , and all contributors.
-  - Donate
-  - >
-  - quant-ph
-  - >
-  - arXiv:0905.2794
-  - Help
-- Extended extract lines:
-  - [0905.2794] Quantum Error Correction for Beginners Skip to main content Learn about arXiv becoming an independent nonprofit. We gratefully acknowledge support from the Simons Foundation, member institutions , and all contributors. Donate > quant-ph > arXiv:0905.2794 Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About Quantum Physics arXiv:0905.2794 (quant-ph)
-
-#### Source 0054: Quantum Error Correction Moves Beyond Breakeven | Department of Energy
+#### Source 0061: Quantum Error Correction Moves Beyond Breakeven | Department of Energy
 - Source ID: 5c5ea7982691
 - Turn: 1
 - Query: "Quantum error correction applications and constraints" site:gov
@@ -1561,7 +1750,7 @@ high-level map and authoritative definitions
 - Extended extract lines:
   - Quantum Error Correction Moves Beyond Breakeven | Department of Energy Skip to main content An official website of the United States government Here's how you know Here's how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites. About About Our Agency Our Agency History Our Leadership & Offices The National Nuclear Security Administration The Energy Information Administration National Laboratories Power Marketing Administrations Our Outreach Our Outreach Newsroom Digital Engagement and Media Brand Guides Our Mission Our Mission Genesis Mission Security & Safety Security & Safety Nuclear Security Energy Security
 
-#### Source 0055: Error-Divisible Two-Qubit Gates | NSF Public Access Repository
+#### Source 0062: Error-Divisible Two-Qubit Gates | NSF Public Access Repository
 - Source ID: a7b166088a77
 - Turn: 1
 - Query: "Quantum error correction applications and constraints" site:gov
@@ -1588,17 +1777,44 @@ high-level map and authoritative definitions
 - Extended extract lines:
   - Error-Divisible Two-Qubit Gates | NSF Public Access Repository skip to main content An official website of the United States government Here's how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( lock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. PAR Home Contact FAQ NSF PAGES Navigation Toggle Navigation PAR Home Contact FAQ Explore Research Products in the PAR It may take a few hours for recently added research products to appear in PAR search results. × Search + Advanced Search × Advanced Search Options Search Across All Fields Subject(s) / Keyword(s): × Identifier Number: What does this include? × Resource Type: Audiovisual Book Book Chapter Conference Paper
 
-#### Source 0056: Quantum error-correcting code (QECC) | Error Correction Zoo
+#### Source 0063: [0905.2794] Quantum Error Correction for Beginners
+- Source ID: 00797cf931d4
+- Turn: 1
+- Query: "Quantum error correction applications and constraints" official documentation
+- Provider: ddgs
+- Search rank: 19
+- Domain: arxiv.org
+- URL: https://arxiv.org/abs/0905.2794
+- Search snippet: June 21, 2013 -However, quantum error correction and fault-tolerant computation is now a much larger field and many new codes, techniques, and methodologies have been developed to implement error correction for large scale quantum algorithms. In response, we have attempted to summarize the basic aspects of quantum error correction and fault-tolerance, not as a detailed guide, but rather as a basic introduction.
+- Page word count estimate: 82
+- Relevance score: 13.67
+- Key excerpt lines:
+  - [0905.2794] Quantum Error Correction for Beginners
+  - Skip to main content
+  - Learn about arXiv becoming an independent nonprofit.
+  - We gratefully acknowledge support from the Simons Foundation,
+  - member institutions
+  - , and all contributors.
+  - Donate
+  - >
+  - quant-ph
+  - >
+  - arXiv:0905.2794
+  - Help
+- Extended extract lines:
+  - [0905.2794] Quantum Error Correction for Beginners Skip to main content Learn about arXiv becoming an independent nonprofit. We gratefully acknowledge support from the Simons Foundation, member institutions , and all contributors. Donate > quant-ph > arXiv:0905.2794 Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About Quantum Physics arXiv:0905.2794 (quant-ph)
+
+#### Source 0064: Quantum error-correcting code (QECC) | Error Correction Zoo
 - Source ID: bf72622ae55c
 - Turn: 1
 - Query: "Quantum error correction applications and constraints" overview
 - Provider: ddgs
-- Search rank: 18
+- Search rank: 19
 - Domain: errorcorrectionzoo.org
 - URL: https://errorcorrectionzoo.org/c/qecc
 - Search snippet: Encodes quantum information in a (logical) subspace of a (physical) Hilbert space such that it is possible to recover said information from errors that act as linear maps on the physical space.
 - Page word count estimate: 261
-- Relevance score: 14.00
+- Relevance score: 13.67
 - Key excerpt lines:
   - Quantum error-correcting code (QECC) | Error Correction Zoo
   - [Jump to code hierarchy]
@@ -1615,34 +1831,34 @@ high-level map and authoritative definitions
 - Extended extract lines:
   - Quantum error-correcting code (QECC) | Error Correction Zoo [Jump to code hierarchy] Quantum error-correcting code (QECC) Description Encodes quantum information in a ( logical ) subspace of a ( physical ) Hilbert space such that it is possible to recover said information from errors that act as linear maps on the physical space. The state space of a QECC is contained in the space of complex \(L^2\) -normalizable functions of some configuration space, which usually corresponds to the alphabet of a classical code. Since quantum information is encoded in quantum superpositions, an additional source of noise (not relevant to classical encodings) can affect the relative phase of such superpositions. Quantum error-correcting codes have to protect against such phase-flip noise while also protecting against conventional classical bit-flip noise. The better a code is at protecting against phase-flip noise, the worse it is at protecting against bit-flip noise, and vice versa, so there is a tradeoff between the two types of noise. The logical subspace is spanned by a basis comprised of code basis states or codewords . Codewords may not be normalizable if the physical Hilbert space is infinite-dimensional, so approximate versions have to be constructed in practice. While all considered QECC states are complex functions, real or quaternionic function spaces can also be considered for QEC [ 1 , 2 ] . Protection Denoting Hilbert spaces by the letter \(\mathsf{H}\) , a quantum code \((U,\cal{E})\) is a partial isometry \(U:\mathsf{H}_{\text{logical}}\to\mathsf{H}_{\text{physical}}\) with a set of correctable errors \(\cal{E}\) with the following property: there exists a quantum operation \(\cal{D}\) such that for all
 
-#### Source 0057: [2304.08678] Quantum Error Correction For Dummies
-- Source ID: 584433f4451e
+#### Source 0065: Campus Review: CAPM 026.000 – Research Integrity – Academic Personnel
+- Source ID: dc27cf0a017f
 - Turn: 1
 - Query: "Quantum error correction applications and constraints" academic review
 - Provider: ddgs
-- Search rank: 19
-- Domain: arxiv.org
-- URL: https://arxiv.org/abs/2304.08678
-- Search snippet: April 26, 2023 -In this work, we, (a) explain the foundational principles of QEC and explore existing Quantum Error Correction Codes (QECC) designed to correct errors in qubits, (b) explore the practicality of these QECCs concerning implementation and error correction quality, and (c) highlight the challenges associated with implementing QEC within the context of the current landscape of NISQ computers.
-- Page word count estimate: 82
-- Relevance score: 13.67
+- Search rank: 2
+- Domain: academicpersonnel.ucsc.edu
+- URL: https://academicpersonnel.ucsc.edu/capm-under-review/2026/04/campus-review-capm-026-000-research-integrity
+- Search snippet: 1 day ago ·I write to initiate a formalreviewof proposed revisions to the campusacademicpersonnel policy on research integrity, CAPM 026.00. The revisions update our campus policy to be consistent with revised federal regulations on research misconduct.
+- Page word count estimate: 119
+- Relevance score: 13.33
 - Key excerpt lines:
-  - [2304.08678] Quantum Error Correction For Dummies
-  - Skip to main content
-  - Learn about arXiv becoming an independent nonprofit.
-  - We gratefully acknowledge support from the Simons Foundation,
-  - member institutions
-  - , and all contributors.
-  - Donate
-  - >
-  - quant-ph
-  - >
-  - arXiv:2304.08678
-  - Help
+  - Campus Review: CAPM 026.000 – Research Integrity – Academic Personnel
+  - Academic Personnel
+  - About
+  - About the Academic Personnel Office
+  - Divisional Academic Personnel Contacts
+  - Data & Reports
+  - Policies & Guidance
+  - Campus Academic Personnel Manual
+  - Policy Communications
+  - Delegation of Authority
+  - Outside Activities Tracking (OATS)
+  - Other Policies, Procedures & Resources
 - Extended extract lines:
-  - [2304.08678] Quantum Error Correction For Dummies Skip to main content Learn about arXiv becoming an independent nonprofit. We gratefully acknowledge support from the Simons Foundation, member institutions , and all contributors. Donate > quant-ph > arXiv:2304.08678 Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About Quantum Physics arXiv:2304.08678 (quant-ph)
+  - Campus Review: CAPM 026.000 – Research Integrity – Academic Personnel Academic Personnel About About the Academic Personnel Office Divisional Academic Personnel Contacts Data & Reports Policies & Guidance Campus Academic Personnel Manual Policy Communications Delegation of Authority Outside Activities Tracking (OATS) Other Policies, Procedures & Resources Bargaining Contracts Academic Employment Tools for Job Seekers Tools for Hiring Units Fair Hiring Resources UCSC Recruit Login Academic Advancement Campus CALL Information Cumulative Biobibliography Guidelines Departmental Review Procedures Document Inventory Matrices DivData Compensation & Leaves Salary Scales Compensation Academic Leaves UCSC Benefits Office CruzPay UCPath Login Resources for Academics & Units Department Chair Toolkit Resources by Title Group Forms Layoff & Reduction in Time Retirement Workshops & Training Systems Academic Employee Relations
 
-#### Source 0058: Error Correction for Correlated Quantum Systems | NSF Public Access Repository
+#### Source 0066: Error Correction for Correlated Quantum Systems | NSF Public Access Repository
 - Source ID: d6898c1fcff9
 - Turn: 1
 - Query: "Quantum error correction applications and constraints" site:gov
@@ -1669,7 +1885,7 @@ high-level map and authoritative definitions
 - Extended extract lines:
   - Error Correction for Correlated Quantum Systems | NSF Public Access Repository skip to main content An official website of the United States government Here's how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( lock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. PAR Home Contact FAQ NSF PAGES Navigation Toggle Navigation PAR Home Contact FAQ Explore Research Products in the PAR It may take a few hours for recently added research products to appear in PAR search results. × Search + Advanced Search × Advanced Search Options Search Across All Fields Subject(s) / Keyword(s): × Identifier Number: What does this include? × Resource Type: Audiovisual Book Book Chapter Conference Paper
 
-#### Source 0059: Quantum error-correction using humming sparrow optimization based self-adaptive deep cnn noise correction module - PMC
+#### Source 0067: Quantum error-correction using humming sparrow optimization based self-adaptive deep cnn noise correction module - PMC
 - Source ID: 328a88dd3ffc
 - Turn: 1
 - Query: "Quantum error correction applications and constraints" official documentation
@@ -1696,6 +1912,60 @@ high-level map and authoritative definitions
 - Extended extract lines:
   - Quantum error-correction using humming sparrow optimization based self-adaptive deep cnn noise correction module - PMC Skip to main content An official website of the United States government Here's how you know Here's how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. Search Log in Dashboard Publications Account settings Log out Search… Search NCBI Primary site navigation Search Logged in as: Dashboard Publications Account settings Log in Search PMC Full-Text Archive Search in PMC Journal List User Guide
 
+#### Source 0068: [2304.08678] Quantum Error Correction For Dummies
+- Source ID: 584433f4451e
+- Turn: 1
+- Query: "Quantum error correction applications and constraints" academic review
+- Provider: ddgs
+- Search rank: 24
+- Domain: arxiv.org
+- URL: https://arxiv.org/abs/2304.08678
+- Search snippet: April 26, 2023 -In this work, we, (a) explain the foundational principles of QEC and explore existing Quantum Error Correction Codes (QECC) designed to correct errors in qubits, (b) explore the practicality of these QECCs concerning implementation and error correction quality, and (c) highlight the challenges associated with implementing QEC within the context of the current landscape of NISQ computers.
+- Page word count estimate: 82
+- Relevance score: 12.00
+- Key excerpt lines:
+  - [2304.08678] Quantum Error Correction For Dummies
+  - Skip to main content
+  - Learn about arXiv becoming an independent nonprofit.
+  - We gratefully acknowledge support from the Simons Foundation,
+  - member institutions
+  - , and all contributors.
+  - Donate
+  - >
+  - quant-ph
+  - >
+  - arXiv:2304.08678
+  - Help
+- Extended extract lines:
+  - [2304.08678] Quantum Error Correction For Dummies Skip to main content Learn about arXiv becoming an independent nonprofit. We gratefully acknowledge support from the Simons Foundation, member institutions , and all contributors. Donate > quant-ph > arXiv:2304.08678 Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About Quantum Physics arXiv:2304.08678 (quant-ph)
+
+#### Source 0069: arXiv.org e-Print archive
+- Source ID: bd7aa388347c
+- Turn: 1
+- Query: "Quantum error correction applications and constraints" academic review
+- Provider: ddgs
+- Search rank: 25
+- Domain: arxiv.org
+- URL: https://arxiv.org
+- Search snippet: arXiv is a free distribution serviceandan open-access archive for nearly 2.4 million scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineeringandsystems science,andeconomics. Materials on this site are not peer-reviewed by arXiv.
+- Page word count estimate: 123
+- Relevance score: 9.67
+- Key excerpt lines:
+  - arXiv.org e-Print archive
+  - Skip to main content
+  - Learn about arXiv becoming an independent nonprofit.
+  - We gratefully acknowledge support from the Simons Foundation,
+  - member institutions
+  - , and all contributors.
+  - Donate
+  - Status
+  - Login
+  - Help
+  - |
+  - Advanced Search
+- Extended extract lines:
+  - arXiv.org e-Print archive Skip to main content Learn about arXiv becoming an independent nonprofit. We gratefully acknowledge support from the Simons Foundation, member institutions , and all contributors. Donate Status Login Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About arXiv is a free distribution service and an open-access archive for nearly 2.4 million scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics. Materials on this site are not peer-reviewed by arXiv. Subject search and browse: Physics
+
 ## Turn 2
 
 ### Focus
@@ -1715,11 +1985,11 @@ recent evidence, performance, and industrial reality
 
 ### Turn Findings
 - Building the future of quantum error correction | IBM Quantum Computing Blog: Building the future of quantum error correction | IBM Quantum Computing Blog
+- Common Looker Studio Limitations & How to Work Around it: Common Looker Studio Limitations & How to Work Around it
 - Quantum Error Correction: The Key to Quantum Computing: Quantum Error Correction: The Key to Quantum Computing
-- Quantum Errors and Quantum Error Correction (QEC) Methods: Quantum Errors and Quantum Error Correction (QEC) Methods
-- Price Analysis | In-Depth Crypto Price Trends & Daily Analysis: Price Analysis | In-Depth Crypto Price Trends & Daily Analysis
-- Credit Union and Corporate Call Report Data | NCUA: Credit Union and Corporate Call Report Data | NCUA
 - AI in Qualitative Research Analysis: Too good to be true? - Crescendo Consulting Group: AI in Qualitative Research Analysis: Too good to be true? - Crescendo Consulting Group
+- [0904.2557] An Introduction to Quantum Error Correction and Fault-Tolerant Quantum Computation: [0904.2557] An Introduction to Quantum Error Correction and Fault-Tolerant Quantum Computation
+- Installing on Debian and Ubuntu | RabbitMQ: Installing on Debian and Ubuntu | RabbitMQ
 
 ### Contradictions
 - Different sources emphasize different baselines, metrics, or time horizons. These require explicit comparison in the article.
@@ -1730,7 +2000,7 @@ recent evidence, performance, and industrial reality
 - Which criticism appears consistently versus only in opinion pieces?
 
 ### Source Catalog
-#### Source 0060: Building the future of quantum error correction | IBM Quantum Computing Blog
+#### Source 0070: Building the future of quantum error correction | IBM Quantum Computing Blog
 - Source ID: c4a0bd35704a
 - Turn: 2
 - Query: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview?
@@ -1757,17 +2027,44 @@ recent evidence, performance, and industrial reality
 - Extended extract lines:
   - Building the future of quantum error correction | IBM Quantum Computing Blog Skip to main content IBM Quantum Hardware Qiskit Product Research Blog Community IBM Quantum Network Events Qiskit ecosystem Resources Documentation Learning Case studies Feedback program Sign in to Platform Sign in Quantum Research Blog Building the future of quantum error correction Last week’s IEEE Quantum Week conference put the spotlight on the latest research in error correction — and a glimpse of what quantum computing’s future may look like. Date 4 Oct 2022 Authors Drew Vandeth Sarah Sheldon Antonio Córcoles Andrew Cross Topics Error Correction & Mitigation Research Share this blog Errors are an unavoidable phenomenon in computation, and this is especially true in quantum computation, where we must exercise precise control over the behavior of ultra-sensitive quantum systems. While we look for computational advantage in the near term by using techniques that reduce the effects of noise in quantum systems, extracting the full potential of computation and realizing quantum algorithms with a super-polynomial speedup will most likely require major advances in quantum error correction technology . 1 Researchers in the field have made significant progress in quantum error correction over the last few years, but there's still much left to accomplish to achieve this goal. Today, we’re working with the broader quantum community to thoughtfully bring about practical quantum computing as soon as possible. As part of our development roadmap, we see the development in this field as a continuous path forward, where we work to create value from today’s noisy quantum hardware using
 
-#### Source 0061: Quantum Error Correction: The Key to Quantum Computing
+#### Source 0071: Common Looker Studio Limitations & How to Work Around it
+- Source ID: 151d0916145f
+- Turn: 2
+- Query: "Quantum error correction applications and constraints" limitations criticism
+- Provider: ddgs
+- Search rank: 2
+- Domain: coefficient.io
+- URL: https://coefficient.io/looker-studio-limitations-and-workarounds
+- Search snippet: 1 day ago ·Theselimitationsare real, but every one of them has a workaround — most of which involve moving the data work upstream into Google Sheets rather than asking Looker Studio to do it at render time. If you are hitting several of these regularly, Coefficient solves the data layer problems and Vibe Reporting replaces the output layer entirely.
+- Page word count estimate: 529
+- Relevance score: 19.33
+- Key excerpt lines:
+  - Common Looker Studio Limitations & How to Work Around it
+  - Skip to content
+  - Get Started Free
+  - Product
+  - Integrations
+  - Solutions
+  - Resources
+  - Pricing
+  - Get a Demo
+  - Get Started Free
+  - Blog/
+  - 7 Looker Studio Limitations Nobody Warns You About (And How to Work Around Each One)
+- Extended extract lines:
+  - Common Looker Studio Limitations & How to Work Around it Skip to content Get Started Free Product Integrations Solutions Resources Pricing Get a Demo Get Started Free Blog/ 7 Looker Studio Limitations Nobody Warns You About (And How to Work Around Each One) Published: April 10, 2026 - 9 min read Vijay Srinivas Join our community Did you know? Coefficient eliminates the need to export data manually and rebuild stale dashboards. Get started by pulling live data into pre-built Sheets dashboards. Looker Studio is genuinely useful and genuinely free — for most Google-ecosystem reporting it does the job well. But it has real limitations that only show up after you’ve built a few dashboards and run into them. This guide covers the seven that catch teams most often, with a practical workaround for each one. 1. Slow Load Times on Large Datasets What the problem is This is the most commonly cited Looker Studio complaint. In 2025 G2 reviews, 38% of users flagged performance issues — slow dashboards, timeouts and visualisations that take several seconds to render. The more data sources and blends in a report, the worse it gets. Why it happens Looker Studio runs queries against the data source every time a report loads or a filter changes. It does not cache aggressively. Community connectors add extra latency on top. The result: a 10-widget dashboard pulling from three sources can take 10 to 20 seconds to load — which is long enough for a stakeholder to assume something is broken. Pricing note Looker Studio Pro ($9/user/month) does not fix slow load times. The performance issue is architectural. Pro adds governance features, not query speed. More on what Pro actually includes here . Workaround Push the heavy lifting upstream. Pre-aggregate and pre-join your data in Google Sheets or BigQuery before connecting to Looker Studio. Instead of asking Looker Studio to calculate on the fly, feed it a clean, pre-calculated table. One clean Sheets tab connected to Looker Studio loads in a fraction of the time of a multi-source blend queried at render. Coefficient pulls live data from 100+ sources into Google Sheets on a refresh schedule. Your Looker Studio report reads from a clean, pre-calculated Sheets tab — no multi-source query at load time. Get started free . 2. Data Blending Is Capped at 5 Sources What the problem is Looker Studio limits data blending to five sources per blend. For marketing teams combining CRM, paid ads, SEO, email and financial data that ceiling is reached fast. Hit it and your only options are cutting a data source or splitting analysis across multiple reports — neither of which gives stakeholders the unified view they need. Why it matters The cap itself is bad enough. The silent failure mode is worse. When a schema changes upstream — a renamed column in Google Sheets, an updated field in your CRM — blends break without a useful error message. Your dashboard just shows empty charts. You may not find out for days if no one is actively monitoring it. Pricing note The 5-source blending limit applies on both the free tier and Looker Studio Pro. Upgrading does not raise the cap.
+
+#### Source 0072: Quantum Error Correction: The Key to Quantum Computing
 - Source ID: f3df9181dce4
 - Turn: 2
 - Query: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview?
 - Provider: ddgs
-- Search rank: 8
+- Search rank: 9
 - Domain: www.bluequbit.io
 - URL: https://www.bluequbit.io/blog/quantum-error-correction
 - Search snippet: These emulators are used to test and optimize error correction codes before deploying them on physical quantum hardware. NVIDIA focuses on allowing researchers to refine QEC algorithms efficiently, bridging the gap between theoretical models and hardware implementation.
 - Page word count estimate: 431
-- Relevance score: 19.33
+- Relevance score: 19.00
 - Key excerpt lines:
   - Quantum Error Correction: The Key to Quantum Computing
   - home
@@ -1784,88 +2081,7 @@ recent evidence, performance, and industrial reality
 - Extended extract lines:
   - Quantum Error Correction: The Key to Quantum Computing home Our Quantum Advantage challenge with $20,000 BTC award is live. More Details → Home Hackathons Platform Team Blog Research Contact Us Platform Access What Is Quantum Error Correction: The Key to Quantum Computing January 9, 2025 • 7 min read Hrant Gharibyan Co-founder & CEO Quantum computing is taking the tech world by storm. This field uses quantum mechanics to process information in ways far beyond the capabilities of classical computers. Unlike traditional systems that use binary bits, quantum computers use qubits, which can exist in multiple states at the same time due to superposition and entanglement. The result is breakthroughs in areas like quantum cryptography , drug discovery, and materials science. All that said, quantum computing faces major challenges that hinder its practical implementation. Qubits are highly sensitive to environmental noise, temperature fluctuations, and electromagnetic interference, leading to errors in computation. As these errors accumulate, it becomes difficult to maintain accuracy. The biggest challenge is managing and correcting these errors without disrupting the delicate quantum state—a problem unique to quantum computing. This is where quantum error correction (QEC) comes in, presenting a way to detect and fix errors while preserving quantum coherence. As the field reaches new heights, QEC remains a key area of research, with major players like Google, IBM, and Microsoft making efforts to overcome these limitations and unleash the full potential of quantum computing. What Is Quantum Error Correction? Quantum error correction , or quantum computing error correction, is a set of techniques for protecting quantum information from errors that are caused by noise and decoherence. While classical error correction deals with 1s or 0s, QEC involves qubits that exist in superpositions. This makes it a challenging yet key aspect of quantum computing. A common method of QEC is using multiple physical qubits to encode a logical qubit. Entangling these qubits helps detect and correct quantum errors without having to directly measure the qubits’ states. QEC Codes, like the Shor code, are examples of schemes that apply these techniques and can correct various types of errors. There are two classes of error correction codes: surface and stabilizer . Surface codes: refer to two-dimensional lattices of physical qubits that create logical qubits with topological protection. Errors can happen through the lattice without affecting the logical qubit’s global state. ‍ Stabilizer codes: detect errors using measurements and apply error correction to corrupted qubits using classical logic. Examples of this class include the Shor code and Steane code.\ ‍ Types of Quantum Error Correction QEC is divided into three main categories:
 
-#### Source 0062: Quantum Errors and Quantum Error Correction (QEC) Methods
-- Source ID: df4d5c7e91d2
-- Turn: 2
-- Query: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview?
-- Provider: ddgs
-- Search rank: 12
-- Domain: postquantum.com
-- URL: https://postquantum.com/quantum-computing/quantum-error-correction
-- Search snippet: October 26, 2025 -By calibrating the readout error rates and possibly repeating measurements, one can correct the bias in measurement results. Another example is postselection on symmetry checks: in certain quantum algorithms, the ideal state should satisfy a ...
-- Page word count estimate: 108
-- Relevance score: 19.00
-- Key excerpt lines:
-  - Quantum Errors and Quantum Error Correction (QEC) Methods
-  - Menu
-  - Search for
-  - Home
-  - |
-  - Industry News
-  - Quantum Industry & Ecosystem News
-  - Quantum Research & Methods News
-  - Quantum Security, PQC, Post-Quantum News
-  - Quantum Systems & Engineering News
-  - Quantum Policy, Standards & Regulations News
-  - Quantum Open Architecture (QOA) News
-- Extended extract lines:
-  - Quantum Errors and Quantum Error Correction (QEC) Methods Menu Search for Home | Industry News Quantum Industry & Ecosystem News Quantum Research & Methods News Quantum Security, PQC, Post-Quantum News Quantum Systems & Engineering News Quantum Policy, Standards & Regulations News Quantum Open Architecture (QOA) News Quantum Sovereignty News Quantum Systems Integration News | My Articles: By Topic Post-Quantum, PQC, Quantum Security Q-Day, Y2Q Quantum Computing (QC) Quantum Computing Companies Quantum Networks Quantum AI (QAI) Quantum Sensing Quantum Policies Quantum Commercialization AI Security & Safety Cyber-Kinetic Security 5G & mIoT Security Blockchain & Crypto Security Society 5.0 Leadership By Country ASEAN Australia Canada China Europe India Middle East
-
-#### Source 0063: Price Analysis | In-Depth Crypto Price Trends & Daily Analysis
-- Source ID: 19dab7cb1db9
-- Turn: 2
-- Query: "Quantum error correction applications and constraints" market analysis
-- Provider: ddgs
-- Search rank: 1
-- Domain: coinpedia.org
-- URL: https://coinpedia.org/price-analysis
-- Search snippet: 12 hours ago ·Get real-time crypto priceanalysis, trends, and expert predictions for top coins. Stay ahead with accuratemarketinsights and price forecasts
-- Page word count estimate: 100
-- Relevance score: 18.67
-- Key excerpt lines:
-  - Price Analysis | In-Depth Crypto Price Trends & Daily Analysis
-  - Menu
-  - Advertise
-  - ✖
-  - Posts
-  - Events
-  - Professionals
-  - Companies
-  - Coins/Tokens
-  - Exchanges
-  - View All Posts
-  - View All Events
-- Extended extract lines:
-  - Price Analysis | In-Depth Crypto Price Trends & Daily Analysis Menu Advertise ✖ Posts Events Professionals Companies Coins/Tokens Exchanges View All Posts View All Events View All Professionals View All Companies View All Coins/Tokens View All Exchanges Login Log In to View Notifications. Log in to access your notifications and stay updated. If you’re not a member yet, Sign Up to get started! Login / Signup Portfolio Home News Information Research Report Press Release Guest Post Sponsored Cryptocurrency Regulation Markets Live Market Price Analysis Cryptocurrency Price Prediction Launchpad Airdrops Product Reviews Centralised Exchanges Decentralised Exchanges Cryptocurrency Wallets Crypto Tracking Tools
-
-#### Source 0064: Credit Union and Corporate Call Report Data | NCUA
-- Source ID: b8229892675d
-- Turn: 2
-- Query: "Quantum error correction applications and constraints" benchmark data
-- Provider: ddgs
-- Search rank: 4
-- Domain: ncua.gov
-- URL: https://ncua.gov/analysis/credit-union-corporate-call-report-data
-- Search snippet: Mar 24, 2026 ·Download Corporate Credit Union Call ReportDataDownload Corporate Call Reportdatainto comma separated value (.csv) files. CUOnlineDataWeb Service The CUOnlinedataweb service is generally for bulkdataand is typically used by large industrydataaggregators.
-- Page word count estimate: 220
-- Relevance score: 18.67
-- Key excerpt lines:
-  - Credit Union and Corporate Call Report Data | NCUA
-  - Skip to main content
-  - An official website of the United States government
-  - Here’s how you know
-  - Help With My Credit Union
-  - Español
-  - Contact Us
-  - About
-  - About
-  - Created by the U.S. Congress in 1970, the National Credit Union Administration is an independent federal agency that insures deposits at federally insured credit unions, protects the members who own credit unions, and...
-  - Mission & Values
-  - Leadership
-- Extended extract lines:
-  - Credit Union and Corporate Call Report Data | NCUA Skip to main content An official website of the United States government Here’s how you know Help With My Credit Union Español Contact Us About About Created by the U.S. Congress in 1970, the National Credit Union Administration is an independent federal agency that insures deposits at federally insured credit unions, protects the members who own credit unions, and charters and regulates federal credit unions. Mission & Values Leadership Reports to Congress NCUA Board Speaker Request Form Staff Speaker Request Form Historical Timeline Workplace Resolutions Careers Business Opportunities Open Government Inspector General Budget & Performance AskNCUA Regulation & Supervision Regulation & Supervision The NCUA protects the safety and soundness of the credit union system by identifying, monitoring and reducing risks to the National Credit Union Share Insurance Fund. Backed by the full faith and credit of the United States, the Share Insurance Fund provides up to $250,000 of federal share insurance to millions of account holders in all federal credit unions and the overwhelming majority of state-chartered credit unions. Letters to Credit Unions & Other Guidance Examination Program Rulemakings & Proposals for Comment Legal Opinions Rules & Regulations Regulatory & Compliance Resources Supervisory Review Committee Board Appeals Corporate Credit Unions Regulatory Reporting Manuals & Guides Examination Modernization Initiatives CUSO Activities Analysis
-
-#### Source 0065: AI in Qualitative Research Analysis: Too good to be true? - Crescendo Consulting Group
+#### Source 0073: AI in Qualitative Research Analysis: Too good to be true? - Crescendo Consulting Group
 - Source ID: 73ef78647999
 - Turn: 2
 - Query: "Quantum error correction applications and constraints" limitations criticism
@@ -1892,152 +2108,17 @@ recent evidence, performance, and industrial reality
 - Extended extract lines:
   - AI in Qualitative Research Analysis: Too good to be true? - Crescendo Consulting Group Skip to primary navigation Skip to main content Skip to footer Crescendo Consulting Group Who We Are History Mission Team Careers Services Community Needs Assessment Harbor Performance Initiative HUD Consolidated Plan Population Health and Market Research Health Equity Impact Assessments Strategic Planning Opioid Settlement Community Engagement Sectors Our Approach Assessment as Action Social Determinants of Health (SDoH) Framework Our Work Clients Press Blog Contact AI in Qualitative Research Analysis: Too good to be true? Explore the benefits and limitations of AI in qualitative research analysis, including bias, context loss, and when human insight is essential. You are here: Home / Community Needs Assessments / AI in Qualitative Research Analysis: Too good to be true? April 1, 2026 by Brandi Stein Artificial Intelligence (AI) continues to grow in popularity as it proves to be a useful tool for assisting with everyday tasks in people’s professional and personal lives. Not quite sure how to word that email? AI can help. Need help with workflow? Ask AI. Need a weekly meal plan and grocery list? AI can make those too. But AI certainly has its limitations, and it’s important to understand what these limitations are when deciding whether or not to use it. This rings true when considering the use of AI in research, especially AI in qualitative research analysis. Striking a balance between optimizing efficiency and quality can be tricky, so let’s talk about some of the things to consider when deciding if using AI in qualitative analysis is right for you.
 
-#### Source 0066: Determine If a Source Is Scholarly | Teaching, Learning, and Academic Support | University Library | Illinois
-- Source ID: 6eb40c4e424a
-- Turn: 2
-- Query: "Quantum error correction applications and constraints" academic review
-- Provider: ddgs
-- Search rank: 4
-- Domain: www.library.illinois.edu
-- URL: https://www.library.illinois.edu/tlas/instruction/i-need-to-2/scholarly-source
-- Search snippet: What is a scholarly source? Scholarly sources (also referred to asacademic, peer-reviewed, or refereed sources) are written by experts in a particular field and serve to keep others interested in that field up to date on the most recent research, findings, and news. These resources will provide the most substantial information for your research and papers. What is peer-review? When a source ...
-- Page word count estimate: 118
-- Relevance score: 18.67
-- Key excerpt lines:
-  - Determine If a Source Is Scholarly | Teaching, Learning, and Academic Support | University Library | Illinois
-  - My Account
-  - Site Search
-  - enter keywoards to search library web pages. Press enter to submit
-  - Ask A Librarian
-  - University Library Menu
-  - About
-  - Employee Directory
-  - Departmental Directory
-  - Administration
-  - Policies for Library Users
-  - Diversity, Equity, Inclusion, & Accessibility
-- Extended extract lines:
-  - Determine If a Source Is Scholarly | Teaching, Learning, and Academic Support | University Library | Illinois My Account Site Search enter keywoards to search library web pages. Press enter to submit Ask A Librarian University Library Menu About Employee Directory Departmental Directory Administration Policies for Library Users Diversity, Equity, Inclusion, & Accessibility Preservation Services Faculty & Staff Achievements Library Spaces Library Building Project Library Employment Events News Make a Gift MORE Libraries & Hours Find Materials Collections Overview Sensitive Content Statement Online Reference Collection Easy Search Library Catalog Course Reserves Library Guides Archives & Manuscript Materials Digital Library Collections Article Locator IDEALS Databases (A-Z list) Online Journals MORE Borrow Materials Setup & Use My Account Library Cards
-
-#### Source 0067: 10 Best Online Academic Research Tools and Resources 2025
-- Source ID: fb754b8bc4cf
-- Turn: 2
-- Query: "Quantum error correction applications and constraints" academic review
-- Provider: ddgs
-- Search rank: 3
-- Domain: www.bestcolleges.com
-- URL: https://www.bestcolleges.com/blog/best-online-resources-academic-research
-- Search snippet: Nov 6, 2025 ·10. Your University Library When you’re conductingacademicresearch, your university library can be one of your best resources. In addition to online databases, journal articles, and books, your campus library also hasacademiclibrarians who can point you to the best sources.
-- Page word count estimate: 160
-- Relevance score: 18.00
-- Key excerpt lines:
-  - 10 Best Online Academic Research Tools and Resources 2025
-  - Online College Degrees
-  - Undergraduate Degrees
-  - Online Colleges
-  - Best Colleges
-  - Best Accredited Colleges
-  - Best Affordable Colleges
-  - Best Colleges for Working Adults
-  - Best Colleges for Single Parents
-  - Best Military-Friendly Colleges
-  - Psychology and Counseling
-  - Best Bachelor's in Psychology
-- Extended extract lines:
-  - 10 Best Online Academic Research Tools and Resources 2025 Online College Degrees Undergraduate Degrees Online Colleges Best Colleges Best Accredited Colleges Best Affordable Colleges Best Colleges for Working Adults Best Colleges for Single Parents Best Military-Friendly Colleges Psychology and Counseling Best Bachelor's in Psychology Best Affordable Bachelor's in Psychology Best Bachelor's in Counseling Best Bachelor's in Social Work Accelerated Social Work Degrees Business and Management Best Bachelor's in Business Management Best Bachelor's in Sports Management Best Bachelor's in Project Management Best Affordable Bachelor's in Business Administration Best Bachelor's in Finance Education Best Bachelor's in Education Best Affordable Bachelor's in Education Best Affordable Bachelor's in Elementary Education Best Bachelor's in Early Childhood Education Best Affordable Bachelor's in Early Childhood Education Healthcare Best Bachelor's in Nursing Best Affordable RN-to-BSN Programs Best Bachelor's in Nutrition Best Bachelor's in Healthcare Administration Best Bachelor's in Healthcare Management Graduate Degrees More Online Degrees Most Affordable Colleges Best Affordable Master's Degrees Accelerated Associate Degrees Accelerated Bachelor's Degrees
-
-#### Source 0068: US Data Center Market Report 2026 | Power & Grid Insights
-- Source ID: c007ed2c147d
-- Turn: 2
-- Query: "Quantum error correction applications and constraints" market analysis
-- Provider: ddgs
-- Search rank: 4
-- Domain: www.enerdatics.com
-- URL: https://www.enerdatics.com/insights/enerdatics-releases-us-data-center-state-of-the-market-report---february-2026-mapping-power-led-expansion-across-the-us
-- Search snippet: Feb 5, 2026 ·HOUSTON, TX, UNITED STATES — Enerdatics today announced the release of its US Data Center: State of theMarketReport 2026, a comprehensiveanalysisof how power availability, grid constraints, and procurement strategy are reshaping data center development across the United States. The report finds that U.S. data center growth is increasingly defined by power deliverability rather than ...
-- Page word count estimate: 265
-- Relevance score: 17.67
-- Key excerpt lines:
-  - US Data Center Market Report 2026 | Power & Grid Insights
-  - Home
-  - About Us
-  - Use Cases
-  - Subscription Plans
-  - Insights
-  - Team
-  - Media Mentions
-  - Testimonials
-  - Contact Us
-  - Login - STACK
-  - Login - Database
-- Extended extract lines:
-  - US Data Center Market Report 2026 | Power & Grid Insights Home About Us Use Cases Subscription Plans Insights Team Media Mentions Testimonials Contact Us Login - STACK Login - Database Explore our latest insights, project updates, and more. subscribe to our newsletter Subscribe Now → Updated on February 6, 2026 Enerdatics Releases US Data Center: State of the Market Report - February 2026, Mapping Power-Led Expansion Across the US February 5, 2026 3 min read HOUSTON, TX, UNITED STATES — Enerdatics today announced the release of its US Data Center: State of the Market Report 2026 , a comprehensive analysis of how power availability, grid constraints, and procurement strategy are reshaping data center development across the United States. The report finds that U.S. data center growth is increasingly defined by power deliverability rather than traditional location drivers , as interconnection backlogs, transmission constraints, and rising demand from AI workloads push developers to rethink where and how capacity can realistically be brought online. “ The data center market is no longer constrained by demand, it’s constrained by deliverability ,” said Mohit Kaul, Founder & CEO of Enerdatics . “In 2026, site selection is fundamentally a power strategy. Developers and hyperscalers that can align grid access, generation, and flexibility will be the ones that scale with confidence.” Market Snapshot: Scale Concentrates, Geography Expands Enerdatics’ analysis covers more than 4,000 operating and planned data centers , representing over 240 GW of cumulative power demand across the U.S. While core markets such as PJM, ERCOT, and CAISO continue to anchor capacity, the report shows a growing shift toward
-
-#### Source 0069: Every Time-Series Database Benchmark Ever. 2025
-- Source ID: 085c701674a5
-- Turn: 2
-- Query: "Quantum error correction applications and constraints" benchmark data
-- Provider: ddgs
-- Search rank: 2
-- Domain: www.timestored.com
-- URL: https://www.timestored.com/data/time-series-database-benchmarks
-- Search snippet: The topbenchmarkssection will focus on time-series databases that are fast, provide time-series joins, time window aggregations anddatacompression, rather than pull in more general solutions. Updated 2nd January 2025 Various open-source databases got closer to topperformancein clickbench. See our blog post for thedatatrends and events ...
-- Page word count estimate: 216
-- Relevance score: 17.33
-- Key excerpt lines:
-  - Every Time-Series Database Benchmark Ever. 2025
-  - Pulse Platform
-  - QStudio
-  - Data
-  - kdb+
-  - Blog
-  - Contact
-  - Home
-  - Pulse Platform
-  - QStudio
-  - Data
-  - kdb+ Tutorials
-- Extended extract lines:
-  - Every Time-Series Database Benchmark Ever. 2025 Pulse Platform QStudio Data kdb+ Blog Contact Home Pulse Platform QStudio Data kdb+ Tutorials Blog Every Time-Series Database Benchmark Ever. 2025 Home Data Updated 2nd January 2025 This page will gather ongoing time-series database benchmarks into one location. Top Benchmarks - Those that are open, comprehensive and thorough Benchmarks by Date - Sorted Chronologically The top benchmarks section will focus on time-series databases that are fast, provide time-series joins, time window aggregations and data compression, rather than pull in more general solutions. Updated 2nd January 2025 Various open-source databases got closer to top performance in clickbench. See our blog post for the data trends and events of 2024 . It's not a benchmark, but we tested to see if DuckDB can run every query that kdb+ did in a recent KX article. Updated 10th September 2024 For me, there are three interesting happenings lately: DuckDB/QuestDB are both now very competitive. (DuckDB in th last year moved 2.7->2.1 in clickbench. QuestDB 24.2->2.7. Lower = better) ClickBench now includes many parquet/partitioned based timings showing the rise in popularity The inclusion and rising popularity of embedded databases: chdb and duckdb Clickbench Clickbench is a large suite of benchmarks produced by clickhouse themselves. The focus is not time-series but a wide range of queries.
-
-#### Source 0070: The Fund - Reaves Utility Income Fund
-- Source ID: e3925edd83a6
-- Turn: 2
-- Query: "Quantum error correction applications and constraints" benchmark data
-- Provider: ddgs
-- Search rank: 3
-- Domain: utilityincomefund.com
-- URL: https://utilityincomefund.com/the_fund
-- Search snippet: 2 days ago ·The Fund Information about the Reaves Utility Income Fund. Investment Objective Fund investment objective content…PerformanceFundperformancedata… Holdings Current fund holdings… Distributions Distribution information…Mar 24, 2026 ·Download Corporate Credit Union Call ReportDataDownload Corporate Call Reportdatainto comma separated value (.csv) files. CUOnlineDataWeb Service The CUOnlinedataweb service is generally for bulkdataand is typically used by large industrydataaggregators.
-- Page word count estimate: 112
-- Relevance score: 17.00
-- Key excerpt lines:
-  - The Fund - Reaves Utility Income Fund
-  - The Fund | Reaves Utility Income Fund Performance & Holdings
-  - Skip to content
-  - Thank you for your interest in the
-  - Reaves Utility Income Fund. Please complete the following to receive timely information about
-  - the Fund.
-  - X
-  - The Fund
-  - Open menu
-  - Investment Objective
-  - Performance
-  - Holdings
-- Extended extract lines:
-  - The Fund - Reaves Utility Income Fund The Fund | Reaves Utility Income Fund Performance & Holdings Skip to content Thank you for your interest in the Reaves Utility Income Fund. Please complete the following to receive timely information about the Fund. X The Fund Open menu Investment Objective Performance Holdings Distributions The Adviser Open menu Investment Philosophy Investment Process Our Team Resources Open menu Quarterly Fact Sheet Distribution News Annual Tax Information Annual & Semi-Annual Reports SEC Filings / Section 19(a) Notices Legal Documents Intro To Closed-End Funds Contact Us Open menu Contact The Adviser Contact The Administrator + The Fund Investment Objective Performance Holdings Distributions + The Adviser Investment Philosophy
-
-#### Source 0071: [0904.2557] An Introduction to Quantum Error Correction and Fault-Tolerant Quantum Computation
+#### Source 0074: [0904.2557] An Introduction to Quantum Error Correction and Fault-Tolerant Quantum Computation
 - Source ID: d2f54ced1d92
 - Turn: 2
 - Query: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview?
 - Provider: ddgs
-- Search rank: 9
+- Search rank: 8
 - Domain: arxiv.org
 - URL: https://arxiv.org/abs/0904.2557
 - Search snippet: April 16, 2009 -To build a quantum computer which behaves correctly in the presence of errors, we also need a theory of fault-tolerant quantum computation, instructing us how to perform quantum gates on qubits which are encoded in a quantum error-correcting code.
 - Page word count estimate: 87
-- Relevance score: 17.00
+- Relevance score: 17.33
 - Key excerpt lines:
   - [0904.2557] An Introduction to Quantum Error Correction and Fault-Tolerant Quantum Computation
   - Skip to main content
@@ -2054,7 +2135,7 @@ recent evidence, performance, and industrial reality
 - Extended extract lines:
   - [0904.2557] An Introduction to Quantum Error Correction and Fault-Tolerant Quantum Computation Skip to main content Learn about arXiv becoming an independent nonprofit. We gratefully acknowledge support from the Simons Foundation, member institutions , and all contributors. Donate > quant-ph > arXiv:0904.2557 Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About Quantum Physics arXiv:0904.2557 (quant-ph)
 
-#### Source 0072: Installing on Debian and Ubuntu | RabbitMQ
+#### Source 0075: Installing on Debian and Ubuntu | RabbitMQ
 - Source ID: ae1be1783318
 - Turn: 2
 - Query: "Quantum error correction applications and constraints" official documentation
@@ -2081,152 +2162,98 @@ recent evidence, performance, and industrial reality
 - Extended extract lines:
   - Installing on Debian and Ubuntu | RabbitMQ Skip to main content RabbitMQ is developed by VMware Tanzu . Get 24/7 enterprise support backed by the core engineering team. Getting Started Docs Blog Support Commercial Features 4.2 Release series Next 4.2 4.1 4.0 3.13 GitHub Search Introduction Release Information Getting Started Install and Upgrade Erlang Version Requirements Package Signatures Supported Operating Systems Linux/Unix Debian and Ubuntu RedHat Generic Unix Windows MacOS Kubernetes Operator Kubernetes (Do It Yourself) Upgrade Snapshots How to Use RabbitMQ How to Manage RabbitMQ How to Monitor RabbitMQ Install and Upgrade
 
-#### Source 0073: 2.3. Installing Wireshark under Windows
-- Source ID: 2da3286c06df
+#### Source 0076: Migrate to Claude Agent SDK - Claude Code Docs
+- Source ID: 1b64e9619d3d
 - Turn: 2
 - Query: "Quantum error correction applications and constraints" official documentation
 - Provider: ddgs
 - Search rank: 4
-- Domain: www.wireshark.org
-- URL: https://www.wireshark.org/docs/wsug_html_chunked/ChBuildInstallWinInstall.html
-- Search snippet: TheofficialWindows packages can be downloaded from the Wireshark main page or the download page. Installer names contain the version and platform. For example, Wireshark-4.7.0-x
-- Page word count estimate: 183
+- Domain: code.claude.com
+- URL: https://code.claude.com/docs/en/agent-sdk/migration-guide
+- Search snippet: DocumentationChanges: The Agent SDKdocumentationhas moved from the Claude Code docs to the API Guide under a dedicated Agent SDK section. The Claude Code docs now focus on the CLI tool and automation features.
+- Page word count estimate: 111
 - Relevance score: 16.67
 - Key excerpt lines:
-  - 2.3. Installing Wireshark under Windows
-  - 2.3. Installing Wireshark under Windows
-  - Prev
-  - Chapter 2. Building and Installing Wireshark
-  - Next
-  - 2.3. Installing Wireshark under Windows
-  - The official Windows packages can be downloaded from the Wireshark
-  - main page
-  - or the
-  - download page
-  - .
-  - Installer names contain the version and platform.
-- Extended extract lines:
-  - 2.3. Installing Wireshark under Windows 2.3. Installing Wireshark under Windows Prev Chapter 2. Building and Installing Wireshark Next 2.3. Installing Wireshark under Windows The official Windows packages can be downloaded from the Wireshark main page or the download page . Installer names contain the version and platform. For example, Wireshark-4.7.0-x64.exe installs Wireshark 4.7.0 for Windows on 64-bit Intel processors. The Wireshark installer includes Npcap which is required for packet capture. Windows packages automatically update. See Section 2.8, “Updating Wireshark” for details. Simply download the Wireshark installer from https://www.wireshark.org/download.html and execute it. Official packages are signed by Wireshark Foundation . You can choose to install several optional components and select the location of the installed package. The default settings are recommended for most users. 2.3.1. Installation Components On the Choose Components page of the installer you can select from the following: Wireshark - The network protocol analyzer that we all know and mostly love. TShark - A command-line network protocol analyzer. If you haven’t tried it you should. External Capture (extcap) - External Capture Interfaces Androiddump - Provide capture interfaces from Android devices. Etwdump
-
-#### Source 0074: arXiv.org e-Print archive
-- Source ID: bd7aa388347c
-- Turn: 2
-- Query: "Quantum error correction applications and constraints" academic review
-- Provider: ddgs
-- Search rank: 5
-- Domain: arxiv.org
-- URL: https://arxiv.org
-- Search snippet: arXiv is a free distribution serviceandan open-access archive for nearly 2.4 million scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineeringandsystems science,andeconomics. Materials on this site are not peer-reviewed by arXiv.
-- Page word count estimate: 123
-- Relevance score: 16.33
-- Key excerpt lines:
-  - arXiv.org e-Print archive
+  - Migrate to Claude Agent SDK - Claude Code Docs
   - Skip to main content
-  - Learn about arXiv becoming an independent nonprofit.
-  - We gratefully acknowledge support from the Simons Foundation,
-  - member institutions
-  - , and all contributors.
-  - Donate
-  - Status
-  - Login
-  - Help
-  - |
-  - Advanced Search
-- Extended extract lines:
-  - arXiv.org e-Print archive Skip to main content Learn about arXiv becoming an independent nonprofit. We gratefully acknowledge support from the Simons Foundation, member institutions , and all contributors. Donate Status Login Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About arXiv is a free distribution service and an open-access archive for nearly 2.4 million scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics. Materials on this site are not peer-reviewed by arXiv. Subject search and browse: Physics
-
-#### Source 0075: Get started with Claude Managed Agents - Claude API Docs
-- Source ID: 4e41d2f9e5c7
-- Turn: 2
-- Query: "Quantum error correction applications and constraints" official documentation
-- Provider: ddgs
-- Search rank: 6
-- Domain: platform.claude.com
-- URL: https://platform.claude.com/docs/en/managed-agents/quickstart
-- Search snippet: Install the SDK Set your API key as an environment variable:
-- Page word count estimate: 89
-- Relevance score: 16.00
-- Key excerpt lines:
-  - Get started with Claude Managed Agents - Claude API Docs
-  - Loading...
-  - Messages
-  - Build
-  - Admin
-  - Models & pricing
-  - Client SDKs
-  - API Reference
+  - Claude Code Docs
+  - home page
   - English
-  - Log in
   - Search...
-  - ⌘K
+  - ⌘
+  - K
+  - Ask AI
+  - Claude Developer Platform
+  - Claude Code on the Web
+  - Claude Code on the Web
 - Extended extract lines:
-  - Get started with Claude Managed Agents - Claude API Docs Loading... Messages Build Admin Models & pricing Client SDKs API Reference English Log in Search... ⌘K First steps Intro to Claude Quickstart Building with Claude Features overview Using the Messages API Handling stop reasons Model capabilities Extended thinking Adaptive thinking Effort Fast mode (beta: research preview) Structured outputs Citations Streaming Messages Batch processing Search results Streaming refusals Multilingual support Embeddings Tools Overview How tool use works Web search tool Web fetch tool Code execution tool Advisor tool Memory tool
+  - Migrate to Claude Agent SDK - Claude Code Docs Skip to main content Claude Code Docs home page English Search... ⌘ K Ask AI Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation SDK references Migrate to Claude Agent SDK Getting started Build with Claude Code Deployment Administration Configuration Reference Agent SDK What's New Resources Agent SDK Overview Quickstart Core concepts How the agent loop works Use Claude Code features Work with sessions Input and output Streaming Input Handle approvals and user input Stream responses in real-time Get structured output from agents Extend with tools Give Claude custom tools Connect to external tools with MCP
 
-#### Source 0076: FIA Statement – Amendments to 2026 F1 Regulations | Federation Internationale de l'Automobile
-- Source ID: 260cefb79364
+#### Source 0077: Building Standards and Codes | Department of State
+- Source ID: 689a5daffb8d
 - Turn: 2
 - Query: "Quantum error correction applications and constraints" safety regulation
 - Provider: ddgs
 - Search rank: 5
-- Domain: www.fia.com
-- URL: https://www.fia.com/news/fia-statement-amendments-2026-f1-regulations
-- Search snippet: Feb 28, 2026 ·Amendments to the 2026 FIA Formula 1Regulationshave been approved unanimously by e-vote by the World Motor Sport Council. Some aspects of the amendments were concurrently approved unanimously by the Formula One Power Unit Manufacturers.
-- Page word count estimate: 110
-- Relevance score: 15.33
+- Domain: dos.ny.gov
+- URL: https://dos.ny.gov/building-standards-and-codes
+- Search snippet: The Division of Building Standards and Codes ensures the health,safety& resilience of the built environment for all New Yorkers.
+- Page word count estimate: 104
+- Relevance score: 16.33
 - Key excerpt lines:
-  - FIA Statement – Amendments to 2026 F1 Regulations | Federation Internationale de l'Automobile
+  - Building Standards and Codes | Department of State
   - Skip to main content
-  - #3500Lives
-  - Data
-  - Smart Cities
-  - High Level Panel
-  - Media
-  - FIA Networks
-  - Facebook
-  - Twitter
-  - Instagram
-  - YouTube
+  - Navigation Menu Toggle
+  - Department of State
+  - Licensing
+  - Licensing
+  - File Licensing Complaint
+  - Administrative Hearings
+  - Athletic Commission
+  - Corporations
+  - Form a Corporation or Business
+  - Existing Corporations & Businesses
 - Extended extract lines:
-  - FIA Statement – Amendments to 2026 F1 Regulations | Federation Internationale de l'Automobile Skip to main content #3500Lives Data Smart Cities High Level Panel Media FIA Networks Facebook Twitter Instagram YouTube TikTok Back FIA Back About FIA Back Organisation Administration FIA Partners and suppliers Invitation to Tender Data Privacy Notice Contact Us FIA Activity Report Back FIA Activity Report 2023 Rapport d'Activité FIA 2023 FIA Financial Report 2022 FIA Activity Report 2021 FIA Activity Report 2020 RAPPORT D'ACTIVITÉ DE LA FIA 2020 INFORME DE ACTIVIDADES DE LA FIA 2020 All FIA Activity Reports Sustainability report FIA Ethics and Compliance Hotline FIA ANTI-HARASSMENT AND NON-DISCRIMINATION POLICY FIA Environmental Policy E-LIBRARY Statutes
+  - Building Standards and Codes | Department of State Skip to main content Navigation Menu Toggle Department of State Licensing Licensing File Licensing Complaint Administrative Hearings Athletic Commission Corporations Form a Corporation or Business Existing Corporations & Businesses Corporation & Business Entity Records State Records Uniform Commercial Code Local Government Building Standards and Codes Services and Support Training & Assistance County Services Publications Local Laws Funding & Bid Opportunities Cemeteries Community Infrastructure Funding & Bid Opportunities Coastal Management Local Waterfront Revitalization Downtown Revitalization NY Forward Brownfield Redevelopment Resilience Planning Smart Growth Library New Americans Consumers Consumer Protection File a Consumer Complaint Address Confidentiality About Us
 
-#### Source 0077: CBD & Botanical Gummies - Charlotte's Web™ CBD & Botanicals – Charlotte’s Web CBD & Botanicals
-- Source ID: 43343bfcf95d
+#### Source 0078: Florida Fire Prevention Code (FFPC) | Florida's State Fire Marshal
+- Source ID: 6080e1893b03
 - Turn: 2
-- Query: "Quantum error correction applications and constraints" limitations criticism
+- Query: "Quantum error correction applications and constraints" safety regulation
 - Provider: ddgs
 - Search rank: 6
-- Domain: www.charlottesweb.com
-- URL: https://www.charlottesweb.com/collections/gummies
-- Search snippet: Delicious by design—crafted with our signature CBDandfunctional boosts to help you sleep, recover, focus, or simply find your calm.
-- Page word count estimate: 110
-- Relevance score: 15.00
+- Domain: myfloridacfo.com
+- URL: https://myfloridacfo.com/division/sfm/bfp/florida-fire-prevention-code
+- Search snippet: Dec 31, 2023 ·A couple of key notes about viewing the FFPC: Log into your NFPA LiNK Subscription – go to the “View All Publications” button and search “Florida” – Two titles will be shown – “ NFPA 1-FL Fire Code with Florida Amendments, 8th Edition, 2023 ” and “ NFPA 101-FL LifeSafetyCode with Florida Amendments, 8th Edition, 2023 ”.
+- Page word count estimate: 262
+- Relevance score: 16.00
 - Key excerpt lines:
-  - CBD & Botanical Gummies - Charlotte's Web™ CBD & Botanicals
-  - – Charlotte’s Web CBD & Botanicals
-  - Skip to content
-  - Skip to Accessibility Statement
-  - This site has limited support for your browser. We recommend switching to Edge, Chrome, Safari, or Firefox.
-  - Our Warehouse is Closed April 10th-12th
-  - Orders Will Begin Processing Monday, April 13th
-  - Close
-  - Benefits
-  - See More
-  - Sleep
-  - Calm & Stress
+  - Florida Fire Prevention Code (FFPC) | Florida's State Fire Marshal
+  - Skip To Main Content
+  - Meet Your Chief Financial Officer
+  - Blaise Ingoglia
+  - State Fire Marshal
+  - About
+  - Divisions & Offices
+  - Divisions
+  - Accounting & Auditing
+  - Administration
+  - Consumer Services
+  - Criminal Investigations
 - Extended extract lines:
-  - CBD & Botanical Gummies - Charlotte's Web™ CBD & Botanicals – Charlotte’s Web CBD & Botanicals Skip to content Skip to Accessibility Statement This site has limited support for your browser. We recommend switching to Edge, Chrome, Safari, or Firefox. Our Warehouse is Closed April 10th-12th Orders Will Begin Processing Monday, April 13th Close Benefits See More Sleep Calm & Stress Focus Recovery & Pain Energy Daily Wellness Products See More Gummies Oils Capsules Topicals CBD for Dogs Ingredients See More Full-Spectrum CBD THC-Free THC Delta 9 Non-CBD Functional Mushrooms Rewards Take the Quiz Learn See More About Us See More Our Partnerships Certified B-Corp Retail Store Locator Wholesale Opportunities
+  - Florida Fire Prevention Code (FFPC) | Florida's State Fire Marshal Skip To Main Content Meet Your Chief Financial Officer Blaise Ingoglia State Fire Marshal About Divisions & Offices Divisions Accounting & Auditing Administration Consumer Services Criminal Investigations Funeral, Cemetery, and Consumer Services Insurance Agent & Agency Services Rehab & Liquidation Risk Management State Fire Marshal Treasury Unclaimed Property Workers' Compensation Offices General Counsel Inspector General Insurance Consumer Advocate Financial Services Commission Office of Financial Regulation Office of Insurance Regulation Contact News Home Bureau of Fire Prevention Florida Fire Prevention Code (FFPC) Florida Fire Prevention Code (FFPC) The Florida Fire Prevention Code is adopted by the State Fire Marshal at three year intervals as required by Chapter 633.202, Florida Statutes. This complex set of fire code provisions are enforced by the local fire official within each county, municipality, and special fire district in the state. The county, municipality or special district in which you reside may also have local amendments applicable only to your community. If you have a specific question regarding the Florida Fire Prevention Code or how it affects a specific building, occupancy or place of residence, please contact your local fire official. You may access an online "Read Only" version of the Florida Fire Prevention Code by clicking on the link below: 8th Edition of the Florida Fire Prevention Code 8th Edition (2023) FFPC Online & Purchasing (Effective date: December 31, 2023) *Free NFPA registration required to access FFPC. Free Access to NFPA 855: Installation of Stationary Energy Storage Systems Florida Fire Prevention Code 8th Edition NFPA 101 (Florida Specific)
 
-#### Source 0078: Learning high-accuracy error decoding for quantum processors | Nature
+#### Source 0079: Learning high-accuracy error decoding for quantum processors | Nature
 - Source ID: 5961b3e24ab3
 - Turn: 2
 - Query: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview?
 - Provider: ddgs
-- Search rank: 13
+- Search rank: 12
 - Domain: www.nature.com
 - URL: https://www.nature.com/articles/s41586-024-08148-8
 - Search snippet: November 20, 2024 -A further challenge for error-correcting real-world quantum devices is the difficulty in modelling errors accurately4,14,30,31. In principle, a decoder that adapts to more realistic noise sources and that learns directly from data (without the need to fit precise noise models) can help to realize a fault-tolerant quantum computer using realistic noisy hardware.
 - Page word count estimate: 132
-- Relevance score: 14.67
+- Relevance score: 15.00
 - Key excerpt lines:
   - Learning high-accuracy error decoding for quantum processors | Nature
   - Skip to main content
@@ -2261,12 +2288,12 @@ limitations, risks, and unresolved debates
 - "Quantum error correction applications and constraints" benchmark data
 
 ### Turn Findings
-- GitHub - lishix520/academic-paper-skills: Systematic framework for planning and writing academic papers using Claude Code. Includes strategist (planning) and composer (writing)...: GitHub - lishix520/academic-paper-skills: Systematic framework for planning and writing academic papers using Claude Code. Includes strategist (planning) and composer (writing)...
-- Google AI Agents for Academic Figures and Peer Review | AIToolly: Google AI Agents for Academic Figures and Peer Review | AIToolly
+- Statista - The Statistics Portal for Market Data, Market Research and Market Studies: Statista - The Statistics Portal for Market Data, Market Research and Market Studies
 - Databases A-Z: Databases A-Z
+- How do I know if my sources are credible/reliable? - FAQ - Library Guides at University of Washington Libraries: How do I know if my sources are credible/reliable? - FAQ - Library Guides at University of Washington Libraries
 - WMR FX Benchmarks | LSEG: WMR FX Benchmarks | LSEG
-- Visualping Launches New Timeline View, Giving Users Their Complete Monitoring History in One Place - USA Today: Visualping Launches New Timeline View, Giving Users Their Complete Monitoring History in One Place - USA Today
-- A-Z Databases: A-Z Databases
+- India and Pakistan: A Timeline of Tensions: India and Pakistan: A Timeline of Tensions
+- A timeline of conflict between Israel and Iran | AP News: A timeline of conflict between Israel and Iran | AP News
 
 ### Contradictions
 - Different sources emphasize different baselines, metrics, or time horizons. These require explicit comparison in the article.
@@ -2277,59 +2304,32 @@ limitations, risks, and unresolved debates
 - Which criticism appears consistently versus only in opinion pieces?
 
 ### Source Catalog
-#### Source 0079: GitHub - lishix520/academic-paper-skills: Systematic framework for planning and writing academic papers using Claude Code. Includes strategist (planning) and composer (writing)...
-- Source ID: 92155c89c08a
+#### Source 0080: Statista - The Statistics Portal for Market Data, Market Research and Market Studies
+- Source ID: 2684d2b20956
 - Turn: 3
-- Query: "Quantum error correction applications and constraints" academic review
+- Query: "Quantum error correction applications and constraints" market analysis
 - Provider: ddgs
-- Search rank: 4
-- Domain: github.com
-- URL: https://github.com/lishix520/academic-paper-skills
-- Search snippet: Jan 4, 2026 ·AcademicPaper Skills for Claude Code A systematic framework for planning and writing philosophy and interdisciplinaryacademicpapers using Claude Code. These skills transform your research ideas into submission-ready manuscripts through structured workflows with quality checkpoints.
-- Page word count estimate: 121
-- Relevance score: 18.67
+- Search rank: 1
+- Domain: www.statista.com
+- URL: https://www.statista.com
+- Search snippet: Mar 9, 2026 ·Go to news archiveMarketInsights Discover data on yourmarketGain access to valuable and comparablemarketdata for over 190+ countries, territories, and regions with ourMarketInsights.
+- Page word count estimate: 124
+- Relevance score: 19.67
 - Key excerpt lines:
-  - GitHub - lishix520/academic-paper-skills: Systematic framework for planning and writing academic papers using Claude Code. Includes strategist (planning) and composer (writing) skills with quality checkpoints. · GitHub
-  - Skip to content
-  - Navigation Menu
-  - Toggle navigation
-  - Sign in
-  - Appearance settings
-  - Platform
-  - AI CODE CREATION
-  - GitHub Copilot
-  - Write better code with AI
-  - GitHub Spark
-  - Build and deploy intelligent apps
+  - Statista - The Statistics Portal for Market Data, Market Research and Market Studies
+  - Skip to main content
+  - Statistics
+  - All Industries
+  - All Industries
+  - Technology & Telecommunications
+  - Technology & Telecommunications
+  - E-Commerce
+  - E-Commerce
+  - Internet
+  - Internet
+  - Economy & Politics
 - Extended extract lines:
-  - GitHub - lishix520/academic-paper-skills: Systematic framework for planning and writing academic papers using Claude Code. Includes strategist (planning) and composer (writing) skills with quality checkpoints. · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities Code security Secure your code as you build Secret protection Stop leaks before they start EXPLORE Why GitHub Documentation Blog Changelog Marketplace View all features
-
-#### Source 0080: Google AI Agents for Academic Figures and Peer Review | AIToolly
-- Source ID: 9fbec5926be8
-- Turn: 3
-- Query: "Quantum error correction applications and constraints" academic review
-- Provider: ddgs
-- Search rank: 5
-- Domain: aitoolly.com
-- URL: https://aitoolly.com/ai-news/article/2026-04-09-google-research-introduces-ai-agents-designed-to-enhance-academic-figures-and-peer-review-workflows
-- Search snippet: 3 days ago ·Google Research introduces two AI agents to improveacademicfigures and peerreview. Learn how generative AI is transforming the scientific workflow.
-- Page word count estimate: 89
-- Relevance score: 18.33
-- Key excerpt lines:
-  - Google AI Agents for Academic Figures and Peer Review | AIToolly
-  - Sponsored by
-  - Atoms AI
-  - Agent team that turns your ideas into business.
-  - Learn More
-  - AIToolly
-  - AI Tools
-  - n8n Workflows
-  - AI News
-  - Domain Search
-  - Pricing
-  - Submit
-- Extended extract lines:
-  - Google AI Agents for Academic Figures and Peer Review | AIToolly Sponsored by Atoms AI Agent team that turns your ideas into business. Learn More AIToolly AI Tools n8n Workflows AI News Domain Search Pricing Submit FAQ @AIToolly Login EN 打开主菜单 AIToolly 关闭菜单 AI Tools n8n Workflows AI News Domain Search Pricing Submit FAQ @AIToolly Login Home / AI News / April 9 / Google Research Introduces AI Agents Designed to Enhance Academic Figures and Peer Review Workflows Back to List Product Launch Google Research Generative AI Academic Technology
+  - Statista - The Statistics Portal for Market Data, Market Research and Market Studies Skip to main content Statistics All Industries All Industries Technology & Telecommunications Technology & Telecommunications E-Commerce E-Commerce Internet Internet Economy & Politics Economy & Politics Consumer Goods & FMCG Consumer Goods & FMCG Transportation & Logistics Transportation & Logistics Society Society Media Media Finance & Insurance Finance & Insurance Health, Pharma & Medtech Health, Pharma & Medtech All Industries Most viewed Statistics Recent Statistics Popular Statistics Global AI market size 2020-2031 Social media users worldwide 2017-2030 Global retail e-commerce sales 2014-2027 Digital population worldwide 2025 Data generation volume worldwide 2010-2029 All Industries Topics More Topics Electric vehicles worldwide - statistics & facts Video gaming worldwide - Statistics & Facts Top Report
 
 #### Source 0081: Databases A-Z
 - Source ID: 18a52ea9e128
@@ -2358,17 +2358,44 @@ limitations, risks, and unresolved debates
 - Extended extract lines:
   - Databases A-Z Skip to Main Content UWM Libraries UWM Libraries Research and Course Guides Databases A-Z Databases A-Z Toggle search filters navigation African & African Diaspora Studies American Indian Studies Anthropology & Archaeology Architecture & Urban Planning Art & Art History Biological Sciences Business Chemistry Communication Computer Science Criminal Justice Dance Economics Education Engineering Film & Television Freshwater Sciences Geography & GIS Geosciences Global Studies Government Sources Governmental Studies Health Sciences History, U.S. History, World Information Studies Journalism & Media Studies Law & Legal Research Linguistics & Language Literature Mathematical Sciences Music Music Education
 
-#### Source 0082: WMR FX Benchmarks | LSEG
+#### Source 0082: How do I know if my sources are credible/reliable? - FAQ - Library Guides at University of Washington Libraries
+- Source ID: 7db2293b41b3
+- Turn: 3
+- Query: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview?
+- Provider: ddgs
+- Search rank: 2
+- Domain: guides.lib.uw.edu
+- URL: https://guides.lib.uw.edu/research/faq/reliable
+- Search snippet: Mar 18, 2026 ·Doremember that credibility is contextual! It is important to critically evaluatesourcesbecause using credible/reliablesourcesmakes you a more informed writer. Think about unreliablesourcesas pollutants to your credibility, if you include unreliablesourcesin your work, your work could lose credibility as a result.
+- Page word count estimate: 321
+- Relevance score: 17.33
+- Key excerpt lines:
+  - How do I know if my sources are credible/reliable? - FAQ - Library Guides at University of Washington Libraries
+  - Skip to Main Content
+  - Make a Gift
+  - Your Library Account
+  - Account
+  - Ask Us!
+  - Research Guides
+  - Frequently Asked Questions
+  - What is UW Libraries Search and how do I use it to find resources?
+  - Does the library have my textbook?
+  - Who can access databases, e-journals, e-books etc. and from where?
+  - How do I find full-text scholarly articles in my subject?
+- Extended extract lines:
+  - How do I know if my sources are credible/reliable? - FAQ - Library Guides at University of Washington Libraries Skip to Main Content Make a Gift Your Library Account Account Ask Us! Research Guides Frequently Asked Questions What is UW Libraries Search and how do I use it to find resources? Does the library have my textbook? Who can access databases, e-journals, e-books etc. and from where? How do I find full-text scholarly articles in my subject? How do I find e-books? How do I cite a source using a specific style? How do I find an article by citation? How do I renew books and other loans? Do I have access to this journal? How do I request a book/article we don't have? How do I request materials using Interlibrary Loan? What does the “Request Article” button mean? How do I connect Google Scholar with UW Libraries? How do I pay fines? How do I access resources from off-campus? How do I know if my sources are credible/reliable? How do I know if my articles are scholarly (peer-reviewed)? What is Summit? Libraries Home Research Guides University of Washington Libraries Library Guides UW Libraries FAQ How do I know if my sources are credible/reliable? FAQ: How do I know if my sources are credible/reliable? Short, simple how-to and demos of frequently asked questions about using the Libraries and information resources Overview UW Libraries has a whole guide, Savvy Info Consumers: Evaluating Information , which discusses different types of sources and how to approach evaluating their credibility/reliability. What it means for a source to be credible/reliable can vary depending on the context of its use. Generally, a credible or reliable source is one that experts in your subject domain would agree is valid for your purposes. This can vary, so it is best to use one of the source evaluation methods that best fits your needs. Do remember that credibility is contextual!
+
+#### Source 0083: WMR FX Benchmarks | LSEG
 - Source ID: 05a797941a8c
 - Turn: 3
 - Query: "Quantum error correction applications and constraints" benchmark data
 - Provider: ddgs
-- Search rank: 1
+- Search rank: 2
 - Domain: www.lseg.com
 - URL: https://www.lseg.com/en/ftse-russell/benchmarks/wmr-fx-benchmarks
 - Search snippet: More updates and consultations Overview Why WMR FXBenchmarks? For more than 30 years, WMR FXBenchmarkshave served as fully independent, objective, and unbiased sources for FXdata. We pledge to ensure that thebenchmarksremain trusted and fundamental components of market infrastructure – and are continually enhanced as market needs change.
 - Page word count estimate: 108
-- Relevance score: 17.67
+- Relevance score: 17.33
 - Key excerpt lines:
   - WMR FX Benchmarks | LSEG
   - Skip navigation
@@ -2385,140 +2412,113 @@ limitations, risks, and unresolved debates
 - Extended extract lines:
   - WMR FX Benchmarks | LSEG Skip navigation LSEG Data & Analytics FTSE Russell London Stock Exchange FX Post Trade Risk Intelligence Our businesses LSEG LSEG Data & Analytics FTSE Russell London Stock Exchange FX Post Trade Risk Intelligence FTSE Russell Benchmarks Rates WMR FX Benchmarks WMR FX Benchmarks The most timely, transparent, and reliable forward and spot rates covering 150+ currencies. Request details Updates Updates Overview Key Resources Features and Benefits Research and Insights Request details What are WMR FX benchmarks Download brochure download Updates Discontinuation: WMR Forward Rates – Cessation of Ghana Cedi 125.8KB • PDF Launch: WMR FX Launches JPY cross rates at 10am Tokyo time
 
-#### Source 0083: Visualping Launches New Timeline View, Giving Users Their Complete Monitoring History in One Place - USA Today
-- Source ID: 8f3951d5d715
+#### Source 0084: India and Pakistan: A Timeline of Tensions
+- Source ID: 5c788debccd5
 - Turn: 3
 - Query: "Quantum error correction applications and constraints" timeline history
 - Provider: ddgs
-- Search rank: 1
-- Domain: www.usatoday.com
-- URL: https://www.usatoday.com/press-release/story/30340/visualping-launches-new-timeline-view-giving-users-their-complete-monitoring-history-in-one-place
-- Search snippet: 1 day ago ·Visualping, the world’s leading website change detection platform has launched a new changetimelinethat gives users a complete, scrollablehistoryof every detected change for any monitored ...
-- Page word count estimate: 490
-- Relevance score: 17.67
+- Search rank: 5
+- Domain: time.com
+- URL: https://time.com/7283794/india-pakistan-kashmir-tensions-timeline-history-conflict
+- Search snippet: May 8, 2025 ·The escalation comes after a terrorist attack in Kashmir left 25 Indian touristsandone Nepalese national dead on April 22. India has claimed that Pakistan supportedandaided the attack, which ...
+- Page word count estimate: 284
+- Relevance score: 17.33
 - Key excerpt lines:
-  - Visualping Launches New Timeline View, Giving Users Their Complete Monitoring History in One Place - USA Today
-  - This page contains press release content distributed by XPR Media. Members of the editorial and news staff of the USA TODAY Network were not involved in the creation of this content.
-  - Visualping Launches New Timeline View, Giving Users Their Complete Monitoring History in One Place
-  - Visualping
-  - Visualping, the world’s leading website change detection platform has launched a new change timeline that gives users a complete, scrollable history of every detected change for any monitored job, from the very first...
-  - VANCOUVER, B.C. – April 10, 2026 –
-  - Visualping, the world’s leading website change detection platform has launched a new change timeline that gives users a complete, scrollable history of every detected change for any monitored job, from the very first...
-  - Before the update, users could only view the last six changes for any given job. The new timeline removes that limit entirely, surfacing the full history of a monitor alongside AI-written summaries of each change, sid...
-  - Checks where no change was detected are automatically grouped together, reducing visual clutter and making it faster to spot the changes that actually matter.
-  - “For teams doing serious competitive or regulatory monitoring, the timeline changes how you work,” said Serge Salager, CEO of Visualping. “Before this, you were limited to the last six changes. Now you can scroll back...
-  - “Combined with the automatic grouping of irrelevant checks, most users can get the full picture of the changes in seconds instead of sifting through dozens of entries.”
-  - The redesign reflects how Visualping’s most active users work: tracking fast-moving targets like competitor homepages, regulatory pages, and pricing tables where understanding the arc of change over time is as importa...
+  - India and Pakistan: A Timeline of Tensions
+  - Skip to Content
+  - Menu
+  - Close
+  - Subscribe
+  - World
+  - India
+  - India and Pakistan: A Timeline of Tensions Over Kashmir
+  - ADD TIME ON GOOGLE
+  - Show me more content from TIME on Google Search
+  - by
+  - Callum Sutherland
 - Extended extract lines:
-  - Visualping Launches New Timeline View, Giving Users Their Complete Monitoring History in One Place - USA Today This page contains press release content distributed by XPR Media. Members of the editorial and news staff of the USA TODAY Network were not involved in the creation of this content. Visualping Launches New Timeline View, Giving Users Their Complete Monitoring History in One Place Visualping Visualping, the world’s leading website change detection platform has launched a new change timeline that gives users a complete, scrollable history of every detected change for any monitored job, from the very first check to the most recent. VANCOUVER, B.C. – April 10, 2026 – Visualping, the world’s leading website change detection platform has launched a new change timeline that gives users a complete, scrollable history of every detected change for any monitored job, from the very first check to the most recent. Before the update, users could only view the last six changes for any given job. The new timeline removes that limit entirely, surfacing the full history of a monitor alongside AI-written summaries of each change, side-by-side screenshots, and alert status, all in a single consolidated view. Checks where no change was detected are automatically grouped together, reducing visual clutter and making it faster to spot the changes that actually matter. “For teams doing serious competitive or regulatory monitoring, the timeline changes how you work,” said Serge Salager, CEO of Visualping. “Before this, you were limited to the last six changes. Now you can scroll back to the moment you started monitoring a page, months or years ago, and see exactly how it’s changed over time.” “Combined with the automatic grouping of irrelevant checks, most users can get the full picture of the changes in seconds instead of sifting through dozens of entries.” The redesign reflects how Visualping’s most active users work: tracking fast-moving targets like competitor homepages, regulatory pages, and pricing tables where understanding the arc of change over time is as important as the latest alert. The timeline makes it possible to see, at a glance, how a page has evolved since monitoring began. Users who prefer the previous layout can switch back at any time using a toggle in the dashboard. The updated timeline is available now to all Visualping users. Visualping serves more than two million users, including teams at 85% of Fortune 500 companies. To explore the new timeline, visit visualping.io or sign up free at visualping.io/sign-up. Media Contact Company Name: Visualping Contact Person: Kayla Zhu Email: Send Email Country: Canada Website: https://www.visualping.io/ Press Release Distributed by ABNewswire.com To view the original version on ABNewswire visit: Visualping Launches New Timeline View, Giving Users Their Complete Monitoring History in One Place Information contained on this page is provided by an independent third-party content provider. XPRMedia and this Site make no warranties or representations in connection therewith. If you are affiliated with this page and would like it removed please contact pressreleases@xpr.media
+  - India and Pakistan: A Timeline of Tensions Skip to Content Menu Close Subscribe World India India and Pakistan: A Timeline of Tensions Over Kashmir ADD TIME ON GOOGLE Show me more content from TIME on Google Search by Callum Sutherland Reporter May 8, 2025 8:30 AM CUT Paramilitary soldiers cordon off an area in Wuyan, Indian-administered Kashmir, on May 7, 2025. Paramilitary soldiers cordon off an area in Wuyan, Indian-administered Kashmir, on May 7, 2025. Faisal Bashir—SOPA Images/LightRocket/Getty Images by Callum Sutherland Reporter May 8, 2025 8:30 AM CUT In the most significant escalation in years, India and Pakistan have exchanged gunfire and airstrikes . On May 7, India launched a series of missile attacks into Pakistani territory, and Pakistan shot down Indian jets in retaliation. The escalation comes after a terrorist attack in Kashmir left 25 Indian tourists and one Nepalese national dead on April 22. India has claimed that Pakistan supported and aided the attack, which Pakistan has denied. The latest escalation, which has killed over 40 people across both sides, is ongoing, and world leaders, including U.N. Secretary-General António Guterres as well as President Donald Trump and officials in China and Russia , have urged de-escalation. The region of Jammu and Kashmir is at the heart of the conflict, and control over it has been disputed between the two neighbours since independence from the British Empire in 1947. Here’s what to know about the history of tensions. 1947 - Partition and independence from the British Empire Clashes over Kashmir between India and Pakistan are as old as the countries themselves. When both countries gained independence from Britain in 1947, princely states were given the option to join either Pakistan or India.
 
-#### Source 0084: A-Z Databases
-- Source ID: 2cce338918a0
+#### Source 0085: A timeline of conflict between Israel and Iran | AP News
+- Source ID: 6004d625da71
+- Turn: 3
+- Query: "Quantum error correction applications and constraints" timeline history
+- Provider: ddgs
+- Search rank: 2
+- Domain: apnews.com
+- URL: https://apnews.com/article/israel-iran-timeline-tensions-conflict-66764c2843d62757d83e4a486946bcb8
+- Search snippet: Jun 13, 2025 ·Israel and Iran have opened a new chapter in their longhistoryof conflict. Israel launched a major attack with strikes early Friday that set off explosions in the Iranian capital of Tehran.
+- Page word count estimate: 180
+- Relevance score: 16.33
+- Key excerpt lines:
+  - A timeline of conflict between Israel and Iran | AP News
+  - Menu
+  - World
+  - SECTIONS
+  - Iran war
+  - Russia-Ukraine war
+  - Español
+  - China
+  - Asia Pacific
+  - Latin America
+  - Europe
+  - Africa
+- Extended extract lines:
+  - A timeline of conflict between Israel and Iran | AP News Menu World SECTIONS Iran war Russia-Ukraine war Español China Asia Pacific Latin America Europe Africa TOP STORIES Zelenskyy says Ukrainian forces shot down Shahed drones in Middle Eastern countries during Iran war Prince Harry sued for defamation by charity he set up in Africa to honor his mother Princess Diana Trinidad’s prime minister escalates feud with Caribbean neighbors over US policy in the region Newsletters The Morning Wire Our flagship newsletter breaks down the biggest headlines of the day. The Afternoon Wire Get caught up on what you may have missed throughout the day. See All Newsletters U.S. SECTIONS Immigration Weather Education Transportation Abortion LGBTQ+ Notable Deaths TOP STORIES In his first 100 days, Mamdani brings a unique star power to New York City governance Allies yank support for Swalwell's California governor run after sexual assault allegations Eric Adams, former 'international mayor' of NYC, becomes an honorary Albanian citizen Newsletters The Morning Wire Our flagship newsletter breaks down the biggest headlines of the day. See All Newsletters AP QUIZZES
+
+#### Source 0086: Full Circle Design | Honest Design Agency in Ireland & the UK
+- Source ID: b02b7e98a38d
 - Turn: 3
 - Query: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview?
 - Provider: ddgs
-- Search rank: 5
-- Domain: libguides.mit.edu
-- URL: https://libguides.mit.edu/az/databases
-- Search snippet: Anauthoritativeebook resource that features important works of scholarship in the history of art, architecture, decorative arts, photography, and design. Peer-reviewed born-digital content is also available.
-- Page word count estimate: 107
-- Relevance score: 17.33
-- Key excerpt lines:
-  - A-Z Databases
-  - Skip to Main Content
-  - Search
-  - Search menu
-  - Start here
-  - Search tools home
-  - Search Our Collections
-  - Books, articles, and more
-  - WorldCat
-  - Books & more worldwide
-  - Databases A-Z
-  - JSTOR, PubMed, Web of Science, etc.
-- Extended extract lines:
-  - A-Z Databases Skip to Main Content Search Search menu Start here Search tools home Search Our Collections Books, articles, and more WorldCat Books & more worldwide Databases A-Z JSTOR, PubMed, Web of Science, etc. Course reserves Also try Google Scholar for MIT Change settings to get better access DSpace@MIT MIT research Dome MIT-digitized images, maps, etc. Site search Hours & locations Hours & locations menu Locations Hours and locations home Barker Library Dewey Library Hayden Library Rotch Library Distinctive Collections Lewis Music Library Library Storage Annex Using the Libraries Map of locations Study spaces Persons with disabilities Scan & print Exhibits & galleries Visitors Library use policy
-
-#### Source 0085: Timeline Maker - Online Timeline Maker & Creator
-- Source ID: 40cacf31aa61
-- Turn: 3
-- Query: "Quantum error correction applications and constraints" timeline history
-- Provider: ddgs
-- Search rank: 5
-- Domain: www.smartdraw.com
-- URL: https://www.smartdraw.com/timeline/timeline-maker.htm
-- Search snippet: Makehistorytimelines, projecttimelines, andtimelinesfor PowerPoint presentations or infographics with SmartDraw'stimelinemaker. Works online, on a Mac, or on a PC.
-- Page word count estimate: 84
-- Relevance score: 16.33
-- Key excerpt lines:
-  - Timeline Maker - Online Timeline Maker & Creator
-  - Product
-  - Floor Planning
-  - Easier Than CAD
-  - Import & Scale
-  - Custom Shapes & Libraries
-  - Data Enabled
-  - Diagrams
-  - Checks Every Box
-  - Collaboration
-  - Integrations
-  - AI Diagrams
-- Extended extract lines:
-  - Timeline Maker - Online Timeline Maker & Creator Product Floor Planning Easier Than CAD Import & Scale Custom Shapes & Libraries Data Enabled Diagrams Checks Every Box Collaboration Integrations AI Diagrams Platform Microsoft Google Floor Planning Easier Than CAD Import & Scale Custom Shapes & Libraries Data Enabled Diagrams Checks Every Box Collaboration Integrations AI Diagrams Platform Microsoft Google Enterprise Enterprise License Enterprise License Control Your Data Security Why SmartDraw Resources IT Admin Guide Getting Started Customer Stories Lucidchart Users Guide Visio Users Guide
-
-#### Source 0086: Tyrrell Hatton majors timeline: History of finishes as English golfer contends at 2026 Masters | Sporting News
-- Source ID: d593a7970be5
-- Turn: 3
-- Query: "Quantum error correction applications and constraints" timeline history
-- Provider: ddgs
-- Search rank: 3
-- Domain: www.sportingnews.com
-- URL: https://www.sportingnews.com/us/golf/news/tyrrell-hatton-majors-timeline-history-finishes/1af6ad78aa42f4447125621f
-- Search snippet: 1 day ago ·Tyrrell Hatton is an English golfer who was formerly a member of the PGA Tourandthe Challenge Tour, but now competes on the European Tourandwith LIV Golf. Hatton was born in High Wycombe ...
-- Page word count estimate: 89
-- Relevance score: 16.00
-- Key excerpt lines:
-  - Tyrrell Hatton majors timeline: History of finishes as English golfer contends at 2026 Masters | Sporting News
-  - Skip to main content
-  - Masters Leaderboard
-  - SN 140
-  - The Archive
-  - Shop
-  - Tickets
-  - NFL
-  - NFL
-  - Home
-  - News
-  - Teams
-- Extended extract lines:
-  - Tyrrell Hatton majors timeline: History of finishes as English golfer contends at 2026 Masters | Sporting News Skip to main content Masters Leaderboard SN 140 The Archive Shop Tickets NFL NFL Home News Teams Scores Schedule Standings Stats Depth Chart Transactions Injuries NFL Teams AFC East Buffalo Bills Miami Dolphins New England Patriots New York Jets AFC North Baltimore Ravens Cincinnati Bengals Cleveland Browns Pittsburgh Steelers AFC South Houston Texans Indianapolis Colts Jacksonville Jaguars Tennessee Titans AFC West Denver Broncos Kansas City Chiefs Las Vegas Raiders Los Angeles Chargers
-
-#### Source 0087: Timeline: The Trump administration’s attacks on history since 2025
-- Source ID: 415ab3404a0d
-- Turn: 3
-- Query: "Quantum error correction applications and constraints" timeline history
-- Provider: ddgs
 - Search rank: 4
-- Domain: www.splcenter.org
-- URL: https://www.splcenter.org/resources/hatewatch/attacks-history-timeline-trump-administration
-- Search snippet: Feb 5, 2026 ·Reviewing thetimelineof Trump’s attacks on Americanhistoryand putting them in historical context can reveal this administration’s aims and help counter them.
-- Page word count estimate: 128
+- Domain: www.fcdagency.com
+- URL: https://www.fcdagency.com
+- Search snippet: Full Circle Design is the most honest design agency in Irelandandthe UK, creating luxury websites, branding,andmarketing that deliver real results.
+- Page word count estimate: 153
 - Relevance score: 15.67
 - Key excerpt lines:
-  - Timeline: The Trump administration’s attacks on history since 2025
-  - Close Alert
-  - SPLC and Al Otro Lado File Motion to Prevent ICE From Forcing Orleans Parish Sheriff’s Office to Provide Access to Clients and Records –
-  - Learn More
-  - Explore Our Sites
-  - SPLC
-  - Learning for Justice
-  - Civil Rights Memorial Center
-  - Press Center
-  - Donate
-  - Open submenu
-  - Support Us
+  - Full Circle Design | Honest Design Agency in Ireland & the UK
+  - top of page
+  - Contact
+  - 🏠︎
+  - Services
+  - Design
+  - Marketing
+  - Consulting
+  - Design
+  - Marketing
+  - Consulting
+  - Company
 - Extended extract lines:
-  - Timeline: The Trump administration’s attacks on history since 2025 Close Alert SPLC and Al Otro Lado File Motion to Prevent ICE From Forcing Orleans Parish Sheriff’s Office to Provide Access to Clients and Records – Learn More Explore Our Sites SPLC Learning for Justice Civil Rights Memorial Center Press Center Donate Open submenu Support Us Member Center Friends of the Center Seen us on TV? Toggle Mobile Navigation Racial Justice Issues Open submenu Strengthening Democracy & Voting Rights Dismantling White Supremacy Ending Unjust Imprisonment Eliminating Poverty and Economic Inequality Empowering Voters in the South Find Resources Open submenu Elevating Hope Hopewatch Civil Rights Memorial Center Apathy Is Not An Option Podcast Tracking Hate Extremist Files Hate Map Hatewatch Report Hate Techwatch Case Docket Policy Advocacy Resources Reports Stories
+  - Full Circle Design | Honest Design Agency in Ireland & the UK top of page Contact 🏠︎ Services Design Marketing Consulting Design Marketing Consulting Company Our Work About Us Contact Us Resources Locations Our Work About Us Contact Us Resources Locations Main Menu Take the Eligibility Quiz Close Hey, it's us, a seriously Honest Design Agency . We help serious businesses grow online with high-performing websites, smart SEO, and marketing that actually works. No nonsense. Just results. Take the Eligibility Quiz Loved by Local & International Businesses At Full Circle Design , we’re a straight-talking design agency working with the most ambitious businesses across Ireland & the UK. We've helped the best of the best! Create real solutions For real business & marketing problems We're a design agency who understands real business problems and how to create effective design and marketing solutions. Enter your main business problems below and let's solve them together.
+
+#### Source 0087: Biomedical Journal of Scientific & Technical Research (BJSTR) Publishers | Biomedres.us
+- Source ID: 8a2c9758b635
+- Turn: 3
+- Query: "Quantum error correction applications and constraints" academic review
+- Provider: ddgs
+- Search rank: 7
+- Domain: biomedres.us
+- URL: https://biomedres.us
+- Search snippet: Welcome to Biomedical Journal. Biomedical Journal of Scientific & Technical Research (BJSTR - www.biomedres.us) is a multidisciplinary, scholarly Open Access publisher focused on
+- Page word count estimate: 101
+- Relevance score: 15.67
+- Key excerpt lines:
+  - Biomedical Journal of Scientific & Technical Research (BJSTR) Publishers | Biomedres.us
+  - info@biomedres.us
+  - +1 (502) 904-2126
+  - One Westbrook Corporate Center, Suite 300, Westchester, IL 60154, USA
+  - Site Map
+  - Crossmark Policy
+  - FAQ's
+  - ISSN: 2574 -1241
+  - Impact Factor : 0.548
+  - ISI Impact Factor:
+  - 1.802
+  - OCoLC:
+- Extended extract lines:
+  - Biomedical Journal of Scientific & Technical Research (BJSTR) Publishers | Biomedres.us info@biomedres.us +1 (502) 904-2126 One Westbrook Corporate Center, Suite 300, Westchester, IL 60154, USA Site Map Crossmark Policy FAQ's ISSN: 2574 -1241 Impact Factor : 0.548 ISI Impact Factor: 1.802 OCoLC: 999826537 LCCN: 2017202541 × × International Conference on Medicine and Medical Science Timings: March 1 st - 2 nd , 2019 To Watch this Live Streaming click below link Watch Now Menu About Us Aim & Scope Publication Ethics Indexing and Archiving Open Access Policy Peer Review Process For Editors Editor Guidelines Associate Editor Guidelines Reviewer Guidelines Register as
 
 #### Source 0088: unsupervised_topic_modeling/topics/en/13/100/100/topics at master · annontopicmodel/unsupervised_topic_modeling · GitHub
 - Source ID: 2eea41b2442d
@@ -2547,115 +2547,34 @@ limitations, risks, and unresolved debates
 - Extended extract lines:
   - unsupervised_topic_modeling/topics/en/13/100/100/topics at master · annontopicmodel/unsupervised_topic_modeling · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities Code security Secure your code as you build Secret protection Stop leaks before they start EXPLORE Why GitHub Documentation Blog Changelog Marketplace View all features
 
-#### Source 0089: Home - TimeLine Theatre
-- Source ID: 0fe00a3f9cb2
+#### Source 0089: Pennsylvania Code & Bulletin
+- Source ID: ecebcc35ea2e
 - Turn: 3
-- Query: "Quantum error correction applications and constraints" timeline history
+- Query: "Quantum error correction applications and constraints" limitations criticism
 - Provider: ddgs
-- Search rank: 7
-- Domain: timelinetheatre.com
-- URL: https://timelinetheatre.com
-- Search snippet: Everyone'sHistoryServing and reflecting our community Read our statement aboutTimeLine’s commitment to the ongoing work toward equity and justice.
-- Page word count estimate: 99
-- Relevance score: 14.67
+- Search rank: 6
+- Domain: www.pacodeandbulletin.gov
+- URL: https://www.pacodeandbulletin.gov
+- Search snippet: We would like to show you a description here but the site won’t allow us.
+- Page word count estimate: 165
+- Relevance score: 15.00
 - Key excerpt lines:
-  - Home - TimeLine Theatre
-  - Box Office
-  - 773.281.8463 x1
-  - Join our Mailing List
-  - Search for:
-  - Search
-  - Toggle navigation
-  - MENU
-  - On Stage
-  - COMING SOON: An Enemy of the People
-  - Our 2026-2027 Season
-  - Our 2025-2026 Season
-- Extended extract lines:
-  - Home - TimeLine Theatre Box Office 773.281.8463 x1 Join our Mailing List Search for: Search Toggle navigation MENU On Stage COMING SOON: An Enemy of the People Our 2026-2027 Season Our 2025-2026 Season Calendar TimeLine South TimePieces Readings Living History Education Playwrights Collective Past Productions Tickets Get Tickets Calendar THE TIMELINE FLEXPASS FlexPass Reservations Groups & Discounts MyLine (age 18-35) Tickets FAQ Gift Subscriptions Plan Your Visit Directions & Parking Local Dining Accessibility Health and Safety Support Us Make a Donation Ways to Donate New Home in Uptown Inaugural Opening Night Gala Individual Giving Institutional Giving Explore & Learn
-
-#### Source 0090: Campus Review: CAPM 026.000 – Research Integrity – Academic Personnel
-- Source ID: dc27cf0a017f
-- Turn: 3
-- Query: "Quantum error correction applications and constraints" academic review
-- Provider: ddgs
-- Search rank: 2
-- Domain: academicpersonnel.ucsc.edu
-- URL: https://academicpersonnel.ucsc.edu/capm-under-review/2026/04/campus-review-capm-026-000-research-integrity
-- Search snippet: 1 day ago ·I write to initiate a formalreviewof proposed revisions to the campusacademicpersonnel policy on research integrity, CAPM 026.00. The revisions update our campus policy to be consistent with revised federal regulations on research misconduct.
-- Page word count estimate: 119
-- Relevance score: 13.33
-- Key excerpt lines:
-  - Campus Review: CAPM 026.000 – Research Integrity – Academic Personnel
-  - Academic Personnel
-  - About
-  - About the Academic Personnel Office
-  - Divisional Academic Personnel Contacts
-  - Data & Reports
-  - Policies & Guidance
-  - Campus Academic Personnel Manual
-  - Policy Communications
-  - Delegation of Authority
-  - Outside Activities Tracking (OATS)
-  - Other Policies, Procedures & Resources
-- Extended extract lines:
-  - Campus Review: CAPM 026.000 – Research Integrity – Academic Personnel Academic Personnel About About the Academic Personnel Office Divisional Academic Personnel Contacts Data & Reports Policies & Guidance Campus Academic Personnel Manual Policy Communications Delegation of Authority Outside Activities Tracking (OATS) Other Policies, Procedures & Resources Bargaining Contracts Academic Employment Tools for Job Seekers Tools for Hiring Units Fair Hiring Resources UCSC Recruit Login Academic Advancement Campus CALL Information Cumulative Biobibliography Guidelines Departmental Review Procedures Document Inventory Matrices DivData Compensation & Leaves Salary Scales Compensation Academic Leaves UCSC Benefits Office CruzPay UCPath Login Resources for Academics & Units Department Chair Toolkit Resources by Title Group Forms Layoff & Reduction in Time Retirement Workshops & Training Systems Academic Employee Relations
-
-#### Source 0091: Markets - Medicine Hat NewsMedicine Hat News - Visualping Launches New Timeline View, Giving Users Their Complete Monitoring History in One Place
-- Source ID: 208e793fe9c9
-- Turn: 3
-- Query: "Quantum error correction applications and constraints" timeline history
-- Provider: ddgs
-- Search rank: 2
-- Domain: markets.financialcontent.com
-- URL: https://markets.financialcontent.com/medicinehatnews/article/abnewswire-2026-4-10-visualping-launches-new-timeline-view-giving-users-their-complete-monitoring-history-in-one-place
-- Search snippet: 13 hours ago ·Visualping, the world’s leading website change detection platform has launched a new changetimelinethat gives users a complete, scrollablehistoryof every detected change for any monitored job, from the very first check to the most recent.
-- Page word count estimate: 85
-- Relevance score: 12.33
-- Key excerpt lines:
-  - Markets - Medicine Hat NewsMedicine Hat News - Visualping Launches New Timeline View, Giving Users Their Complete Monitoring History in One Place
-  - e-Edition
-  - Obituaries
-  - In Loving Memory
-  - Magazines
-  - Subscribe
-  - Login to Comment
-  - Register
-  - jobs
-  - Menu
-  - Home
-  - News
-- Extended extract lines:
-  - Markets - Medicine Hat NewsMedicine Hat News - Visualping Launches New Timeline View, Giving Users Their Complete Monitoring History in One Place e-Edition Obituaries In Loving Memory Magazines Subscribe Login to Comment Register jobs Menu Home News Sports Business Entertainment Classifieds Life Commentary Contact Recent Quotes View Full List My Watchlist Create Watchlist Indicators DJI Nasdaq Composite SPX Gold Crude Oil Markets Stocks ETFs Tools Markets: Overview News Currencies International Treasuries Visualping Launches New Timeline View, Giving Users Their Complete Monitoring History in One Place
-
-#### Source 0092: Recordkeeping | Internal Revenue Service
-- Source ID: 13d38e496906
-- Turn: 3
-- Query: "Quantum error correction applications and constraints" official documentation
-- Provider: ddgs
-- Search rank: 2
-- Domain: www.irs.gov
-- URL: https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping
-- Search snippet: Feb 25, 2026 ·Why should I keep records? Good records will help you monitor the progress of your business, prepare your financial statements, identify sources of income, keep track of deductibl
-- Page word count estimate: 110
-- Relevance score: 12.33
-- Key excerpt lines:
-  - Recordkeeping | Internal Revenue Service
+  - Pennsylvania Code & Bulletin
   - Skip to main content
-  - An official website of the United States government
-  - Here's how you know
-  - Here's how you know
-  - Official websites use .gov
-  - A
-  - .gov
-  - website belongs to an official government organization in the United States.
-  - Secure .gov websites use HTTPS
-  - A
-  - lock
+  - HOME
+  - SEARCH
+  - Pennsylvania Bulletin
+  - Pennsylvania Code
+  - Search Tips
+  - ABOUT
+  - CONTACT
+  - FAQ
+  - ALERTS
+  - C
 - Extended extract lines:
-  - Recordkeeping | Internal Revenue Service Skip to main content An official website of the United States government Here's how you know Here's how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. English Español 中文 (简体) 中文 (繁體) 한국어 Русский Tiếng Việt Kreyòl ayisyen Information Menu Help News Tax Pros Sign in Individual Business Tax Pro Access your tax information with an IRS account. Refunds Payments Tax records Create account Search Sign in
+  - Pennsylvania Code & Bulletin Skip to main content HOME SEARCH Pennsylvania Bulletin Pennsylvania Code Search Tips ABOUT CONTACT FAQ ALERTS C OMMONWEALTH OF P ENNSYLVANIA C OMMONWEALTH OF P ENNSYLVANIA No statutes or acts will be found at this website. The Pennsylvania Code website reflects the Pennsylvania Code changes effective through 56 Pa.B. 778 (January 31, 2026). The Pennsylvania Bulletin website includes the following: Rulemakings by State agencies; Proposed Rulemakings by State agencies; State agency notices; the Governor’s Proclamations and Executive Orders; Actions by the General Assembly; and Statewide and local court rules. About the Pennsylvania Code & Bulletin • No statutes or acts will be found at this website. The Pennsylvania Code website reflects the Pennsylvania Code changes effective through 56 Pa.B. 778 (January 31, 2026). The Pennsylvania Bulletin website includes the following: Rulemakings by State agencies; Proposed Rulemakings by State agencies; State agency notices; the Governor’s Proclamations and Executive Orders; Actions by the General Assembly; and Statewide and local court rules. SEARCH CODE
 
-#### Source 0093: I need to site my source, how do i know what websites this was gotten from using AI overview - Google Search Community
+#### Source 0090: I need to site my source, how do i know what websites this was gotten from using AI overview - Google Search Community
 - Source ID: 2894fd07fee2
 - Turn: 3
 - Query: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview?
@@ -2680,7 +2599,7 @@ limitations, risks, and unresolved debates
   - Submit feedback
   - Send feedback on...
 - Extended extract lines:
-  - I need to site my source, how do i know what websites this was gotten from using AI overview - Google Search Community Skip to main content Google Search Help Sign in Google Help Help Center Community Google Search Privacy Policy Terms of Service Submit feedback Send feedback on... This help content & information General Help Center experience Next Help Center Community Improve your Google Account false Enable Dark Mode Search Clear search Close search Main menu 13765418554594339337 true Search Help Center false true true true true true 100334 false false
+  - I need to site my source, how do i know what websites this was gotten from using AI overview - Google Search Community Skip to main content Google Search Help Sign in Google Help Help Center Community Google Search Privacy Policy Terms of Service Submit feedback Send feedback on... This help content & information General Help Center experience Next Help Center Community Improve your Google Account false Enable Dark Mode Search Clear search Close search Main menu 1633950610721068768 true Search Help Center false true true true true true 100334 false false
 
 ## Turn 4
 
@@ -2700,8 +2619,9 @@ limitations, risks, and unresolved debates
 - "Quantum error correction applications and constraints" benchmark data
 
 ### Turn Findings
-- Popular Timelines - Famous people, events, places and more: Popular Timelines - Famous people, events, places and more
-- Tracking Trump’s threats and deadlines to reopen the Strait of Hormuz | Fox News: Tracking Trump’s threats and deadlines to reopen the Strait of Hormuz | Fox News
+- Submit feedback on content about you - Knowledge Panel Help: Submit feedback on content about you - Knowledge Panel Help
+- Tutorial Gallery | Documentation: Tutorial Gallery | Documentation
+- Claude Managed Agents overview - Claude API Docs: Claude Managed Agents overview - Claude API Docs
 
 ### Contradictions
 - No explicit contradictions extracted in this turn.
@@ -2712,59 +2632,86 @@ limitations, risks, and unresolved debates
 - Which criticism appears consistently versus only in opinion pieces?
 
 ### Source Catalog
-#### Source 0094: Popular Timelines - Famous people, events, places and more
-- Source ID: 41b080e6545a
+#### Source 0091: Submit feedback on content about you - Knowledge Panel Help
+- Source ID: 3e04f19107c0
 - Turn: 4
-- Query: "Quantum error correction applications and constraints" timeline history
+- Query: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview??
 - Provider: ddgs
-- Search rank: 3
-- Domain: www.populartimelines.com
-- URL: https://www.populartimelines.com
-- Search snippet: About PopularTimelinesDiscover the past with PopularTimelines.com, your go-to platform for exploring the richhistoryof famous people, events, places, and more, all presented in an engagingtimelineformat.
-- Page word count estimate: 208
-- Relevance score: 18.00
+- Search rank: 1
+- Domain: support.google.com
+- URL: https://support.google.com/knowledgepanel/answer/7534842?hl=en
+- Search snippet: Information in a knowledge panel generates automatically based on public information on the web.Anyone can submit feedback on a search feature. If you're a verified user,andif the knowledge panel is about you or an entity you represent, we can prioritize your feedback.See full list on support.google.comImportant: To submit verified feedback, you must verify your identity. Once you verify your identity, we can make some corrections directly, like links to social profiles. You can also update your preferences to show the information you chose.1. Go to Google Search.2. Sign in to the Google Account that you used to verify your identity.• Check that your WebandApp Activity is turned on.3. In Google Search, search for your name or the entity you represent.4. At the top of the knowledge panel, click Suggest edits. If you don’t find this option, remember:See full list on support.google.comIf the knowledge panel doesn’t have an image, we can’t add an image by request. However, if an image already exists, you can submit feedback with a new image URL to suggest a replacement.As a representative, if we accept your suggested image, it takes priority over other images. Your image must be:• Appropriate• Represent the topic• Different from an adTo set a featured image:See full list on support.google.comThe title of a knowledge panel:• Describes the entire panel• Is generated automatically• Is usually the name of a person, place, organization, or thingSee full list on support.google.comImportant:• Google doesn't accept or create custom subtitles.• If we remove a non-representative subtitle, our systems automatically select another one.• If there isn’t another subtitle available, the knowledge panel won’t have one.The subtitle of a knowledge panel is the description below the title. Subtitles are generated automatically. If you submit feedback that shows automated subtitles are inaccurate, our system can generate a new subtitle based on information in the panel.For example, our systems might determine that someone is an actor, director,andwriter. If our systems select “actor” as the subtitleandwe receive feedback, it may automatically choose “director” or “writer” as the replacement.See full list on support.google.comDescriptions come from various datasources andcan’t be edited. To update descriptions, you can contact the source of the informationandask them to correct it. Changing the source of the information usually causes the information in the knowledge panel to change as well.If you contacted the source but couldn’t get a description changed, you can submit feedback on the knowledge panel. Explain that you contacted the sourceandprovide strong evidence for why the description is inaccurate.See full list on support.google.comYou can suggest new social profiles or edit existing ones. We can’t change the order that profiles appear in.See full list on support.google.comYou can choose to leave out certain personal information on a knowledge panel about you. For example, you can ask to remove:• Date of birth• Relationshipsandchildren• Marital status• Subtitles about a relationshipTo remove certain information:See full list on support.google.comImportant: Google may not make a change you request if:• It contains inappropriate content.• We can't confirm its accuracy.Generally, Google only changes or removes content based on Google Search policies. For example, you can provide feedback about the “People also search for” section, but we can only remove items if they don’t follow Google’s policies. Because this content is based on public information on the webandautomatically developed by our system, we can’t customize it or add suggestions.Some information in knowledge panels is specific to the type of entity, such as a• Movie run time.See full list on support.google.comThe apostles also regarded the books of the Old Testament asauthoritative, so they counted as Scripture. Even certain books of the New Testament that had been written by associates of apostles—such as Mark and Luke—were held to beauthoritativeand so found a place in Scripture.Mar 17, 2025 ·Expand the AIOverview– Click on “ Show more ” or similar options. Check the linkedsources– AIOverviewoften provides links below the response. Use "About this result" – Click the three dots next to a search result to see why it appeared.Tutorial Get started with ArcGIS Data Pipelines Extract, transform, and load data from dynamicsourcesinto ArcGIS Online.Thesourcesof all photographs, maps, illustrations, computer programs, data, graphs, audio-visual, and similar material must be acknowledged if they are not your own work. Works of art, whether music, lm, dance, theatre arts, or visual arts, and where the creative use of a part of a work takes place, must be acknowledged.Full Circle Design is the most honest design agency in Irelandandthe UK, creating luxury websites, branding,andmarketing that deliver real results.
+- Page word count estimate: 335
+- Relevance score: 18.67
 - Key excerpt lines:
-  - Popular Timelines - Famous people, events, places and more
-  - Recently Updated
-  - Most Popular
-  - Birthdays
-  - Trending
-  - Will Ferrell
-  - 37 minutes ago
-  - Will Ferrell, Olivia Rodrigo, and Matt Damon to Close Out SNL Season 51
-  - Barbie Ferreira
-  - 37 minutes ago
-  - Barbie Ferreira trending amidst 'Faces of Death' release and new movie highlights.
-  - Swae Lee
+  - Submit feedback on content about you - Knowledge Panel Help
+  - Skip to main content
+  - Knowledge Panel Help
+  - Sign in
+  - Google Help
+  - Help Center
+  - Knowledge Panel
+  - Privacy Policy
+  - Terms of Service
+  - Submit feedback
+  - Send feedback on...
+  - This help content & information
 - Extended extract lines:
-  - Popular Timelines - Famous people, events, places and more Recently Updated Most Popular Birthdays Trending Will Ferrell 37 minutes ago Will Ferrell, Olivia Rodrigo, and Matt Damon to Close Out SNL Season 51 Barbie Ferreira 37 minutes ago Barbie Ferreira trending amidst 'Faces of Death' release and new movie highlights. Swae Lee 37 minutes ago Swae Lee to Headline SUNY Cortland's Spring Fling Concert This Year Cub Swanson 37 minutes ago Cub Swanson's UFC 327 Fight: A Look at Legacy, Opponent, and Roufus' Influence. Rui Hachimura 38 minutes ago Hachimura's role with Lakers amidst injuries to key players like Doncic and Reaves. Joshua Bassett 2 hours ago Joshua Bassett faces backlash for Olivia Rodrigo mention, hints side of story. Dennis Rodman 19 days ago Dennis Rodman to be inducted into WWE Hall of Fame Class of 2026. Stephen Curry 2 hours ago Stephen Curry Returns to Warriors' Starting Lineup After Injury Layoff Against Kings. Joc Pederson 2 hours ago Joc Pederson benched for Friday's game; sits against left-handed pitcher. Barry Keoghan 2 hours ago Barry Keoghan sought magic tips from Gerard Kearney for a role. Scooter Braun 2 hours ago Sydney Sweeney and Scooter Braun's Romance: PDA, Serious Relationship, and Easter Date. Lisa Ann Walter 2 hours ago
+  - Submit feedback on content about you - Knowledge Panel Help Skip to main content Knowledge Panel Help Sign in Google Help Help Center Knowledge Panel Privacy Policy Terms of Service Submit feedback Send feedback on... This help content & information General Help Center experience Next Submit feedback on content about you Information in a knowledge panel generates automatically based on public information on the web. Anyone can submit feedback on a search feature. If you're a verified user, and if the knowledge panel is about you, we can prioritize your feedback. Google's automated systems determine the appearance and disappearance of these panels based on the relevance of info to a user's query. To maintain the integrity of search results, our current policy doesn’t manually create or delete Knowledge Panels. However, we always work to ensure the accuracy and helpfulness of the info displayed. If you have suggestions to improve the content within a Knowledge Panel, suggest an edit through the “Feedback” option on Google Search results pages. Your input is invaluable as we strive to provide the best possible search experience for everyone. Submit verified feedback Important: To submit verified feedback, you must verify your identity . Once you verify your identity, we can make some corrections directly, like links to social profiles. You can also update your preferences to show the information you chose. Go to Google Search . Sign in to the Google Account that you used to verify your identity. Check that your Web and App Activity is turned on. In Google Search, search for your name or the entity you represent. At the top of the knowledge panel, click Suggest edits . If you don’t find this option, remember: You must sign in with the same Google Account that you used to verify your identity. Your Google Account must be verified to represent this knowledge panel. Verify your identity or use a verified account to add users to the account . Next to the information you want to report, click Edit
 
-#### Source 0095: Tracking Trump’s threats and deadlines to reopen the Strait of Hormuz | Fox News
-- Source ID: 6729c9bd66fe
+#### Source 0092: Tutorial Gallery | Documentation
+- Source ID: 262aa537293e
 - Turn: 4
-- Query: "Quantum error correction applications and constraints" timeline history
+- Query: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview??
 - Provider: ddgs
-- Search rank: 7
-- Domain: www.foxnews.com
-- URL: https://www.foxnews.com/politics/timeline-trumps-escalating-deadlines-on-iran-and-the-strait-hormuz
-- Search snippet: 3 days ago ·President Trump issues a fresh ultimatum to Iran, threatening strikes on infrastructure unless all vessels can transit the Strait of Hormuz freely.
-- Page word count estimate: 80
-- Relevance score: 15.67
+- Search rank: 5
+- Domain: learn.arcgis.com
+- URL: https://learn.arcgis.com/en/gallery
+- Search snippet: Tutorial Get started with ArcGIS Data Pipelines Extract, transform, and load data from dynamicsourcesinto ArcGIS Online.
+- Page word count estimate: 98
+- Relevance score: 17.33
 - Key excerpt lines:
-  - Tracking Trump’s threats and deadlines to reopen the Strait of Hormuz | Fox News
-  - Fox News Media
-  - Fox News Media
-  - Fox Business
-  - Fox Nation
-  - Fox News Audio
-  - Fox Weather
-  - Outkick
-  - Fox Noticias
-  - Books
-  - Fox News
-  - U.S.
+  - Tutorial Gallery | Documentation
+  - Documentation
+  - Topics
+  - Tutorials
+  - Filter
+  - Capabilities
+  - All Capabilities
+  - 3D GIS
+  - Data Management
+  - Field Operations
+  - Geospatial AI
+  - Imagery & Remote Sensing
 - Extended extract lines:
-  - Tracking Trump’s threats and deadlines to reopen the Strait of Hormuz | Fox News Fox News Media Fox News Media Fox Business Fox Nation Fox News Audio Fox Weather Outkick Fox Noticias Books Fox News U.S. Blue City Crime Campus Radicals Border Crisis True Crime Politics Donald Trump Senate House Judiciary Foreign Policy Fox News Polls Elections World U.N. Conflicts Terrorism Disasters Global Economy Environment Religion Scandals Opinion Media Fox Nation Coverage Entertainment Former Prince Andrew Sydney Sweeney Royal Families
+  - Tutorial Gallery | Documentation Documentation Topics Tutorials Filter Capabilities All Capabilities 3D GIS Data Management Field Operations Geospatial AI Imagery & Remote Sensing Mapping Real-time Visualization & Analytics Sharing & Collaboration Spatial Analysis & Data Science Product All Products ArcGIS Enterprise ArcGIS Online ArcGIS Pro ArcGIS AllSource ArcGIS API for Python ArcGIS Business Analyst ArcGIS CityEngine ArcGIS Dashboards ArcGIS Drone2Map ArcGIS Earth ArcGIS Excalibur ArcGIS Experience Builder ArcGIS Field Maps ArcGIS for Microsoft ArcGIS Hub ArcGIS Instant Apps ArcGIS Living Atlas of the World ArcGIS Maps for Adobe Creative Cloud ArcGIS Notebooks ArcGIS QuickCapture ArcGIS Reality ArcGIS Solutions
+
+#### Source 0093: Claude Managed Agents overview - Claude API Docs
+- Source ID: 1564c417fe4b
+- Turn: 4
+- Query: "Quantum error correction applications and constraints" official documentation
+- Provider: ddgs
+- Search rank: 5
+- Domain: platform.claude.com
+- URL: https://platform.claude.com/docs/en/managed-agents/overview
+- Search snippet: 2 days ago ·Claude Managed Agents provides the harnessandinfrastructure for running Claude as an autonomous agent. Instead of building your own agent loop, tool execution,andruntime, you get a fully managed environment where Claude can read files, run commands, browse the web,andexecute code securely. The harness supports built in prompt caching, compaction,andother performance optimizations for ...
+- Page word count estimate: 87
+- Relevance score: 16.33
+- Key excerpt lines:
+  - Claude Managed Agents overview - Claude API Docs
+  - Loading...
+  - Messages
+  - Build
+  - Admin
+  - Models & pricing
+  - Client SDKs
+  - API Reference
+  - English
+  - Log in
+  - Search...
+  - ⌘K
+- Extended extract lines:
+  - Claude Managed Agents overview - Claude API Docs Loading... Messages Build Admin Models & pricing Client SDKs API Reference English Log in Search... ⌘K First steps Intro to Claude Quickstart Building with Claude Features overview Using the Messages API Handling stop reasons Model capabilities Extended thinking Adaptive thinking Effort Fast mode (beta: research preview) Structured outputs Citations Streaming Messages Batch processing Search results Streaming refusals Multilingual support Embeddings Tools Overview How tool use works Web search tool Web fetch tool Code execution tool Advisor tool Memory tool
 
 ## Turn 5
 
@@ -2784,8 +2731,8 @@ limitations, risks, and unresolved debates
 - "Quantum error correction applications and constraints" benchmark data
 
 ### Turn Findings
-- Designing and validating a research questionnaire - Part 1 - PMC: Designing and validating a research questionnaire - Part 1 - PMC
-- Submit feedback on content about you - Knowledge Panel Help: Submit feedback on content about you - Knowledge Panel Help
+- Epstein Files: Timeline, Documents, People & Investigation Explained: Epstein Files: Timeline, Documents, People & Investigation Explained
+- CBD & Botanical Gummies - Charlotte's Web™ CBD & Botanicals – Charlotte’s Web CBD & Botanicals: CBD & Botanical Gummies - Charlotte's Web™ CBD & Botanicals
 
 ### Contradictions
 - No explicit contradictions extracted in this turn.
@@ -2796,59 +2743,59 @@ limitations, risks, and unresolved debates
 - Which criticism appears consistently versus only in opinion pieces?
 
 ### Source Catalog
-#### Source 0096: Designing and validating a research questionnaire - Part 1 - PMC
-- Source ID: 8de083acaf6b
+#### Source 0094: Epstein Files: Timeline, Documents, People & Investigation Explained
+- Source ID: 8c00d943d649
+- Turn: 5
+- Query: "Quantum error correction applications and constraints" timeline history
+- Provider: ddgs
+- Search rank: 2
+- Domain: dystopeka.com
+- URL: https://dystopeka.com/epstein-files
+- Search snippet: A structured breakdown of the Epstein files —timeline, key people, court documents, and unresolved questions explained clearly using verified sources.
+- Page word count estimate: 351
+- Relevance score: 18.33
+- Key excerpt lines:
+  - Epstein Files: Timeline, Documents, People & Investigation Explained
+  - Skip to content
+  - Fri. Apr 10th, 2026
+  - DYSTOPEKA.COM
+  - Circling The Drain to The Cesspool Of Topeka KS.
+  - Dystopolice
+  - Topeka Cop Watch
+  - Topeka Police Incidents
+  - Topeka Police: Incidents, Reports, and Investigations
+  - Topeka Police Scanner Radio Codes.
+  - Police Scanner Codes
+  - Dystopolice
+- Extended extract lines:
+  - Epstein Files: Timeline, Documents, People & Investigation Explained Skip to content Fri. Apr 10th, 2026 DYSTOPEKA.COM Circling The Drain to The Cesspool Of Topeka KS. Dystopolice Topeka Cop Watch Topeka Police Incidents Topeka Police: Incidents, Reports, and Investigations Topeka Police Scanner Radio Codes. Police Scanner Codes Dystopolice Epstein Files: What the Timeline, Documents, and Network Reveal The Epstein Files hub serves as a central index for timelines, documents, people, and ongoing investigations connected to Jeffrey Epstein’s network. This page organizes verified reporting, court records, and analysis into a structured view of the case — including the Zorro Ranch investigation, one of the most unresolved parts of the broader investigation. Coverage prioritizes verifiable information while clearly distinguishing between confirmed facts, reported claims, and unverified allegations. 👉 Start with: Jeffrey Epstein Explained 👉 Featured investigation: Zorro Ranch ⚠️ Unresolved Investigation: Zorro Ranch The Zorro Ranch investigation raises serious questions about what happened after 2019 — including missing transparency, halted state efforts, and years of silence. 👉 What happened — and what still isn’t explained 📋 Epstein Files List: Timeline, Documents, and Names This Epstein files list organizes the case into the three core areas readers search for most: timeline events, major document types, and people referenced in records and reporting. It is designed as a hub-page index, helping readers move quickly between the most important parts of the case while keeping the distinction clear between confirmed facts, public records, allegations, and unresolved questions. 📊 Epstein Timeline List 1953 – Jeffrey Epstein is born in Brooklyn, New York 1970s – Teaches at Dalton School and enters elite social circles Late 1970s–1980s – Moves from Bear Stearns into finance and private wealth work 1980s–1990s – Builds wealth, connections, and a growing property portfolio Early 2000s – Allegations involving minors begin surfacing more publicly 2005–2008 – Florida investigation develops 2008 – Epstein enters a controversial plea deal 2008–2009 – Serves jail time with unusual work-release privileges 2009–2018 – Maintains social and financial access after conviction 2019 – Arrested on federal sex trafficking charges August 10, 2019 – Dies in custody 2021 – Ghislaine Maxwell is convicted
+
+#### Source 0095: CBD & Botanical Gummies - Charlotte's Web™ CBD & Botanicals – Charlotte’s Web CBD & Botanicals
+- Source ID: 43343bfcf95d
 - Turn: 5
 - Query: "Quantum error correction applications and constraints" limitations criticism
 - Provider: ddgs
-- Search rank: 2
-- Domain: pmc.ncbi.nlm.nih.gov
-- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10405529
-- Search snippet: Abstract Questionnaires are often used as part of research studies to collect data from participants. However, the information obtained through a questionnaire is dependent on how it has been designed, used, and validated. In this article, we look at the types of research questionnaires, their applications andlimitations, and how a new questionnaire is developed. Keywords: Patient health ...
-- Page word count estimate: 115
-- Relevance score: 20.33
+- Search rank: 5
+- Domain: www.charlottesweb.com
+- URL: https://www.charlottesweb.com/collections/gummies
+- Search snippet: Made with The World’s Most Trusted Hemp Extract™, supporting Calm, Sleep, Recovery, Brain, Endurance, Immunity, Wellness,anda THC-Free† option.
+- Page word count estimate: 110
+- Relevance score: 15.33
 - Key excerpt lines:
-  - Designing and validating a research questionnaire - Part 1 - PMC
-  - Skip to main content
-  - An official website of the United States government
-  - Here's how you know
-  - Here's how you know
-  - Official websites use .gov
-  - A
-  - .gov
-  - website belongs to an official
-  - government organization in the United States.
-  - Secure .gov websites use HTTPS
-  - A
+  - CBD & Botanical Gummies - Charlotte's Web™ CBD & Botanicals
+  - – Charlotte’s Web CBD & Botanicals
+  - Skip to content
+  - Skip to Accessibility Statement
+  - This site has limited support for your browser. We recommend switching to Edge, Chrome, Safari, or Firefox.
+  - Our Warehouse is Closed April 10th-12th
+  - Orders Will Begin Processing Monday, April 13th
+  - Close
+  - Benefits
+  - See More
+  - Sleep
+  - Calm & Stress
 - Extended extract lines:
-  - Designing and validating a research questionnaire - Part 1 - PMC Skip to main content An official website of the United States government Here's how you know Here's how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. Search Log in Dashboard Publications Account settings Log out Search… Search NCBI Primary site navigation Search Logged in as: Dashboard Publications Account settings Log in Search PMC Full-Text Archive Search in PMC Journal List User Guide
-
-#### Source 0097: Submit feedback on content about you - Knowledge Panel Help
-- Source ID: 3e04f19107c0
-- Turn: 5
-- Query: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview??
-- Provider: ddgs
-- Search rank: 1
-- Domain: support.google.com
-- URL: https://support.google.com/knowledgepanel/answer/7534842?hl=en
-- Search snippet: Information in a knowledge panel generates automatically based on public information on the web.Anyone can submit feedback on a search feature. If you're a verified user,andif the knowledge panel is about you or an entity you represent, we can prioritize your feedback.See full list on support.google.comImportant: To submit verified feedback, you must verify your identity. Once you verify your identity, we can make some corrections directly, like links to social profiles. You can also update your preferences to show the information you chose.1. Go to Google Search.2. Sign in to the Google Account that you used to verify your identity.• Check that your WebandApp Activity is turned on.3. In Google Search, search for your name or the entity you represent.4. At the top of the knowledge panel, click Suggest edits. If you don’t find this option, remember:See full list on support.google.comIf the knowledge panel doesn’t have an image, we can’t add an image by request. However, if an image already exists, you can submit feedback with a new image URL to suggest a replacement.As a representative, if we accept your suggested image, it takes priority over other images. Your image must be:• Appropriate• Represent the topic• Different from an adTo set a featured image:See full list on support.google.comThe title of a knowledge panel:• Describes the entire panel• Is generated automatically• Is usually the name of a person, place, organization, or thingSee full list on support.google.comImportant:• Google doesn't accept or create custom subtitles.• If we remove a non-representative subtitle, our systems automatically select another one.• If there isn’t another subtitle available, the knowledge panel won’t have one.The subtitle of a knowledge panel is the description below the title. Subtitles are generated automatically. If you submit feedback that shows automated subtitles are inaccurate, our system can generate a new subtitle based on information in the panel.For example, our systems might determine that someone is an actor, director,andwriter. If our systems select “actor” as the subtitleandwe receive feedback, it may automatically choose “director” or “writer” as the replacement.See full list on support.google.comDescriptions come from various datasources andcan’t be edited. To update descriptions, you can contact the source of the informationandask them to correct it. Changing the source of the information usually causes the information in the knowledge panel to change as well.If you contacted the source but couldn’t get a description changed, you can submit feedback on the knowledge panel. Explain that you contacted the sourceandprovide strong evidence for why the description is inaccurate.See full list on support.google.comYou can suggest new social profiles or edit existing ones. We can’t change the order that profiles appear in.See full list on support.google.comYou can choose to leave out certain personal information on a knowledge panel about you. For example, you can ask to remove:• Date of birth• Relationshipsandchildren• Marital status• Subtitles about a relationshipTo remove certain information:See full list on support.google.comImportant: Google may not make a change you request if:• It contains inappropriate content.• We can't confirm its accuracy.Generally, Google only changes or removes content based on Google Search policies. For example, you can provide feedback about the “People also search for” section, but we can only remove items if they don’t follow Google’s policies. Because this content is based on public information on the webandautomatically developed by our system, we can’t customize it or add suggestions.Some information in knowledge panels is specific to the type of entity, such as a• Movie run time.See full list on support.google.comThe network structure of a hyperlinked environment can be a richsourceof in-formation about the content of the environment, provided we have e ective means for understanding it. We develop a set of algorithmic tools for extracting information from the link structures of such environments, and report on experiments that demonstrate their e ectiveness in a variety of contexts on the World Wide ...The apostles also regarded the books of the Old Testament asauthoritative, so they counted as Scripture. Even certain books of the New Testament that had been written by associates of apostles—such as Mark and Luke—were held to beauthoritativeand so found a place in Scripture.Thesourcesof all photographs, maps, illustrations, computer programs, data, graphs, audio-visual, and similar material must be acknowledged if they are not your own work. Works of art, whether music, lm, dance, theatre arts, or visual arts, and where the creative use of a part of a work takes place, must be acknowledged.The first Edition of 25 Landmark Trials in Cardiologywas created in 2005-06 in response to voiced frustrations among junior medicine, cardiologyandoff-service residents rotating through cardiology as well as non-cardiologist physicians who were overwhelmed by the sheer number of cardiology trials. After repeated requests for references of "just the important trials" or "just the trials that ...Mar 17, 2025 ·Expand the AIOverview– Click on “ Show more ” or similar options. Check the linkedsources– AIOverviewoften provides links below the response. Use "About this result" – Click the three dots next to a search result to see why it appeared.
-- Page word count estimate: 335
-- Relevance score: 17.67
-- Key excerpt lines:
-  - Submit feedback on content about you - Knowledge Panel Help
-  - Skip to main content
-  - Knowledge Panel Help
-  - Sign in
-  - Google Help
-  - Help Center
-  - Knowledge Panel
-  - Privacy Policy
-  - Terms of Service
-  - Submit feedback
-  - Send feedback on...
-  - This help content & information
-- Extended extract lines:
-  - Submit feedback on content about you - Knowledge Panel Help Skip to main content Knowledge Panel Help Sign in Google Help Help Center Knowledge Panel Privacy Policy Terms of Service Submit feedback Send feedback on... This help content & information General Help Center experience Next Submit feedback on content about you Information in a knowledge panel generates automatically based on public information on the web. Anyone can submit feedback on a search feature. If you're a verified user, and if the knowledge panel is about you, we can prioritize your feedback. Google's automated systems determine the appearance and disappearance of these panels based on the relevance of info to a user's query. To maintain the integrity of search results, our current policy doesn’t manually create or delete Knowledge Panels. However, we always work to ensure the accuracy and helpfulness of the info displayed. If you have suggestions to improve the content within a Knowledge Panel, suggest an edit through the “Feedback” option on Google Search results pages. Your input is invaluable as we strive to provide the best possible search experience for everyone. Submit verified feedback Important: To submit verified feedback, you must verify your identity . Once you verify your identity, we can make some corrections directly, like links to social profiles. You can also update your preferences to show the information you chose. Go to Google Search . Sign in to the Google Account that you used to verify your identity. Check that your Web and App Activity is turned on. In Google Search, search for your name or the entity you represent. At the top of the knowledge panel, click Suggest edits . If you don’t find this option, remember: You must sign in with the same Google Account that you used to verify your identity. Your Google Account must be verified to represent this knowledge panel. Verify your identity or use a verified account to add users to the account . Next to the information you want to report, click Edit
+  - CBD & Botanical Gummies - Charlotte's Web™ CBD & Botanicals – Charlotte’s Web CBD & Botanicals Skip to content Skip to Accessibility Statement This site has limited support for your browser. We recommend switching to Edge, Chrome, Safari, or Firefox. Our Warehouse is Closed April 10th-12th Orders Will Begin Processing Monday, April 13th Close Benefits See More Sleep Calm & Stress Focus Recovery & Pain Energy Daily Wellness Products See More Gummies Oils Capsules Topicals CBD for Dogs Ingredients See More Full-Spectrum CBD THC-Free THC Delta 9 Non-CBD Functional Mushrooms Rewards Take the Quiz Learn See More About Us See More Our Partnerships Certified B-Corp Retail Store Locator Wholesale Opportunities
 
 ## Turn 6
 
@@ -2868,9 +2815,7 @@ limitations, risks, and unresolved debates
 - "Quantum error correction applications and constraints" benchmark data
 
 ### Turn Findings
-- RADAR Framework - Evaluating Sources: Using the RADAR Framework - LibGuides at Loyola Marymount University: RADAR Framework - Evaluating Sources: Using the RADAR Framework - LibGuides at Loyola Marymount University
-- Full Circle Design | Honest Design Agency in Ireland & the UK: Full Circle Design | Honest Design Agency in Ireland & the UK
-- From Ambition to Activation: Organizations Stand at the Untapped Edge of AI’s Potential, Reveals Deloitte Survey – Press Release | Deloitte US: From Ambition to Activation: Organizations Stand at the Untapped Edge of AI’s Potential, Reveals Deloitte Survey – Press Release | Deloitte US
+- Turn 6 gathered 40 candidate results around limitations, risks, and unresolved debates.
 
 ### Contradictions
 - No explicit contradictions extracted in this turn.
@@ -2881,87 +2826,6 @@ limitations, risks, and unresolved debates
 - Which criticism appears consistently versus only in opinion pieces?
 
 ### Source Catalog
-#### Source 0098: RADAR Framework - Evaluating Sources: Using the RADAR Framework - LibGuides at Loyola Marymount University
-- Source ID: 70e224135c07
-- Turn: 6
-- Query: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview???
-- Provider: ddgs
-- Search rank: 1
-- Domain: libguides.lmu.edu
-- URL: https://libguides.lmu.edu/aboutRADAR
-- Search snippet: Jul 19, 2024 ·The RADAR Framework can help you remember what kinds of questions you should be asking about an information source as you evaluate it for qualityandusefulness in your research.
-- Page word count estimate: 308
-- Relevance score: 17.67
-- Key excerpt lines:
-  - RADAR Framework - Evaluating Sources: Using the RADAR Framework - LibGuides at Loyola Marymount University
-  - Get Help
-  - Skip to Main Content
-  - Library
-  - LibGuides
-  - Evaluating Sources: Using the RADAR Framework
-  - RADAR Framework
-  - Evaluating Sources: Using the RADAR Framework
-  - The RADAR Framework can help you remember what kinds of questions you should be asking about an information source as you evaluate it for quality and usefulness in your research.
-  - RADAR Framework
-  - Helpful Hints
-  - Using the RADAR Framework to Evaluate Sources
-- Extended extract lines:
-  - RADAR Framework - Evaluating Sources: Using the RADAR Framework - LibGuides at Loyola Marymount University Get Help Skip to Main Content Library LibGuides Evaluating Sources: Using the RADAR Framework RADAR Framework Evaluating Sources: Using the RADAR Framework The RADAR Framework can help you remember what kinds of questions you should be asking about an information source as you evaluate it for quality and usefulness in your research. RADAR Framework Helpful Hints Using the RADAR Framework to Evaluate Sources How To: Evaluate Sources Using RADAR More Resources Scholarly, Popular, or Trade? Primary, Secondary, or Tertiary? Has Source been Cited? Peer Review/Evaluate Articles RADAR Challenge Timer Timer Helpful Hints Scholarly, Popular, Trade? Primary, Secondary, Tertiary? Has Source Been Cited? Is Source Peer Reviewed? Cite Sources Using the RADAR Framework to Evaluate Sources The RADAR Framework can help you remember what kinds of questions you should be asking about an information source as you evaluate it for quality and usefulness in your research. RADAR Handout Rationale Rationale is important because books, articles, and web pages are made to serve a purpose. Remember that no information is completely free from bias because the positionality of the authors always impacts their perceptions. The rationale may include intent to educate, entertain, or sell a product or point of view. Some sources may be frivolous or commercial in nature, providing inaccurate or false information. Other sources are more ambiguous about any potential partiality. Varied points of view can be valid as long as they are based on good reasoning and careful use of evidence. Why did the author or publisher make this information available? Is there obvious and/or extreme bias or prejudice? Are alternative points of view presented? Does the author omit any important facts or data that might disprove their claim? If there is emotion, what is the purpose? What tone is being used?
-
-#### Source 0099: Full Circle Design | Honest Design Agency in Ireland & the UK
-- Source ID: b02b7e98a38d
-- Turn: 6
-- Query: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview???
-- Provider: ddgs
-- Search rank: 2
-- Domain: www.fcdagency.com
-- URL: https://www.fcdagency.com
-- Search snippet: Full Circle Design is the most honest design agency in Irelandandthe UK, creating luxury websites, branding,andmarketing that deliver real results.
-- Page word count estimate: 153
-- Relevance score: 16.33
-- Key excerpt lines:
-  - Full Circle Design | Honest Design Agency in Ireland & the UK
-  - top of page
-  - Contact
-  - 🏠︎
-  - Services
-  - Design
-  - Marketing
-  - Consulting
-  - Design
-  - Marketing
-  - Consulting
-  - Company
-- Extended extract lines:
-  - Full Circle Design | Honest Design Agency in Ireland & the UK top of page Contact 🏠︎ Services Design Marketing Consulting Design Marketing Consulting Company Our Work About Us Contact Us Resources Locations Our Work About Us Contact Us Resources Locations Main Menu Take the Eligibility Quiz Close Hey, it's us, a seriously Honest Design Agency . We help serious businesses grow online with high-performing websites, smart SEO, and marketing that actually works. No nonsense. Just results. Take the Eligibility Quiz Loved by Local & International Businesses At Full Circle Design , we’re a straight-talking design agency working with the most ambitious businesses across Ireland & the UK. We've helped the best of the best! Create real solutions For real business & marketing problems We're a design agency who understands real business problems and how to create effective design and marketing solutions. Enter your main business problems below and let's solve them together.
-
-#### Source 0100: From Ambition to Activation: Organizations Stand at the Untapped Edge of AI’s Potential, Reveals Deloitte Survey – Press Release | Deloitte US
-- Source ID: 60e061921b80
-- Turn: 6
-- Query: "Quantum error correction applications and constraints" market analysis
-- Provider: ddgs
-- Search rank: 5
-- Domain: www.deloitte.com
-- URL: https://www.deloitte.com/us/en/about/press-room/state-of-ai-report-2026.html
-- Search snippet: Jan 21, 2026 ·The Deloitte AI Institute today unveiled the 2026 edition of its “State of AI in the Enterprise” report, revealing how organizations are currently engaging with AIandthe impacts, changesandconsiderations this technology is introducing.
-- Page word count estimate: 107
-- Relevance score: 16.33
-- Key excerpt lines:
-  - From Ambition to Activation: Organizations Stand at the Untapped Edge of AI’s Potential, Reveals Deloitte Survey – Press Release | Deloitte US
-  - Link opens in a new tab
-  - opens in new window
-  - Skip to main content
-  - Who we are
-  - Overview
-  - Governance
-  - Recognition
-  - Newsroom
-  - Contact Us
-  - About Deloitte
-  - Our shared values
-- Extended extract lines:
-  - From Ambition to Activation: Organizations Stand at the Untapped Edge of AI’s Potential, Reveals Deloitte Survey – Press Release | Deloitte US Link opens in a new tab opens in new window Skip to main content Who we are Overview Governance Recognition Newsroom Contact Us About Deloitte Our shared values Facts & figures Network, brands & alliances Transparency report What we do Overview Case studies Services Industries Alliances Blockchain & Digital Assets Service Blockchain & Digital Assets Service AI & Engineering Assurance Audit Business Process Solutions Customer Cyber Deloitte Private Direct Tax Enterprise Performance Finance Finance Transformation Global Employer Services Human Capital Indirect Tax Legal Business Services
-
 ## Turn 7
 
 ### Focus
@@ -2980,10 +2844,12 @@ limitations, risks, and unresolved debates
 - "Quantum error correction applications and constraints" benchmark data
 
 ### Turn Findings
-- REIT Market Data Reports | Nareit: REIT Market Data Reports | Nareit
-- Migrate to Claude Agent SDK - Claude Code Docs: Migrate to Claude Agent SDK - Claude Code Docs
-- Chatbot Arena + | OpenLM.ai: Chatbot Arena + | OpenLM.ai
-- Fix sound or audio problems in Windows - Microsoft Support: Fix sound or audio problems in Windows - Microsoft Support
+- Every Time-Series Database Benchmark Ever. 2025: Every Time-Series Database Benchmark Ever. 2025
+- A-Z Databases: A-Z Databases
+- Business eligibility and ownership guidelines - Google Business Profile Help: Business eligibility and ownership guidelines - Google Business Profile Help
+- Current California Ocean Recreational Fishing Regulations - San Francisco Region: Current California Ocean Recreational Fishing Regulations - San Francisco Region
+- TDLR Approved | Official Texas Driving, Education & Continuing Education Directory: TDLR Approved | Official Texas Driving, Education & Continuing Education Directory
+- The Fund - Reaves Utility Income Fund: The Fund - Reaves Utility Income Fund
 
 ### Contradictions
 - No explicit contradictions extracted in this turn.
@@ -2994,113 +2860,167 @@ limitations, risks, and unresolved debates
 - Which criticism appears consistently versus only in opinion pieces?
 
 ### Source Catalog
-#### Source 0101: REIT Market Data Reports | Nareit
-- Source ID: ee15e523fb7a
+#### Source 0096: Every Time-Series Database Benchmark Ever. 2025
+- Source ID: 085c701674a5
 - Turn: 7
 - Query: "Quantum error correction applications and constraints" benchmark data
+- Provider: ddgs
+- Search rank: 2
+- Domain: www.timestored.com
+- URL: https://www.timestored.com/data/time-series-database-benchmarks
+- Search snippet: The topbenchmarkssection will focus on time-series databases that are fast, provide time-series joins, time window aggregations anddatacompression, rather than pull in more general solutions. Updated 2nd January 2025 Various open-source databases got closer to topperformancein clickbench. See our blog post for thedatatrends and events ...
+- Page word count estimate: 216
+- Relevance score: 17.33
+- Key excerpt lines:
+  - Every Time-Series Database Benchmark Ever. 2025
+  - Pulse Platform
+  - QStudio
+  - Data
+  - kdb+
+  - Blog
+  - Contact
+  - Home
+  - Pulse Platform
+  - QStudio
+  - Data
+  - kdb+ Tutorials
+- Extended extract lines:
+  - Every Time-Series Database Benchmark Ever. 2025 Pulse Platform QStudio Data kdb+ Blog Contact Home Pulse Platform QStudio Data kdb+ Tutorials Blog Every Time-Series Database Benchmark Ever. 2025 Home Data Updated 2nd January 2025 This page will gather ongoing time-series database benchmarks into one location. Top Benchmarks - Those that are open, comprehensive and thorough Benchmarks by Date - Sorted Chronologically The top benchmarks section will focus on time-series databases that are fast, provide time-series joins, time window aggregations and data compression, rather than pull in more general solutions. Updated 2nd January 2025 Various open-source databases got closer to top performance in clickbench. See our blog post for the data trends and events of 2024 . It's not a benchmark, but we tested to see if DuckDB can run every query that kdb+ did in a recent KX article. Updated 10th September 2024 For me, there are three interesting happenings lately: DuckDB/QuestDB are both now very competitive. (DuckDB in th last year moved 2.7->2.1 in clickbench. QuestDB 24.2->2.7. Lower = better) ClickBench now includes many parquet/partitioned based timings showing the rise in popularity The inclusion and rising popularity of embedded databases: chdb and duckdb Clickbench Clickbench is a large suite of benchmarks produced by clickhouse themselves. The focus is not time-series but a wide range of queries.
+
+#### Source 0097: A-Z Databases
+- Source ID: de4e01940a20
+- Turn: 7
+- Query: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview???
+- Provider: ddgs
+- Search rank: 3
+- Domain: libguides.northwestern.edu
+- URL: https://libguides.northwestern.edu/az.php
+- Search snippet: Annual edited volume that providesauthoritativereviews of significant topics within environmental science and engineering, including ecology and conservation science, water and energy resources, atmosphere, oceans, climate change, agriculture and living resources, and human dimensions of resource use and global change. Covers 1976-present.
+- Page word count estimate: 102
+- Relevance score: 17.00
+- Key excerpt lines:
+  - A-Z Databases
+  - Skip to Main Content
+  - Toggle navigation
+  - Northwestern University
+  - Libraries Home
+  - Subject Librarians
+  - Hours
+  - Ask Us
+  - Chat
+  - Email
+  - Schedule a Research Consultation
+  - Libraries | Research Guides
+- Extended extract lines:
+  - A-Z Databases Skip to Main Content Toggle navigation Northwestern University Libraries Home Subject Librarians Hours Ask Us Chat Email Schedule a Research Consultation Libraries | Research Guides Library Research Guides A-Z Databases A-Z Databases Find the best library databases for your research. Toggle search filters navigation 1238 DATABASES DATABASES Go Database Subject Filter All Subjects African Studies (72) American Studies (123) Anthropology (36) Archaeology (2) Art and Architecture (53) Asian American Studies (31) Biological Sciences (43) Black Studies (93) Business (108) Caribbean Studies (21) Chemistry (41) Chicago Area (1) Chinese Studies (81) Classics (38) Cognitive Science (13) Communication Sciences and Disorders (14)
+
+#### Source 0098: Business eligibility and ownership guidelines - Google Business Profile Help
+- Source ID: 45cf6b24d24a
+- Turn: 7
+- Query: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview???
 - Provider: ddgs
 - Search rank: 1
-- Domain: www.reit.com
-- URL: https://www.reit.com/data-research/reit-market-data
-- Search snippet: Detaileddatafor U.S. REITs including IPOs, secondary equity,andsecondary debt offeringsandhistorical perspective of capital raised for publicly-listed U.S. REIT securities including IPOs, secondary equityandsecondary debt offerings. Learn moreSee full list on reit.comREITs are an important part of the economy, investors’ portfolioandlocal communities. Taken individually, a single REIT-owned property can change the entire complexion of a neighborhood. When viewed as an entire industry, REITs significantly contribute to the tax base, job marketandbusiness community. Learn moreSee full list on reit.comREITs have been included in S&P’s rankings of the largest companies in America since 2001. View listings of REITs currently included in the S&P 500, S&P 400andS&P 600. Learn moreSee full list on reit.comAn alphabetized list of REITsandreal estate operating companies listed by ticker symbol. Companies can be sorted by the exchange they currently trade on. Learn moreSee full list on reit.comA five-year comparison of monthly performance between the investment sector indexes of the FTSE Nareit U.S. Real Estate Index Seriesandthe S&P 500, Russell 2000,andDow Jones Industrial Average. Learn moreSee full list on reit.comMicrosoft Services HubarXiv is a free distribution serviceandan open-access archive for nearly 2.4 million scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineeringandsystems science,andeconomics. Materials on this site are not peer-reviewed by arXiv.Browse different datasets and services available fromCME Groupto help inform investing decisions, including real-time, historical, and alternativedata.Join the GeForce community. Browse categories, post your questions, or just chat with other members.
-- Page word count estimate: 126
-- Relevance score: 18.67
-- Key excerpt lines:
-  - REIT Market Data Reports | Nareit
-  - Skip to main content
-  - Accessibility statement
-  - Username
-  - Password
-  - Reset your password
-  - Create new account
-  - Reset your password
-  - Filter by Type
-  - Company Page
-  - Event
-  - News
-- Extended extract lines:
-  - REIT Market Data Reports | Nareit Skip to main content Accessibility statement Username Password Reset your password Create new account Reset your password Filter by Type Company Page Event News Tax Report Join Nareit Login Main navigation What's a REIT? Open submenu What's a REIT? REIT Basics Types of REITs REIT Sectors REIT Glossary REIT FAQs The History of REITs How to Form a REIT Explore REIT Sectors REITs invest in the majority of real estate property types, including offices, apartment buildings, warehouses, retail centers, medical facilities, data centers, cell towers and hotels. Learn more Investing in REITs Open submenu Investing in REITs Why Invest in REITs How to Invest in REITs REIT Directory REIT Funds Sustainability REIT Assets by State Global Real Estate Investor Resources
-
-#### Source 0102: Migrate to Claude Agent SDK - Claude Code Docs
-- Source ID: 1b64e9619d3d
-- Turn: 7
-- Query: "Quantum error correction applications and constraints" official documentation
-- Provider: ddgs
-- Search rank: 4
-- Domain: code.claude.com
-- URL: https://code.claude.com/docs/en/agent-sdk/migration-guide
-- Search snippet: DocumentationChanges: The Agent SDKdocumentationhas moved from the Claude Code docs to the API Guide under a dedicated Agent SDK section. The Claude Code docs now focus on the CLI tool and automation features.
-- Page word count estimate: 111
+- Domain: support.google.com
+- URL: https://support.google.com/business/answer/13763036?hl=en
+- Search snippet: How to edit your Business Profile HowGooglesources& uses business information How to request ownership of a profile someone else verified Always keep the business owner informed about which actions the authorized representative will take on the Business Profile. Always follow Guidelines for representing your business onGoogle.
+- Page word count estimate: 348
 - Relevance score: 16.67
 - Key excerpt lines:
-  - Migrate to Claude Agent SDK - Claude Code Docs
+  - Business eligibility and ownership guidelines - Google Business Profile Help
   - Skip to main content
-  - Claude Code Docs
-  - home page
-  - English
-  - Search...
-  - ⌘
-  - K
-  - Ask AI
-  - Claude Developer Platform
-  - Claude Code on the Web
-  - Claude Code on the Web
+  - Google Business Profile Help
+  - Sign in
+  - Google Help
+  - Help Center
+  - Community
+  - Google Business Profile
+  - Privacy Policy
+  - Terms of Service
+  - Submit feedback
+  - Send feedback on...
 - Extended extract lines:
-  - Migrate to Claude Agent SDK - Claude Code Docs Skip to main content Claude Code Docs home page English Search... ⌘ K Ask AI Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation SDK references Migrate to Claude Agent SDK Getting started Build with Claude Code Deployment Administration Configuration Reference Agent SDK What's New Resources Agent SDK Overview Quickstart Core concepts How the agent loop works Use Claude Code features Work with sessions Input and output Streaming Input Handle approvals and user input Stream responses in real-time Get structured output from agents Extend with tools Give Claude custom tools Connect to external tools with MCP
+  - Business eligibility and ownership guidelines - Google Business Profile Help Skip to main content Google Business Profile Help Sign in Google Help Help Center Community Google Business Profile Privacy Policy Terms of Service Submit feedback Send feedback on... This help content & information General Help Center experience Next Help Center Community Get-Started Guide Notification Do not share any private or confidential personal or business-related information in this public forum. Business eligibility and ownership guidelines Not all businesses are eligible for a Business Profile on Google. To be eligible for a Business Profile, any business must meet the criteria as listed below. Owners and authorized representatives for a Business Profile must also follow the guidelines as listed. Eligible businesses To qualify for a Business Profile, a business must make in-person contact with customers during its stated hours. There are some exceptions: ATMs, video-rental kiosks, and express mail drop boxes are permitted. If you add these locations, you must include contact information for customers to get help. Seasonal businesses, like an ice-skating rink only open in winter months, are eligible. These businesses must display permanent signage at their location year-round. Delivery-only food services are permitted with some conditions. Learn about Virtual Food Brands . Ineligible businesses The following are examples of businesses that aren’t eligible for a Business Profile: Rental or for-sale properties such as vacation homes, model homes, or vacant apartments. Sales or leasing offices, however, are eligible for verification. An ongoing service, class, or meeting at a location that you don't own or have the authority to represent. Lead generation agents or companies. Brands, organizations, artists, and other online-only businesses. Businesses associated with products or services that require the customer to be a certain minimum age, like alcohol, cannabis, or weapons, aren’t permitted as service-area businesses without a storefront. Any business whose address is listed as a P.O. box or mailbox in a remote location. Ownership Only business owners or authorized representatives may verify and manage their business information on a Business Profile. If you wish to share management access to your Business Profile with others, you can
 
-#### Source 0103: Chatbot Arena + | OpenLM.ai
-- Source ID: 7b2f830379e2
+#### Source 0099: Current California Ocean Recreational Fishing Regulations - San Francisco Region
+- Source ID: a959cf100ac9
+- Turn: 7
+- Query: "Quantum error correction applications and constraints" safety regulation
+- Provider: ddgs
+- Search rank: 5
+- Domain: wildlife.ca.gov
+- URL: https://wildlife.ca.gov/Fishing/Ocean/Regulations/Fishing-Map/San-Francisco
+- Search snippet: Apr 1, 2026 ·Regulationsfor some species may differ inside San Francisco Bay; viewregulationsapplicable to San Francisco Bay. This summary of currentregulationswas updated on April 1, 2026. See California ocean sport fishingregulationsfor completeregulationinformation, includingregulationsfor species not covered here. Point Arena to Pigeon Point.
+- Page word count estimate: 152
+- Relevance score: 16.33
+- Key excerpt lines:
+  - Current California Ocean Recreational Fishing Regulations - San Francisco Region
+  - Skip to Main Content
+  - See the
+  - Emergency Closures
+  - page before visiting a CDFW office, facility or property.
+  - CA.gov
+  - Official website of the
+  - State of California
+  - About Us
+  - Contact
+  - State of California
+  - Department of Fish and Wildlife
+- Extended extract lines:
+  - Current California Ocean Recreational Fishing Regulations - San Francisco Region Skip to Main Content See the Emergency Closures page before visiting a CDFW office, facility or property. CA.gov Official website of the State of California About Us Contact State of California Department of Fish and Wildlife Menu Custom Google Search Home Fishing Hunting Licensing Conservation Learning Home / Fishing / Ocean / Regulations / Fishing Map / San Francisco Current California Ocean Recreational Fishing Regulations - San Francisco Region 38°57.5 N. Latitude (Point Arena in Mendocino County) to 37°11 N. Latitude (Pigeon Point in San Mateo County) Includes a portion of Mendocino County, the portions of Sonoma, Marin and San Francisco counties bordering the Pacific Ocean, and most of San Mateo County Regulations for some species may differ inside San Francisco Bay; view regulations applicable to San Francisco Bay. This summary of current regulations was updated on April 9, 2026 . See
+
+#### Source 0100: TDLR Approved | Official Texas Driving, Education & Continuing Education Directory
+- Source ID: b57a3ffcad1b
+- Turn: 7
+- Query: "Quantum error correction applications and constraints" safety regulation
+- Provider: ddgs
+- Search rank: 7
+- Domain: www.tdlrapproved.com
+- URL: https://www.tdlrapproved.com
+- Search snippet: A comprehensive list of drivingsafetycourses for ticket dismissal and insurance reduction. Taking a drivingsafetyand eduction course promotes adherence to trafficregulationsand highlight the significance of minimizing traffic violations, injuries, and accidents on the road.
+- Page word count estimate: 231
+- Relevance score: 15.67
+- Key excerpt lines:
+  - TDLR Approved | Official Texas Driving, Education & Continuing Education Directory
+  - Texas Department of Licensing and Regulation
+  - Approved Courses
+  - Driving Safety Courses
+  - Driver Education
+  - Continuing Education
+  - Type 3A Driving Records
+  - Blog
+  - Contact
+  - TDLR Approved Online Driving Safety & Education Courses Directory
+  - TDLR Approved
+  - Driving Safety Courses
+- Extended extract lines:
+  - TDLR Approved | Official Texas Driving, Education & Continuing Education Directory Texas Department of Licensing and Regulation Approved Courses Driving Safety Courses Driver Education Continuing Education Type 3A Driving Records Blog Contact TDLR Approved Online Driving Safety & Education Courses Directory TDLR Approved Driving Safety Courses A comprehensive list of driving safety courses for ticket dismissal and insurance reduction. Taking a driving safety and eduction course promotes adherence to traffic regulations and highlight the significance of minimizing traffic violations, injuries, and accidents on the road. Find a Provider Dismissing Your Ticket How to dismiss your ticket in Texas What is a Type 3A Driving Record? How much does a driving safety course cost? Does taking a driving safety course remove tickets from my record in Texas? Resources Driver Safety Provider List Type 3A Driving Record Provider List Validate a Driving Safety Certificate TDLR Approved Driver Education Driver education courses are designed for students to obtain a Texas Driver License. Courses are offered for individuals from 14-17, 18-24 and over 25 years of age. Find a Provider Students & Parents Driver Education FAQs Parent-taught driver education Adult Driver Education Verification of Enrollment Knowledge Base Driver Education Providers Driver Education and Safety Laws TDLR Approved Continuing Education Find how many hours of continuing education you need to renew your occupational license and where you can take a course. Find a Provider Continuing Education
+
+#### Source 0101: The Fund - Reaves Utility Income Fund
+- Source ID: e3925edd83a6
 - Turn: 7
 - Query: "Quantum error correction applications and constraints" benchmark data
 - Provider: ddgs
-- Search rank: 4
-- Domain: openlm.ai
-- URL: https://openlm.ai/chatbot-arena
-- Search snippet: 2 days ago ·This leaderboard is based on the followingbenchmarks. Chatbot Arena - a crowdsourced, randomized battle platform for large language models (LLMs). We use 6M+ user votes to compute Elo ratings. AAII - Artificial Analysis Intelligence Index v3 aggregating 10 challenging evaluations. ARC-AGI - Artificial General Intelligencebenchmarkv2 to measure fluid intelligence.
-- Page word count estimate: 94
-- Relevance score: 16.67
+- Search rank: 5
+- Domain: utilityincomefund.com
+- URL: https://utilityincomefund.com/the_fund
+- Search snippet: 2 days ago ·The Fund Information about the Reaves Utility Income Fund. Investment Objective Fund investment objective content…PerformanceFundperformancedata… Holdings Current fund holdings… Distributions Distribution information…Microsoft Services Hub
+- Page word count estimate: 112
+- Relevance score: 10.33
 - Key excerpt lines:
-  - Chatbot Arena + | OpenLM.ai
-  - OpenLM
-  - AI
-  - Products
-  - Blog
-  - Projects
-  - Company
-  - Chatbot Arena +
-  - ❖
-  - OproAI
-  - 2026
-  - Apr 9
+  - The Fund - Reaves Utility Income Fund
+  - The Fund | Reaves Utility Income Fund Performance & Holdings
+  - Skip to content
+  - Thank you for your interest in the
+  - Reaves Utility Income Fund. Please complete the following to receive timely information about
+  - the Fund.
+  - X
+  - The Fund
+  - Open menu
+  - Investment Objective
+  - Performance
+  - Holdings
 - Extended extract lines:
-  - Chatbot Arena + | OpenLM.ai OpenLM AI Products Blog Projects Company Chatbot Arena + ❖ OproAI 2026 Apr 9 This leaderboard is based on the following benchmarks. Chatbot Arena - a crowdsourced, randomized battle platform for large language models (LLMs). We use 6M+ user votes to compute Elo ratings. AAII - Artificial Analysis Intelligence Index v3 aggregating 10 challenging evaluations. ARC-AGI - Artificial General Intelligence benchmark v2 to measure fluid intelligence. 🔍 Open LM Model Arena Elo Coding Vision AAII MMLU-Pro ARC-AGI Organization License 🏆 Gemini-3.1-Pro 1505 1531 1310 76 91 77.1 Google Proprietary
-
-#### Source 0104: Fix sound or audio problems in Windows - Microsoft Support
-- Source ID: c500a6087839
-- Turn: 7
-- Query: "Quantum error correction applications and constraints" official documentation
-- Provider: ddgs
-- Search rank: 7
-- Domain: support.microsoft.com
-- URL: https://support.microsoft.com/en-gb/windows/fix-sound-or-audio-problems-in-windows-73025246-b61c-40fb-671a-2535c7cd56c8
-- Search snippet: Audio issues on your PC can be incredibly frustrating, especially when you're trying to watch a video, attend a meeting, or listen to music. Fortunately, most sound problems can b
-- Page word count estimate: 245
-- Relevance score: 15.67
-- Key excerpt lines:
-  - Fix sound or audio problems in Windows - Microsoft Support
-  - Related topics
-  - ×
-  - Troubleshooting hardware in Windows
-  - Audio
-  - Fix sound or audio problems in Windows
-  - Fix audio issues when no sound plays from speakers or headphones in Windows
-  - Fix missing or undetected audio output device in Windows
-  - Fix low or quiet sound in Windows
-  - Fix audio stops working after a Windows update in Windows
-  - Fix microphone problems in Windows
-  - Fix distorted or crackling audio in Windows
-- Extended extract lines:
-  - Fix sound or audio problems in Windows - Microsoft Support Related topics × Troubleshooting hardware in Windows Audio Fix sound or audio problems in Windows Fix audio issues when no sound plays from speakers or headphones in Windows Fix missing or undetected audio output device in Windows Fix low or quiet sound in Windows Fix audio stops working after a Windows update in Windows Fix microphone problems in Windows Fix distorted or crackling audio in Windows Fix app audio not working while system sounds work in Windows Fix Bluetooth connected but no sound issue on Windows Update Audio drivers in Windows Bluetooth Fix Bluetooth problems in Windows Fix Bluetooth audio only playing in one channel Fix Bluetooth disappeared in Windows Troubleshoot Bluetooth not connecting in Windows Troubleshoot transferring files using Bluetooth Fix Bluetooth connected but no sound issue on Windows Bluetooth keeps disconnecting in Windows Update Bluetooth drivers in Windows Camera Camera doesn't work in Windows Fix a missing Camera Roll in Windows Camera app shows error 0xA00F4244 NoCamerasAreAttached Drivers A driver can't load on this device About the ELAN fingerprint driver troubleshooter for devices upgrading from Windows 10 to Windows 11 Fix graphics device problems with error code 43 Fix USB-C problems in Windows How to fix Error 0xA: IRQL_not_less_or_equal How to fix WHEA_UNCORRECTABLE_ERROR Keyboard and Mouse Mouse and keyboard problems in Windows Some function keys aren't working the way they did before Printers and Scanners Fix printer connection and printing problems in Windows
+  - The Fund - Reaves Utility Income Fund The Fund | Reaves Utility Income Fund Performance & Holdings Skip to content Thank you for your interest in the Reaves Utility Income Fund. Please complete the following to receive timely information about the Fund. X The Fund Open menu Investment Objective Performance Holdings Distributions The Adviser Open menu Investment Philosophy Investment Process Our Team Resources Open menu Quarterly Fact Sheet Distribution News Annual Tax Information Annual & Semi-Annual Reports SEC Filings / Section 19(a) Notices Legal Documents Intro To Closed-End Funds Contact Us Open menu Contact The Adviser Contact The Administrator + The Fund Investment Objective Performance Holdings Distributions + The Adviser Investment Philosophy
 
 ## Turn 8
 
@@ -3120,7 +3040,7 @@ limitations, risks, and unresolved debates
 - "Quantum error correction applications and constraints" benchmark data
 
 ### Turn Findings
-- Turn 8 gathered 48 candidate results around limitations, risks, and unresolved debates.
+- Designing and validating a research questionnaire - Part 1 - PMC: Designing and validating a research questionnaire - Part 1 - PMC
 
 ### Contradictions
 - No explicit contradictions extracted in this turn.
@@ -3131,6 +3051,33 @@ limitations, risks, and unresolved debates
 - Which criticism appears consistently versus only in opinion pieces?
 
 ### Source Catalog
+#### Source 0102: Designing and validating a research questionnaire - Part 1 - PMC
+- Source ID: 8de083acaf6b
+- Turn: 8
+- Query: "Quantum error correction applications and constraints" limitations criticism
+- Provider: ddgs
+- Search rank: 3
+- Domain: pmc.ncbi.nlm.nih.gov
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10405529
+- Search snippet: Abstract Questionnaires are often used as part of research studies to collect data from participants. However, the information obtained through a questionnaire is dependent on how it has been designed, used, and validated. In this article, we look at the types of research questionnaires, their applications andlimitations, and how a new questionnaire is developed. Keywords: Patient health ...
+- Page word count estimate: 115
+- Relevance score: 20.00
+- Key excerpt lines:
+  - Designing and validating a research questionnaire - Part 1 - PMC
+  - Skip to main content
+  - An official website of the United States government
+  - Here's how you know
+  - Here's how you know
+  - Official websites use .gov
+  - A
+  - .gov
+  - website belongs to an official
+  - government organization in the United States.
+  - Secure .gov websites use HTTPS
+  - A
+- Extended extract lines:
+  - Designing and validating a research questionnaire - Part 1 - PMC Skip to main content An official website of the United States government Here's how you know Here's how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. Search Log in Dashboard Publications Account settings Log out Search… Search NCBI Primary site navigation Search Logged in as: Dashboard Publications Account settings Log in Search PMC Full-Text Archive Search in PMC Journal List User Guide
+
 ## Turn 9
 
 ### Focus
@@ -3149,7 +3096,7 @@ limitations, risks, and unresolved debates
 - "Quantum error correction applications and constraints" benchmark data
 
 ### Turn Findings
-- Turn 9 gathered 42 candidate results around limitations, risks, and unresolved debates.
+- News on YouTube - YouTube Help: News on YouTube - YouTube Help
 
 ### Contradictions
 - No explicit contradictions extracted in this turn.
@@ -3160,6 +3107,33 @@ limitations, risks, and unresolved debates
 - Which criticism appears consistently versus only in opinion pieces?
 
 ### Source Catalog
+#### Source 0103: News on YouTube - YouTube Help
+- Source ID: ef9c975ede3e
+- Turn: 9
+- Query: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" How do authoritative sources answer: "Quantum error correction applications and constraints" overview????
+- Provider: ddgs
+- Search rank: 1
+- Domain: support.google.com
+- URL: https://support.google.com/youtube/answer/9057101?hl=en
+- Search snippet: To help identify high-quality,authoritativenewssourcesto showcase in our news features, our systems use various signals that may include quality and coverage of recent and relevant news events. Channels must also follow our YouTube Community Guidelines. We use machine learning techniques to produce the signals used to identify news sources for ...See full list on support.google.comWe’ve developed several features to help you connect with the latest news on YouTube. These features use signals from Google News to identify news momentsandtop stories of the day. The content in YouTube news features comes fromauthoritativenewssources. The specific videos that surface are algorithmically generated based on several signals, wh...See full list on support.google.comIf you have any feedback or suggestions for news features on YouTube, you can: 1. Submit feedback via More in the panels, or 2. Send us feedbackusing the Menu from your profile picture.See full list on support.google.comThe apostles also regarded the books of the Old Testament asauthoritative, so they counted as Scripture. Even certain books of the New Testament that had been written by associates of apostles—such as Mark and Luke—were held to beauthoritativeand so found a place in Scripture.- Persons placed horsdocombat (“out of combat”) through sickness, wounds, detention or any other cause. Common article 3 to the Geneva Conventions prohibits the following actions: - Violence to life and person, in particular murder, mutilation, cruel treatment and torture [.]Full Circle Design is the most honest design agency in Irelandandthe UK, creating luxury websites, branding,andmarketing that deliver real results.Freemathlessons andmathhomework help from basicmathto algebra, geometry and beyond. Students, teachers, parents, and everyone can find solutions to theirmathproblems instantly.
+- Page word count estimate: 208
+- Relevance score: 18.67
+- Key excerpt lines:
+  - News on YouTube - YouTube Help
+  - Skip to main content
+  - YouTube Help
+  - Sign in
+  - Google Help
+  - Help Center
+  - Fix a problem
+  - Watch videos
+  - Manage your account & settings
+  - Supervised experiences on YouTube
+  - YouTube Premium
+  - Create & grow your channel
+- Extended extract lines:
+  - News on YouTube - YouTube Help Skip to main content YouTube Help Sign in Google Help Help Center Fix a problem Watch videos Manage your account & settings Supervised experiences on YouTube YouTube Premium Create & grow your channel Monetize with the YouTube Partner Program Policy, safety, & copyright Community YouTube Privacy Policy YouTube Terms of Service Submit feedback Send feedback on... This help content & information General Help Center experience Next Help Center Community Creator Tips News on YouTube At YouTube, we’re committed to connecting you with content from high quality news sources to help you stay up to date on the latest events. Below, you can learn more about how we elevate high quality content through our news features. YouTube News Features We’ve developed several features to help you connect with the latest news on YouTube. These features use signals from Google News to identify news moments and top stories of the day. The videos that surface in YouTube news features are algorithmically generated based on several signals, which may include, but are not limited to: Local relevance and language Relevance to news topic or event Freshness of content Live streams Reporting intent, or videos with journalistic context YouTube’s standard recommendation signals Follow YouTube’s Community Guidelines
+
 ## Turn 10
 
 ### Focus
@@ -3178,7 +3152,7 @@ limitations, risks, and unresolved debates
 - "Quantum error correction applications and constraints" benchmark data
 
 ### Turn Findings
-- Epstein Files: Timeline, Documents, People & Investigation Explained: Epstein Files: Timeline, Documents, People & Investigation Explained
+- Turn 10 gathered 27 candidate results around limitations, risks, and unresolved debates.
 
 ### Contradictions
 - No explicit contradictions extracted in this turn.
@@ -3189,33 +3163,6 @@ limitations, risks, and unresolved debates
 - Which criticism appears consistently versus only in opinion pieces?
 
 ### Source Catalog
-#### Source 0105: Epstein Files: Timeline, Documents, People & Investigation Explained
-- Source ID: 8c00d943d649
-- Turn: 10
-- Query: "Quantum error correction applications and constraints" timeline history
-- Provider: ddgs
-- Search rank: 4
-- Domain: dystopeka.com
-- URL: https://dystopeka.com/epstein-files
-- Search snippet: A structured breakdown of the Epstein files —timeline, key people, court documents, and unresolved questions explained clearly using verified sources.
-- Page word count estimate: 351
-- Relevance score: 17.67
-- Key excerpt lines:
-  - Epstein Files: Timeline, Documents, People & Investigation Explained
-  - Skip to content
-  - Fri. Apr 10th, 2026
-  - DYSTOPEKA.COM
-  - Circling The Drain to The Cesspool Of Topeka KS.
-  - Dystopolice
-  - Topeka Cop Watch
-  - Topeka Police Incidents
-  - Topeka Police: Incidents, Reports, and Investigations
-  - Topeka Police Scanner Radio Codes.
-  - Police Scanner Codes
-  - Dystopolice
-- Extended extract lines:
-  - Epstein Files: Timeline, Documents, People & Investigation Explained Skip to content Fri. Apr 10th, 2026 DYSTOPEKA.COM Circling The Drain to The Cesspool Of Topeka KS. Dystopolice Topeka Cop Watch Topeka Police Incidents Topeka Police: Incidents, Reports, and Investigations Topeka Police Scanner Radio Codes. Police Scanner Codes Dystopolice Epstein Files: What the Timeline, Documents, and Network Reveal The Epstein Files hub serves as a central index for timelines, documents, people, and ongoing investigations connected to Jeffrey Epstein’s network. This page organizes verified reporting, court records, and analysis into a structured view of the case — including the Zorro Ranch investigation, one of the most unresolved parts of the broader investigation. Coverage prioritizes verifiable information while clearly distinguishing between confirmed facts, reported claims, and unverified allegations. 👉 Start with: Jeffrey Epstein Explained 👉 Featured investigation: Zorro Ranch ⚠️ Unresolved Investigation: Zorro Ranch The Zorro Ranch investigation raises serious questions about what happened after 2019 — including missing transparency, halted state efforts, and years of silence. 👉 What happened — and what still isn’t explained 📋 Epstein Files List: Timeline, Documents, and Names This Epstein files list organizes the case into the three core areas readers search for most: timeline events, major document types, and people referenced in records and reporting. It is designed as a hub-page index, helping readers move quickly between the most important parts of the case while keeping the distinction clear between confirmed facts, public records, allegations, and unresolved questions. 📊 Epstein Timeline List 1953 – Jeffrey Epstein is born in Brooklyn, New York 1970s – Teaches at Dalton School and enters elite social circles Late 1970s–1980s – Moves from Bear Stearns into finance and private wealth work 1980s–1990s – Builds wealth, connections, and a growing property portfolio Early 2000s – Allegations involving minors begin surfacing more publicly 2005–2008 – Florida investigation develops 2008 – Epstein enters a controversial plea deal 2008–2009 – Serves jail time with unusual work-release privileges 2009–2018 – Maintains social and financial access after conviction 2019 – Arrested on federal sex trafficking charges August 10, 2019 – Dies in custody 2021 – Ghislaine Maxwell is convicted
-
 ## Detail Reserve Appendix
 
 - Digital System Design for Quantum Error Correction Codes - PMC Skip to main content An official website of the United States government Here's how you know Here's how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. Search Log in Dashboard Publications Account settings Log out Search… Search NCBI Primary site navigation Search Logged in as: Dashboard Publications Account settings Log in Search PMC Full-Text Archive Search in PMC Journal List User Guide
@@ -3225,104 +3172,157 @@ limitations, risks, and unresolved debates
 - Quantum Error Correction · Chair for Design Automation Chair for Design Automation School of Computation, Information and Technology Technical University of Munich Home/News Team Research Quantum Computing Microfluidics Nanotechnology Logic Synthesis Physical Design Machine Learning Design Automation for ETCS Publications Teaching Awards Public Outreach Videos How To Find Us â Quantum Computing Quantum Error Correction In classical computing, coding theory is an essential field of research with widespread influence in both theory and practical applications, e.g., Wifi, Bluetooth, and 4G/5G. The nature of qubits and quantum operations in quantum computing is very fragile and error-prone, which leads to the fact that quantum algorithms are currently unusable in practice and quantum advantage is out of reach. Thus, Quantum Error-Correction (QEC), i.e., methods to protect quantum information from noise, is a crucial field of research towards the realization of quantum computers. Currently, it is still unclear what the best QEC protocol is, or which protocol should be used for what scenarios. There are several factors that influence the optimal choice of Quantum Error-Correcting Code (QECC) to implement, e.g., architectural constraints of physical devices, ability of logical operations, and scalability. It is therefore crucial to develop both theoretical groundwork and QEC methods that are physically more realistic and realizable. On this page, we summarize our work on QEC which includes both, theoretical work on state-of-the-art quantum codes and decoding algorithms, and the implementation of open-source software tools for QEC and thereby lies on the interface between theoretical groundwork and practical applications. All proposed software tools have been implemented in the open-source quantum error-correction tool QECC as part of the
 - Quantum Error Correction | Applications of Quantum Mechanics Jump to navigation Applications of Quantum Mechanics Cornell PHYS 3317 Fall 2018 Quantum Error Correction Quantum Codes There is a fundamental problem with quantum computers: any possible speed-up requires quantum entanglement and superpositions. These are vulnerable to environmental noise. For example, consider a state of the form $$ |\psi\rangle= \alpha|\uparrow\rangle+ \beta |\downarrow\rangle, $$ where $\alpha$ and $\beta$ are arbitrary numbers. The states $|\uparrow\rangle$ and $|\downarrow\rangle$ could, for example, be spin states of a defect in silicon. A stray magnetic field in the $\hat z$ direction would cause this state to evolve under the Hamiltonian $$ H=\left(\begin{array}{cc}\epsilon&0\\0&-\epsilon\end{array}\right). $$ As you know from all of the homework problems, after some time $t$ the state would become $$ |\psi\rangle\to \alpha e^{-i\phi}|\uparrow\rangle+ \beta e^{i\phi} |\downarrow\rangle, $$ where $\phi=\epsilon t/\hbar$. The phase relation is messed up. Similarly, a stray field in the $\hat x$ direction would cause this state to evolve under the Hamiltonian$$ H=\left(\begin{array}{cc}0&\epsilon\\ \epsilon&0\end{array}\right). $$ The time evolution here is harder, but you have done this in your homework as well, and the result is $$ |\psi\rangle\to \left(\alpha\cos\phi-i\beta\sin\phi\right)|\uparrow\rangle +\left(\beta\cos\phi-i\alpha\sin\phi\right)|\downarrow\rangle. $$ Again, $\phi=\epsilon t$. Of course $\epsilon$ is random and varies with time. But you get the picture, the state gets messed up pretty quick. We need a strategy to protect the quantum state from the environment. There are two principles that we will apply. First, we somehow want to add redundency. Second, we want the information to be stored in a non-local manner. In classical information theory we would describe such a way of storing information as an "encoding." Thus we describe this strategy as using "quantum codes". The simplest example of a quantum code is the "3-qbit" flip code. It stores one bit of information in three spin-1/2's. The Hilbert space for these three spins is spanned by the 8 states: $\uparrow\uparrow\uparrow,\uparrow\uparrow\downarrow,\uparrow\downarrow\uparrow,\uparrow\downarrow\downarrow, \downarrow\uparrow\uparrow,\downarrow\uparrow\downarrow,\downarrow\downarrow\uparrow,\downarrow\downarrow\downarrow$. We use only two of these, $|0\rangle = |\uparrow\uparrow\uparrow\rangle$, and $|1\rangle=|\downarrow\downarrow\downarrow\rangle$, and the encoding of an arbitrary qbit is $$ |\psi\rangle= \alpha|0\rangle+\beta|1\rangle. $$ Clearly we are using three times the resources that we need to. The benefit is that we can detect and correct any "bit-flip error". In particular, imagine a cosmic ray comes and flips the first bit, $$ |\psi\rangle\to |\psi^\prime\rangle= \alpha |\downarrow\uparrow\uparrow\rangle + \beta|\uparrow\downarrow\downarrow\rangle. $$
 - [1907.11157] Quantum Error Correction: An Introductory Guide Quantum Error Correction: An Introductory Guide \name Joschka Roffe CONTACT Joschka Roffe. Email: j.roffe@sheffield.ac.uk Department of Physics & Astronomy, University of Sheffield, Sheffield, S3 7RH, United Kingdom Abstract Quantum error correction protocols will play a central role in the realisation of quantum computing; the choice of error correction code will influence the full quantum computing stack, from the layout of qubits at the physical level to gate compilation strategies at the software level. As such, familiarity with quantum coding is an essential prerequisite for the understanding of current and future quantum computing architectures. In this review, we provide an introductory guide to the theory and implementation of quantum error correction codes. Where possible, fundamental concepts are described using the simplest examples of detection and correction codes, the working of which can be verified by hand. We outline the construction and operation of the surface code, the most widely pursued error correction protocol for experiment. Finally, we discuss issues that arise in the practical implementation of the surface code and other quantum error correction codes. keywords: Quantum computing; quantum error correction; stabilizer codes; surface codes 1 Introduction In place of the bits in traditional computers, quantum computers work by controlling and manipulating quantum bits (qubits). Through the precise control of quantum phenomena such as entanglement, it is in principle possible for such qubit-based devices to outperform their classical counterparts. To this end, efficient quantum computing algorithms have been developed with applications such as integer factorisation [ 1 ] , search [ 2 ] , optimisation [ 3 ] and quantum chemistry [ 4 ] . There is currently no preferred qubit technology; a variety of physical systems are being explored for use as qubits, including photons [ 5 , 6 ] , trapped ions [ 7 , 8
-- Quantum Error Correction Materials Market Size Report, 2034 Skip to main content Industry Reports Aerospace and Defense Agriculture Animal Health and Nutrition Automotive Chemicals and Materials Construction Consumer Goods and Services Energy and Power Food and Beverages Healthcare Industrial Machinery Media and Technology Packaging Professional Services Semiconductors and Electronics GMIPulse Resources Press Release Blogs Infographics Whitepapers Media Citations Megatrends About About Us Our People Our Services Contact us Home Chemicals and Materials Advanced Materials Nanomaterials Quantum Error Correction Materials Market call us Download free PDF Quantum Error Correction Materials Market Size & Share 2025 - 2034 Market Size by Material Type, by Qubit Platform, by Application, Global Forecast.
 - Demonstrating quantum error mitigation on logical qubits - PMC Skip to main content An official website of the United States government Here's how you know Here's how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. Search Log in Dashboard Publications Account settings Log out Search… Search NCBI Primary site navigation Search Logged in as: Dashboard Publications Account settings Log in Search PMC Full-Text Archive Search in PMC Journal List User Guide
 - Quantum Error Correction: The Key to Quantum Computing home Our Quantum Advantage challenge with $20,000 BTC award is live. More Details → Home Hackathons Platform Team Blog Research Contact Us Platform Access What Is Quantum Error Correction: The Key to Quantum Computing January 9, 2025 • 7 min read Hrant Gharibyan Co-founder & CEO Quantum computing is taking the tech world by storm. This field uses quantum mechanics to process information in ways far beyond the capabilities of classical computers. Unlike traditional systems that use binary bits, quantum computers use qubits, which can exist in multiple states at the same time due to superposition and entanglement. The result is breakthroughs in areas like quantum cryptography , drug discovery, and materials science. All that said, quantum computing faces major challenges that hinder its practical implementation. Qubits are highly sensitive to environmental noise, temperature fluctuations, and electromagnetic interference, leading to errors in computation. As these errors accumulate, it becomes difficult to maintain accuracy. The biggest challenge is managing and correcting these errors without disrupting the delicate quantum state—a problem unique to quantum computing. This is where quantum error correction (QEC) comes in, presenting a way to detect and fix errors while preserving quantum coherence. As the field reaches new heights, QEC remains a key area of research, with major players like Google, IBM, and Microsoft making efforts to overcome these limitations and unleash the full potential of quantum computing. What Is Quantum Error Correction? Quantum error correction , or quantum computing error correction, is a set of techniques for protecting quantum information from errors that are caused by noise and decoherence. While classical error correction deals with 1s or 0s, QEC involves qubits that exist in superpositions. This makes it a challenging yet key aspect of quantum computing. A common method of QEC is using multiple physical qubits to encode a logical qubit. Entangling these qubits helps detect and correct quantum errors without having to directly measure the qubits’ states. QEC Codes, like the Shor code, are examples of schemes that apply these techniques and can correct various types of errors. There are two classes of error correction codes: surface and stabilizer . Surface codes: refer to two-dimensional lattices of physical qubits that create logical qubits with topological protection. Errors can happen through the lattice without affecting the logical qubit’s global state. ‍ Stabilizer codes: detect errors using measurements and apply error correction to corrupted qubits using classical logic. Examples of this class include the Shor code and Steane code.\ ‍ Types of Quantum Error Correction QEC is divided into three main categories:
-- Frontiers | Quantum computing: foundations, algorithms, and emerging applications Frontiers in Quantum Science and Technology About us About us Who we are Mission and values History Leadership Awards Impact and progress Frontiers' impact Our annual reports Thought leadership Publishing model How we publish Open access Peer review Research integrity Research Topics FAIR² Data Management Fee policy Services Societies National consortia Institutional partnerships Collaborators More from Frontiers Frontiers Forum Frontiers Planet Prize Press office Sustainability Career opportunities Contact us All journals All articles Submit your research Search Frontiers in Quantum Science and Technology
-- Common Looker Studio Limitations & How to Work Around it Skip to content Get Started Free Product Integrations Solutions Resources Pricing Get a Demo Get Started Free Blog/ 7 Looker Studio Limitations Nobody Warns You About (And How to Work Around Each One) Published: April 10, 2026 - 9 min read Vijay Srinivas Join our community Did you know? Coefficient eliminates the need to export data manually and rebuild stale dashboards. Get started by pulling live data into pre-built Sheets dashboards. Looker Studio is genuinely useful and genuinely free — for most Google-ecosystem reporting it does the job well. But it has real limitations that only show up after you’ve built a few dashboards and run into them. This guide covers the seven that catch teams most often, with a practical workaround for each one. 1. Slow Load Times on Large Datasets What the problem is This is the most commonly cited Looker Studio complaint. In 2025 G2 reviews, 38% of users flagged performance issues — slow dashboards, timeouts and visualisations that take several seconds to render. The more data sources and blends in a report, the worse it gets. Why it happens Looker Studio runs queries against the data source every time a report loads or a filter changes. It does not cache aggressively. Community connectors add extra latency on top. The result: a 10-widget dashboard pulling from three sources can take 10 to 20 seconds to load — which is long enough for a stakeholder to assume something is broken. Pricing note Looker Studio Pro ($9/user/month) does not fix slow load times. The performance issue is architectural. Pro adds governance features, not query speed. More on what Pro actually includes here . Workaround Push the heavy lifting upstream. Pre-aggregate and pre-join your data in Google Sheets or BigQuery before connecting to Looker Studio. Instead of asking Looker Studio to calculate on the fly, feed it a clean, pre-calculated table. One clean Sheets tab connected to Looker Studio loads in a fraction of the time of a multi-source blend queried at render. Coefficient pulls live data from 100+ sources into Google Sheets on a refresh schedule. Your Looker Studio report reads from a clean, pre-calculated Sheets tab — no multi-source query at load time. Get started free . 2. Data Blending Is Capped at 5 Sources What the problem is Looker Studio limits data blending to five sources per blend. For marketing teams combining CRM, paid ads, SEO, email and financial data that ceiling is reached fast. Hit it and your only options are cutting a data source or splitting analysis across multiple reports — neither of which gives stakeholders the unified view they need. Why it matters The cap itself is bad enough. The silent failure mode is worse. When a schema changes upstream — a renamed column in Google Sheets, an updated field in your CRM — blends break without a useful error message. Your dashboard just shows empty charts. You may not find out for days if no one is actively monitoring it. Pricing note The 5-source blending limit applies on both the free tier and Looker Studio Pro. Upgrading does not raise the cap.
+- Quantum Error Correction Materials Market Size Report, 2034 Skip to main content Industry Reports Aerospace and Defense Agriculture Animal Health and Nutrition Automotive Chemicals and Materials Construction Consumer Goods and Services Energy and Power Food and Beverages Healthcare Industrial Machinery Media and Technology Packaging Professional Services Semiconductors and Electronics GMIPulse Resources Press Release Blogs Infographics Whitepapers Media Citations Megatrends About About Us Our People Our Services Contact us Home Chemicals and Materials Advanced Materials Nanomaterials Quantum Error Correction Materials Market call us Download free PDF Quantum Error Correction Materials Market Size & Share 2025 - 2034 Market Size by Material Type, by Qubit Platform, by Application, Global Forecast.
 - eCFR :: 49 CFR Chapter I -- Pipeline and Hazardous Materials Safety Administration, Department of Transportation Site Feedback You are using an unsupported browser × You are using an unsupported browser. This web site is designed for the current versions of Microsoft Edge, Google Chrome, Mozilla Firefox, or Safari. × Site Feedback The Office of the Federal Register publishes documents on behalf of Federal agencies but does not have any authority over their programs. We recommend you directly contact the agency associated with the content in question. If you have comments or suggestions on how to improve the www.ecfr.gov website or have questions about using www.ecfr.gov, please choose the 'Website Feedback' button below. Website Feedback If you would like to comment on the current content, please use the 'Content Feedback' button below for instructions on contacting the issuing agency Content Feedback If you have questions for the Agency that issued the current document please contact the agency directly. × Website Feedback * Your Name * Email Attachment * How can we help you? * I am requesting technical help or providing website feedback This contact form is only for website help or website suggestions. If you have questions or comments regarding a published document please contact the publishing agency. Comments or questions about document content can not be answered by OFR staff. Please do not provide confidential information or personal data. ☰ Home Browse Titles Agencies Incorporation by Reference Recent Updates Search Recent Changes Corrections Reader Aids Reader Aids Home
-- [2412.20380] Artificial Intelligence for Quantum Error Correction: A Comprehensive Review Skip to main content Learn about arXiv becoming an independent nonprofit. We gratefully acknowledge support from the Simons Foundation, member institutions , and all contributors. Donate > quant-ph > arXiv:2412.20380 Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About Quantum Physics arXiv:2412.20380 (quant-ph)
-- IBM lays out clear path to fault-tolerant quantum computing | IBM Quantum Computing Blog Skip to main content IBM Quantum Hardware Qiskit Product Research Blog Community IBM Quantum Network Events Qiskit ecosystem Resources Documentation Learning Case studies Feedback program Sign in to Platform Sign in Quantum Research Blog How IBM will build the world's first large-scale, fault-tolerant quantum computer With two new research papers and an updated quantum roadmap, IBM® lays out a clear, rigorous, comprehensive framework for realizing a large-scale, fault-tolerant quantum computer by 2029. Date 10 Jun 2025 Authors Ryan Mandelbaum Jay Gambetta Jerry Chow Tushar Mittal Theodore J. Yoder Andrew Cross Matthias Steffen Topics Research Systems Error Correction & Mitigation Community Share this blog
 - Safety Regulations 2025 Key Changes & Compliance Tips - Intrinsically Safe Store Skip to content PRICE MATCH GUARANTEE +1,000 Certified products Speak to an expert 832 699 6726 SIGN IN Your Global Authority in Hazardous Areas INTRINSICALLY SAFE PRODUCTS Cameras All Cameras Digital Camera Camera Enclosures CCTV Cameras Wearable Cameras Drones Explosion Proof Fans All Explosion Proof Fans Class 2 Division 1 Heater Exhaust Fans Fan & Blower Heaters Refrigerators Lighting - Fixed All Lighting - Fixed Annular Light Fittings Explosion-Proof Emergency Indicator LED Light Fixed Lighting Floodlight Work Light Lighting - Portable All Lighting - Portable Rechargeable Cap Lamp Dual-Light Flashlights Flashlights Hand Lamp
+- Credit Union and Corporate Call Report Data | NCUA Skip to main content An official website of the United States government Here’s how you know Help With My Credit Union Español Contact Us About About Created by the U.S. Congress in 1970, the National Credit Union Administration is an independent federal agency that insures deposits at federally insured credit unions, protects the members who own credit unions, and charters and regulates federal credit unions. Mission & Values Leadership Reports to Congress NCUA Board Speaker Request Form Staff Speaker Request Form Historical Timeline Workplace Resolutions Careers Business Opportunities Open Government Inspector General Budget & Performance AskNCUA Regulation & Supervision Regulation & Supervision The NCUA protects the safety and soundness of the credit union system by identifying, monitoring and reducing risks to the National Credit Union Share Insurance Fund. Backed by the full faith and credit of the United States, the Share Insurance Fund provides up to $250,000 of federal share insurance to millions of account holders in all federal credit unions and the overwhelming majority of state-chartered credit unions. Letters to Credit Unions & Other Guidance Examination Program Rulemakings & Proposals for Comment Legal Opinions Rules & Regulations Regulatory & Compliance Resources Supervisory Review Committee Board Appeals Corporate Credit Unions Regulatory Reporting Manuals & Guides Examination Modernization Initiatives CUSO Activities Analysis
 - Quantum error correction below the surface code threshold | Nature Skip to main content Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript. Advertisement View all journals Search My Account Login Content Explore content About the journal Publish with us Sign up for alerts RSS feed nature articles article Quantum error correction below the surface code threshold Download PDF Download PDF Article Open access Published: 09 December 2024 Quantum error correction below the surface code threshold Google Quantum AI and Collaborators Nature volume 638 , pages 920–926 ( 2025 ) Cite this article
-- Artificial Intelligence for Quantum Error Correction: A Comprehensive Review 1 Introduction 2 Preliminaries 2.1 Quantum Computing 2.2 Quantum Errors and Noise 2.3 AI and ML 2.3.1 Overview of AI and ML 2.3.2 Machine Learning Paradigms 2.3.3 Neural Networks and Deep Learning 2.3.4 Training Machine Learning Models 2.4 Mathematical Notations and Conventions 2.4.1 Quantum Mechanics Notations 2.4.2 ML Notations 3 Conventional QEC Methods 3.1 Conventional QEC Codes 3.2 Stabilizer Formalism 3.3 Syndrome Measurement and Decoding 4 Limitations of Conventional QEC Methods 4.1 High Resource Overhead 4.2 Complexity of Decoding Algorithms 4.3
-- Quantum Error Correction Materials Market Opportunity, Growth Drivers, Industry Trend Analysis, and Forecast 2025 - 2034 Questions? +1-866-353-3335 0 Reports Custom Research Research Partners FAQ Enterprise Solution Contact Us Fraud Alert English Japanese English Japanese 0 Reports Custom Research Research Partners FAQ Enterprise Solution Contact Us Fraud Alert Questions? +1-866-353-3335 SEARCH What are you looking for? Need help finding what you are looking for? Contact Us Compare Free Samples Home Market Research Reports Electronic Components Semiconductor Manufacturing & Equipment PUBLISHER: Global Market Insights Inc. | PRODUCT CODE: 1892656
+- IBM lays out clear path to fault-tolerant quantum computing | IBM Quantum Computing Blog Skip to main content IBM Quantum Hardware Qiskit Product Research Blog Community IBM Quantum Network Events Qiskit ecosystem Resources Documentation Learning Case studies Feedback program Sign in to Platform Sign in Quantum Research Blog How IBM will build the world's first large-scale, fault-tolerant quantum computer With two new research papers and an updated quantum roadmap, IBM® lays out a clear, rigorous, comprehensive framework for realizing a large-scale, fault-tolerant quantum computer by 2029. Date 10 Jun 2025 Authors Ryan Mandelbaum Jay Gambetta Jerry Chow Tushar Mittal Theodore J. Yoder Andrew Cross Matthias Steffen Topics Research Systems Error Correction & Mitigation Community Share this blog
+- GitHub - lishix520/academic-paper-skills: Systematic framework for planning and writing academic papers using Claude Code. Includes strategist (planning) and composer (writing) skills with quality checkpoints. · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities Code security Secure your code as you build Secret protection Stop leaks before they start EXPLORE Why GitHub Documentation Blog Changelog Marketplace View all features
 - Amendments to Parts 8 and 31 of the OHS Regulation Begin Apr 1 - Manufacturing Safety Alliance of BC (2026) News Careers Events Event calendar Safety Pinnacle Awards | Excellence Award Nominations Make It Safe Conference Webinars Sponsorship Opportunities FAQ Board & Governance Our research and projects About About the Alliance Our Story Our People Safety Advisors Training Instructors Research Projects OHS Competency Tools and Framework News and Events News Make It Safe Conferences MIS Vancouver Island | March 2026 MIS Okanagan | April 2026 2026 Safety Pinnacle Awards Gala | Get Tickets 2026 Safety Pinnacles – Excellence Award Nominations Open Financial Academic Awards The 2025 Safety Pinnacle Awards Gala Honourees Partnerships Partners Associate Members Sponsorship Opportunities Board & Governance Board of Directors Committees Overview Constitution and Bylaws Strategic Plan Business Plan Financial Statements
 - Error Correction in Quantum Networks Products PRODUCTS OVERVIEW Aliro Orchestrator AliroNet® Quickstart AliroNet® Aliro Simulator Use Cases Resources Solution Briefs Webinars Blog Research & Patents FAQ Videos Podcast About Us Company News Events Awards Strategic Partners Become a Partner Careers Contact Us Quantum Education Menu Error Correction in Quantum Networks Keith Kenemer January 09 Twitter Facebook LinkedIn A method of localized, scheduled quantum error correction (Local QEC) developed by researchers at Aliro makes it possible to correct certain errors in an entanglement-based quantum network. In this article, we’ll explain the basics of quantum error correction, and how QEC can be leveraged in an entanglement-based network for more robust connections. Quantum systems provide novel capabilities and at the same time they also impose restrictions on our ability to leverage these new capabilities. For example, the no-cloning theorem in quantum mechanics states that an arbitrary unknown quantum state can not be copied with high fidelity. This restricts how quantum data can be transmitted. On the other hand, it also prevents adversaries from intercepting quantum communications undetected. Entanglement is another uniquely quantum phenomenon which is exploited in quantum networking to support secure communication (via teleportation). The quantum processes involved in entanglement generation and distribution are fundamentally stochastic and this constrains the potential performance, necessitating retries and delays within the protocols that result in decoherence and exposure of qubits to environmental noise. Delays can quickly render a qubit(s) unusable by the network as the fidelity (a measure of qubit quality) decays exponentially with time. These errors can be corrected with Local QEC. Entanglement-based error correction basics: notation Dirac notation is used to represent quantum states in the state vector formalism. The main takeaway here is that although this notation may be unfamiliar, what it's really conveying is qubit states as vectors and linear algebra is used to create linear combinations of vectors, to compute inner products, to multiply matrices by vectors, to compute the evolution of the state. The physics is abstracted to linear algebra in all these instances. There's another, more general state formalism that can be used called the density state formalism. In this case, the states are represented by matrices. Linear algebra is still the root of the mathematics, but the density state formalism is more general, and allows for calculations regarding subsystems of composite systems or noise, or how noise affects the system. It’s much easier to compute these quantities in density state formalism.
-- Building a quantum implementation roadmap with the arrival of Quantum Error Correction | Q-CTRL Products Our products View all Quantum navigation Navigate without GPS Quantum computing Learn quantum computing Run quantum algorithms Build quantum computers Documentation Integrations Solutions Our work AI for quantum Advancing quantum tech with AI innovation Education Begin your quantum journey with Q-CTRL Quantum sensing Detect the undetectable Quantum computing Unleash the hidden potential of quantum computers Defense Mission-ready quantum tools for defense PNT Quantum-augmented positioning, navigation and timing Our users Educators Enterprise and government Data center and HPC providers Defense and aerospace Quantum computing developers Quantum learners Quantum hardware suppliers Industry leaders Biotechnology and pharmaceuticals Cybersecurity Finance Materials and industrial chemistry Transport and logistics
+- Artificial Intelligence for Quantum Error Correction: A Comprehensive Review 1 Introduction 2 Preliminaries 2.1 Quantum Computing 2.2 Quantum Errors and Noise 2.3 AI and ML 2.3.1 Overview of AI and ML 2.3.2 Machine Learning Paradigms 2.3.3 Neural Networks and Deep Learning 2.3.4 Training Machine Learning Models 2.4 Mathematical Notations and Conventions 2.4.1 Quantum Mechanics Notations 2.4.2 ML Notations 3 Conventional QEC Methods 3.1 Conventional QEC Codes 3.2 Stabilizer Formalism 3.3 Syndrome Measurement and Decoding 4 Limitations of Conventional QEC Methods 4.1 High Resource Overhead 4.2 Complexity of Decoding Algorithms 4.3
+- Quantum Error Correction Materials Market Opportunity, Growth Drivers, Industry Trend Analysis, and Forecast 2025 - 2034 Questions? +1-866-353-3335 0 Reports Custom Research Research Partners FAQ Enterprise Solution Contact Us Fraud Alert English Japanese English Japanese 0 Reports Custom Research Research Partners FAQ Enterprise Solution Contact Us Fraud Alert Questions? +1-866-353-3335 SEARCH What are you looking for? Need help finding what you are looking for? Contact Us Compare Free Samples Home Market Research Reports Electronic Components Semiconductor Manufacturing & Equipment PUBLISHER: Global Market Insights Inc. | PRODUCT CODE: 1892656
+- Popular Timelines - Famous people, events, places and more Recently Updated Most Popular Birthdays Trending Carolina Durante 2 hours ago Coachella 2026: Bieber's Nostalgia, Karol G's Achievement, and Radiohead's Immersive Art The Wire 2 hours ago US and Israel conflict escalates amid Gaza tensions and Iran ceasefire efforts. Will Ferrell 3 hours ago Will Ferrell, Olivia Rodrigo, and Matt Damon to Close Out SNL Season 51 Barbie Ferreira 3 hours ago Barbie Ferreira trending amidst 'Faces of Death' release and new movie highlights. Swae Lee 3 hours ago Swae Lee to Headline SUNY Cortland's Spring Fling Concert This Year League of Legends 2 hours ago Nocturne Rework Speculation and Locke Champion Leaks Stir League of Legends Community Cub Swanson 3 hours ago Cub Swanson's UFC 327 Fight: A Look at Legacy, Opponent, and Roufus' Influence. Rui Hachimura 3 hours ago Hachimura's role with Lakers amidst injuries to key players like Doncic and Reaves. Joshua Bassett 4 hours ago Joshua Bassett faces backlash for Olivia Rodrigo mention, hints side of story. Dennis Rodman 19 days ago Dennis Rodman to be inducted into WWE Hall of Fame Class of 2026. Stephen Curry 4 hours ago Stephen Curry Returns to Warriors' Starting Lineup After Injury Layoff Against Kings. Joc Pederson 4 hours ago
+- ICIS data and analytics for confident decisions | ICIS | ICIS Customer login Buy now Commodities Inform your decision making with data that supports thousands of decisions daily. Markets Commodity finder Chemicals Energy Sustainability Fertilizers Find a commodity Search for individual chemicals, energy or fertilizers commodities to learn more about the pricing, news and analysis we offer. Commodity finder Industries Find out how ICIS data is helping businesses in your sector. Sectors Chemicals producer Energy producer Consumer durables & non-durables Finance Health & Pharmaceutical Logistics & Transport Plastics & Rubber converter Recycling Research & Consulting services Retail Trader & Distributor Utilities Make the decisions that matter when they matter Get the latest commodity news and analysis – instantly, effortlessly and reliably. Discover Ask ICIS Solutions Meet strategic objectives with specialised analytics that optimise outcomes. Data & intelligence Pricing News & analysis Data & analytics Data as a Service Supply & Demand Database
+- Frontiers | Quantum computing: foundations, algorithms, and emerging applications Frontiers in Quantum Science and Technology About us About us Who we are Mission and values History Leadership Awards Impact and progress Frontiers' impact Our annual reports Thought leadership Publishing model How we publish Open access Peer review Research integrity Research Topics FAIR² Data Management Fee policy Services Societies National consortia Institutional partnerships Collaborators More from Frontiers Frontiers Forum Frontiers Planet Prize Press office Sustainability Career opportunities Contact us All journals All articles Submit your research Search Frontiers in Quantum Science and Technology
+- Price Analysis | In-Depth Crypto Price Trends & Daily Analysis Menu Advertise ✖ Posts Events Professionals Companies Coins/Tokens Exchanges View All Posts View All Events View All Professionals View All Companies View All Coins/Tokens View All Exchanges Login Log In to View Notifications. Log in to access your notifications and stay updated. If you’re not a member yet, Sign Up to get started! Login / Signup Portfolio Home News Information Research Report Press Release Guest Post Sponsored Cryptocurrency Regulation Markets Live Market Price Analysis Cryptocurrency Price Prediction Launchpad Airdrops Product Reviews Centralised Exchanges Decentralised Exchanges Cryptocurrency Wallets Crypto Tracking Tools
+- [2412.20380] Artificial Intelligence for Quantum Error Correction: A Comprehensive Review Skip to main content Learn about arXiv becoming an independent nonprofit. We gratefully acknowledge support from the Simons Foundation, member institutions , and all contributors. Donate > quant-ph > arXiv:2412.20380 Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About Quantum Physics arXiv:2412.20380 (quant-ph)
 - A New Link Between Generalized Quantum Error-Correcting Codes, Complexity and Physics | Joint Center for Quantum Information and Computer Science (QuICS) Skip to main content Search Show Main Menu About Expand child menu of About Mission & Vision News Join QuICS Partners Quantum Information at UMD Contact Us Directions People Expand child menu of People Fellows Administration Fellowship Programs Postdoctoral Researchers Graduate Students Alumni Visitors Events Expand child menu of Events Past Events Past Seminars Research Expand child menu of Research Theory of Quantum Computation and Communication Implementations of Quantum Computers and Networks Quantum Information and Physics What Is Quantum Information Science? Error Correction Zoo Quantum Algorithm Zoo Publications Education Expand child menu of Education Courses Previous Courses Search
-- Quantum error correction near the coding theoretical bound | npj Quantum Information Skip to main content Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript. Advertisement View all journals Search My Account Login Content Explore content About the journal Publish with us Sign up for alerts RSS feed nature npj quantum information articles article Quantum error correction near the coding theoretical bound Download PDF Download PDF Article Open access Published: 30 September 2025 Quantum error correction near the coding theoretical bound Daiki Komoto 1 & Kenta Kasai 1 npj Quantum Information volume 11 , Article number:
 - error correction mechanism: Topics by Science.gov Toggle navigation Topics by Science.gov Home About Science.gov Sample records for error correction mechanism « 1 2 3 4 5 » Reed-Solomon error-correction as a software patch mechanism. DOE Office of Scientific and Technical Information (OSTI.GOV) Pendley, Kevin D. This report explores how error-correction data generated by a Reed-Solomon code may be used as a mechanism to apply changes to an existing installed codebase. Using the Reed-Solomon code to generate error-correction data for a changed or updated codebase will allow the error-correction data to be applied to an existing codebase to both validate and introduce changes or updates from some upstream source to the existing installed codebase. Errata report on Herbert Goldstein's Classical Mechanics: Second edition DOE Office of Scientific and Technical Information (OSTI.GOV) Unseren, M.A.; Hoffman, F.M. This report describes errors in Herbert Goldstein's textbook Classical Mechanics, Second Edition (Copyright 1980, ISBN 0-201-02918-9). Some of the errors in current printings of the text were corrected in the second printing; however, after communicating with Addison Wesley, the publisher for Classical Mechanics, it was discovered that the corrected galley proofs had been lost by the printer and that no one had complained of any errors in the eleven years since the second printing. The errata sheet corrects errors from all printings of the second edition. Subthreshold muscle twitches dissociate oscillatory neural signatures of conflicts from errors. PubMed Cohen, Michael X; van Gaal, Simon 2014-02-01 We investigated the neural systems underlying conflict detection and error monitoring during rapid online error correction/monitoring mechanisms. We combined data from four separate cognitive tasks and 64 subjects in which EEG and EMG (muscle activity from the thumb used to respond) were recorded. In typical neuroscience experiments, behavioral responses are classified as "error" or "correct"; however, closer inspection of our data revealed that correct responses were often accompanied by "partial errors" - a muscle twitch of the incorrect hand ("mixed correct trials," ~13% of the trials). We found that these muscle twitches dissociated conflicts from errors in time-frequency domain analyses of EEG data. In particular, both mixed-correct trials and full error trials were associated with enhanced theta-band power (4-9Hz) compared to correct trials. However, full errors were additionally associated with power and frontal-parietal synchrony in the delta band. Single-trial robust multiple regression analyses revealed a significant modulation of theta power as a function of partial error correction time, thus linking trial-to-trial fluctuations in power to conflict. Furthermore, single-trial correlation analyses revealed a qualitative dissociation between conflict and error processing, such that mixed correct trials were associated with positive theta-RT correlations whereas full error trials were associated with negative delta-RT correlations. These findings shed new light on the local and global network mechanisms of conflict monitoring and error detection, and their relationship to online action adjustment. Â© 2013. Supporting Dictation Speech Recognition Error Correction: The Impact of External Information ERIC Educational Resources Information Center Shi, Yongmei; Zhou, Lina 2011-01-01 Although speech recognition technology has made remarkable progress, its wide adoption is still restricted by notable effort made and frustration experienced by users while correcting speech recognition errors. One of the promising ways to improve error correction is by providing user support. Although support mechanisms have been proposed forâ¦ Alteration of a motor learning rule under mirror-reversal transformation does not depend on the amplitude of visual error. PubMed Kasuga, Shoko; Kurata, Makiko; Liu, Meigen; Ushiba, Junichi 2015-05-01 Human's sophisticated motor learning system paradoxically interferes with motor performance when visual information is mirror-reversed (MR), because normal movement error correction further aggravates the error. This error-increasing mechanism makes performing even a simple reaching task difficult, but is overcome by alterations in the error correction rule during the trials. To isolate factors that trigger learners to change the error correction rule, we manipulated the gain of visual angular errors when participants made arm-reaching movements with mirror-reversed visual feedback, and compared the rule alteration timing between groups with normal or reduced gain. Trial-by-trial changes in the visual angular error was tracked to explain the timing of the change in the error correction rule. Under both gain conditions, visual angular errors increased under the MR transformation, and suddenly decreased after 3-5 trials with increase. The increase became degressive at different amplitude between the two groups, nearly proportional to the visual gain. The findings suggest that the alteration of the error-correction rule is not dependent on the amplitude of visual angular errors, and possibly determined by the number of trials over which the errors increased or statistical property of the environment. The current results encourage future intensive studies focusing on the exact rule-change mechanism. Copyright Â© 2014 Elsevier Ireland Ltd and the Japan Neuroscience Society. All rights reserved. A Case for Soft Error Detection and Correction in Computational Chemistry. PubMed van Dam, Hubertus J J; Vishnu, Abhinav; de Jong, Wibe A
+- Building a quantum implementation roadmap with the arrival of Quantum Error Correction | Q-CTRL Products Our products View all Quantum navigation Navigate without GPS Quantum computing Learn quantum computing Run quantum algorithms Build quantum computers Documentation Integrations Solutions Our work AI for quantum Advancing quantum tech with AI innovation Education Begin your quantum journey with Q-CTRL Quantum sensing Detect the undetectable Quantum computing Unleash the hidden potential of quantum computers Defense Mission-ready quantum tools for defense PNT Quantum-augmented positioning, navigation and timing Our users Educators Enterprise and government Data center and HPC providers Defense and aerospace Quantum computing developers Quantum learners Quantum hardware suppliers Industry leaders Biotechnology and pharmaceuticals Cybersecurity Finance Materials and industrial chemistry Transport and logistics
 - Scalable Quantum Error Correction | Quantum Machines Products Control Hardware OPX1000 Modular High-Density Quantum Control Platform OPX+ Ultra-Fast Quantum Controller QDAC-II Compact High-Density DAC QDAC-II Ultra-Low-Noise 24-Channel DAC Control Hardware Second Column QSwitch Software-Controlled Breakout Box Octave Up/Down Conversion Up to 18 GHz QBox Highly Reliable 24-Channel Breakout Box Cryogenic Electronics Control Software QUA Intuitive pulse-level programming QUAlibrate Automated Calibration Software Solutions Use Cases Open Acceleration Stack Advancing Quantum Research Quantum Computing at Scale Quantum for HPC Quantum Control for Transducers Quantum Sensing Quantum Networks Qubit Types Superconducting Semiconductor Spins Optically Addressable Neutral Atoms OPX1000 Microwave Module The Microwave Frontend Module for OPX1000 sets a new benchmark for controllers.
-- Quantum Error Correction Software Market Research Report 2033 Home Dashboard Report Store Aerospace & Defense Automotive & Logistics Banking, Financial Services & Insurance Construction & Manufacturing Consumer Goods Energy & Power Food & Beverage Healthcare ICT, Semiconductor & Electronics Materials & Chemicals About About Us Blogs Careers Contact Us Request Dashboard Demo Report Description Table Of Content Methodology Home ICT, Semiconductor & Electronics Software & Services Quantum Error Correction Software Market Research Report 2033 Quantum Error Correction Software Market Segments - by Component (Software, Services), Deployment Mode (On-Premises, Cloud), Application (Quantum Computing, Quantum Communication, Quantum Cryptography, and Others), End-User (BFSI, Healthcare, Government, IT and Telecommunications, Research & Academia, and Others), and Region (North America, Europe, Asia Pacific, Latin America, and Middle East & Africa) – Global Industry Analysis, Growth, Share, Size, Trends, and Forecast 2025-2033 + Read More ICT-SE-696852 Published Updated: Sep 2025 4.0 Rating 96 Reviews 294 Pages Author: Raksha Sharma Fact-checked by: V. Chandola
+- Quantum computing on the verge: correcting errors, developing algorithms and building up the user base – Physics World Skip to main content IOP Publishing site Menu Sign in Register Back to homepage Topics Browse articles by topic Astronomy and space Atomic and molecular Biophysics and bioengineering Condensed matter Culture, history and society Environment and energy Instrumentation and measurement Materials Mathematics and computation Medical physics Optics and photonics Particle and nuclear People Quantum Scientific enterprise Latest content Browse articles by content type Short reads Research updates News Blog Innovation showcases Events Long reads Features Opinion and reviews Interviews Analysis Multimedia Podcasts Puzzles
 - Making quantum error correction work Jump to Content Research Research Who we are Back to Who we are menu Defining the technology of today and tomorrow. Philosophy We strive to create an environment conducive to many different types of research across many different time scales and levels of risk. Learn more about our Philosophy Learn more Philosophy People Our researchers drive advancements in computer science through both fundamental and applied research. Learn more about our People Learn more People Research areas Back to Research areas menu Research areas Explore all research areas Research areas Back to Research areas menu Explore all research areas Foundational ML & Algorithms Algorithms & Theory Data Management Data Mining & Modeling Information Retrieval & the Web Machine Intelligence Machine Perception Machine Translation Natural Language Processing Speech Processing
 - Homotopy Theoretic and Categorical Models of Neural Information Networks | NSF Public Access Repository skip to main content An official website of the United States government Here's how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( lock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. PAR Home Contact FAQ NSF PAGES Navigation Toggle Navigation PAR Home Contact FAQ Explore Research Products in the PAR It may take a few hours for recently added research products to appear in PAR search results. × Search + Advanced Search × Advanced Search Options Search Across All Fields Subject(s) / Keyword(s): × Identifier Number: What does this include? × Resource Type: Audiovisual Book Book Chapter Conference Paper
-- Quantum error correction with logical qubits | EurekAlert! Advanced Search Home News Releases Multimedia Meetings Login Register News Release 21-Jan-2026 Quantum error correction with logical qubits Scalable and fault-tolerant quantum computers: BMFTR-funded project snaQCs2025 launched Grant and Award Announcement Fraunhofer Institute for Applied Solid State Physics image: Group photo of the participants at the kick-off meeting of the snaQCs2025 project on January 14, 2026, in Cologne. From left to right: Florentin Reiter (Fraunhofer IAF), Carsten Zwilling (point8), Sascha Heußen (neQxt), Florian Kruse (point8), Roman Bansen (neQxt), Nikolas Knake (VDI TZ), Jesko Merkel (point8), Tobias Nauck (Fraunhofer IAF), Edoardo Carnio and Lina Vandré (both neQxt) view more Credit: © Markus Speier Quantum computers have immense potential because they could perform highly complex calculations much faster than current supercomputers. However, the hurdle to the practical application of quantum computers is just as immense today: the error-prone nature of their hardware. Researchers around the world are therefore working on quantum error correction methods to make the calculations of quantum computers more reliable. Against this backdrop, neQxt GmbH, the Fraunhofer Institute for Applied Solid State Physics IAF and Point 8 GmbH have launched the snaQCs2025 project to jointly advance a promising approach to quantum error correction. Using innovative simulation and integration methods, software tools for analysis and optimization, and scalable and error-resistant quantum algorithms, the partners want to develop robust logical quantum bits (qubits) for quantum computing hardware. This approach aims to compensate for the error susceptibility of physical qubits, bringing quantum computing a big step closer to practical use. On January 14, 2026, representatives of the three consortium partners met in Cologne for the project kick-off. The German Federal Ministry of Research, Technology and Space (BMFTR) is supporting the project with €2.5 million over three years as part of the funding program on application-oriented quantum informatics. Making quantum computers more practical “Quantum error correction is a promising approach to significantly reducing the error susceptibility of quantum computers and making the technology more practical. In the snaQCs project, we are demonstrating the practical usability of quantum error correction and fault-tolerant quantum circuits by investigating the integration of error correction routines into quantum algorithms,” explains project coordinator Dr. Sascha Heußen from neQxt. “With an innovative approach that combines analysis, optimization, simulation and fault-tolerant implementation of quantum algorithms, snaQCs is contributing to the realization of scalable quantum computing in Germany,” emphasizes Dr. Florentin Reiter, Head of Business Unit Quantum Systems and snaQCs subproject leader at Fraunhofer IAF. “Quantum computing is one of the most promising topics for the future worldwide. We are very happy to support both progress in this area and Germany as a center of science by contributing our expertise and experience in physics, data analysis and software development to the snaQCs project,” explains Dr. Jesko Merkel, co-founder of point8 and snaQCs subproject leader. Logical qubits outperform physical qubits The most important component of a quantum computer is the qubit. As the central information unit, it performs the same function as the bit in a conventional computer. Companies and scientific institutions around the world are working on various approaches to generating qubits: atoms in electromagnetic traps, electrons in quantum dots, superconducting circuits, or nuclear spins in solids and molecules. Unlike a bit, a qubit can assume several states (such as 0 and 1) simultaneously (superposition). Quantum entanglement also connects several qubits regardless of their distance from each other. What all approaches to realizing these physical qubits have in common is their extreme sensitivity to external influences. Even the weakest microwave pulses, magnetic fields or temperature fluctuations can disrupt the superposition and entanglement of qubits and contaminate the calculations of a quantum computer. The use of quantum error correction can compensate for this: By combining several physical qubits, logical qubits are created in which the errors of individual qubits are compensated for in the network. This is crucial for the scalability of quantum computers: while the susceptibility to errors increases with a rising number of physical qubits, it decreases through their connection to logical qubits. Complete development pipeline for logical qubits, quantum algorithms and analysis software The snaQCs project aims to help unlock the benefits of logical qubits for users and promote the real-world use of quantum computers. To this end, the project partners are working at various levels on the development of particularly reliable logical qubits, optimized, application-oriented quantum algorithms and innovative software for data analysis and characterization. The goal is to provide a complete development pipeline, ranging from the simulation, realization and integration of logical qubits in real quantum computers to the optimization and new development of application-specific and scalable algorithms, as well as data-supported validation and iterative improvement of the methods. The development and experimental implementation of the logical qubits is carried out on ion trap-based quantum computing hardware. Overview: Contributions of the project partners The company neQxt coordinates the joint project and is responsible for the simulation and further development of various quantum error correction methods as well as for the implementation of the developed logical qubits in existing quantum computing hardware. The work at Fraunhofer IAF aims to identify and optimize quantum algorithms and develop new algorithms that are specifically tailored to quantum error correction codes and enable efficient application by industry. The focus is particularly on the scalability of the algorithms. As part of snaQCs, the software company point8 is developing innovative tools for more precise analysis and optimization of quantum error correction circuits. In addition, point8 provides ongoing support to the project partners in experimental data analysis and characterization. About neQxt neQxt GmbH is a full-stack quantum computing company covering the entire spectrum from hardware manufacturing to software development. neQxt is a spin-off of Johannes Gutenberg University Mainz that emerged from the Schmidt-Kaler research group. This allows the company to draw on decades of experience in the field of ion trap quantum computers. neQxt's product portfolio includes quantum computing simulators, portable quantum computer systems, cloud access to quantum computers, and enabling technologies. https://www.neqxt.org/ About Fraunhofer IAF
-- DirectQuery in Power BI: When to Use, Limitations, Alternatives - Power BI | Microsoft Learn Skip to main content Skip to Ask Learn chat experience This browser is no longer supported. Upgrade to Microsoft Edge to take advantage of the latest features, security updates, and technical support. Download Microsoft Edge More info about Internet Explorer and Microsoft Edge Table of contents Exit editor mode Ask Learn Ask Learn Focus mode Table of contents Read in English Add Add to plan Edit Share via Facebook x.com LinkedIn Email Copy Markdown Print Note Access to this page requires authorization. You can try signing in or changing directories . Access to this page requires authorization. You can try changing directories . DirectQuery in Power BI Feedback Summarize this article for me In this article DirectQuery in Power BI lets you keep data in the source and query it at report time instead of importing it. This article explains when to use DirectQuery, its limitations, and alternatives such as hybrid tables, Direct Lake, and live connections so you can choose the right mode. This article describes: Power BI data connectivity modes and where DirectQuery fits
-- 1926.650 - Scope, application, and definitions applicable to this subpart. | Occupational Safety and Health Administration Skip to main content An official website of the United States government. Here’s how you know Here’s how you know The .gov means it’s official. Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site. The site is secure. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely. U.S. Department of Labor MENU Occupational Safety and Health Administration Contact Us FAQ A to Z Index Select Target Language Select Language Afrikaans Albanian Amharic Arabic Armenian Azerbaijani Basque Belarusian Bengali Bosnian Bulgarian Catalan Cebuano Chichewa Chinese (Simplified) Chinese (Traditional) Corsican Croatian Czech Danish Dutch
-- [2601.07223] Quantum Error Correction and Detection for Quantum Machine Learning Skip to main content Learn about arXiv becoming an independent nonprofit. We gratefully acknowledge support from the Simons Foundation, member institutions , and all contributors. Donate > quant-ph > arXiv:2601.07223 Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About Quantum Physics arXiv:2601.07223 (quant-ph)
-- Quantum error correction below the surface code threshold I Introduction II A Surface code memory below threshold III Logical error sensitivity IV Probing the ultra-low error regime with repetition codes V Real-time decoding VI Outlook VII Author Contributions VIII Acknowledgements IX Ethics Declarations X Additional Information XI Data Availability Quantum error correction below the surface code threshold Google Quantum AI and Collaborators (August 24, 2024) Abstract Quantum error correction [ 1 , 2 , 3 , 4 ] provides a path to reach practical quantum computing by combining multiple physical qubits into a logical qubit, where the logical error rate is suppressed exponentially as more qubits are added. However, this exponential suppression only occurs if the physical error rate is below a critical threshold. In this work, we present two surface code memories operating below this threshold: a distance-7 code and a distance-5 code integrated with a real-time decoder.
+- The KITTI Vision Benchmark Suite The KITTI Vision Benchmark Suite A project of Karlsruhe Institute of Technology and Toyota Technological Institute at Chicago home setup stereo Stereo 2012 Stereo 2015 flow Flow 2012 Flow 2015 sceneflow depth Depth Completion Depth Prediction odometry object 2d object 3d object bird's eye view tracking multi-object tracking multi-object tracking and segmentation segmenting and tracking every pixel road semantics pixel-level instance-level raw data submit results A. Geiger | P. Lenz | C. Stiller | R. Urtasun
+- Timeline Maker - Online Timeline Maker & Creator Product Floor Planning Easier Than CAD Import & Scale Custom Shapes & Libraries Data Enabled Diagrams Checks Every Box Collaboration Integrations AI Diagrams Platform Microsoft Google Floor Planning Easier Than CAD Import & Scale Custom Shapes & Libraries Data Enabled Diagrams Checks Every Box Collaboration Integrations AI Diagrams Platform Microsoft Google Enterprise Enterprise License Enterprise License Control Your Data Security Why SmartDraw Resources IT Admin Guide Getting Started Customer Stories Lucidchart Users Guide Visio Users Guide
+- Decoding quantum errors with subspace expansions - PMC Skip to main content An official website of the United States government Here's how you know Here's how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. Search Log in Dashboard Publications Account settings Log out Search… Search NCBI Primary site navigation Search Logged in as: Dashboard Publications Account settings Log in Search PMC Full-Text Archive Search in PMC Journal List User Guide
+- Combating errors in quantum communication: an integrated approach - PMC Skip to main content An official website of the United States government Here's how you know Here's how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. Search Log in Dashboard Publications Account settings Log out Search… Search NCBI Primary site navigation Search Logged in as: Dashboard Publications Account settings Log in Search PMC Full-Text Archive Search in PMC Journal List User Guide
 - Practical Applications for Partial Quantum Error Correction | Joint Center for Quantum Information and Computer Science (QuICS) Skip to main content Search Show Main Menu About Expand child menu of About Mission & Vision News Join QuICS Partners Quantum Information at UMD Contact Us Directions People Expand child menu of People Fellows Administration Fellowship Programs Postdoctoral Researchers Graduate Students Alumni Visitors Events Expand child menu of Events Past Events Past Seminars Research Expand child menu of Research Theory of Quantum Computation and Communication Implementations of Quantum Computers and Networks Quantum Information and Physics What Is Quantum Information Science? Error Correction Zoo Quantum Algorithm Zoo Publications Education Expand child menu of Education Courses Previous Courses Search
-- A clever quantum trick brings practical quantum computers closer | ScienceDaily Skip to main content Your source for the latest research news Follow: Facebook X/Twitter Subscribe: RSS Feeds Newsletter New! Sign up for our free email newsletter . Science News from research organizations A clever quantum trick brings practical quantum computers closer Date: February 6, 2026 Source: ETH Zurich Summary: Quantum computers struggle because their qubits are incredibly easy to disrupt, especially during calculations. A new experiment shows how to perform quantum operations while continuously fixing errors, rather than pausing protection to compute. The team used a method called lattice surgery to split a protected qubit into two entangled ones without losing control. This breakthrough moves quantum machines closer to scaling up into something truly powerful. Share: Facebook Twitter Pinterest LinkedIN Email FULL STORY Quantum computers can protect fragile qubits while storing information, but doing calculations without introducing errors has been a major challenge. Researchers have now shown that âlattice surgeryâ can safely manipulate qubits mid-operation, bringing practical quantum computing a step closer. Credit: Shutterstock Quantum computers have the potential to transform fields ranging from materials science to cryptography, but today they remain extremely difficult to build and operate. One of the biggest challenges comes from decoherence, a process that introduces errors into quantum systems. These errors usually take the form of bit flips or phase flips. A bit flip occurs when a qubit unexpectedly switches between '0' and '1'. A phase flip happens when the phase of a quantum superposition suddenly reverses, changing from positive to negative. Because these changes can happen at random, even a single error can disrupt a calculation. Preventing that disruption is one of the central problems facing quantum engineers. Protecting Information With Logical Qubits To reduce these errors, researchers combine many physical qubits into a single logical qubit and apply continuous error correction. This strategy helps preserve quantum information over time, making storage relatively stable. But storing information is only part of the task. To run a quantum algorithm, qubits must be actively manipulated using quantum gates, which are the basic operations that power quantum computation. Applying those operations without introducing new errors has proven far more difficult than simply keeping qubits stable at rest. A New Way to Compute While Fixing Errors A team led by D-PHYS Professor Andreas Wallraff has now demonstrated a method that tackles this problem directly. Working with researchers from the Paul Scherrer Institute (PSI) and theorists led by Professor Markus Müller at RWTH Aachen University and Forschungszentrum Jülich, the group showed how to perform quantum operations between superconducting logical qubits while correcting errors at the same time. Their findings were recently published in Nature Physics . The work marks an important advance toward fault tolerant quantum computing, where calculations can proceed without being derailed by constant errors.
-- [1907.11157] Quantum Error Correction: An Introductory Guide Skip to main content Learn about arXiv becoming an independent nonprofit. We gratefully acknowledge support from the Simons Foundation, member institutions , and all contributors. Donate > quant-ph > arXiv:1907.11157 Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About Quantum Physics arXiv:1907.11157 (quant-ph)
-- Quantum computing on the verge: correcting errors, developing algorithms and building up the user base – Physics World Skip to main content IOP Publishing site Menu Sign in Register Back to homepage Topics Browse articles by topic Astronomy and space Atomic and molecular Biophysics and bioengineering Condensed matter Culture, history and society Environment and energy Instrumentation and measurement Materials Mathematics and computation Medical physics Optics and photonics Particle and nuclear People Quantum Scientific enterprise Latest content Browse articles by content type Short reads Research updates News Blog Innovation showcases Events Long reads Features Opinion and reviews Interviews Analysis Multimedia Podcasts Puzzles
+- Quantum Error Correction Software Market Research Report 2033 Home Dashboard Report Store Aerospace & Defense Automotive & Logistics Banking, Financial Services & Insurance Construction & Manufacturing Consumer Goods Energy & Power Food & Beverage Healthcare ICT, Semiconductor & Electronics Materials & Chemicals About About Us Blogs Careers Contact Us Request Dashboard Demo Report Description Table Of Content Methodology Home ICT, Semiconductor & Electronics Software & Services Quantum Error Correction Software Market Research Report 2033 Quantum Error Correction Software Market Segments - by Component (Software, Services), Deployment Mode (On-Premises, Cloud), Application (Quantum Computing, Quantum Communication, Quantum Cryptography, and Others), End-User (BFSI, Healthcare, Government, IT and Telecommunications, Research & Academia, and Others), and Region (North America, Europe, Asia Pacific, Latin America, and Middle East & Africa) – Global Industry Analysis, Growth, Share, Size, Trends, and Forecast 2025-2033 + Read More ICT-SE-696852 Published Updated: Sep 2025 4.0 Rating 96 Reviews 294 Pages Author: Raksha Sharma Fact-checked by: V. Chandola
+- Quantum error correction with logical qubits | EurekAlert! Advanced Search Home News Releases Multimedia Meetings Login Register News Release 21-Jan-2026 Quantum error correction with logical qubits Scalable and fault-tolerant quantum computers: BMFTR-funded project snaQCs2025 launched Grant and Award Announcement Fraunhofer Institute for Applied Solid State Physics image: Group photo of the participants at the kick-off meeting of the snaQCs2025 project on January 14, 2026, in Cologne. From left to right: Florentin Reiter (Fraunhofer IAF), Carsten Zwilling (point8), Sascha Heußen (neQxt), Florian Kruse (point8), Roman Bansen (neQxt), Nikolas Knake (VDI TZ), Jesko Merkel (point8), Tobias Nauck (Fraunhofer IAF), Edoardo Carnio and Lina Vandré (both neQxt) view more Credit: © Markus Speier Quantum computers have immense potential because they could perform highly complex calculations much faster than current supercomputers. However, the hurdle to the practical application of quantum computers is just as immense today: the error-prone nature of their hardware. Researchers around the world are therefore working on quantum error correction methods to make the calculations of quantum computers more reliable. Against this backdrop, neQxt GmbH, the Fraunhofer Institute for Applied Solid State Physics IAF and Point 8 GmbH have launched the snaQCs2025 project to jointly advance a promising approach to quantum error correction. Using innovative simulation and integration methods, software tools for analysis and optimization, and scalable and error-resistant quantum algorithms, the partners want to develop robust logical quantum bits (qubits) for quantum computing hardware. This approach aims to compensate for the error susceptibility of physical qubits, bringing quantum computing a big step closer to practical use. On January 14, 2026, representatives of the three consortium partners met in Cologne for the project kick-off. The German Federal Ministry of Research, Technology and Space (BMFTR) is supporting the project with €2.5 million over three years as part of the funding program on application-oriented quantum informatics. Making quantum computers more practical “Quantum error correction is a promising approach to significantly reducing the error susceptibility of quantum computers and making the technology more practical. In the snaQCs project, we are demonstrating the practical usability of quantum error correction and fault-tolerant quantum circuits by investigating the integration of error correction routines into quantum algorithms,” explains project coordinator Dr. Sascha Heußen from neQxt. “With an innovative approach that combines analysis, optimization, simulation and fault-tolerant implementation of quantum algorithms, snaQCs is contributing to the realization of scalable quantum computing in Germany,” emphasizes Dr. Florentin Reiter, Head of Business Unit Quantum Systems and snaQCs subproject leader at Fraunhofer IAF. “Quantum computing is one of the most promising topics for the future worldwide. We are very happy to support both progress in this area and Germany as a center of science by contributing our expertise and experience in physics, data analysis and software development to the snaQCs project,” explains Dr. Jesko Merkel, co-founder of point8 and snaQCs subproject leader. Logical qubits outperform physical qubits The most important component of a quantum computer is the qubit. As the central information unit, it performs the same function as the bit in a conventional computer. Companies and scientific institutions around the world are working on various approaches to generating qubits: atoms in electromagnetic traps, electrons in quantum dots, superconducting circuits, or nuclear spins in solids and molecules. Unlike a bit, a qubit can assume several states (such as 0 and 1) simultaneously (superposition). Quantum entanglement also connects several qubits regardless of their distance from each other. What all approaches to realizing these physical qubits have in common is their extreme sensitivity to external influences. Even the weakest microwave pulses, magnetic fields or temperature fluctuations can disrupt the superposition and entanglement of qubits and contaminate the calculations of a quantum computer. The use of quantum error correction can compensate for this: By combining several physical qubits, logical qubits are created in which the errors of individual qubits are compensated for in the network. This is crucial for the scalability of quantum computers: while the susceptibility to errors increases with a rising number of physical qubits, it decreases through their connection to logical qubits. Complete development pipeline for logical qubits, quantum algorithms and analysis software The snaQCs project aims to help unlock the benefits of logical qubits for users and promote the real-world use of quantum computers. To this end, the project partners are working at various levels on the development of particularly reliable logical qubits, optimized, application-oriented quantum algorithms and innovative software for data analysis and characterization. The goal is to provide a complete development pipeline, ranging from the simulation, realization and integration of logical qubits in real quantum computers to the optimization and new development of application-specific and scalable algorithms, as well as data-supported validation and iterative improvement of the methods. The development and experimental implementation of the logical qubits is carried out on ion trap-based quantum computing hardware. Overview: Contributions of the project partners The company neQxt coordinates the joint project and is responsible for the simulation and further development of various quantum error correction methods as well as for the implementation of the developed logical qubits in existing quantum computing hardware. The work at Fraunhofer IAF aims to identify and optimize quantum algorithms and develop new algorithms that are specifically tailored to quantum error correction codes and enable efficient application by industry. The focus is particularly on the scalability of the algorithms. As part of snaQCs, the software company point8 is developing innovative tools for more precise analysis and optimization of quantum error correction circuits. In addition, point8 provides ongoing support to the project partners in experimental data analysis and characterization. About neQxt neQxt GmbH is a full-stack quantum computing company covering the entire spectrum from hardware manufacturing to software development. neQxt is a spin-off of Johannes Gutenberg University Mainz that emerged from the Schmidt-Kaler research group. This allows the company to draw on decades of experience in the field of ion trap quantum computers. neQxt's product portfolio includes quantum computing simulators, portable quantum computer systems, cloud access to quantum computers, and enabling technologies. https://www.neqxt.org/ About Fraunhofer IAF
+- Israeli-Palestinian Conflict Timeline | CFR Education Skip to main content Find Resources Search Find Resources Search Main navigation Learn Teach Simulations More About Professional Development Ambassador Program Events CFR Education Blog: Global Matters Partners Contact Us Timeline from Conflict & Warfare and Contemporary History Israeli-Palestinian Conflict Timeline Explore the history and important events behind the long-standing Middle East conflict between the Israelis and the Palestinians from 1947 to today. Last Updated June 24, 2025 Smoke rises in Gaza following Israeli strikes on October 9, 2023. Source: Mohammed Salem / Reuters Facebook Twitter Share on Linkedin Created with sketchtool. Email Share The conflict between the Israelis and the Palestinians reflects a long-standing struggle in the region encompassing the land between the Jordan River to the east and the Mediterranean Sea to the west. That conflict has deep historical roots, shaped by statehood claims from the Israelis and the Palestinians that have been supported by various international agendas and activities over time. The Israeli-Palestinian conflict dates back more than a century, with flashpoints building from the United Nations’ 1947 initial UN Partition Plan to the 1973 Yom Kippur War, to the recent Israel-Hamas war sparked in October 2023. Despite continued efforts at brokering peace—including the 1978 Camp David Accords, the Oslo Accords of the 1990s, and the 2020 Abraham Accords—conflict has persisted. This timeline explores some of the pivotal moments in the conflict from 1947 to today. Nov 29, 1947 Nov 29, 1947
+- Market & Financial Insights, Research & Strategy - BofA Securities Skip to main content We’re proud to support U.S. Soccer and FIFA World Cup 2026™. Learn more BankofAmerica.com About Bank of America Client Login CashPro® ExpressView® Global Card Access CashPro API Developer Portal Business Advantage 360 Mercury™ Auto Dealer Portal RV Dealer Portal Account Management Online Who we serve Business Small Business Banking U.S. companies with up to $1 million in revenue. Business Banking U.S. companies with $1 million to $50 million in revenue. Global Commercial Banking Multinational companies with $50 million to $2 billion in revenue. Global Corporate & Investment Banking Multinational companies with over $2 billion in revenue. Institutional Investors Global Markets Global asset managers, hedge funds, pensions and insurance, corporates, governments and other financial institutions. BofA Global Research Our award-winning analysts provide insightful, objective and in-depth research to help you make informed investing decisions. Featured Industries Auto Dealerships Healthcare Higher Education Not-for-profit organizations Public Sector Real Estate Restaurant Technology
 - Quantum Processing Unit Market Size | Industry Report, 2030 Grand View Research Logo Home Industries Consumer Goods Beauty & Personal Care Specialty & Fine Chemicals Food & Beverages Advanced Materials Explore All Industries Companies Basic Materials Consumer Defensive Energy Financial Services Healthcare Industrials Real Estate Technology Utilities Explore All Companies Services Astra (ESG Solution) Brainshare (Consulting) Pipeline (Supplier DB) Signal (Pricing Database) Survey Contact Us Collapse Toggle navigation Reports Consumer Goods » Beauty & Personal Care Clothing, Footwear & Accessories Consumer F&B Electronic & Electrical Homecare & Decor Semiconductors & Electronics » Display Technologies Electronic Security Systems
-- Gold News | Gold Market Analysis & Gold Investment Research - Gold Price Commentary & Forecasts Tell others what you think Please take a moment to review us on Trustpilot. Not now Review us We use cookies (including third-party cookies) to remember your site preferences, to help us understand how visitors use our sites and to make any adverts we show on 3rd party sites more relevant. To learn more, please see our privacy policy and our cookie policy . To agree to our use of cookies, click 'Accept' or choose 'Options' to set your preferences by cookie type. Options Accept About us About BullionVault In the press Reviews English English English (UK) Deutsch Español Français Italiano Polski 日本語 简体中文 繁體中文 Daily audit Help Contact Deposit Log in Open account Buy/sell bullion Live order board Daily Price Investment guide Guide to gold How to buy gold
-- Quantinuum with partners Princeton and NIST deliver seminal result in quantum error correction Products & Solutions Quantum Computers Quantinuum Systems Discover the world’s highest performing quantum computers System Model H1 Our first-generation quantum computer with a linear architecture System Model H2 Our second-generation quantum computer with a racetrack architecture Helios Our Hardware-as-a-Service provides access on-premise, in the cloud, or both Hardware Roadmap Explore our accelerated roadmap aimed at advancing commercial quantum computing SOlutions Quantum Origin Our advanced quantum random number generator (QRNG), designed to strengthen encryption and protect data InQuanto Accelerate quantum computational chemistry for complex molecular & materials simulations Nexus All-in-one quantum computing platform for accessing and managing the highest performance full-stack Cloud Access Explore using our world-leading quantum hardware for commercial applications Developer Tools TKET Develop and execute gate-level quantum computation Guppy Program the next generation of quantum computers with our purpose-built language hosted in Python Lambeq Experiment with the structural relationships between quantum theory and natural languages Research Research Areas Discover the vast landscape of our scientific expertise Technical Blog Get educated on the world of quantum computing Publications Explore research and journal publications from our scientific teams Company About Quantinuum Learn more about the world’s largest integrated quantum computing company Careers
-- Daniel Gottesman's Papers My Papers See also my CV or the list of papers with bibliographic info only . Quantum computation and quantum information : Quantum error correction Stabilizer codes Non-standard codes Overview papers Fault-tolerance papers Fault-tolerant gates and protocols Threshold analysis Quantum cryptography Quantum key distribution Cryptography for quantum states Other quantum cryptographic protocols Other quantum information topics Stabilizer states Quantum complexity Quantum compression and entanglement concentration Locality of quantum operations Error characterization Implementations of quantum information processing Applications of quantum information ideas outside the field Miscellaneous non-quantum information topics Laser cooling Black holes Locality in gauge theories Classical cryptography Foundations of statistical mechanics Spin systems Telescopes Ten of My Most Cited Papers: Class of quantum error-correcting codes saturating the quantum Hamming bound
-- Crypto Market Fear & Greed Index | Real-time Cryptocurrency Sentiment Analysis Fear & Greed Tracker Fear & Greed Tracker Fear & Greed Index Stock Market Crypto Market How it works Guides Get in Touch Log in Real-time Crypto market Fear & Greed Index Last updated: 12:00 AM CRYPTO Fear & Greed Index Market sentiment indicator from extreme fear (0) to extreme greed (100). i Fear & Greed Levels: Extreme Fear 0-25 Fear 25-45 Neutral 45-55 Greed 55-75 Extreme Greed 75-100 16 Extreme Fear + 2 points BTC $ 72,734.14 -0.36 % ETH $
 - Quality Management System Regulation (QMSR) | FDA Skip to main content Skip to FDA Search Skip to in this section menu Skip to footer links An official website of the United States government Here’s how you know The .gov means it’s official. Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site. The site is secure. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely. Search Menu Search FDA Submit search Featured Report a Product Problem Contact FDA FDA Guidance Documents Recalls, Market Withdrawals and Safety Alerts Press Announcements Warning Letters Advisory Committees En Español Products Food Drugs Medical Devices Radiation-Emitting Products Vaccines, Blood, and Biologics Animal and Veterinary Cosmetics Tobacco Products Topics About FDA Combination Products Regulatory Information Safety
-- 💡 Azure Cost Management – Redeployment Limitation (Bicep / ARM) Agree & Join LinkedIn By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Skip to main content LinkedIn Top Content People Learning Jobs Games Join now Sign in 💡 Azure Cost Management – Redeployment Limitation (Bicep / ARM) Report this article Pavan Kumar Gajula Pavan Kumar Gajula Published Apr 9, 2026 + Follow While automating Cost Analysis Views using Bicep, I came across an interesting limitation: 👉 Cost Management Views ( Microsoft.CostManagement/views) do not support update via ARM/Bicep Redeploying the same view results in: The eTag property cannot be used in templates (it’s only supported via REST headers) 🔍 Current workaround To ensure consistent deployments, the only reliable approach is: Delete existing view via REST: Recreate using Bicep ⚠️ Implications Deployment becomes non-idempotent Existing views are always
+- California Gun Laws: A Complete Guide | Giffords Skip to Main Content LAW CENTER TO PREVENT GUN VIOLENCE Who We Are Back Who We Are Gabby’s Story Overview About Giffords Giffords Law Center Giffords PAC Programs Center for Violence Intervention Gun Owners for Safety What We Do Back What We Do Stopping Gun Violence A complex crisis demands a comprehensive response. Legislation Litigation Elections Intervention Culture Change Our Resources Back Our Resources Learn the Facts The problem is clear—and so are the solutions. Issues States Gun Laws Statistics Reports & Research The Latest Back The Latest Press Stories & Analysis
+- [1907.11157] Quantum Error Correction: An Introductory Guide Skip to main content Learn about arXiv becoming an independent nonprofit. We gratefully acknowledge support from the Simons Foundation, member institutions , and all contributors. Donate > quant-ph > arXiv:1907.11157 Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About Quantum Physics arXiv:1907.11157 (quant-ph)
+- Timeline: The Trump administration’s attacks on history since 2025 Close Alert SPLC and Al Otro Lado File Motion to Prevent ICE From Forcing Orleans Parish Sheriff’s Office to Provide Access to Clients and Records – Learn More Explore Our Sites SPLC Learning for Justice Civil Rights Memorial Center Press Center Donate Open submenu Support Us Member Center Friends of the Center Seen us on TV? Toggle Mobile Navigation Racial Justice Issues Open submenu Strengthening Democracy & Voting Rights Dismantling White Supremacy Ending Unjust Imprisonment Eliminating Poverty and Economic Inequality Empowering Voters in the South Find Resources Open submenu Elevating Hope Hopewatch Civil Rights Memorial Center Apathy Is Not An Option Podcast Tracking Hate Extremist Files Hate Map Hatewatch Report Hate Techwatch Case Docket Policy Advocacy Resources Reports Stories
+- Gold News | Gold Market Analysis & Gold Investment Research - Gold Price Commentary & Forecasts Tell others what you think Please take a moment to review us on Trustpilot. Not now Review us We use cookies (including third-party cookies) to remember your site preferences, to help us understand how visitors use our sites and to make any adverts we show on 3rd party sites more relevant. To learn more, please see our privacy policy and our cookie policy . To agree to our use of cookies, click 'Accept' or choose 'Options' to set your preferences by cookie type. Options Accept About us About BullionVault In the press Reviews English English English (UK) Deutsch Español Français Italiano Polski 日本語 简体中文 繁體中文 Daily audit Help Contact Deposit Log in Open account Buy/sell bullion Live order board Daily Price Investment guide Guide to gold How to buy gold
+- Quantum error correction near the coding theoretical bound | npj Quantum Information Skip to main content Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript. Advertisement View all journals Search My Account Login Content Explore content About the journal Publish with us Sign up for alerts RSS feed nature npj quantum information articles article Quantum error correction near the coding theoretical bound Download PDF Download PDF Article Open access Published: 30 September 2025 Quantum error correction near the coding theoretical bound Daiki Komoto 1 & Kenta Kasai 1 npj Quantum Information volume 11 , Article number:
+- Master Quantum Error Correction: An Essential Guide to QEC | SpinQ Products & Services Superconducting Quantum Products & Services NMR Quantum Products & Services Quantum Computing Cloud Platform & Software Solutions Quantum Education Solution Fintech-based Solution Biomedical-based Solution AI-based Solution News About Us SpinQ Cloud Contact Us 中文 | En | Es Home > Newsroom > Master Quantum Error Correction: An Essential Guide to QEC Master Quantum Error Correction: An Essential Guide to QEC 2025.02.12 · Blog quantum advantage quantum ready quantum supremacy Quantum computers represent a revolutionary leap in solving complex problems that classical computers struggle with, from optimizing logistics to simulating molecular interactions. However, unlike classical bits, quantum bits (qubits) are highly sensitive to their surroundings. They are prone to errors caused by environmental noise, thermal fluctuations, and imprecise operations, which can significantly degrade quantum computing accuracy. Quantum error correction (QEC) emerges as an indispensable technology to address this critical challenge. QEC provides a systematic way to detect and correct errors, ensuring the reliability of quantum computing. What is Quantum Error Correction? Quantum Error Correction (QEC) is a foundational concept in quantum computing, addressing the critical challenge of maintaining accurate quantum information despite the inherent fragility of qubits. Unlike classical error correction, QEC must deal with both bit flips (e.g., flipping between |0⟩ and |1⟩) and phase flips (affecting the relative phase of quantum states), as well as decoherence, which causes qubits to lose their quantum properties over time. Key Principles of Quantum Error Correction: 1. Logical vs. Physical Qubits: Logical qubits represent the actual quantum information, while physical qubits are used redundantly to protect logical qubits from errors. For example, several physical qubits may encode a single logical qubit.
+- Daniel Gottesman's Papers My Papers See also my CV or the list of papers with bibliographic info only . Quantum computation and quantum information : Quantum error correction Stabilizer codes Non-standard codes Overview papers Fault-tolerance papers Fault-tolerant gates and protocols Threshold analysis Quantum cryptography Quantum key distribution Cryptography for quantum states Other quantum cryptographic protocols Other quantum information topics Stabilizer states Quantum complexity Quantum compression and entanglement concentration Locality of quantum operations Error characterization Implementations of quantum information processing Applications of quantum information ideas outside the field Miscellaneous non-quantum information topics Laser cooling Black holes Locality in gauge theories Classical cryptography Foundations of statistical mechanics Spin systems Telescopes Ten of My Most Cited Papers: Class of quantum error-correcting codes saturating the quantum Hamming bound
+- [2601.07223] Quantum Error Correction and Detection for Quantum Machine Learning Skip to main content Learn about arXiv becoming an independent nonprofit. We gratefully acknowledge support from the Simons Foundation, member institutions , and all contributors. Donate > quant-ph > arXiv:2601.07223 Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About Quantum Physics arXiv:2601.07223 (quant-ph)
+- Introduction to quantum error correction (Chapter 2) - Quantum Error Correction Skip to main content Accessibility help Login Alert Cancel Log in × × Discover Content Products and Services Register Log In (0) Cart Logo for Cambridge Core from Cambridge University Press. Click to return to homepage. Search Logo for Cambridge Core from Cambridge University Press. Click to return to homepage. Browse Services Open research Institution Login Search Hostname: page-component-77f85d65b8-grvzd Total loading time: 0 Render date: 2026-04-09T09:39:56.868Z Has data issue: false hasContentIssue false Home > Books > Quantum Error Correction > Introduction to quantum error correction Quantum Error Correction Buy print or eBook [Opens in a new window] Read book online Book contents Frontmatter Contents
 - Home | Boulder School for Condensed Matter and Materials Physics | University of Colorado Boulder Skip to main content Translate English Spanish Chinese French German Korean Lao Nepali Japanese Tibetan Search Enter the terms you wish to search for. Other ways to search: Events Calendar Campus Map Boulder School for Condensed Matter and Materials Physics College of Arts and Sciences Home BSS2026 Boulder Information Miscellaneous Financial Sustainability Previous Years Home The Boulder School in Condensed Matter and Materials Physics provides education for advanced graduate students and postdoctoral fellows working in condensed matter physics, materials science and related fields. The goal is to enable students to work at the frontiers of science and technology by providing expert training not easily available within the traditional system of graduate education and postdoctoral apprenticeship. The School, which is supported by the National Science Foundation and the University of Colorado, will meet annually during July in Boulder Colorado. Director: Leo Radzihovsky (CU Boulder) 2026 School Geometry and Topology in Soft Matter Physics The Electronic Application for BSS2026 is now closed. All students are strongly urged to plan on staying for the duration of the School. Partial attendance is strongly discouraged . Small exceptions can be made is special cases but must be cleared with the organizers right away; a simple email request, explaining the situation is sufficient. Attendance for less than 3 weeks is not permitted as the spot can be more efficiently utilized by another student attending the entire school ( contact organizers ). There will be no travel support for shorter attendance.
 - (PDF) Introduction to quantum error correction Log In Sign Up Log In Sign Up more About Press Papers Terms Privacy Copyright We're Hiring! Help Center less Outline keyboard_arrow_down Title Abstract Figures Quantum Error Analysis References All Topics Physics Quantum Mechanics download Download Free PDF Download Free PDF Introduction to quantum error correction Lorenza Viola 1998, Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences visibility … description 44 pages description See full PDF download Download PDF bookmark
-- Introduction to quantum error correction (Chapter 2) - Quantum Error Correction Skip to main content Accessibility help Login Alert Cancel Log in × × Discover Content Products and Services Register Log In (0) Cart Logo for Cambridge Core from Cambridge University Press. Click to return to homepage. Search Logo for Cambridge Core from Cambridge University Press. Click to return to homepage. Browse Services Open research Institution Login Search Hostname: page-component-77f85d65b8-2tv5m Total loading time: 0 Render date: 2026-04-10T03:35:43.959Z Has data issue: false hasContentIssue false Home > Books > Quantum Error Correction > Introduction to quantum error correction Quantum Error Correction Buy print or eBook [Opens in a new window] Read book online Book contents Frontmatter Contents
-- Master Quantum Error Correction: An Essential Guide to QEC | SpinQ Products & Services Superconducting Quantum Products & Services NMR Quantum Products & Services Quantum Computing Cloud Platform & Software Solutions Quantum Education Solution Fintech-based Solution Biomedical-based Solution AI-based Solution News About Us SpinQ Cloud Contact Us 中文 | En | Es Home > Newsroom > Master Quantum Error Correction: An Essential Guide to QEC Master Quantum Error Correction: An Essential Guide to QEC 2025.02.12 · Blog quantum advantage quantum ready quantum supremacy Quantum computers represent a revolutionary leap in solving complex problems that classical computers struggle with, from optimizing logistics to simulating molecular interactions. However, unlike classical bits, quantum bits (qubits) are highly sensitive to their surroundings. They are prone to errors caused by environmental noise, thermal fluctuations, and imprecise operations, which can significantly degrade quantum computing accuracy. Quantum error correction (QEC) emerges as an indispensable technology to address this critical challenge. QEC provides a systematic way to detect and correct errors, ensuring the reliability of quantum computing. What is Quantum Error Correction? Quantum Error Correction (QEC) is a foundational concept in quantum computing, addressing the critical challenge of maintaining accurate quantum information despite the inherent fragility of qubits. Unlike classical error correction, QEC must deal with both bit flips (e.g., flipping between |0⟩ and |1⟩) and phase flips (affecting the relative phase of quantum states), as well as decoherence, which causes qubits to lose their quantum properties over time. Key Principles of Quantum Error Correction: 1. Logical vs. Physical Qubits: Logical qubits represent the actual quantum information, while physical qubits are used redundantly to protect logical qubits from errors. For example, several physical qubits may encode a single logical qubit.
+- Tracking Trump’s threats and deadlines to reopen the Strait of Hormuz | Fox News Fox News Media Fox News Media Fox Business Fox Nation Fox News Audio Fox Weather Outkick Fox Noticias Books Fox News U.S. Blue City Crime Campus Radicals Border Crisis True Crime Politics Donald Trump Senate House Judiciary Foreign Policy Fox News Polls Elections World U.N. Conflicts Terrorism Disasters Global Economy Environment Religion Scandals Opinion Media Fox Nation Coverage Entertainment Former Prince Andrew Sydney Sweeney Royal Families
+- Historical Returns on Stocks, Bonds and Bills: 1928-2024 Data Used : Multiple data services Data : Historical Returns for the US Date : January 2026 Download as an excel file instead : https://www.stern.nyu.edu/~adamodar/pc/datasets/histretSP.xls Update: I have replaced the end-of-the-period T.Bill rates that I used to report in this table, with the average T.Bill rate during the year, since it better measures what you would have earned on that investment during the year. Annual Returns on Investments in Value of $100 invested at start of 1928 in Year S&P 500 (includes dividends) US Small cap (bottom decile) 3-month T.Bill US T. Bond (10-year) Baa Corporate Bond Real Estate Gold* S&P 500 (includes dividends)3 US Small cap (bottom decile) Cum Value 3-month T.Bill4 US T. Bond5 Baa Corporate Bond2 Real Estate2 Gold2 1928 43.81% 62.15% 3.08% 0.84% 3.22%
 - Making fault-tolerance a reality: Introducing our QEC decoder toolkit Products & Solutions Quantum Computers Quantinuum Systems Discover the world’s highest performing quantum computers System Model H1 Our first-generation quantum computer with a linear architecture System Model H2 Our second-generation quantum computer with a racetrack architecture Helios Our Hardware-as-a-Service provides access on-premise, in the cloud, or both Hardware Roadmap Explore our accelerated roadmap aimed at advancing commercial quantum computing SOlutions Quantum Origin Our advanced quantum random number generator (QRNG), designed to strengthen encryption and protect data InQuanto Accelerate quantum computational chemistry for complex molecular & materials simulations Nexus All-in-one quantum computing platform for accessing and managing the highest performance full-stack Cloud Access Explore using our world-leading quantum hardware for commercial applications Developer Tools TKET Develop and execute gate-level quantum computation Guppy Program the next generation of quantum computers with our purpose-built language hosted in Python Lambeq Experiment with the structural relationships between quantum theory and natural languages Research Research Areas Discover the vast landscape of our scientific expertise Technical Blog Get educated on the world of quantum computing Publications Explore research and journal publications from our scientific teams Company About Quantinuum Learn more about the world’s largest integrated quantum computing company Careers
+- Quantum error correction below the surface code threshold I Introduction II A Surface code memory below threshold III Logical error sensitivity IV Probing the ultra-low error regime with repetition codes V Real-time decoding VI Outlook VII Author Contributions VIII Acknowledgements IX Ethics Declarations X Additional Information XI Data Availability Quantum error correction below the surface code threshold Google Quantum AI and Collaborators (August 24, 2024) Abstract Quantum error correction [ 1 , 2 , 3 , 4 ] provides a path to reach practical quantum computing by combining multiple physical qubits into a logical qubit, where the logical error rate is suppressed exponentially as more qubits are added. However, this exponential suppression only occurs if the physical error rate is below a critical threshold. In this work, we present two surface code memories operating below this threshold: a distance-7 code and a distance-5 code integrated with a real-time decoder.
 - A Short Introduction to Quantum Error Correction | Brazilian Journal of Physics | Springer Nature Link Skip to main content Account Menu Find a journal Publish with us Track your research Search Saved research Cart Home Brazilian Journal of Physics Article A Short Introduction to Quantum Error Correction Open access Published: 14 February 2026 Volume 56 , article number 94 , ( 2026 ) Cite this article You have full access to this open access article Download PDF Save article View saved research Brazilian Journal of Physics Aims and scope Submit manuscript A Short Introduction to Quantum Error Correction Download PDF Thiago Lucena de Macedo Guedes 1 848 Accesses Explore all metrics
-- Crabbing & Clamming Report - Marine Zone | Oregon Department of Fish & Wildlife Skip to main content Accessibility Oregon Department of Fish & Wildlife 2 Alerts X Additional days for Columbia River salmon fishery announced Dates : Chinook retention allowed Saturday, April 11 – Monday, April 13. 2026 Winter Steelhead validation required thru April 30 2026 Rogue South Coast Winter Steelhead Validation is required to target steelhead Dec. 1-April 30. Secondary About ODFW Commission News Volunteer Workshops & Events Regulations Buy a license Buy license Keywords Activity - Any - Big Game Hunting Big Game Hunting Report Crabbing & Clamming Crabbing & Clamming Report Fishing Fishing Report Game Bird Hunting Game Bird Hunting Report Recreation Report Wildlife Viewing Wildlife Viewing Report News Type - Any - Article Educational Moment
-- [0905.2794] Quantum Error Correction for Beginners Skip to main content Learn about arXiv becoming an independent nonprofit. We gratefully acknowledge support from the Simons Foundation, member institutions , and all contributors. Donate > quant-ph > arXiv:0905.2794 Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About Quantum Physics arXiv:0905.2794 (quant-ph)
+- Quantinuum with partners Princeton and NIST deliver seminal result in quantum error correction Products & Solutions Quantum Computers Quantinuum Systems Discover the world’s highest performing quantum computers System Model H1 Our first-generation quantum computer with a linear architecture System Model H2 Our second-generation quantum computer with a racetrack architecture Helios Our Hardware-as-a-Service provides access on-premise, in the cloud, or both Hardware Roadmap Explore our accelerated roadmap aimed at advancing commercial quantum computing SOlutions Quantum Origin Our advanced quantum random number generator (QRNG), designed to strengthen encryption and protect data InQuanto Accelerate quantum computational chemistry for complex molecular & materials simulations Nexus All-in-one quantum computing platform for accessing and managing the highest performance full-stack Cloud Access Explore using our world-leading quantum hardware for commercial applications Developer Tools TKET Develop and execute gate-level quantum computation Guppy Program the next generation of quantum computers with our purpose-built language hosted in Python Lambeq Experiment with the structural relationships between quantum theory and natural languages Research Research Areas Discover the vast landscape of our scientific expertise Technical Blog Get educated on the world of quantum computing Publications Explore research and journal publications from our scientific teams Company About Quantinuum Learn more about the world’s largest integrated quantum computing company Careers
 - Quantum Error Correction Moves Beyond Breakeven | Department of Energy Skip to main content An official website of the United States government Here's how you know Here's how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites. About About Our Agency Our Agency History Our Leadership & Offices The National Nuclear Security Administration The Energy Information Administration National Laboratories Power Marketing Administrations Our Outreach Our Outreach Newsroom Digital Engagement and Media Brand Guides Our Mission Our Mission Genesis Mission Security & Safety Security & Safety Nuclear Security Energy Security
 - Error-Divisible Two-Qubit Gates | NSF Public Access Repository skip to main content An official website of the United States government Here's how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( lock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. PAR Home Contact FAQ NSF PAGES Navigation Toggle Navigation PAR Home Contact FAQ Explore Research Products in the PAR It may take a few hours for recently added research products to appear in PAR search results. × Search + Advanced Search × Advanced Search Options Search Across All Fields Subject(s) / Keyword(s): × Identifier Number: What does this include? × Resource Type: Audiovisual Book Book Chapter Conference Paper
+- [0905.2794] Quantum Error Correction for Beginners Skip to main content Learn about arXiv becoming an independent nonprofit. We gratefully acknowledge support from the Simons Foundation, member institutions , and all contributors. Donate > quant-ph > arXiv:0905.2794 Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About Quantum Physics arXiv:0905.2794 (quant-ph)
 - Quantum error-correcting code (QECC) | Error Correction Zoo [Jump to code hierarchy] Quantum error-correcting code (QECC) Description Encodes quantum information in a ( logical ) subspace of a ( physical ) Hilbert space such that it is possible to recover said information from errors that act as linear maps on the physical space. The state space of a QECC is contained in the space of complex \(L^2\) -normalizable functions of some configuration space, which usually corresponds to the alphabet of a classical code. Since quantum information is encoded in quantum superpositions, an additional source of noise (not relevant to classical encodings) can affect the relative phase of such superpositions. Quantum error-correcting codes have to protect against such phase-flip noise while also protecting against conventional classical bit-flip noise. The better a code is at protecting against phase-flip noise, the worse it is at protecting against bit-flip noise, and vice versa, so there is a tradeoff between the two types of noise. The logical subspace is spanned by a basis comprised of code basis states or codewords . Codewords may not be normalizable if the physical Hilbert space is infinite-dimensional, so approximate versions have to be constructed in practice. While all considered QECC states are complex functions, real or quaternionic function spaces can also be considered for QEC [ 1 , 2 ] . Protection Denoting Hilbert spaces by the letter \(\mathsf{H}\) , a quantum code \((U,\cal{E})\) is a partial isometry \(U:\mathsf{H}_{\text{logical}}\to\mathsf{H}_{\text{physical}}\) with a set of correctable errors \(\cal{E}\) with the following property: there exists a quantum operation \(\cal{D}\) such that for all
-- [2304.08678] Quantum Error Correction For Dummies Skip to main content Learn about arXiv becoming an independent nonprofit. We gratefully acknowledge support from the Simons Foundation, member institutions , and all contributors. Donate > quant-ph > arXiv:2304.08678 Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About Quantum Physics arXiv:2304.08678 (quant-ph)
+- Campus Review: CAPM 026.000 – Research Integrity – Academic Personnel Academic Personnel About About the Academic Personnel Office Divisional Academic Personnel Contacts Data & Reports Policies & Guidance Campus Academic Personnel Manual Policy Communications Delegation of Authority Outside Activities Tracking (OATS) Other Policies, Procedures & Resources Bargaining Contracts Academic Employment Tools for Job Seekers Tools for Hiring Units Fair Hiring Resources UCSC Recruit Login Academic Advancement Campus CALL Information Cumulative Biobibliography Guidelines Departmental Review Procedures Document Inventory Matrices DivData Compensation & Leaves Salary Scales Compensation Academic Leaves UCSC Benefits Office CruzPay UCPath Login Resources for Academics & Units Department Chair Toolkit Resources by Title Group Forms Layoff & Reduction in Time Retirement Workshops & Training Systems Academic Employee Relations
 - Error Correction for Correlated Quantum Systems | NSF Public Access Repository skip to main content An official website of the United States government Here's how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( lock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. PAR Home Contact FAQ NSF PAGES Navigation Toggle Navigation PAR Home Contact FAQ Explore Research Products in the PAR It may take a few hours for recently added research products to appear in PAR search results. × Search + Advanced Search × Advanced Search Options Search Across All Fields Subject(s) / Keyword(s): × Identifier Number: What does this include? × Resource Type: Audiovisual Book Book Chapter Conference Paper
 - Quantum error-correction using humming sparrow optimization based self-adaptive deep cnn noise correction module - PMC Skip to main content An official website of the United States government Here's how you know Here's how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. Search Log in Dashboard Publications Account settings Log out Search… Search NCBI Primary site navigation Search Logged in as: Dashboard Publications Account settings Log in Search PMC Full-Text Archive Search in PMC Journal List User Guide
+- [2304.08678] Quantum Error Correction For Dummies Skip to main content Learn about arXiv becoming an independent nonprofit. We gratefully acknowledge support from the Simons Foundation, member institutions , and all contributors. Donate > quant-ph > arXiv:2304.08678 Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About Quantum Physics arXiv:2304.08678 (quant-ph)
+- arXiv.org e-Print archive Skip to main content Learn about arXiv becoming an independent nonprofit. We gratefully acknowledge support from the Simons Foundation, member institutions , and all contributors. Donate Status Login Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About arXiv is a free distribution service and an open-access archive for nearly 2.4 million scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics. Materials on this site are not peer-reviewed by arXiv. Subject search and browse: Physics
 - Building the future of quantum error correction | IBM Quantum Computing Blog Skip to main content IBM Quantum Hardware Qiskit Product Research Blog Community IBM Quantum Network Events Qiskit ecosystem Resources Documentation Learning Case studies Feedback program Sign in to Platform Sign in Quantum Research Blog Building the future of quantum error correction Last week’s IEEE Quantum Week conference put the spotlight on the latest research in error correction — and a glimpse of what quantum computing’s future may look like. Date 4 Oct 2022 Authors Drew Vandeth Sarah Sheldon Antonio Córcoles Andrew Cross Topics Error Correction & Mitigation Research Share this blog Errors are an unavoidable phenomenon in computation, and this is especially true in quantum computation, where we must exercise precise control over the behavior of ultra-sensitive quantum systems. While we look for computational advantage in the near term by using techniques that reduce the effects of noise in quantum systems, extracting the full potential of computation and realizing quantum algorithms with a super-polynomial speedup will most likely require major advances in quantum error correction technology . 1 Researchers in the field have made significant progress in quantum error correction over the last few years, but there's still much left to accomplish to achieve this goal. Today, we’re working with the broader quantum community to thoughtfully bring about practical quantum computing as soon as possible. As part of our development roadmap, we see the development in this field as a continuous path forward, where we work to create value from today’s noisy quantum hardware using
+- Common Looker Studio Limitations & How to Work Around it Skip to content Get Started Free Product Integrations Solutions Resources Pricing Get a Demo Get Started Free Blog/ 7 Looker Studio Limitations Nobody Warns You About (And How to Work Around Each One) Published: April 10, 2026 - 9 min read Vijay Srinivas Join our community Did you know? Coefficient eliminates the need to export data manually and rebuild stale dashboards. Get started by pulling live data into pre-built Sheets dashboards. Looker Studio is genuinely useful and genuinely free — for most Google-ecosystem reporting it does the job well. But it has real limitations that only show up after you’ve built a few dashboards and run into them. This guide covers the seven that catch teams most often, with a practical workaround for each one. 1. Slow Load Times on Large Datasets What the problem is This is the most commonly cited Looker Studio complaint. In 2025 G2 reviews, 38% of users flagged performance issues — slow dashboards, timeouts and visualisations that take several seconds to render. The more data sources and blends in a report, the worse it gets. Why it happens Looker Studio runs queries against the data source every time a report loads or a filter changes. It does not cache aggressively. Community connectors add extra latency on top. The result: a 10-widget dashboard pulling from three sources can take 10 to 20 seconds to load — which is long enough for a stakeholder to assume something is broken. Pricing note Looker Studio Pro ($9/user/month) does not fix slow load times. The performance issue is architectural. Pro adds governance features, not query speed. More on what Pro actually includes here . Workaround Push the heavy lifting upstream. Pre-aggregate and pre-join your data in Google Sheets or BigQuery before connecting to Looker Studio. Instead of asking Looker Studio to calculate on the fly, feed it a clean, pre-calculated table. One clean Sheets tab connected to Looker Studio loads in a fraction of the time of a multi-source blend queried at render. Coefficient pulls live data from 100+ sources into Google Sheets on a refresh schedule. Your Looker Studio report reads from a clean, pre-calculated Sheets tab — no multi-source query at load time. Get started free . 2. Data Blending Is Capped at 5 Sources What the problem is Looker Studio limits data blending to five sources per blend. For marketing teams combining CRM, paid ads, SEO, email and financial data that ceiling is reached fast. Hit it and your only options are cutting a data source or splitting analysis across multiple reports — neither of which gives stakeholders the unified view they need. Why it matters The cap itself is bad enough. The silent failure mode is worse. When a schema changes upstream — a renamed column in Google Sheets, an updated field in your CRM — blends break without a useful error message. Your dashboard just shows empty charts. You may not find out for days if no one is actively monitoring it. Pricing note The 5-source blending limit applies on both the free tier and Looker Studio Pro. Upgrading does not raise the cap.
 - Quantum Error Correction: The Key to Quantum Computing home Our Quantum Advantage challenge with $20,000 BTC award is live. More Details → Home Hackathons Platform Team Blog Research Contact Us Platform Access What Is Quantum Error Correction: The Key to Quantum Computing January 9, 2025 • 7 min read Hrant Gharibyan Co-founder & CEO Quantum computing is taking the tech world by storm. This field uses quantum mechanics to process information in ways far beyond the capabilities of classical computers. Unlike traditional systems that use binary bits, quantum computers use qubits, which can exist in multiple states at the same time due to superposition and entanglement. The result is breakthroughs in areas like quantum cryptography , drug discovery, and materials science. All that said, quantum computing faces major challenges that hinder its practical implementation. Qubits are highly sensitive to environmental noise, temperature fluctuations, and electromagnetic interference, leading to errors in computation. As these errors accumulate, it becomes difficult to maintain accuracy. The biggest challenge is managing and correcting these errors without disrupting the delicate quantum state—a problem unique to quantum computing. This is where quantum error correction (QEC) comes in, presenting a way to detect and fix errors while preserving quantum coherence. As the field reaches new heights, QEC remains a key area of research, with major players like Google, IBM, and Microsoft making efforts to overcome these limitations and unleash the full potential of quantum computing. What Is Quantum Error Correction? Quantum error correction , or quantum computing error correction, is a set of techniques for protecting quantum information from errors that are caused by noise and decoherence. While classical error correction deals with 1s or 0s, QEC involves qubits that exist in superpositions. This makes it a challenging yet key aspect of quantum computing. A common method of QEC is using multiple physical qubits to encode a logical qubit. Entangling these qubits helps detect and correct quantum errors without having to directly measure the qubits’ states. QEC Codes, like the Shor code, are examples of schemes that apply these techniques and can correct various types of errors. There are two classes of error correction codes: surface and stabilizer . Surface codes: refer to two-dimensional lattices of physical qubits that create logical qubits with topological protection. Errors can happen through the lattice without affecting the logical qubit’s global state. ‍ Stabilizer codes: detect errors using measurements and apply error correction to corrupted qubits using classical logic. Examples of this class include the Shor code and Steane code.\ ‍ Types of Quantum Error Correction QEC is divided into three main categories:
-- Quantum Errors and Quantum Error Correction (QEC) Methods Menu Search for Home | Industry News Quantum Industry & Ecosystem News Quantum Research & Methods News Quantum Security, PQC, Post-Quantum News Quantum Systems & Engineering News Quantum Policy, Standards & Regulations News Quantum Open Architecture (QOA) News Quantum Sovereignty News Quantum Systems Integration News | My Articles: By Topic Post-Quantum, PQC, Quantum Security Q-Day, Y2Q Quantum Computing (QC) Quantum Computing Companies Quantum Networks Quantum AI (QAI) Quantum Sensing Quantum Policies Quantum Commercialization AI Security & Safety Cyber-Kinetic Security 5G & mIoT Security Blockchain & Crypto Security Society 5.0 Leadership By Country ASEAN Australia Canada China Europe India Middle East
-- Price Analysis | In-Depth Crypto Price Trends & Daily Analysis Menu Advertise ✖ Posts Events Professionals Companies Coins/Tokens Exchanges View All Posts View All Events View All Professionals View All Companies View All Coins/Tokens View All Exchanges Login Log In to View Notifications. Log in to access your notifications and stay updated. If you’re not a member yet, Sign Up to get started! Login / Signup Portfolio Home News Information Research Report Press Release Guest Post Sponsored Cryptocurrency Regulation Markets Live Market Price Analysis Cryptocurrency Price Prediction Launchpad Airdrops Product Reviews Centralised Exchanges Decentralised Exchanges Cryptocurrency Wallets Crypto Tracking Tools
-- Credit Union and Corporate Call Report Data | NCUA Skip to main content An official website of the United States government Here’s how you know Help With My Credit Union Español Contact Us About About Created by the U.S. Congress in 1970, the National Credit Union Administration is an independent federal agency that insures deposits at federally insured credit unions, protects the members who own credit unions, and charters and regulates federal credit unions. Mission & Values Leadership Reports to Congress NCUA Board Speaker Request Form Staff Speaker Request Form Historical Timeline Workplace Resolutions Careers Business Opportunities Open Government Inspector General Budget & Performance AskNCUA Regulation & Supervision Regulation & Supervision The NCUA protects the safety and soundness of the credit union system by identifying, monitoring and reducing risks to the National Credit Union Share Insurance Fund. Backed by the full faith and credit of the United States, the Share Insurance Fund provides up to $250,000 of federal share insurance to millions of account holders in all federal credit unions and the overwhelming majority of state-chartered credit unions. Letters to Credit Unions & Other Guidance Examination Program Rulemakings & Proposals for Comment Legal Opinions Rules & Regulations Regulatory & Compliance Resources Supervisory Review Committee Board Appeals Corporate Credit Unions Regulatory Reporting Manuals & Guides Examination Modernization Initiatives CUSO Activities Analysis
 - AI in Qualitative Research Analysis: Too good to be true? - Crescendo Consulting Group Skip to primary navigation Skip to main content Skip to footer Crescendo Consulting Group Who We Are History Mission Team Careers Services Community Needs Assessment Harbor Performance Initiative HUD Consolidated Plan Population Health and Market Research Health Equity Impact Assessments Strategic Planning Opioid Settlement Community Engagement Sectors Our Approach Assessment as Action Social Determinants of Health (SDoH) Framework Our Work Clients Press Blog Contact AI in Qualitative Research Analysis: Too good to be true? Explore the benefits and limitations of AI in qualitative research analysis, including bias, context loss, and when human insight is essential. You are here: Home / Community Needs Assessments / AI in Qualitative Research Analysis: Too good to be true? April 1, 2026 by Brandi Stein Artificial Intelligence (AI) continues to grow in popularity as it proves to be a useful tool for assisting with everyday tasks in people’s professional and personal lives. Not quite sure how to word that email? AI can help. Need help with workflow? Ask AI. Need a weekly meal plan and grocery list? AI can make those too. But AI certainly has its limitations, and it’s important to understand what these limitations are when deciding whether or not to use it. This rings true when considering the use of AI in research, especially AI in qualitative research analysis. Striking a balance between optimizing efficiency and quality can be tricky, so let’s talk about some of the things to consider when deciding if using AI in qualitative analysis is right for you.
-- Determine If a Source Is Scholarly | Teaching, Learning, and Academic Support | University Library | Illinois My Account Site Search enter keywoards to search library web pages. Press enter to submit Ask A Librarian University Library Menu About Employee Directory Departmental Directory Administration Policies for Library Users Diversity, Equity, Inclusion, & Accessibility Preservation Services Faculty & Staff Achievements Library Spaces Library Building Project Library Employment Events News Make a Gift MORE Libraries & Hours Find Materials Collections Overview Sensitive Content Statement Online Reference Collection Easy Search Library Catalog Course Reserves Library Guides Archives & Manuscript Materials Digital Library Collections Article Locator IDEALS Databases (A-Z list) Online Journals MORE Borrow Materials Setup & Use My Account Library Cards
-- 10 Best Online Academic Research Tools and Resources 2025 Online College Degrees Undergraduate Degrees Online Colleges Best Colleges Best Accredited Colleges Best Affordable Colleges Best Colleges for Working Adults Best Colleges for Single Parents Best Military-Friendly Colleges Psychology and Counseling Best Bachelor's in Psychology Best Affordable Bachelor's in Psychology Best Bachelor's in Counseling Best Bachelor's in Social Work Accelerated Social Work Degrees Business and Management Best Bachelor's in Business Management Best Bachelor's in Sports Management Best Bachelor's in Project Management Best Affordable Bachelor's in Business Administration Best Bachelor's in Finance Education Best Bachelor's in Education Best Affordable Bachelor's in Education Best Affordable Bachelor's in Elementary Education Best Bachelor's in Early Childhood Education Best Affordable Bachelor's in Early Childhood Education Healthcare Best Bachelor's in Nursing Best Affordable RN-to-BSN Programs Best Bachelor's in Nutrition Best Bachelor's in Healthcare Administration Best Bachelor's in Healthcare Management Graduate Degrees More Online Degrees Most Affordable Colleges Best Affordable Master's Degrees Accelerated Associate Degrees Accelerated Bachelor's Degrees
-- US Data Center Market Report 2026 | Power & Grid Insights Home About Us Use Cases Subscription Plans Insights Team Media Mentions Testimonials Contact Us Login - STACK Login - Database Explore our latest insights, project updates, and more. subscribe to our newsletter Subscribe Now → Updated on February 6, 2026 Enerdatics Releases US Data Center: State of the Market Report - February 2026, Mapping Power-Led Expansion Across the US February 5, 2026 3 min read HOUSTON, TX, UNITED STATES — Enerdatics today announced the release of its US Data Center: State of the Market Report 2026 , a comprehensive analysis of how power availability, grid constraints, and procurement strategy are reshaping data center development across the United States. The report finds that U.S. data center growth is increasingly defined by power deliverability rather than traditional location drivers , as interconnection backlogs, transmission constraints, and rising demand from AI workloads push developers to rethink where and how capacity can realistically be brought online. “ The data center market is no longer constrained by demand, it’s constrained by deliverability ,” said Mohit Kaul, Founder & CEO of Enerdatics . “In 2026, site selection is fundamentally a power strategy. Developers and hyperscalers that can align grid access, generation, and flexibility will be the ones that scale with confidence.” Market Snapshot: Scale Concentrates, Geography Expands Enerdatics’ analysis covers more than 4,000 operating and planned data centers , representing over 240 GW of cumulative power demand across the U.S. While core markets such as PJM, ERCOT, and CAISO continue to anchor capacity, the report shows a growing shift toward
-- Every Time-Series Database Benchmark Ever. 2025 Pulse Platform QStudio Data kdb+ Blog Contact Home Pulse Platform QStudio Data kdb+ Tutorials Blog Every Time-Series Database Benchmark Ever. 2025 Home Data Updated 2nd January 2025 This page will gather ongoing time-series database benchmarks into one location. Top Benchmarks - Those that are open, comprehensive and thorough Benchmarks by Date - Sorted Chronologically The top benchmarks section will focus on time-series databases that are fast, provide time-series joins, time window aggregations and data compression, rather than pull in more general solutions. Updated 2nd January 2025 Various open-source databases got closer to top performance in clickbench. See our blog post for the data trends and events of 2024 . It's not a benchmark, but we tested to see if DuckDB can run every query that kdb+ did in a recent KX article. Updated 10th September 2024 For me, there are three interesting happenings lately: DuckDB/QuestDB are both now very competitive. (DuckDB in th last year moved 2.7->2.1 in clickbench. QuestDB 24.2->2.7. Lower = better) ClickBench now includes many parquet/partitioned based timings showing the rise in popularity The inclusion and rising popularity of embedded databases: chdb and duckdb Clickbench Clickbench is a large suite of benchmarks produced by clickhouse themselves. The focus is not time-series but a wide range of queries.
-- The Fund - Reaves Utility Income Fund The Fund | Reaves Utility Income Fund Performance & Holdings Skip to content Thank you for your interest in the Reaves Utility Income Fund. Please complete the following to receive timely information about the Fund. X The Fund Open menu Investment Objective Performance Holdings Distributions The Adviser Open menu Investment Philosophy Investment Process Our Team Resources Open menu Quarterly Fact Sheet Distribution News Annual Tax Information Annual & Semi-Annual Reports SEC Filings / Section 19(a) Notices Legal Documents Intro To Closed-End Funds Contact Us Open menu Contact The Adviser Contact The Administrator + The Fund Investment Objective Performance Holdings Distributions + The Adviser Investment Philosophy
 - [0904.2557] An Introduction to Quantum Error Correction and Fault-Tolerant Quantum Computation Skip to main content Learn about arXiv becoming an independent nonprofit. We gratefully acknowledge support from the Simons Foundation, member institutions , and all contributors. Donate > quant-ph > arXiv:0904.2557 Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About Quantum Physics arXiv:0904.2557 (quant-ph)
 - Installing on Debian and Ubuntu | RabbitMQ Skip to main content RabbitMQ is developed by VMware Tanzu . Get 24/7 enterprise support backed by the core engineering team. Getting Started Docs Blog Support Commercial Features 4.2 Release series Next 4.2 4.1 4.0 3.13 GitHub Search Introduction Release Information Getting Started Install and Upgrade Erlang Version Requirements Package Signatures Supported Operating Systems Linux/Unix Debian and Ubuntu RedHat Generic Unix Windows MacOS Kubernetes Operator Kubernetes (Do It Yourself) Upgrade Snapshots How to Use RabbitMQ How to Manage RabbitMQ How to Monitor RabbitMQ Install and Upgrade
-- 2.3. Installing Wireshark under Windows 2.3. Installing Wireshark under Windows Prev Chapter 2. Building and Installing Wireshark Next 2.3. Installing Wireshark under Windows The official Windows packages can be downloaded from the Wireshark main page or the download page . Installer names contain the version and platform. For example, Wireshark-4.7.0-x64.exe installs Wireshark 4.7.0 for Windows on 64-bit Intel processors. The Wireshark installer includes Npcap which is required for packet capture. Windows packages automatically update. See Section 2.8, “Updating Wireshark” for details. Simply download the Wireshark installer from https://www.wireshark.org/download.html and execute it. Official packages are signed by Wireshark Foundation . You can choose to install several optional components and select the location of the installed package. The default settings are recommended for most users. 2.3.1. Installation Components On the Choose Components page of the installer you can select from the following: Wireshark - The network protocol analyzer that we all know and mostly love. TShark - A command-line network protocol analyzer. If you haven’t tried it you should. External Capture (extcap) - External Capture Interfaces Androiddump - Provide capture interfaces from Android devices. Etwdump
-- arXiv.org e-Print archive Skip to main content Learn about arXiv becoming an independent nonprofit. We gratefully acknowledge support from the Simons Foundation, member institutions , and all contributors. Donate Status Login Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About arXiv is a free distribution service and an open-access archive for nearly 2.4 million scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics. Materials on this site are not peer-reviewed by arXiv. Subject search and browse: Physics
-- Get started with Claude Managed Agents - Claude API Docs Loading... Messages Build Admin Models & pricing Client SDKs API Reference English Log in Search... ⌘K First steps Intro to Claude Quickstart Building with Claude Features overview Using the Messages API Handling stop reasons Model capabilities Extended thinking Adaptive thinking Effort Fast mode (beta: research preview) Structured outputs Citations Streaming Messages Batch processing Search results Streaming refusals Multilingual support Embeddings Tools Overview How tool use works Web search tool Web fetch tool Code execution tool Advisor tool Memory tool
-- FIA Statement – Amendments to 2026 F1 Regulations | Federation Internationale de l'Automobile Skip to main content #3500Lives Data Smart Cities High Level Panel Media FIA Networks Facebook Twitter Instagram YouTube TikTok Back FIA Back About FIA Back Organisation Administration FIA Partners and suppliers Invitation to Tender Data Privacy Notice Contact Us FIA Activity Report Back FIA Activity Report 2023 Rapport d'Activité FIA 2023 FIA Financial Report 2022 FIA Activity Report 2021 FIA Activity Report 2020 RAPPORT D'ACTIVITÉ DE LA FIA 2020 INFORME DE ACTIVIDADES DE LA FIA 2020 All FIA Activity Reports Sustainability report FIA Ethics and Compliance Hotline FIA ANTI-HARASSMENT AND NON-DISCRIMINATION POLICY FIA Environmental Policy E-LIBRARY Statutes
-- CBD & Botanical Gummies - Charlotte's Web™ CBD & Botanicals – Charlotte’s Web CBD & Botanicals Skip to content Skip to Accessibility Statement This site has limited support for your browser. We recommend switching to Edge, Chrome, Safari, or Firefox. Our Warehouse is Closed April 10th-12th Orders Will Begin Processing Monday, April 13th Close Benefits See More Sleep Calm & Stress Focus Recovery & Pain Energy Daily Wellness Products See More Gummies Oils Capsules Topicals CBD for Dogs Ingredients See More Full-Spectrum CBD THC-Free THC Delta 9 Non-CBD Functional Mushrooms Rewards Take the Quiz Learn See More About Us See More Our Partnerships Certified B-Corp Retail Store Locator Wholesale Opportunities
-- Learning high-accuracy error decoding for quantum processors | Nature Skip to main content Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript. Advertisement View all journals Search My Account Login Content Explore content About the journal Publish with us Sign up for alerts RSS feed nature articles article Learning high-accuracy error decoding for quantum processors Download PDF Download PDF Article Open access Published: 20 November 2024 Learning high-accuracy error decoding for quantum processors Johannes Bausch ORCID: orcid.org/0000-0003-3189-9162 1 na1 , Andrew W. Senior ORCID: orcid.org/0000-0002-2401-5691 1
-- GitHub - lishix520/academic-paper-skills: Systematic framework for planning and writing academic papers using Claude Code. Includes strategist (planning) and composer (writing) skills with quality checkpoints. · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities Code security Secure your code as you build Secret protection Stop leaks before they start EXPLORE Why GitHub Documentation Blog Changelog Marketplace View all features
-- Google AI Agents for Academic Figures and Peer Review | AIToolly Sponsored by Atoms AI Agent team that turns your ideas into business. Learn More AIToolly AI Tools n8n Workflows AI News Domain Search Pricing Submit FAQ @AIToolly Login EN 打开主菜单 AIToolly 关闭菜单 AI Tools n8n Workflows AI News Domain Search Pricing Submit FAQ @AIToolly Login Home / AI News / April 9 / Google Research Introduces AI Agents Designed to Enhance Academic Figures and Peer Review Workflows Back to List Product Launch Google Research Generative AI Academic Technology
-- Databases A-Z Skip to Main Content UWM Libraries UWM Libraries Research and Course Guides Databases A-Z Databases A-Z Toggle search filters navigation African & African Diaspora Studies American Indian Studies Anthropology & Archaeology Architecture & Urban Planning Art & Art History Biological Sciences Business Chemistry Communication Computer Science Criminal Justice Dance Economics Education Engineering Film & Television Freshwater Sciences Geography & GIS Geosciences Global Studies Government Sources Governmental Studies Health Sciences History, U.S. History, World Information Studies Journalism & Media Studies Law & Legal Research Linguistics & Language Literature Mathematical Sciences Music Music Education
-- WMR FX Benchmarks | LSEG Skip navigation LSEG Data & Analytics FTSE Russell London Stock Exchange FX Post Trade Risk Intelligence Our businesses LSEG LSEG Data & Analytics FTSE Russell London Stock Exchange FX Post Trade Risk Intelligence FTSE Russell Benchmarks Rates WMR FX Benchmarks WMR FX Benchmarks The most timely, transparent, and reliable forward and spot rates covering 150+ currencies. Request details Updates Updates Overview Key Resources Features and Benefits Research and Insights Request details What are WMR FX benchmarks Download brochure download Updates Discontinuation: WMR Forward Rates – Cessation of Ghana Cedi 125.8KB • PDF Launch: WMR FX Launches JPY cross rates at 10am Tokyo time
-- Visualping Launches New Timeline View, Giving Users Their Complete Monitoring History in One Place - USA Today This page contains press release content distributed by XPR Media. Members of the editorial and news staff of the USA TODAY Network were not involved in the creation of this content. Visualping Launches New Timeline View, Giving Users Their Complete Monitoring History in One Place Visualping Visualping, the world’s leading website change detection platform has launched a new change timeline that gives users a complete, scrollable history of every detected change for any monitored job, from the very first check to the most recent. VANCOUVER, B.C. – April 10, 2026 – Visualping, the world’s leading website change detection platform has launched a new change timeline that gives users a complete, scrollable history of every detected change for any monitored job, from the very first check to the most recent. Before the update, users could only view the last six changes for any given job. The new timeline removes that limit entirely, surfacing the full history of a monitor alongside AI-written summaries of each change, side-by-side screenshots, and alert status, all in a single consolidated view. Checks where no change was detected are automatically grouped together, reducing visual clutter and making it faster to spot the changes that actually matter. “For teams doing serious competitive or regulatory monitoring, the timeline changes how you work,” said Serge Salager, CEO of Visualping. “Before this, you were limited to the last six changes. Now you can scroll back to the moment you started monitoring a page, months or years ago, and see exactly how it’s changed over time.” “Combined with the automatic grouping of irrelevant checks, most users can get the full picture of the changes in seconds instead of sifting through dozens of entries.” The redesign reflects how Visualping’s most active users work: tracking fast-moving targets like competitor homepages, regulatory pages, and pricing tables where understanding the arc of change over time is as important as the latest alert. The timeline makes it possible to see, at a glance, how a page has evolved since monitoring began. Users who prefer the previous layout can switch back at any time using a toggle in the dashboard. The updated timeline is available now to all Visualping users. Visualping serves more than two million users, including teams at 85% of Fortune 500 companies. To explore the new timeline, visit visualping.io or sign up free at visualping.io/sign-up. Media Contact Company Name: Visualping Contact Person: Kayla Zhu Email: Send Email Country: Canada Website: https://www.visualping.io/ Press Release Distributed by ABNewswire.com To view the original version on ABNewswire visit: Visualping Launches New Timeline View, Giving Users Their Complete Monitoring History in One Place Information contained on this page is provided by an independent third-party content provider. XPRMedia and this Site make no warranties or representations in connection therewith. If you are affiliated with this page and would like it removed please contact pressreleases@xpr.media
-- A-Z Databases Skip to Main Content Search Search menu Start here Search tools home Search Our Collections Books, articles, and more WorldCat Books & more worldwide Databases A-Z JSTOR, PubMed, Web of Science, etc. Course reserves Also try Google Scholar for MIT Change settings to get better access DSpace@MIT MIT research Dome MIT-digitized images, maps, etc. Site search Hours & locations Hours & locations menu Locations Hours and locations home Barker Library Dewey Library Hayden Library Rotch Library Distinctive Collections Lewis Music Library Library Storage Annex Using the Libraries Map of locations Study spaces Persons with disabilities Scan & print Exhibits & galleries Visitors Library use policy
-- Timeline Maker - Online Timeline Maker & Creator Product Floor Planning Easier Than CAD Import & Scale Custom Shapes & Libraries Data Enabled Diagrams Checks Every Box Collaboration Integrations AI Diagrams Platform Microsoft Google Floor Planning Easier Than CAD Import & Scale Custom Shapes & Libraries Data Enabled Diagrams Checks Every Box Collaboration Integrations AI Diagrams Platform Microsoft Google Enterprise Enterprise License Enterprise License Control Your Data Security Why SmartDraw Resources IT Admin Guide Getting Started Customer Stories Lucidchart Users Guide Visio Users Guide
-- Tyrrell Hatton majors timeline: History of finishes as English golfer contends at 2026 Masters | Sporting News Skip to main content Masters Leaderboard SN 140 The Archive Shop Tickets NFL NFL Home News Teams Scores Schedule Standings Stats Depth Chart Transactions Injuries NFL Teams AFC East Buffalo Bills Miami Dolphins New England Patriots New York Jets AFC North Baltimore Ravens Cincinnati Bengals Cleveland Browns Pittsburgh Steelers AFC South Houston Texans Indianapolis Colts Jacksonville Jaguars Tennessee Titans AFC West Denver Broncos Kansas City Chiefs Las Vegas Raiders Los Angeles Chargers
-- Timeline: The Trump administration’s attacks on history since 2025 Close Alert SPLC and Al Otro Lado File Motion to Prevent ICE From Forcing Orleans Parish Sheriff’s Office to Provide Access to Clients and Records – Learn More Explore Our Sites SPLC Learning for Justice Civil Rights Memorial Center Press Center Donate Open submenu Support Us Member Center Friends of the Center Seen us on TV? Toggle Mobile Navigation Racial Justice Issues Open submenu Strengthening Democracy & Voting Rights Dismantling White Supremacy Ending Unjust Imprisonment Eliminating Poverty and Economic Inequality Empowering Voters in the South Find Resources Open submenu Elevating Hope Hopewatch Civil Rights Memorial Center Apathy Is Not An Option Podcast Tracking Hate Extremist Files Hate Map Hatewatch Report Hate Techwatch Case Docket Policy Advocacy Resources Reports Stories
-- unsupervised_topic_modeling/topics/en/13/100/100/topics at master · annontopicmodel/unsupervised_topic_modeling · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities Code security Secure your code as you build Secret protection Stop leaks before they start EXPLORE Why GitHub Documentation Blog Changelog Marketplace View all features
-- Home - TimeLine Theatre Box Office 773.281.8463 x1 Join our Mailing List Search for: Search Toggle navigation MENU On Stage COMING SOON: An Enemy of the People Our 2026-2027 Season Our 2025-2026 Season Calendar TimeLine South TimePieces Readings Living History Education Playwrights Collective Past Productions Tickets Get Tickets Calendar THE TIMELINE FLEXPASS FlexPass Reservations Groups & Discounts MyLine (age 18-35) Tickets FAQ Gift Subscriptions Plan Your Visit Directions & Parking Local Dining Accessibility Health and Safety Support Us Make a Donation Ways to Donate New Home in Uptown Inaugural Opening Night Gala Individual Giving Institutional Giving Explore & Learn
-- Campus Review: CAPM 026.000 – Research Integrity – Academic Personnel Academic Personnel About About the Academic Personnel Office Divisional Academic Personnel Contacts Data & Reports Policies & Guidance Campus Academic Personnel Manual Policy Communications Delegation of Authority Outside Activities Tracking (OATS) Other Policies, Procedures & Resources Bargaining Contracts Academic Employment Tools for Job Seekers Tools for Hiring Units Fair Hiring Resources UCSC Recruit Login Academic Advancement Campus CALL Information Cumulative Biobibliography Guidelines Departmental Review Procedures Document Inventory Matrices DivData Compensation & Leaves Salary Scales Compensation Academic Leaves UCSC Benefits Office CruzPay UCPath Login Resources for Academics & Units Department Chair Toolkit Resources by Title Group Forms Layoff & Reduction in Time Retirement Workshops & Training Systems Academic Employee Relations
-- Markets - Medicine Hat NewsMedicine Hat News - Visualping Launches New Timeline View, Giving Users Their Complete Monitoring History in One Place e-Edition Obituaries In Loving Memory Magazines Subscribe Login to Comment Register jobs Menu Home News Sports Business Entertainment Classifieds Life Commentary Contact Recent Quotes View Full List My Watchlist Create Watchlist Indicators DJI Nasdaq Composite SPX Gold Crude Oil Markets Stocks ETFs Tools Markets: Overview News Currencies International Treasuries Visualping Launches New Timeline View, Giving Users Their Complete Monitoring History in One Place
-- Recordkeeping | Internal Revenue Service Skip to main content An official website of the United States government Here's how you know Here's how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. English Español 中文 (简体) 中文 (繁體) 한국어 Русский Tiếng Việt Kreyòl ayisyen Information Menu Help News Tax Pros Sign in Individual Business Tax Pro Access your tax information with an IRS account. Refunds Payments Tax records Create account Search Sign in
-- I need to site my source, how do i know what websites this was gotten from using AI overview - Google Search Community Skip to main content Google Search Help Sign in Google Help Help Center Community Google Search Privacy Policy Terms of Service Submit feedback Send feedback on... This help content & information General Help Center experience Next Help Center Community Improve your Google Account false Enable Dark Mode Search Clear search Close search Main menu 13765418554594339337 true Search Help Center false true true true true true 100334 false false
-- Popular Timelines - Famous people, events, places and more Recently Updated Most Popular Birthdays Trending Will Ferrell 37 minutes ago Will Ferrell, Olivia Rodrigo, and Matt Damon to Close Out SNL Season 51 Barbie Ferreira 37 minutes ago Barbie Ferreira trending amidst 'Faces of Death' release and new movie highlights. Swae Lee 37 minutes ago Swae Lee to Headline SUNY Cortland's Spring Fling Concert This Year Cub Swanson 37 minutes ago Cub Swanson's UFC 327 Fight: A Look at Legacy, Opponent, and Roufus' Influence. Rui Hachimura 38 minutes ago Hachimura's role with Lakers amidst injuries to key players like Doncic and Reaves. Joshua Bassett 2 hours ago Joshua Bassett faces backlash for Olivia Rodrigo mention, hints side of story. Dennis Rodman 19 days ago Dennis Rodman to be inducted into WWE Hall of Fame Class of 2026. Stephen Curry 2 hours ago Stephen Curry Returns to Warriors' Starting Lineup After Injury Layoff Against Kings. Joc Pederson 2 hours ago Joc Pederson benched for Friday's game; sits against left-handed pitcher. Barry Keoghan 2 hours ago Barry Keoghan sought magic tips from Gerard Kearney for a role. Scooter Braun 2 hours ago Sydney Sweeney and Scooter Braun's Romance: PDA, Serious Relationship, and Easter Date. Lisa Ann Walter 2 hours ago
-- Tracking Trump’s threats and deadlines to reopen the Strait of Hormuz | Fox News Fox News Media Fox News Media Fox Business Fox Nation Fox News Audio Fox Weather Outkick Fox Noticias Books Fox News U.S. Blue City Crime Campus Radicals Border Crisis True Crime Politics Donald Trump Senate House Judiciary Foreign Policy Fox News Polls Elections World U.N. Conflicts Terrorism Disasters Global Economy Environment Religion Scandals Opinion Media Fox Nation Coverage Entertainment Former Prince Andrew Sydney Sweeney Royal Families
-- Designing and validating a research questionnaire - Part 1 - PMC Skip to main content An official website of the United States government Here's how you know Here's how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. Search Log in Dashboard Publications Account settings Log out Search… Search NCBI Primary site navigation Search Logged in as: Dashboard Publications Account settings Log in Search PMC Full-Text Archive Search in PMC Journal List User Guide
-- Submit feedback on content about you - Knowledge Panel Help Skip to main content Knowledge Panel Help Sign in Google Help Help Center Knowledge Panel Privacy Policy Terms of Service Submit feedback Send feedback on... This help content & information General Help Center experience Next Submit feedback on content about you Information in a knowledge panel generates automatically based on public information on the web. Anyone can submit feedback on a search feature. If you're a verified user, and if the knowledge panel is about you, we can prioritize your feedback. Google's automated systems determine the appearance and disappearance of these panels based on the relevance of info to a user's query. To maintain the integrity of search results, our current policy doesn’t manually create or delete Knowledge Panels. However, we always work to ensure the accuracy and helpfulness of the info displayed. If you have suggestions to improve the content within a Knowledge Panel, suggest an edit through the “Feedback” option on Google Search results pages. Your input is invaluable as we strive to provide the best possible search experience for everyone. Submit verified feedback Important: To submit verified feedback, you must verify your identity . Once you verify your identity, we can make some corrections directly, like links to social profiles. You can also update your preferences to show the information you chose. Go to Google Search . Sign in to the Google Account that you used to verify your identity. Check that your Web and App Activity is turned on. In Google Search, search for your name or the entity you represent. At the top of the knowledge panel, click Suggest edits . If you don’t find this option, remember: You must sign in with the same Google Account that you used to verify your identity. Your Google Account must be verified to represent this knowledge panel. Verify your identity or use a verified account to add users to the account . Next to the information you want to report, click Edit
-- RADAR Framework - Evaluating Sources: Using the RADAR Framework - LibGuides at Loyola Marymount University Get Help Skip to Main Content Library LibGuides Evaluating Sources: Using the RADAR Framework RADAR Framework Evaluating Sources: Using the RADAR Framework The RADAR Framework can help you remember what kinds of questions you should be asking about an information source as you evaluate it for quality and usefulness in your research. RADAR Framework Helpful Hints Using the RADAR Framework to Evaluate Sources How To: Evaluate Sources Using RADAR More Resources Scholarly, Popular, or Trade? Primary, Secondary, or Tertiary? Has Source been Cited? Peer Review/Evaluate Articles RADAR Challenge Timer Timer Helpful Hints Scholarly, Popular, Trade? Primary, Secondary, Tertiary? Has Source Been Cited? Is Source Peer Reviewed? Cite Sources Using the RADAR Framework to Evaluate Sources The RADAR Framework can help you remember what kinds of questions you should be asking about an information source as you evaluate it for quality and usefulness in your research. RADAR Handout Rationale Rationale is important because books, articles, and web pages are made to serve a purpose. Remember that no information is completely free from bias because the positionality of the authors always impacts their perceptions. The rationale may include intent to educate, entertain, or sell a product or point of view. Some sources may be frivolous or commercial in nature, providing inaccurate or false information. Other sources are more ambiguous about any potential partiality. Varied points of view can be valid as long as they are based on good reasoning and careful use of evidence. Why did the author or publisher make this information available? Is there obvious and/or extreme bias or prejudice? Are alternative points of view presented? Does the author omit any important facts or data that might disprove their claim? If there is emotion, what is the purpose? What tone is being used?
-- Full Circle Design | Honest Design Agency in Ireland & the UK top of page Contact 🏠︎ Services Design Marketing Consulting Design Marketing Consulting Company Our Work About Us Contact Us Resources Locations Our Work About Us Contact Us Resources Locations Main Menu Take the Eligibility Quiz Close Hey, it's us, a seriously Honest Design Agency . We help serious businesses grow online with high-performing websites, smart SEO, and marketing that actually works. No nonsense. Just results. Take the Eligibility Quiz Loved by Local & International Businesses At Full Circle Design , we’re a straight-talking design agency working with the most ambitious businesses across Ireland & the UK. We've helped the best of the best! Create real solutions For real business & marketing problems We're a design agency who understands real business problems and how to create effective design and marketing solutions. Enter your main business problems below and let's solve them together.
-- From Ambition to Activation: Organizations Stand at the Untapped Edge of AI’s Potential, Reveals Deloitte Survey – Press Release | Deloitte US Link opens in a new tab opens in new window Skip to main content Who we are Overview Governance Recognition Newsroom Contact Us About Deloitte Our shared values Facts & figures Network, brands & alliances Transparency report What we do Overview Case studies Services Industries Alliances Blockchain & Digital Assets Service Blockchain & Digital Assets Service AI & Engineering Assurance Audit Business Process Solutions Customer Cyber Deloitte Private Direct Tax Enterprise Performance Finance Finance Transformation Global Employer Services Human Capital Indirect Tax Legal Business Services
-- REIT Market Data Reports | Nareit Skip to main content Accessibility statement Username Password Reset your password Create new account Reset your password Filter by Type Company Page Event News Tax Report Join Nareit Login Main navigation What's a REIT? Open submenu What's a REIT? REIT Basics Types of REITs REIT Sectors REIT Glossary REIT FAQs The History of REITs How to Form a REIT Explore REIT Sectors REITs invest in the majority of real estate property types, including offices, apartment buildings, warehouses, retail centers, medical facilities, data centers, cell towers and hotels. Learn more Investing in REITs Open submenu Investing in REITs Why Invest in REITs How to Invest in REITs REIT Directory REIT Funds Sustainability REIT Assets by State Global Real Estate Investor Resources
 - Migrate to Claude Agent SDK - Claude Code Docs Skip to main content Claude Code Docs home page English Search... ⌘ K Ask AI Claude Developer Platform Claude Code on the Web Claude Code on the Web Search... Navigation SDK references Migrate to Claude Agent SDK Getting started Build with Claude Code Deployment Administration Configuration Reference Agent SDK What's New Resources Agent SDK Overview Quickstart Core concepts How the agent loop works Use Claude Code features Work with sessions Input and output Streaming Input Handle approvals and user input Stream responses in real-time Get structured output from agents Extend with tools Give Claude custom tools Connect to external tools with MCP
-- Chatbot Arena + | OpenLM.ai OpenLM AI Products Blog Projects Company Chatbot Arena + ❖ OproAI 2026 Apr 9 This leaderboard is based on the following benchmarks. Chatbot Arena - a crowdsourced, randomized battle platform for large language models (LLMs). We use 6M+ user votes to compute Elo ratings. AAII - Artificial Analysis Intelligence Index v3 aggregating 10 challenging evaluations. ARC-AGI - Artificial General Intelligence benchmark v2 to measure fluid intelligence. 🔍 Open LM Model Arena Elo Coding Vision AAII MMLU-Pro ARC-AGI Organization License 🏆 Gemini-3.1-Pro 1505 1531 1310 76 91 77.1 Google Proprietary
-- Fix sound or audio problems in Windows - Microsoft Support Related topics × Troubleshooting hardware in Windows Audio Fix sound or audio problems in Windows Fix audio issues when no sound plays from speakers or headphones in Windows Fix missing or undetected audio output device in Windows Fix low or quiet sound in Windows Fix audio stops working after a Windows update in Windows Fix microphone problems in Windows Fix distorted or crackling audio in Windows Fix app audio not working while system sounds work in Windows Fix Bluetooth connected but no sound issue on Windows Update Audio drivers in Windows Bluetooth Fix Bluetooth problems in Windows Fix Bluetooth audio only playing in one channel Fix Bluetooth disappeared in Windows Troubleshoot Bluetooth not connecting in Windows Troubleshoot transferring files using Bluetooth Fix Bluetooth connected but no sound issue on Windows Bluetooth keeps disconnecting in Windows Update Bluetooth drivers in Windows Camera Camera doesn't work in Windows Fix a missing Camera Roll in Windows Camera app shows error 0xA00F4244 NoCamerasAreAttached Drivers A driver can't load on this device About the ELAN fingerprint driver troubleshooter for devices upgrading from Windows 10 to Windows 11 Fix graphics device problems with error code 43 Fix USB-C problems in Windows How to fix Error 0xA: IRQL_not_less_or_equal How to fix WHEA_UNCORRECTABLE_ERROR Keyboard and Mouse Mouse and keyboard problems in Windows Some function keys aren't working the way they did before Printers and Scanners Fix printer connection and printing problems in Windows
+- Building Standards and Codes | Department of State Skip to main content Navigation Menu Toggle Department of State Licensing Licensing File Licensing Complaint Administrative Hearings Athletic Commission Corporations Form a Corporation or Business Existing Corporations & Businesses Corporation & Business Entity Records State Records Uniform Commercial Code Local Government Building Standards and Codes Services and Support Training & Assistance County Services Publications Local Laws Funding & Bid Opportunities Cemeteries Community Infrastructure Funding & Bid Opportunities Coastal Management Local Waterfront Revitalization Downtown Revitalization NY Forward Brownfield Redevelopment Resilience Planning Smart Growth Library New Americans Consumers Consumer Protection File a Consumer Complaint Address Confidentiality About Us
+- Florida Fire Prevention Code (FFPC) | Florida's State Fire Marshal Skip To Main Content Meet Your Chief Financial Officer Blaise Ingoglia State Fire Marshal About Divisions & Offices Divisions Accounting & Auditing Administration Consumer Services Criminal Investigations Funeral, Cemetery, and Consumer Services Insurance Agent & Agency Services Rehab & Liquidation Risk Management State Fire Marshal Treasury Unclaimed Property Workers' Compensation Offices General Counsel Inspector General Insurance Consumer Advocate Financial Services Commission Office of Financial Regulation Office of Insurance Regulation Contact News Home Bureau of Fire Prevention Florida Fire Prevention Code (FFPC) Florida Fire Prevention Code (FFPC) The Florida Fire Prevention Code is adopted by the State Fire Marshal at three year intervals as required by Chapter 633.202, Florida Statutes. This complex set of fire code provisions are enforced by the local fire official within each county, municipality, and special fire district in the state. The county, municipality or special district in which you reside may also have local amendments applicable only to your community. If you have a specific question regarding the Florida Fire Prevention Code or how it affects a specific building, occupancy or place of residence, please contact your local fire official. You may access an online "Read Only" version of the Florida Fire Prevention Code by clicking on the link below: 8th Edition of the Florida Fire Prevention Code 8th Edition (2023) FFPC Online & Purchasing (Effective date: December 31, 2023) *Free NFPA registration required to access FFPC. Free Access to NFPA 855: Installation of Stationary Energy Storage Systems Florida Fire Prevention Code 8th Edition NFPA 101 (Florida Specific)
+- Learning high-accuracy error decoding for quantum processors | Nature Skip to main content Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript. Advertisement View all journals Search My Account Login Content Explore content About the journal Publish with us Sign up for alerts RSS feed nature articles article Learning high-accuracy error decoding for quantum processors Download PDF Download PDF Article Open access Published: 20 November 2024 Learning high-accuracy error decoding for quantum processors Johannes Bausch ORCID: orcid.org/0000-0003-3189-9162 1 na1 , Andrew W. Senior ORCID: orcid.org/0000-0002-2401-5691 1
+- Statista - The Statistics Portal for Market Data, Market Research and Market Studies Skip to main content Statistics All Industries All Industries Technology & Telecommunications Technology & Telecommunications E-Commerce E-Commerce Internet Internet Economy & Politics Economy & Politics Consumer Goods & FMCG Consumer Goods & FMCG Transportation & Logistics Transportation & Logistics Society Society Media Media Finance & Insurance Finance & Insurance Health, Pharma & Medtech Health, Pharma & Medtech All Industries Most viewed Statistics Recent Statistics Popular Statistics Global AI market size 2020-2031 Social media users worldwide 2017-2030 Global retail e-commerce sales 2014-2027 Digital population worldwide 2025 Data generation volume worldwide 2010-2029 All Industries Topics More Topics Electric vehicles worldwide - statistics & facts Video gaming worldwide - Statistics & Facts Top Report
+- Databases A-Z Skip to Main Content UWM Libraries UWM Libraries Research and Course Guides Databases A-Z Databases A-Z Toggle search filters navigation African & African Diaspora Studies American Indian Studies Anthropology & Archaeology Architecture & Urban Planning Art & Art History Biological Sciences Business Chemistry Communication Computer Science Criminal Justice Dance Economics Education Engineering Film & Television Freshwater Sciences Geography & GIS Geosciences Global Studies Government Sources Governmental Studies Health Sciences History, U.S. History, World Information Studies Journalism & Media Studies Law & Legal Research Linguistics & Language Literature Mathematical Sciences Music Music Education
+- How do I know if my sources are credible/reliable? - FAQ - Library Guides at University of Washington Libraries Skip to Main Content Make a Gift Your Library Account Account Ask Us! Research Guides Frequently Asked Questions What is UW Libraries Search and how do I use it to find resources? Does the library have my textbook? Who can access databases, e-journals, e-books etc. and from where? How do I find full-text scholarly articles in my subject? How do I find e-books? How do I cite a source using a specific style? How do I find an article by citation? How do I renew books and other loans? Do I have access to this journal? How do I request a book/article we don't have? How do I request materials using Interlibrary Loan? What does the “Request Article” button mean? How do I connect Google Scholar with UW Libraries? How do I pay fines? How do I access resources from off-campus? How do I know if my sources are credible/reliable? How do I know if my articles are scholarly (peer-reviewed)? What is Summit? Libraries Home Research Guides University of Washington Libraries Library Guides UW Libraries FAQ How do I know if my sources are credible/reliable? FAQ: How do I know if my sources are credible/reliable? Short, simple how-to and demos of frequently asked questions about using the Libraries and information resources Overview UW Libraries has a whole guide, Savvy Info Consumers: Evaluating Information , which discusses different types of sources and how to approach evaluating their credibility/reliability. What it means for a source to be credible/reliable can vary depending on the context of its use. Generally, a credible or reliable source is one that experts in your subject domain would agree is valid for your purposes. This can vary, so it is best to use one of the source evaluation methods that best fits your needs. Do remember that credibility is contextual!
+- WMR FX Benchmarks | LSEG Skip navigation LSEG Data & Analytics FTSE Russell London Stock Exchange FX Post Trade Risk Intelligence Our businesses LSEG LSEG Data & Analytics FTSE Russell London Stock Exchange FX Post Trade Risk Intelligence FTSE Russell Benchmarks Rates WMR FX Benchmarks WMR FX Benchmarks The most timely, transparent, and reliable forward and spot rates covering 150+ currencies. Request details Updates Updates Overview Key Resources Features and Benefits Research and Insights Request details What are WMR FX benchmarks Download brochure download Updates Discontinuation: WMR Forward Rates – Cessation of Ghana Cedi 125.8KB • PDF Launch: WMR FX Launches JPY cross rates at 10am Tokyo time
+- India and Pakistan: A Timeline of Tensions Skip to Content Menu Close Subscribe World India India and Pakistan: A Timeline of Tensions Over Kashmir ADD TIME ON GOOGLE Show me more content from TIME on Google Search by Callum Sutherland Reporter May 8, 2025 8:30 AM CUT Paramilitary soldiers cordon off an area in Wuyan, Indian-administered Kashmir, on May 7, 2025. Paramilitary soldiers cordon off an area in Wuyan, Indian-administered Kashmir, on May 7, 2025. Faisal Bashir—SOPA Images/LightRocket/Getty Images by Callum Sutherland Reporter May 8, 2025 8:30 AM CUT In the most significant escalation in years, India and Pakistan have exchanged gunfire and airstrikes . On May 7, India launched a series of missile attacks into Pakistani territory, and Pakistan shot down Indian jets in retaliation. The escalation comes after a terrorist attack in Kashmir left 25 Indian tourists and one Nepalese national dead on April 22. India has claimed that Pakistan supported and aided the attack, which Pakistan has denied. The latest escalation, which has killed over 40 people across both sides, is ongoing, and world leaders, including U.N. Secretary-General António Guterres as well as President Donald Trump and officials in China and Russia , have urged de-escalation. The region of Jammu and Kashmir is at the heart of the conflict, and control over it has been disputed between the two neighbours since independence from the British Empire in 1947. Here’s what to know about the history of tensions. 1947 - Partition and independence from the British Empire Clashes over Kashmir between India and Pakistan are as old as the countries themselves. When both countries gained independence from Britain in 1947, princely states were given the option to join either Pakistan or India.
+- A timeline of conflict between Israel and Iran | AP News Menu World SECTIONS Iran war Russia-Ukraine war Español China Asia Pacific Latin America Europe Africa TOP STORIES Zelenskyy says Ukrainian forces shot down Shahed drones in Middle Eastern countries during Iran war Prince Harry sued for defamation by charity he set up in Africa to honor his mother Princess Diana Trinidad’s prime minister escalates feud with Caribbean neighbors over US policy in the region Newsletters The Morning Wire Our flagship newsletter breaks down the biggest headlines of the day. The Afternoon Wire Get caught up on what you may have missed throughout the day. See All Newsletters U.S. SECTIONS Immigration Weather Education Transportation Abortion LGBTQ+ Notable Deaths TOP STORIES In his first 100 days, Mamdani brings a unique star power to New York City governance Allies yank support for Swalwell's California governor run after sexual assault allegations Eric Adams, former 'international mayor' of NYC, becomes an honorary Albanian citizen Newsletters The Morning Wire Our flagship newsletter breaks down the biggest headlines of the day. See All Newsletters AP QUIZZES
+- Full Circle Design | Honest Design Agency in Ireland & the UK top of page Contact 🏠︎ Services Design Marketing Consulting Design Marketing Consulting Company Our Work About Us Contact Us Resources Locations Our Work About Us Contact Us Resources Locations Main Menu Take the Eligibility Quiz Close Hey, it's us, a seriously Honest Design Agency . We help serious businesses grow online with high-performing websites, smart SEO, and marketing that actually works. No nonsense. Just results. Take the Eligibility Quiz Loved by Local & International Businesses At Full Circle Design , we’re a straight-talking design agency working with the most ambitious businesses across Ireland & the UK. We've helped the best of the best! Create real solutions For real business & marketing problems We're a design agency who understands real business problems and how to create effective design and marketing solutions. Enter your main business problems below and let's solve them together.
+- Biomedical Journal of Scientific & Technical Research (BJSTR) Publishers | Biomedres.us info@biomedres.us +1 (502) 904-2126 One Westbrook Corporate Center, Suite 300, Westchester, IL 60154, USA Site Map Crossmark Policy FAQ's ISSN: 2574 -1241 Impact Factor : 0.548 ISI Impact Factor: 1.802 OCoLC: 999826537 LCCN: 2017202541 × × International Conference on Medicine and Medical Science Timings: March 1 st - 2 nd , 2019 To Watch this Live Streaming click below link Watch Now Menu About Us Aim & Scope Publication Ethics Indexing and Archiving Open Access Policy Peer Review Process For Editors Editor Guidelines Associate Editor Guidelines Reviewer Guidelines Register as
+- unsupervised_topic_modeling/topics/en/13/100/100/topics at master · annontopicmodel/unsupervised_topic_modeling · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Spark Build and deploy intelligent apps GitHub Models Manage and compare prompts MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities Code security Secure your code as you build Secret protection Stop leaks before they start EXPLORE Why GitHub Documentation Blog Changelog Marketplace View all features
+- Pennsylvania Code & Bulletin Skip to main content HOME SEARCH Pennsylvania Bulletin Pennsylvania Code Search Tips ABOUT CONTACT FAQ ALERTS C OMMONWEALTH OF P ENNSYLVANIA C OMMONWEALTH OF P ENNSYLVANIA No statutes or acts will be found at this website. The Pennsylvania Code website reflects the Pennsylvania Code changes effective through 56 Pa.B. 778 (January 31, 2026). The Pennsylvania Bulletin website includes the following: Rulemakings by State agencies; Proposed Rulemakings by State agencies; State agency notices; the Governor’s Proclamations and Executive Orders; Actions by the General Assembly; and Statewide and local court rules. About the Pennsylvania Code & Bulletin • No statutes or acts will be found at this website. The Pennsylvania Code website reflects the Pennsylvania Code changes effective through 56 Pa.B. 778 (January 31, 2026). The Pennsylvania Bulletin website includes the following: Rulemakings by State agencies; Proposed Rulemakings by State agencies; State agency notices; the Governor’s Proclamations and Executive Orders; Actions by the General Assembly; and Statewide and local court rules. SEARCH CODE
+- I need to site my source, how do i know what websites this was gotten from using AI overview - Google Search Community Skip to main content Google Search Help Sign in Google Help Help Center Community Google Search Privacy Policy Terms of Service Submit feedback Send feedback on... This help content & information General Help Center experience Next Help Center Community Improve your Google Account false Enable Dark Mode Search Clear search Close search Main menu 1633950610721068768 true Search Help Center false true true true true true 100334 false false
+- Submit feedback on content about you - Knowledge Panel Help Skip to main content Knowledge Panel Help Sign in Google Help Help Center Knowledge Panel Privacy Policy Terms of Service Submit feedback Send feedback on... This help content & information General Help Center experience Next Submit feedback on content about you Information in a knowledge panel generates automatically based on public information on the web. Anyone can submit feedback on a search feature. If you're a verified user, and if the knowledge panel is about you, we can prioritize your feedback. Google's automated systems determine the appearance and disappearance of these panels based on the relevance of info to a user's query. To maintain the integrity of search results, our current policy doesn’t manually create or delete Knowledge Panels. However, we always work to ensure the accuracy and helpfulness of the info displayed. If you have suggestions to improve the content within a Knowledge Panel, suggest an edit through the “Feedback” option on Google Search results pages. Your input is invaluable as we strive to provide the best possible search experience for everyone. Submit verified feedback Important: To submit verified feedback, you must verify your identity . Once you verify your identity, we can make some corrections directly, like links to social profiles. You can also update your preferences to show the information you chose. Go to Google Search . Sign in to the Google Account that you used to verify your identity. Check that your Web and App Activity is turned on. In Google Search, search for your name or the entity you represent. At the top of the knowledge panel, click Suggest edits . If you don’t find this option, remember: You must sign in with the same Google Account that you used to verify your identity. Your Google Account must be verified to represent this knowledge panel. Verify your identity or use a verified account to add users to the account . Next to the information you want to report, click Edit
+- Tutorial Gallery | Documentation Documentation Topics Tutorials Filter Capabilities All Capabilities 3D GIS Data Management Field Operations Geospatial AI Imagery & Remote Sensing Mapping Real-time Visualization & Analytics Sharing & Collaboration Spatial Analysis & Data Science Product All Products ArcGIS Enterprise ArcGIS Online ArcGIS Pro ArcGIS AllSource ArcGIS API for Python ArcGIS Business Analyst ArcGIS CityEngine ArcGIS Dashboards ArcGIS Drone2Map ArcGIS Earth ArcGIS Excalibur ArcGIS Experience Builder ArcGIS Field Maps ArcGIS for Microsoft ArcGIS Hub ArcGIS Instant Apps ArcGIS Living Atlas of the World ArcGIS Maps for Adobe Creative Cloud ArcGIS Notebooks ArcGIS QuickCapture ArcGIS Reality ArcGIS Solutions
+- Claude Managed Agents overview - Claude API Docs Loading... Messages Build Admin Models & pricing Client SDKs API Reference English Log in Search... ⌘K First steps Intro to Claude Quickstart Building with Claude Features overview Using the Messages API Handling stop reasons Model capabilities Extended thinking Adaptive thinking Effort Fast mode (beta: research preview) Structured outputs Citations Streaming Messages Batch processing Search results Streaming refusals Multilingual support Embeddings Tools Overview How tool use works Web search tool Web fetch tool Code execution tool Advisor tool Memory tool
 - Epstein Files: Timeline, Documents, People & Investigation Explained Skip to content Fri. Apr 10th, 2026 DYSTOPEKA.COM Circling The Drain to The Cesspool Of Topeka KS. Dystopolice Topeka Cop Watch Topeka Police Incidents Topeka Police: Incidents, Reports, and Investigations Topeka Police Scanner Radio Codes. Police Scanner Codes Dystopolice Epstein Files: What the Timeline, Documents, and Network Reveal The Epstein Files hub serves as a central index for timelines, documents, people, and ongoing investigations connected to Jeffrey Epstein’s network. This page organizes verified reporting, court records, and analysis into a structured view of the case — including the Zorro Ranch investigation, one of the most unresolved parts of the broader investigation. Coverage prioritizes verifiable information while clearly distinguishing between confirmed facts, reported claims, and unverified allegations. 👉 Start with: Jeffrey Epstein Explained 👉 Featured investigation: Zorro Ranch ⚠️ Unresolved Investigation: Zorro Ranch The Zorro Ranch investigation raises serious questions about what happened after 2019 — including missing transparency, halted state efforts, and years of silence. 👉 What happened — and what still isn’t explained 📋 Epstein Files List: Timeline, Documents, and Names This Epstein files list organizes the case into the three core areas readers search for most: timeline events, major document types, and people referenced in records and reporting. It is designed as a hub-page index, helping readers move quickly between the most important parts of the case while keeping the distinction clear between confirmed facts, public records, allegations, and unresolved questions. 📊 Epstein Timeline List 1953 – Jeffrey Epstein is born in Brooklyn, New York 1970s – Teaches at Dalton School and enters elite social circles Late 1970s–1980s – Moves from Bear Stearns into finance and private wealth work 1980s–1990s – Builds wealth, connections, and a growing property portfolio Early 2000s – Allegations involving minors begin surfacing more publicly 2005–2008 – Florida investigation develops 2008 – Epstein enters a controversial plea deal 2008–2009 – Serves jail time with unusual work-release privileges 2009–2018 – Maintains social and financial access after conviction 2019 – Arrested on federal sex trafficking charges August 10, 2019 – Dies in custody 2021 – Ghislaine Maxwell is convicted
+- CBD & Botanical Gummies - Charlotte's Web™ CBD & Botanicals – Charlotte’s Web CBD & Botanicals Skip to content Skip to Accessibility Statement This site has limited support for your browser. We recommend switching to Edge, Chrome, Safari, or Firefox. Our Warehouse is Closed April 10th-12th Orders Will Begin Processing Monday, April 13th Close Benefits See More Sleep Calm & Stress Focus Recovery & Pain Energy Daily Wellness Products See More Gummies Oils Capsules Topicals CBD for Dogs Ingredients See More Full-Spectrum CBD THC-Free THC Delta 9 Non-CBD Functional Mushrooms Rewards Take the Quiz Learn See More About Us See More Our Partnerships Certified B-Corp Retail Store Locator Wholesale Opportunities
+- Every Time-Series Database Benchmark Ever. 2025 Pulse Platform QStudio Data kdb+ Blog Contact Home Pulse Platform QStudio Data kdb+ Tutorials Blog Every Time-Series Database Benchmark Ever. 2025 Home Data Updated 2nd January 2025 This page will gather ongoing time-series database benchmarks into one location. Top Benchmarks - Those that are open, comprehensive and thorough Benchmarks by Date - Sorted Chronologically The top benchmarks section will focus on time-series databases that are fast, provide time-series joins, time window aggregations and data compression, rather than pull in more general solutions. Updated 2nd January 2025 Various open-source databases got closer to top performance in clickbench. See our blog post for the data trends and events of 2024 . It's not a benchmark, but we tested to see if DuckDB can run every query that kdb+ did in a recent KX article. Updated 10th September 2024 For me, there are three interesting happenings lately: DuckDB/QuestDB are both now very competitive. (DuckDB in th last year moved 2.7->2.1 in clickbench. QuestDB 24.2->2.7. Lower = better) ClickBench now includes many parquet/partitioned based timings showing the rise in popularity The inclusion and rising popularity of embedded databases: chdb and duckdb Clickbench Clickbench is a large suite of benchmarks produced by clickhouse themselves. The focus is not time-series but a wide range of queries.
+- A-Z Databases Skip to Main Content Toggle navigation Northwestern University Libraries Home Subject Librarians Hours Ask Us Chat Email Schedule a Research Consultation Libraries | Research Guides Library Research Guides A-Z Databases A-Z Databases Find the best library databases for your research. Toggle search filters navigation 1238 DATABASES DATABASES Go Database Subject Filter All Subjects African Studies (72) American Studies (123) Anthropology (36) Archaeology (2) Art and Architecture (53) Asian American Studies (31) Biological Sciences (43) Black Studies (93) Business (108) Caribbean Studies (21) Chemistry (41) Chicago Area (1) Chinese Studies (81) Classics (38) Cognitive Science (13) Communication Sciences and Disorders (14)
+- Business eligibility and ownership guidelines - Google Business Profile Help Skip to main content Google Business Profile Help Sign in Google Help Help Center Community Google Business Profile Privacy Policy Terms of Service Submit feedback Send feedback on... This help content & information General Help Center experience Next Help Center Community Get-Started Guide Notification Do not share any private or confidential personal or business-related information in this public forum. Business eligibility and ownership guidelines Not all businesses are eligible for a Business Profile on Google. To be eligible for a Business Profile, any business must meet the criteria as listed below. Owners and authorized representatives for a Business Profile must also follow the guidelines as listed. Eligible businesses To qualify for a Business Profile, a business must make in-person contact with customers during its stated hours. There are some exceptions: ATMs, video-rental kiosks, and express mail drop boxes are permitted. If you add these locations, you must include contact information for customers to get help. Seasonal businesses, like an ice-skating rink only open in winter months, are eligible. These businesses must display permanent signage at their location year-round. Delivery-only food services are permitted with some conditions. Learn about Virtual Food Brands . Ineligible businesses The following are examples of businesses that aren’t eligible for a Business Profile: Rental or for-sale properties such as vacation homes, model homes, or vacant apartments. Sales or leasing offices, however, are eligible for verification. An ongoing service, class, or meeting at a location that you don't own or have the authority to represent. Lead generation agents or companies. Brands, organizations, artists, and other online-only businesses. Businesses associated with products or services that require the customer to be a certain minimum age, like alcohol, cannabis, or weapons, aren’t permitted as service-area businesses without a storefront. Any business whose address is listed as a P.O. box or mailbox in a remote location. Ownership Only business owners or authorized representatives may verify and manage their business information on a Business Profile. If you wish to share management access to your Business Profile with others, you can
+- Current California Ocean Recreational Fishing Regulations - San Francisco Region Skip to Main Content See the Emergency Closures page before visiting a CDFW office, facility or property. CA.gov Official website of the State of California About Us Contact State of California Department of Fish and Wildlife Menu Custom Google Search Home Fishing Hunting Licensing Conservation Learning Home / Fishing / Ocean / Regulations / Fishing Map / San Francisco Current California Ocean Recreational Fishing Regulations - San Francisco Region 38°57.5 N. Latitude (Point Arena in Mendocino County) to 37°11 N. Latitude (Pigeon Point in San Mateo County) Includes a portion of Mendocino County, the portions of Sonoma, Marin and San Francisco counties bordering the Pacific Ocean, and most of San Mateo County Regulations for some species may differ inside San Francisco Bay; view regulations applicable to San Francisco Bay. This summary of current regulations was updated on April 9, 2026 . See
+- TDLR Approved | Official Texas Driving, Education & Continuing Education Directory Texas Department of Licensing and Regulation Approved Courses Driving Safety Courses Driver Education Continuing Education Type 3A Driving Records Blog Contact TDLR Approved Online Driving Safety & Education Courses Directory TDLR Approved Driving Safety Courses A comprehensive list of driving safety courses for ticket dismissal and insurance reduction. Taking a driving safety and eduction course promotes adherence to traffic regulations and highlight the significance of minimizing traffic violations, injuries, and accidents on the road. Find a Provider Dismissing Your Ticket How to dismiss your ticket in Texas What is a Type 3A Driving Record? How much does a driving safety course cost? Does taking a driving safety course remove tickets from my record in Texas? Resources Driver Safety Provider List Type 3A Driving Record Provider List Validate a Driving Safety Certificate TDLR Approved Driver Education Driver education courses are designed for students to obtain a Texas Driver License. Courses are offered for individuals from 14-17, 18-24 and over 25 years of age. Find a Provider Students & Parents Driver Education FAQs Parent-taught driver education Adult Driver Education Verification of Enrollment Knowledge Base Driver Education Providers Driver Education and Safety Laws TDLR Approved Continuing Education Find how many hours of continuing education you need to renew your occupational license and where you can take a course. Find a Provider Continuing Education
+- The Fund - Reaves Utility Income Fund The Fund | Reaves Utility Income Fund Performance & Holdings Skip to content Thank you for your interest in the Reaves Utility Income Fund. Please complete the following to receive timely information about the Fund. X The Fund Open menu Investment Objective Performance Holdings Distributions The Adviser Open menu Investment Philosophy Investment Process Our Team Resources Open menu Quarterly Fact Sheet Distribution News Annual Tax Information Annual & Semi-Annual Reports SEC Filings / Section 19(a) Notices Legal Documents Intro To Closed-End Funds Contact Us Open menu Contact The Adviser Contact The Administrator + The Fund Investment Objective Performance Holdings Distributions + The Adviser Investment Philosophy
+- Designing and validating a research questionnaire - Part 1 - PMC Skip to main content An official website of the United States government Here's how you know Here's how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. Search Log in Dashboard Publications Account settings Log out Search… Search NCBI Primary site navigation Search Logged in as: Dashboard Publications Account settings Log in Search PMC Full-Text Archive Search in PMC Journal List User Guide
+- News on YouTube - YouTube Help Skip to main content YouTube Help Sign in Google Help Help Center Fix a problem Watch videos Manage your account & settings Supervised experiences on YouTube YouTube Premium Create & grow your channel Monetize with the YouTube Partner Program Policy, safety, & copyright Community YouTube Privacy Policy YouTube Terms of Service Submit feedback Send feedback on... This help content & information General Help Center experience Next Help Center Community Creator Tips News on YouTube At YouTube, we’re committed to connecting you with content from high quality news sources to help you stay up to date on the latest events. Below, you can learn more about how we elevate high quality content through our news features. YouTube News Features We’ve developed several features to help you connect with the latest news on YouTube. These features use signals from Google News to identify news moments and top stories of the day. The videos that surface in YouTube news features are algorithmically generated based on several signals, which may include, but are not limited to: Local relevance and language Relevance to news topic or event Freshness of content Live streams Reporting intent, or videos with journalistic context YouTube’s standard recommendation signals Follow YouTube’s Community Guidelines
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
+- Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
 - Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
 - Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
 - Additional detail not available; consider increasing AUTOPEDIA_MAX_PAGES_PER_TURN or AUTOPEDIA_RESEARCH_TURNS.
