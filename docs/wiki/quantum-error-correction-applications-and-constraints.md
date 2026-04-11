@@ -3,9 +3,9 @@ title: Quantum error correction applications and constraints
 summary: Quantum error correction applications and constraints is selected because
   it has active scientific, industrial, and policy developments that reward a high-evidence
   synthesis.
-generated_at: '2026-04-11T20:19:05.264580Z'
+generated_at: '2026-04-11T20:35:48.518321Z'
 topic_slug: quantum-error-correction-applications-and-constraints
-sources_analyzed: 94
+sources_analyzed: 103
 research_turns: 10
 model: demo-mode
 request_mode: auto
@@ -31,14 +31,14 @@ available_translations:
     <section class="ap-meta-card">
       <p class="ap-meta-card__eyebrow">Signals</p>
       <ul class="ap-stat-list">
-        <li><strong>94</strong><span>sources analyzed</span></li>
+        <li><strong>103</strong><span>sources analyzed</span></li>
         <li><strong>10</strong><span>research turns</span></li>
         <li><strong>3</strong><span>translated views</span></li>
       </ul>
     </section>
     <section class="ap-meta-card">
       <p class="ap-meta-card__eyebrow">Snapshot</p>
-      <p><strong>Generated</strong><br>2026-04-11T20:19:05.264580Z</p>
+      <p><strong>Generated</strong><br>2026-04-11T20:35:48.518321Z</p>
       <p><strong>Mode</strong><br>auto</p>
       <p><strong>Model</strong><br>demo-mode</p>
     </section>
@@ -109,8 +109,8 @@ available_translations:
 <li>Digital System Design for Quantum Error Correction Codes - PMC: Digital System Design for Quantum Error Correction Codes - PMC</li>
 <li>Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL: Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL</li>
 <li>eCFR :: 49 CFR Chapter I -- Pipeline and Hazardous Materials Safety Administration, Department of Transportation: eCFR :: 49 CFR Chapter I -- Pipeline and Hazardous Materials Safety Administration, Department of Transportation</li>
-<li>Safety Regulations 2025 Key Changes &amp; Compliance Tips - Intrinsically Safe Store: Safety Regulations 2025 Key Changes &amp; Compliance Tips - Intrinsically Safe Store</li>
-<li>Determine If a Source Is Scholarly | Teaching, Learning, and Academic Support | University Library | Illinois: Determine If a Source Is Scholarly | Teaching, Learning, and Academic Support | University Library | Illinois
+<li>Building the future of quantum error correction | IBM Quantum Computing Blog: Building the future of quantum error correction | IBM Quantum Computing Blog</li>
+<li>Safety Regulations 2025 Key Changes &amp; Compliance Tips - Intrinsically Safe Store: Safety Regulations 2025 Key Changes &amp; Compliance Tips - Intrinsically Safe Store
 参照: [1], [2], [3], [4], [5], [6]</li>
 </ul>
 <h2>主要な論点</h2>
@@ -203,8 +203,8 @@ available_translations:
 <li>Digital System Design for Quantum Error Correction Codes - PMC: Digital System Design for Quantum Error Correction Codes - PMC</li>
 <li>Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL: Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL</li>
 <li>eCFR :: 49 CFR Chapter I -- Pipeline and Hazardous Materials Safety Administration, Department of Transportation: eCFR :: 49 CFR Chapter I -- Pipeline and Hazardous Materials Safety Administration, Department of Transportation</li>
-<li>Safety Regulations 2025 Key Changes &amp; Compliance Tips - Intrinsically Safe Store: Safety Regulations 2025 Key Changes &amp; Compliance Tips - Intrinsically Safe Store</li>
-<li>Determine If a Source Is Scholarly | Teaching, Learning, and Academic Support | University Library | Illinois: Determine If a Source Is Scholarly | Teaching, Learning, and Academic Support | University Library | Illinois
+<li>Building the future of quantum error correction | IBM Quantum Computing Blog: Building the future of quantum error correction | IBM Quantum Computing Blog</li>
+<li>Safety Regulations 2025 Key Changes &amp; Compliance Tips - Intrinsically Safe Store: Safety Regulations 2025 Key Changes &amp; Compliance Tips - Intrinsically Safe Store
 参照: [1], [2], [3], [4], [5], [6]</li>
 </ul>
 <h2>主要な論点</h2>
@@ -297,8 +297,8 @@ available_translations:
 <li>Digital System Design for Quantum Error Correction Codes - PMC: Digital System Design for Quantum Error Correction Codes - PMC</li>
 <li>Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL: Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL</li>
 <li>eCFR :: 49 CFR Chapter I -- Pipeline and Hazardous Materials Safety Administration, Department of Transportation: eCFR :: 49 CFR Chapter I -- Pipeline and Hazardous Materials Safety Administration, Department of Transportation</li>
-<li>Safety Regulations 2025 Key Changes &amp; Compliance Tips - Intrinsically Safe Store: Safety Regulations 2025 Key Changes &amp; Compliance Tips - Intrinsically Safe Store</li>
-<li>Determine If a Source Is Scholarly | Teaching, Learning, and Academic Support | University Library | Illinois: Determine If a Source Is Scholarly | Teaching, Learning, and Academic Support | University Library | Illinois
+<li>Building the future of quantum error correction | IBM Quantum Computing Blog: Building the future of quantum error correction | IBM Quantum Computing Blog</li>
+<li>Safety Regulations 2025 Key Changes &amp; Compliance Tips - Intrinsically Safe Store: Safety Regulations 2025 Key Changes &amp; Compliance Tips - Intrinsically Safe Store
 参照: [1], [2], [3], [4], [5], [6]</li>
 </ul>
 <h2>主要な論点</h2>
@@ -391,8 +391,8 @@ available_translations:
 <li>Digital System Design for Quantum Error Correction Codes - PMC: Digital System Design for Quantum Error Correction Codes - PMC</li>
 <li>Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL: Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL</li>
 <li>eCFR :: 49 CFR Chapter I -- Pipeline and Hazardous Materials Safety Administration, Department of Transportation: eCFR :: 49 CFR Chapter I -- Pipeline and Hazardous Materials Safety Administration, Department of Transportation</li>
-<li>Safety Regulations 2025 Key Changes &amp; Compliance Tips - Intrinsically Safe Store: Safety Regulations 2025 Key Changes &amp; Compliance Tips - Intrinsically Safe Store</li>
-<li>Determine If a Source Is Scholarly | Teaching, Learning, and Academic Support | University Library | Illinois: Determine If a Source Is Scholarly | Teaching, Learning, and Academic Support | University Library | Illinois
+<li>Building the future of quantum error correction | IBM Quantum Computing Blog: Building the future of quantum error correction | IBM Quantum Computing Blog</li>
+<li>Safety Regulations 2025 Key Changes &amp; Compliance Tips - Intrinsically Safe Store: Safety Regulations 2025 Key Changes &amp; Compliance Tips - Intrinsically Safe Store
 参照: [1], [2], [3], [4], [5], [6]</li>
 </ul>
 <h2>主要な論点</h2>
@@ -481,9 +481,9 @@ available_translations:
 <li><a href="https://physicsworld.com/a/quantum-computing-on-the-verge-correcting-errors-developing-algorithms-and-building-up-the-user-base">Quantum computing on the verge: correcting errors, developing algorithms and building up the user base – Physics World</a> - physicsworld.com.</li>
 <li><a href="https://www.eurekalert.org/news-releases/1113201">Quantum error correction with logical qubits | EurekAlert!</a> - www.eurekalert.org.</li>
 <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12847801">Demonstrating quantum error mitigation on logical qubits - PMC</a> - pmc.ncbi.nlm.nih.gov.</li>
-<li><a href="https://dataintelo.com/report/quantum-error-correction-software-market">Quantum Error Correction Software Market Research Report 2033</a> - dataintelo.com.</li>
-<li><a href="https://support.google.com/youtube/answer/9057101?hl=en">News on YouTube - YouTube Help</a> - support.google.com.</li>
+<li><a href="https://www.aje.com/arc/how-to-write-limitations-of-the-study">How to Write Limitations of the Study (with examples) | AJE</a> - www.aje.com.</li>
 <li><a href="https://www.currentfederaltaxdevelopments.com/blog/2026/4/10/a-technical-analysis-of-the-final-section-224-regulations-on-the-qualified-tip-deduction">A Technical Analysis of the Final Section 224 Regulations on the Qualified Tip Deduction — Current Federal Tax Developments</a> - www.currentfederaltaxdevelopments.com.</li>
+<li><a href="https://www.ecfr.gov/current/title-49/subtitle-B/chapter-I">eCFR :: 49 CFR Chapter I -- Pipeline and Hazardous Materials Safety Administration, Department of Transportation</a> - www.ecfr.gov.</li>
 </ol>
       </div>
     </section>
