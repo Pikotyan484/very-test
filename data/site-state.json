@@ -11,12 +11,12 @@
         "technology",
         "analysis"
       ],
-      "generated_at": "2026-04-13T11:06:12.651487Z",
-      "sources_analyzed": 83,
+      "generated_at": "2026-04-13T11:23:01.814844Z",
+      "sources_analyzed": 101,
       "research_turns": 10,
       "request_mode": "auto",
       "page_path": "wiki/quantum-error-correction-applications-and-constraints.md",
-      "report_path": "reports/20260413T105026Z-quantum-error-correction-applications-and-constraints.md"
+      "report_path": "reports/20260413T110640Z-quantum-error-correction-applications-and-constraints.md"
     },
     {
       "title": "Water desalination membranes",
@@ -180,6 +180,16 @@
     }
   ],
   "run_history": [
+    {
+      "run_id": "20260413T110640Z-quantum-error-correction-applications-and-constraints",
+      "topic": "Quantum error correction applications and constraints",
+      "slug": "quantum-error-correction-applications-and-constraints",
+      "generated_at": "2026-04-13T11:23:01.814844Z",
+      "sources_analyzed": 101,
+      "request_mode": "auto",
+      "report_path": "reports/20260413T110640Z-quantum-error-correction-applications-and-constraints.md",
+      "page_path": "wiki/quantum-error-correction-applications-and-constraints.md"
+    },
     {
       "run_id": "20260413T105026Z-quantum-error-correction-applications-and-constraints",
       "topic": "Quantum error correction applications and constraints",
@@ -3169,16 +3179,6 @@
       "request_mode": "auto",
       "report_path": "reports/20260410T021856Z-mrna-vaccine-manufacturing.md",
       "page_path": "wiki/mrna-vaccine-manufacturing.md"
-    },
-    {
-      "run_id": "20260410T011910Z-quantum-error-correction",
-      "topic": "Quantum error correction",
-      "slug": "quantum-error-correction",
-      "generated_at": "2026-04-10T01:21:15.553799Z",
-      "sources_analyzed": 119,
-      "request_mode": "auto",
-      "report_path": "reports/20260410T011910Z-quantum-error-correction.md",
-      "page_path": "wiki/quantum-error-correction.md"
     }
   ],
   "failed_topics": []
