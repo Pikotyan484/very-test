@@ -11,12 +11,12 @@
         "technology",
         "analysis"
       ],
-      "generated_at": "2026-04-13T12:49:51.376785Z",
-      "sources_analyzed": 89,
+      "generated_at": "2026-04-13T13:06:39.402573Z",
+      "sources_analyzed": 84,
       "research_turns": 10,
       "request_mode": "auto",
       "page_path": "wiki/quantum-error-correction-applications-and-constraints.md",
-      "report_path": "reports/20260413T123225Z-quantum-error-correction-applications-and-constraints.md"
+      "report_path": "reports/20260413T125023Z-quantum-error-correction-applications-and-constraints.md"
     },
     {
       "title": "Water desalination membranes",
@@ -180,6 +180,16 @@
     }
   ],
   "run_history": [
+    {
+      "run_id": "20260413T125023Z-quantum-error-correction-applications-and-constraints",
+      "topic": "Quantum error correction applications and constraints",
+      "slug": "quantum-error-correction-applications-and-constraints",
+      "generated_at": "2026-04-13T13:06:39.402573Z",
+      "sources_analyzed": 84,
+      "request_mode": "auto",
+      "report_path": "reports/20260413T125023Z-quantum-error-correction-applications-and-constraints.md",
+      "page_path": "wiki/quantum-error-correction-applications-and-constraints.md"
+    },
     {
       "run_id": "20260413T123225Z-quantum-error-correction-applications-and-constraints",
       "topic": "Quantum error correction applications and constraints",
@@ -3169,16 +3179,6 @@
       "request_mode": "auto",
       "report_path": "reports/20260410T031641Z-geothermal-closed-loop-systems.md",
       "page_path": "wiki/geothermal-closed-loop-systems.md"
-    },
-    {
-      "run_id": "20260410T030838Z-protein-structure-prediction",
-      "topic": "Protein structure prediction",
-      "slug": "protein-structure-prediction",
-      "generated_at": "2026-04-10T03:16:13.328590Z",
-      "sources_analyzed": 30,
-      "request_mode": "auto",
-      "report_path": "reports/20260410T030838Z-protein-structure-prediction.md",
-      "page_path": "wiki/protein-structure-prediction.md"
     }
   ],
   "failed_topics": []
