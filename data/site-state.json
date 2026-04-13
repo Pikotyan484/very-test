@@ -11,12 +11,12 @@
         "technology",
         "analysis"
       ],
-      "generated_at": "2026-04-13T15:50:13.072423Z",
-      "sources_analyzed": 108,
+      "generated_at": "2026-04-13T16:10:15.185659Z",
+      "sources_analyzed": 95,
       "research_turns": 10,
       "request_mode": "auto",
       "page_path": "wiki/quantum-error-correction-applications-and-constraints.md",
-      "report_path": "reports/20260413T153323Z-quantum-error-correction-applications-and-constraints.md"
+      "report_path": "reports/20260413T155047Z-quantum-error-correction-applications-and-constraints.md"
     },
     {
       "title": "Water desalination membranes",
@@ -180,6 +180,16 @@
     }
   ],
   "run_history": [
+    {
+      "run_id": "20260413T155047Z-quantum-error-correction-applications-and-constraints",
+      "topic": "Quantum error correction applications and constraints",
+      "slug": "quantum-error-correction-applications-and-constraints",
+      "generated_at": "2026-04-13T16:10:15.185659Z",
+      "sources_analyzed": 95,
+      "request_mode": "auto",
+      "report_path": "reports/20260413T155047Z-quantum-error-correction-applications-and-constraints.md",
+      "page_path": "wiki/quantum-error-correction-applications-and-constraints.md"
+    },
     {
       "run_id": "20260413T153323Z-quantum-error-correction-applications-and-constraints",
       "topic": "Quantum error correction applications and constraints",
@@ -3168,16 +3178,6 @@
       "sources_analyzed": 23,
       "request_mode": "auto",
       "report_path": "reports/20260410T042658Z-quantum-error-correction-applications-and-constraints.md",
-      "page_path": "wiki/quantum-error-correction-applications-and-constraints.md"
-    },
-    {
-      "run_id": "20260410T042057Z-quantum-error-correction-applications-and-constraints",
-      "topic": "Quantum error correction applications and constraints",
-      "slug": "quantum-error-correction-applications-and-constraints",
-      "generated_at": "2026-04-10T04:26:31.382674Z",
-      "sources_analyzed": 22,
-      "request_mode": "auto",
-      "report_path": "reports/20260410T042057Z-quantum-error-correction-applications-and-constraints.md",
       "page_path": "wiki/quantum-error-correction-applications-and-constraints.md"
     }
   ],
