@@ -3,9 +3,9 @@ title: Quantum error correction applications and constraints
 summary: Quantum error correction applications and constraints is selected because
   it has active scientific, industrial, and policy developments that reward a high-evidence
   synthesis.
-generated_at: '2026-04-17T14:41:58.674076Z'
+generated_at: '2026-04-17T14:57:59.126463Z'
 topic_slug: quantum-error-correction-applications-and-constraints
-sources_analyzed: 86
+sources_analyzed: 85
 research_turns: 10
 model: demo-mode
 request_mode: auto
@@ -31,14 +31,14 @@ available_translations:
     <section class="ap-meta-card">
       <p class="ap-meta-card__eyebrow">Signals</p>
       <ul class="ap-stat-list">
-        <li><strong>86</strong><span>sources analyzed</span></li>
+        <li><strong>85</strong><span>sources analyzed</span></li>
         <li><strong>10</strong><span>research turns</span></li>
         <li><strong>3</strong><span>translated views</span></li>
       </ul>
     </section>
     <section class="ap-meta-card">
       <p class="ap-meta-card__eyebrow">Snapshot</p>
-      <p><strong>Generated</strong><br>2026-04-17T14:41:58.674076Z</p>
+      <p><strong>Generated</strong><br>2026-04-17T14:57:59.126463Z</p>
       <p><strong>Mode</strong><br>auto</p>
       <p><strong>Model</strong><br>demo-mode</p>
     </section>
@@ -109,8 +109,8 @@ available_translations:
 <li>Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL: Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL</li>
 <li>What is Quantum Error Correction (QEC): What is Quantum Error Correction (QEC)</li>
 <li>Building the future of quantum error correction | IBM Quantum Computing Blog: Building the future of quantum error correction | IBM Quantum Computing Blog</li>
-<li>eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards: eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards</li>
-<li>Safety Regulations 2025 Key Changes &amp; Compliance Tips - Intrinsically Safe Store: Safety Regulations 2025 Key Changes &amp; Compliance Tips - Intrinsically Safe Store
+<li>Quantum Error Correction: The Key to Quantum Computing: Quantum Error Correction: The Key to Quantum Computing</li>
+<li>NeurIPS research papers contained 100+ AI-hallucinated citations, new report claims | Fortune: NeurIPS research papers contained 100+ AI-hallucinated citations, new report claims | Fortune
 参照: [1], [2], [3], [4], [5], [6]</li>
 </ul>
 <h2>主要な論点</h2>
@@ -203,8 +203,8 @@ available_translations:
 <li>Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL: Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL</li>
 <li>What is Quantum Error Correction (QEC): What is Quantum Error Correction (QEC)</li>
 <li>Building the future of quantum error correction | IBM Quantum Computing Blog: Building the future of quantum error correction | IBM Quantum Computing Blog</li>
-<li>eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards: eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards</li>
-<li>Safety Regulations 2025 Key Changes &amp; Compliance Tips - Intrinsically Safe Store: Safety Regulations 2025 Key Changes &amp; Compliance Tips - Intrinsically Safe Store
+<li>Quantum Error Correction: The Key to Quantum Computing: Quantum Error Correction: The Key to Quantum Computing</li>
+<li>NeurIPS research papers contained 100+ AI-hallucinated citations, new report claims | Fortune: NeurIPS research papers contained 100+ AI-hallucinated citations, new report claims | Fortune
 参照: [1], [2], [3], [4], [5], [6]</li>
 </ul>
 <h2>主要な論点</h2>
@@ -297,8 +297,8 @@ available_translations:
 <li>Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL: Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL</li>
 <li>What is Quantum Error Correction (QEC): What is Quantum Error Correction (QEC)</li>
 <li>Building the future of quantum error correction | IBM Quantum Computing Blog: Building the future of quantum error correction | IBM Quantum Computing Blog</li>
-<li>eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards: eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards</li>
-<li>Safety Regulations 2025 Key Changes &amp; Compliance Tips - Intrinsically Safe Store: Safety Regulations 2025 Key Changes &amp; Compliance Tips - Intrinsically Safe Store
+<li>Quantum Error Correction: The Key to Quantum Computing: Quantum Error Correction: The Key to Quantum Computing</li>
+<li>NeurIPS research papers contained 100+ AI-hallucinated citations, new report claims | Fortune: NeurIPS research papers contained 100+ AI-hallucinated citations, new report claims | Fortune
 参照: [1], [2], [3], [4], [5], [6]</li>
 </ul>
 <h2>主要な論点</h2>
@@ -391,8 +391,8 @@ available_translations:
 <li>Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL: Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL</li>
 <li>What is Quantum Error Correction (QEC): What is Quantum Error Correction (QEC)</li>
 <li>Building the future of quantum error correction | IBM Quantum Computing Blog: Building the future of quantum error correction | IBM Quantum Computing Blog</li>
-<li>eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards: eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards</li>
-<li>Safety Regulations 2025 Key Changes &amp; Compliance Tips - Intrinsically Safe Store: Safety Regulations 2025 Key Changes &amp; Compliance Tips - Intrinsically Safe Store
+<li>Quantum Error Correction: The Key to Quantum Computing: Quantum Error Correction: The Key to Quantum Computing</li>
+<li>NeurIPS research papers contained 100+ AI-hallucinated citations, new report claims | Fortune: NeurIPS research papers contained 100+ AI-hallucinated citations, new report claims | Fortune
 参照: [1], [2], [3], [4], [5], [6]</li>
 </ul>
 <h2>主要な論点</h2>
@@ -478,12 +478,12 @@ available_translations:
 <li><a href="https://quantum.lassp.cornell.edu/lecture/quantum_error_correction">Quantum Error Correction | Applications of Quantum Mechanics</a> - quantum.lassp.cornell.edu.</li>
 <li><a href="https://www.bluequbit.io/blog/quantum-error-correction">Quantum Error Correction: The Key to Quantum Computing</a> - www.bluequbit.io.</li>
 <li><a href="https://ar5iv.labs.arxiv.org/html/1907.11157">[1907.11157] Quantum Error Correction: An Introductory Guide</a> - ar5iv.labs.arxiv.org.</li>
+<li><a href="https://www.frontiersin.org/journals/quantum-science-and-technology/articles/10.3389/frqst.2025.1723319/full">Frontiers | Quantum computing: foundations, algorithms, and emerging applications</a> - www.frontiersin.org.</li>
 <li><a href="https://www.ibm.com/quantum/blog/large-scale-ftqc">IBM lays out clear path to fault-tolerant quantum computing | IBM Quantum Computing Blog</a> - www.ibm.com.</li>
 <li><a href="https://www.ibm.com/quantum/blog/future-quantum-error-correction">Building the future of quantum error correction | IBM Quantum Computing Blog</a> - www.ibm.com.</li>
-<li><a href="https://www.frontiersin.org/journals/quantum-science-and-technology/articles/10.3389/frqst.2025.1723319/full">Frontiers | Quantum computing: foundations, algorithms, and emerging applications</a> - www.frontiersin.org.</li>
 <li><a href="https://www.grandviewresearch.com/industry-analysis/quantum-processing-unit-market-report">Quantum Processing Unit Market Size | Industry Report, 2030</a> - www.grandviewresearch.com.</li>
 <li><a href="https://www.aje.com/arc/how-to-write-limitations-of-the-study">How to Write Limitations of the Study (with examples) | AJE</a> - www.aje.com.</li>
-<li><a href="https://www.ecfr.gov/current/title-49/subtitle-B/chapter-I/subchapter-D/part-192?toc=1">eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards</a> - www.ecfr.gov.</li>
+<li><a href="https://www.ecfr.gov/current/title-49/subtitle-B/chapter-I">eCFR :: 49 CFR Chapter I -- Pipeline and Hazardous Materials Safety Administration, Department of Transportation</a> - www.ecfr.gov.</li>
 </ol>
       </div>
     </section>
