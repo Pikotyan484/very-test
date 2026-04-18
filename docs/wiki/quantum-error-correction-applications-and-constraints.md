@@ -3,9 +3,9 @@ title: Quantum error correction applications and constraints
 summary: Quantum error correction applications and constraints is selected because
   it has active scientific, industrial, and policy developments that reward a high-evidence
   synthesis.
-generated_at: '2026-04-18T03:50:12.064736Z'
+generated_at: '2026-04-18T04:08:03.812982Z'
 topic_slug: quantum-error-correction-applications-and-constraints
-sources_analyzed: 93
+sources_analyzed: 94
 research_turns: 10
 model: demo-mode
 request_mode: auto
@@ -31,14 +31,14 @@ available_translations:
     <section class="ap-meta-card">
       <p class="ap-meta-card__eyebrow">Signals</p>
       <ul class="ap-stat-list">
-        <li><strong>93</strong><span>sources analyzed</span></li>
+        <li><strong>94</strong><span>sources analyzed</span></li>
         <li><strong>10</strong><span>research turns</span></li>
         <li><strong>3</strong><span>translated views</span></li>
       </ul>
     </section>
     <section class="ap-meta-card">
       <p class="ap-meta-card__eyebrow">Snapshot</p>
-      <p><strong>Generated</strong><br>2026-04-18T03:50:12.064736Z</p>
+      <p><strong>Generated</strong><br>2026-04-18T04:08:03.812982Z</p>
       <p><strong>Mode</strong><br>auto</p>
       <p><strong>Model</strong><br>demo-mode</p>
     </section>
@@ -109,8 +109,8 @@ available_translations:
 <li>Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL: Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL</li>
 <li>Quantum Error Correction · Chair for Design Automation: Quantum Error Correction · Chair for Design Automation</li>
 <li>Building the future of quantum error correction | IBM Quantum Computing Blog: Building the future of quantum error correction | IBM Quantum Computing Blog</li>
-<li>QED-C | State of the Global Quantum Industry 2026 | QED-C: QED-C | State of the Global Quantum Industry 2026 | QED-C</li>
-<li>Quantum Error Correction: The Key to Quantum Computing: Quantum Error Correction: The Key to Quantum Computing
+<li>Quantum Error Correction: The Key to Quantum Computing: Quantum Error Correction: The Key to Quantum Computing</li>
+<li>LXD documentation 5.21.4: LXD documentation 5.21.4
 参照: [1], [2], [3], [4], [5], [6]</li>
 </ul>
 <h2>主要な論点</h2>
@@ -203,8 +203,8 @@ available_translations:
 <li>Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL: Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL</li>
 <li>Quantum Error Correction · Chair for Design Automation: Quantum Error Correction · Chair for Design Automation</li>
 <li>Building the future of quantum error correction | IBM Quantum Computing Blog: Building the future of quantum error correction | IBM Quantum Computing Blog</li>
-<li>QED-C | State of the Global Quantum Industry 2026 | QED-C: QED-C | State of the Global Quantum Industry 2026 | QED-C</li>
-<li>Quantum Error Correction: The Key to Quantum Computing: Quantum Error Correction: The Key to Quantum Computing
+<li>Quantum Error Correction: The Key to Quantum Computing: Quantum Error Correction: The Key to Quantum Computing</li>
+<li>LXD documentation 5.21.4: LXD documentation 5.21.4
 参照: [1], [2], [3], [4], [5], [6]</li>
 </ul>
 <h2>主要な論点</h2>
@@ -297,8 +297,8 @@ available_translations:
 <li>Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL: Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL</li>
 <li>Quantum Error Correction · Chair for Design Automation: Quantum Error Correction · Chair for Design Automation</li>
 <li>Building the future of quantum error correction | IBM Quantum Computing Blog: Building the future of quantum error correction | IBM Quantum Computing Blog</li>
-<li>QED-C | State of the Global Quantum Industry 2026 | QED-C: QED-C | State of the Global Quantum Industry 2026 | QED-C</li>
-<li>Quantum Error Correction: The Key to Quantum Computing: Quantum Error Correction: The Key to Quantum Computing
+<li>Quantum Error Correction: The Key to Quantum Computing: Quantum Error Correction: The Key to Quantum Computing</li>
+<li>LXD documentation 5.21.4: LXD documentation 5.21.4
 参照: [1], [2], [3], [4], [5], [6]</li>
 </ul>
 <h2>主要な論点</h2>
@@ -391,8 +391,8 @@ available_translations:
 <li>Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL: Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL</li>
 <li>Quantum Error Correction · Chair for Design Automation: Quantum Error Correction · Chair for Design Automation</li>
 <li>Building the future of quantum error correction | IBM Quantum Computing Blog: Building the future of quantum error correction | IBM Quantum Computing Blog</li>
-<li>QED-C | State of the Global Quantum Industry 2026 | QED-C: QED-C | State of the Global Quantum Industry 2026 | QED-C</li>
-<li>Quantum Error Correction: The Key to Quantum Computing: Quantum Error Correction: The Key to Quantum Computing
+<li>Quantum Error Correction: The Key to Quantum Computing: Quantum Error Correction: The Key to Quantum Computing</li>
+<li>LXD documentation 5.21.4: LXD documentation 5.21.4
 参照: [1], [2], [3], [4], [5], [6]</li>
 </ul>
 <h2>主要な論点</h2>
@@ -469,21 +469,21 @@ available_translations:
 <li><a href="https://www.quera.com/glossary/quantum-error-correction">What is Quantum Error Correction (QEC)</a> - www.quera.com.</li>
 <li><a href="https://q-ctrl.com/blog/choosing-the-right-quantum-error-reduction-strategy-a-practical-guide-to-error-suppression-error-mitigation-and-quantum-error-correction">Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL</a> - q-ctrl.com.</li>
 <li><a href="https://www.cda.cit.tum.de/research/quantum_qec">Quantum Error Correction · Chair for Design Automation</a> - www.cda.cit.tum.de.</li>
-<li><a href="https://www.ecfr.gov/current/title-49/subtitle-B/chapter-I/subchapter-D/part-192?toc=1">eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards</a> - www.ecfr.gov.</li>
-<li><a href="https://www.investmentbankingcouncil.org/blog/limits-of-financial-statement-analysis-in-real-world-valuation">Limits of Financial Statement Analysis in Real-World Valuation | IBCA</a> - www.investmentbankingcouncil.org.</li>
-<li><a href="https://www.gminsights.com/industry-analysis/quantum-error-correction-materials-market">Quantum Error Correction Materials Market Size Report, 2034</a> - www.gminsights.com.</li>
-<li><a href="https://quantum.lassp.cornell.edu/lecture/quantum_error_correction">Quantum Error Correction | Applications of Quantum Mechanics</a> - quantum.lassp.cornell.edu.</li>
 <li><a href="https://www.faa.gov/airports/airport_safety/part139_cert">Part 139 Airport Certification | Federal Aviation Administration</a> - www.faa.gov.</li>
+<li><a href="https://www.gminsights.com/industry-analysis/quantum-error-correction-materials-market">Quantum Error Correction Materials Market Size Report, 2034</a> - www.gminsights.com.</li>
+<li><a href="https://www.science.gov/topicpages/q/quantum+error-correcting+codes">quantum error-correcting codes: Topics by Science.gov</a> - www.science.gov.</li>
+<li><a href="https://quantum.lassp.cornell.edu/lecture/quantum_error_correction">Quantum Error Correction | Applications of Quantum Mechanics</a> - quantum.lassp.cornell.edu.</li>
+<li><a href="https://www.ecfr.gov/current/title-49/subtitle-B/chapter-I/subchapter-D/part-192?toc=1">eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards</a> - www.ecfr.gov.</li>
 <li><a href="https://www.bluequbit.io/blog/quantum-error-correction">Quantum Error Correction: The Key to Quantum Computing</a> - www.bluequbit.io.</li>
 <li><a href="https://ar5iv.labs.arxiv.org/html/1907.11157">[1907.11157] Quantum Error Correction: An Introductory Guide</a> - ar5iv.labs.arxiv.org.</li>
-<li><a href="https://www.ibm.com/quantum/blog/large-scale-ftqc">IBM lays out clear path to fault-tolerant quantum computing | IBM Quantum Computing Blog</a> - www.ibm.com.</li>
 <li><a href="https://www.frontiersin.org/journals/quantum-science-and-technology/articles/10.3389/frqst.2025.1723319/full">Frontiers | Quantum computing: foundations, algorithms, and emerging applications</a> - www.frontiersin.org.</li>
 <li><a href="https://arxiv.org/html/2412.20380v1">Artificial Intelligence for Quantum Error Correction: A Comprehensive Review</a> - arxiv.org.</li>
+<li><a href="https://www.ibm.com/quantum/blog/large-scale-ftqc">IBM lays out clear path to fault-tolerant quantum computing | IBM Quantum Computing Blog</a> - www.ibm.com.</li>
 <li><a href="https://www.ibm.com/quantum/blog/future-quantum-error-correction">Building the future of quantum error correction | IBM Quantum Computing Blog</a> - www.ibm.com.</li>
-<li><a href="https://postquantum.com/quantum-computing/quantum-error-correction">Quantum Errors and Quantum Error Correction (QEC) Methods</a> - postquantum.com.</li>
 <li><a href="https://quantumconsortium.org/publication/2026-state-of-the-global-quantum-industry-report">QED-C | State of the Global Quantum Industry 2026 | QED-C</a> - quantumconsortium.org.</li>
 <li><a href="https://www.aje.com/arc/how-to-write-limitations-of-the-study">How to Write Limitations of the Study (with examples) | AJE</a> - www.aje.com.</li>
 <li><a href="https://www.nature.com/articles/s41586-024-08449-y">Quantum error correction below the surface code threshold | Nature</a> - www.nature.com.</li>
+<li><a href="https://arxiv.org/abs/2412.20380">[2412.20380] Artificial Intelligence for Quantum Error Correction: A Comprehensive Review</a> - arxiv.org.</li>
 </ol>
       </div>
     </section>
