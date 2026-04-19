@@ -3,9 +3,9 @@ title: Quantum error correction applications and constraints
 summary: Quantum error correction applications and constraints is selected because
   it has active scientific, industrial, and policy developments that reward a high-evidence
   synthesis.
-generated_at: '2026-04-19T15:36:39.477952Z'
+generated_at: '2026-04-19T15:53:49.051779Z'
 topic_slug: quantum-error-correction-applications-and-constraints
-sources_analyzed: 66
+sources_analyzed: 104
 research_turns: 10
 model: demo-mode
 request_mode: auto
@@ -31,14 +31,14 @@ available_translations:
     <section class="ap-meta-card">
       <p class="ap-meta-card__eyebrow">Signals</p>
       <ul class="ap-stat-list">
-        <li><strong>66</strong><span>sources analyzed</span></li>
+        <li><strong>104</strong><span>sources analyzed</span></li>
         <li><strong>10</strong><span>research turns</span></li>
         <li><strong>3</strong><span>translated views</span></li>
       </ul>
     </section>
     <section class="ap-meta-card">
       <p class="ap-meta-card__eyebrow">Snapshot</p>
-      <p><strong>Generated</strong><br>2026-04-19T15:36:39.477952Z</p>
+      <p><strong>Generated</strong><br>2026-04-19T15:53:49.051779Z</p>
       <p><strong>Mode</strong><br>auto</p>
       <p><strong>Model</strong><br>demo-mode</p>
     </section>
@@ -97,7 +97,7 @@ available_translations:
 <ul>
 <li>Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL: Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL</li>
 <li>What is Quantum Error Correction (QEC): What is Quantum Error Correction (QEC)</li>
-<li>Quantum Error Correction · Chair for Design Automation: Quantum Error Correction · Chair for Design Automation</li>
+<li>quantum error-correcting codes: Topics by Science.gov: quantum error-correcting codes: Topics by Science.gov</li>
 </ul>
 </div>
 <h2>概要</h2>
@@ -107,10 +107,10 @@ available_translations:
 <ul>
 <li>Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL: Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL</li>
 <li>What is Quantum Error Correction (QEC): What is Quantum Error Correction (QEC)</li>
-<li>Quantum Error Correction · Chair for Design Automation: Quantum Error Correction · Chair for Design Automation</li>
+<li>quantum error-correcting codes: Topics by Science.gov: quantum error-correcting codes: Topics by Science.gov</li>
+<li>Popular Timelines - Famous people, events, places and more: Popular Timelines - Famous people, events, places and more</li>
 <li>QED-C | State of the Global Quantum Industry 2026 | QED-C: QED-C | State of the Global Quantum Industry 2026 | QED-C</li>
-<li>Survivors seek to nix statute of limitations for child sexual abuse: Survivors seek to nix statute of limitations for child sexual abuse</li>
-<li>Transient Stability Analysis of Islanded Microgrid with Parallel Grid-forming Converters Considering Current Limitation | IEEE Journals &amp; Magazine | IEEE Xplore: Transient Stability Analysis of Islanded Microgrid with Parallel Grid-forming Converters Considering Current Limitation | IEEE Journals &amp; Magazine | IEEE Xplore
+<li>Handbooks &amp; Manuals | Federal Aviation Administration: Handbooks &amp; Manuals | Federal Aviation Administration
 参照: [1], [2], [3], [4], [5], [6]</li>
 </ul>
 <h2>主要な論点</h2>
@@ -191,7 +191,7 @@ available_translations:
 <ul>
 <li>Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL: Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL</li>
 <li>What is Quantum Error Correction (QEC): What is Quantum Error Correction (QEC)</li>
-<li>Quantum Error Correction · Chair for Design Automation: Quantum Error Correction · Chair for Design Automation</li>
+<li>quantum error-correcting codes: Topics by Science.gov: quantum error-correcting codes: Topics by Science.gov</li>
 </ul>
 </div>
 <h2>概要</h2>
@@ -201,10 +201,10 @@ available_translations:
 <ul>
 <li>Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL: Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL</li>
 <li>What is Quantum Error Correction (QEC): What is Quantum Error Correction (QEC)</li>
-<li>Quantum Error Correction · Chair for Design Automation: Quantum Error Correction · Chair for Design Automation</li>
+<li>quantum error-correcting codes: Topics by Science.gov: quantum error-correcting codes: Topics by Science.gov</li>
+<li>Popular Timelines - Famous people, events, places and more: Popular Timelines - Famous people, events, places and more</li>
 <li>QED-C | State of the Global Quantum Industry 2026 | QED-C: QED-C | State of the Global Quantum Industry 2026 | QED-C</li>
-<li>Survivors seek to nix statute of limitations for child sexual abuse: Survivors seek to nix statute of limitations for child sexual abuse</li>
-<li>Transient Stability Analysis of Islanded Microgrid with Parallel Grid-forming Converters Considering Current Limitation | IEEE Journals &amp; Magazine | IEEE Xplore: Transient Stability Analysis of Islanded Microgrid with Parallel Grid-forming Converters Considering Current Limitation | IEEE Journals &amp; Magazine | IEEE Xplore
+<li>Handbooks &amp; Manuals | Federal Aviation Administration: Handbooks &amp; Manuals | Federal Aviation Administration
 参照: [1], [2], [3], [4], [5], [6]</li>
 </ul>
 <h2>主要な論点</h2>
@@ -285,7 +285,7 @@ available_translations:
 <ul>
 <li>Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL: Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL</li>
 <li>What is Quantum Error Correction (QEC): What is Quantum Error Correction (QEC)</li>
-<li>Quantum Error Correction · Chair for Design Automation: Quantum Error Correction · Chair for Design Automation</li>
+<li>quantum error-correcting codes: Topics by Science.gov: quantum error-correcting codes: Topics by Science.gov</li>
 </ul>
 </div>
 <h2>概要</h2>
@@ -295,10 +295,10 @@ available_translations:
 <ul>
 <li>Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL: Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL</li>
 <li>What is Quantum Error Correction (QEC): What is Quantum Error Correction (QEC)</li>
-<li>Quantum Error Correction · Chair for Design Automation: Quantum Error Correction · Chair for Design Automation</li>
+<li>quantum error-correcting codes: Topics by Science.gov: quantum error-correcting codes: Topics by Science.gov</li>
+<li>Popular Timelines - Famous people, events, places and more: Popular Timelines - Famous people, events, places and more</li>
 <li>QED-C | State of the Global Quantum Industry 2026 | QED-C: QED-C | State of the Global Quantum Industry 2026 | QED-C</li>
-<li>Survivors seek to nix statute of limitations for child sexual abuse: Survivors seek to nix statute of limitations for child sexual abuse</li>
-<li>Transient Stability Analysis of Islanded Microgrid with Parallel Grid-forming Converters Considering Current Limitation | IEEE Journals &amp; Magazine | IEEE Xplore: Transient Stability Analysis of Islanded Microgrid with Parallel Grid-forming Converters Considering Current Limitation | IEEE Journals &amp; Magazine | IEEE Xplore
+<li>Handbooks &amp; Manuals | Federal Aviation Administration: Handbooks &amp; Manuals | Federal Aviation Administration
 参照: [1], [2], [3], [4], [5], [6]</li>
 </ul>
 <h2>主要な論点</h2>
@@ -379,7 +379,7 @@ available_translations:
 <ul>
 <li>Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL: Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL</li>
 <li>What is Quantum Error Correction (QEC): What is Quantum Error Correction (QEC)</li>
-<li>Quantum Error Correction · Chair for Design Automation: Quantum Error Correction · Chair for Design Automation</li>
+<li>quantum error-correcting codes: Topics by Science.gov: quantum error-correcting codes: Topics by Science.gov</li>
 </ul>
 </div>
 <h2>概要</h2>
@@ -389,10 +389,10 @@ available_translations:
 <ul>
 <li>Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL: Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL</li>
 <li>What is Quantum Error Correction (QEC): What is Quantum Error Correction (QEC)</li>
-<li>Quantum Error Correction · Chair for Design Automation: Quantum Error Correction · Chair for Design Automation</li>
+<li>quantum error-correcting codes: Topics by Science.gov: quantum error-correcting codes: Topics by Science.gov</li>
+<li>Popular Timelines - Famous people, events, places and more: Popular Timelines - Famous people, events, places and more</li>
 <li>QED-C | State of the Global Quantum Industry 2026 | QED-C: QED-C | State of the Global Quantum Industry 2026 | QED-C</li>
-<li>Survivors seek to nix statute of limitations for child sexual abuse: Survivors seek to nix statute of limitations for child sexual abuse</li>
-<li>Transient Stability Analysis of Islanded Microgrid with Parallel Grid-forming Converters Considering Current Limitation | IEEE Journals &amp; Magazine | IEEE Xplore: Transient Stability Analysis of Islanded Microgrid with Parallel Grid-forming Converters Considering Current Limitation | IEEE Journals &amp; Magazine | IEEE Xplore
+<li>Handbooks &amp; Manuals | Federal Aviation Administration: Handbooks &amp; Manuals | Federal Aviation Administration
 参照: [1], [2], [3], [4], [5], [6]</li>
 </ul>
 <h2>主要な論点</h2>
@@ -468,22 +468,22 @@ available_translations:
 <ol>
 <li><a href="https://q-ctrl.com/blog/choosing-the-right-quantum-error-reduction-strategy-a-practical-guide-to-error-suppression-error-mitigation-and-quantum-error-correction">Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL</a> - q-ctrl.com.</li>
 <li><a href="https://www.quera.com/glossary/quantum-error-correction">What is Quantum Error Correction (QEC)</a> - www.quera.com.</li>
+<li><a href="https://www.science.gov/topicpages/q/quantum+error-correcting+codes">quantum error-correcting codes: Topics by Science.gov</a> - www.science.gov.</li>
+<li><a href="https://arxiv.org/html/2412.20380v1">Artificial Intelligence for Quantum Error Correction: A Comprehensive Review</a> - arxiv.org.</li>
 <li><a href="https://www.cda.cit.tum.de/research/quantum_qec">Quantum Error Correction · Chair for Design Automation</a> - www.cda.cit.tum.de.</li>
 <li><a href="https://ar5iv.labs.arxiv.org/html/1907.11157">[1907.11157] Quantum Error Correction: An Introductory Guide</a> - ar5iv.labs.arxiv.org.</li>
+<li><a href="https://www.gminsights.com/industry-analysis/quantum-error-correction-materials-market">Quantum Error Correction Materials Market Size Report, 2034</a> - www.gminsights.com.</li>
+<li><a href="https://www.frontiersin.org/journals/quantum-science-and-technology/articles/10.3389/frqst.2025.1723319/full">Frontiers | Quantum computing: foundations, algorithms, and emerging applications</a> - www.frontiersin.org.</li>
+<li><a href="https://quantum.lassp.cornell.edu/lecture/quantum_error_correction">Quantum Error Correction | Applications of Quantum Mechanics</a> - quantum.lassp.cornell.edu.</li>
 <li><a href="https://www.populartimelines.com">Popular Timelines - Famous people, events, places and more</a> - www.populartimelines.com.</li>
 <li><a href="https://www.ibm.com/quantum/blog/large-scale-ftqc">IBM lays out clear path to fault-tolerant quantum computing | IBM Quantum Computing Blog</a> - www.ibm.com.</li>
 <li><a href="https://postquantum.com/quantum-computing/quantum-error-correction">Quantum Errors and Quantum Error Correction (QEC) Methods</a> - postquantum.com.</li>
 <li><a href="https://quantumconsortium.org/publication/2026-state-of-the-global-quantum-industry-report">QED-C | State of the Global Quantum Industry 2026 | QED-C</a> - quantumconsortium.org.</li>
 <li><a href="https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XVII/part-1910">eCFR :: 29 CFR Part 1910 -- Occupational Safety and Health Standards</a> - www.ecfr.gov.</li>
+<li><a href="https://www.faa.gov/regulations_policies/handbooks_manuals">Handbooks &amp; Manuals | Federal Aviation Administration</a> - www.faa.gov.</li>
 <li><a href="https://www.bluequbit.io/blog/quantum-error-correction">Quantum Error Correction: The Key to Quantum Computing</a> - www.bluequbit.io.</li>
 <li><a href="https://intrinsicallysafestore.com/blog/safety-regulations-2025">Safety Regulations 2025 Key Changes &amp; Compliance Tips - Intrinsically Safe Store</a> - intrinsicallysafestore.com.</li>
-<li><a href="https://www.faa.gov/regulations_policies/handbooks_manuals">Handbooks &amp; Manuals | Federal Aviation Administration</a> - www.faa.gov.</li>
-<li><a href="https://www.library.illinois.edu/tlas/instruction/i-need-to-2/scholarly-source">Determine If a Source Is Scholarly | Teaching, Learning, and Academic Support | University Library | Illinois</a> - www.library.illinois.edu.</li>
-<li><a href="https://www.nature.com/articles/s41586-024-08449-y">Quantum error correction below the surface code threshold | Nature</a> - www.nature.com.</li>
-<li><a href="https://arxiv.org/html/2412.20380">Artificial Intelligence for Quantum Error Correction: A Comprehensive Review</a> - arxiv.org.</li>
-<li><a href="https://ctmirror.org/2026/04/07/survivors-seek-to-nix-statute-of-limitations-for-child-sexual-abuse">Survivors seek to nix statute of limitations for child sexual abuse</a> - ctmirror.org.</li>
-<li><a href="https://docs.wpilib.org/en/stable">FIRST Robotics Competition Control System — FIRST Robotics Competition documentation</a> - docs.wpilib.org.</li>
-<li><a href="https://docs.wpilib.org/en/stable">FIRST Robotics Competition Control System — FIRST Robotics Competition documentation</a> - docs.wpilib.org.</li>
+<li><a href="https://www.ibm.com/quantum/blog/future-quantum-error-correction">Building the future of quantum error correction | IBM Quantum Computing Blog</a> - www.ibm.com.</li>
 </ol>
       </div>
     </section>
