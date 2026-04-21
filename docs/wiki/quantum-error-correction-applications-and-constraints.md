@@ -3,9 +3,9 @@ title: Quantum error correction applications and constraints
 summary: Quantum error correction applications and constraints is selected because
   it has active scientific, industrial, and policy developments that reward a high-evidence
   synthesis.
-generated_at: '2026-04-21T20:28:07.000458Z'
+generated_at: '2026-04-21T20:44:19.282727Z'
 topic_slug: quantum-error-correction-applications-and-constraints
-sources_analyzed: 144
+sources_analyzed: 101
 research_turns: 10
 model: demo-mode
 request_mode: auto
@@ -31,14 +31,14 @@ available_translations:
     <section class="ap-meta-card">
       <p class="ap-meta-card__eyebrow">Signals</p>
       <ul class="ap-stat-list">
-        <li><strong>144</strong><span>sources analyzed</span></li>
+        <li><strong>101</strong><span>sources analyzed</span></li>
         <li><strong>10</strong><span>research turns</span></li>
         <li><strong>3</strong><span>translated views</span></li>
       </ul>
     </section>
     <section class="ap-meta-card">
       <p class="ap-meta-card__eyebrow">Snapshot</p>
-      <p><strong>Generated</strong><br>2026-04-21T20:28:07.000458Z</p>
+      <p><strong>Generated</strong><br>2026-04-21T20:44:19.282727Z</p>
       <p><strong>Mode</strong><br>auto</p>
       <p><strong>Model</strong><br>demo-mode</p>
     </section>
@@ -108,9 +108,9 @@ available_translations:
 <li>Quantum Sensors for Innovative Healthcare Solutions: Impact Analysis: Quantum Sensors for Innovative Healthcare Solutions: Impact Analysis</li>
 <li>Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL: Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL</li>
 <li>What is Quantum Error Correction (QEC): What is Quantum Error Correction (QEC)</li>
-<li>eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards: eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards</li>
-<li>GitHub - pengkangzhen/academic-review-skill: Claude Code Skill for academic review of Operations Research papers · GitHub: GitHub - pengkangzhen/academic-review-skill: Claude Code Skill for academic review of Operations Research papers · GitHub</li>
-<li>Reference List: Articles in Periodicals - Purdue OWL® - Purdue University: Reference List: Articles in Periodicals -
+<li>Quantum Sensors vs Potentiometric Sensors: Analysis Precision: Quantum Sensors vs Potentiometric Sensors: Analysis Precision</li>
+<li>Nested Subagent Spawning Failure in Cursor CLI: A CTO's Strategic Analysis of Technical Limitations and Workarounds - Dre Dyson: Nested Subagent Spawning Failure in Cursor CLI: A CTO's Strategic Analysis of Technical Limitations and Workarounds - Dre Dyson</li>
+<li>Limits of Financial Statement Analysis in Real-World Valuation | IBCA: Limits of Financial Statement Analysis in Real-World Valuation | IBCA
 参照: [1], [2], [3], [4], [5], [6]</li>
 </ul>
 <h2>主要な論点</h2>
@@ -202,9 +202,9 @@ available_translations:
 <li>Quantum Sensors for Innovative Healthcare Solutions: Impact Analysis: Quantum Sensors for Innovative Healthcare Solutions: Impact Analysis</li>
 <li>Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL: Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL</li>
 <li>What is Quantum Error Correction (QEC): What is Quantum Error Correction (QEC)</li>
-<li>eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards: eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards</li>
-<li>GitHub - pengkangzhen/academic-review-skill: Claude Code Skill for academic review of Operations Research papers · GitHub: GitHub - pengkangzhen/academic-review-skill: Claude Code Skill for academic review of Operations Research papers · GitHub</li>
-<li>Reference List: Articles in Periodicals - Purdue OWL® - Purdue University: Reference List: Articles in Periodicals -
+<li>Quantum Sensors vs Potentiometric Sensors: Analysis Precision: Quantum Sensors vs Potentiometric Sensors: Analysis Precision</li>
+<li>Nested Subagent Spawning Failure in Cursor CLI: A CTO's Strategic Analysis of Technical Limitations and Workarounds - Dre Dyson: Nested Subagent Spawning Failure in Cursor CLI: A CTO's Strategic Analysis of Technical Limitations and Workarounds - Dre Dyson</li>
+<li>Limits of Financial Statement Analysis in Real-World Valuation | IBCA: Limits of Financial Statement Analysis in Real-World Valuation | IBCA
 参照: [1], [2], [3], [4], [5], [6]</li>
 </ul>
 <h2>主要な論点</h2>
@@ -296,9 +296,9 @@ available_translations:
 <li>Quantum Sensors for Innovative Healthcare Solutions: Impact Analysis: Quantum Sensors for Innovative Healthcare Solutions: Impact Analysis</li>
 <li>Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL: Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL</li>
 <li>What is Quantum Error Correction (QEC): What is Quantum Error Correction (QEC)</li>
-<li>eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards: eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards</li>
-<li>GitHub - pengkangzhen/academic-review-skill: Claude Code Skill for academic review of Operations Research papers · GitHub: GitHub - pengkangzhen/academic-review-skill: Claude Code Skill for academic review of Operations Research papers · GitHub</li>
-<li>Reference List: Articles in Periodicals - Purdue OWL® - Purdue University: Reference List: Articles in Periodicals -
+<li>Quantum Sensors vs Potentiometric Sensors: Analysis Precision: Quantum Sensors vs Potentiometric Sensors: Analysis Precision</li>
+<li>Nested Subagent Spawning Failure in Cursor CLI: A CTO's Strategic Analysis of Technical Limitations and Workarounds - Dre Dyson: Nested Subagent Spawning Failure in Cursor CLI: A CTO's Strategic Analysis of Technical Limitations and Workarounds - Dre Dyson</li>
+<li>Limits of Financial Statement Analysis in Real-World Valuation | IBCA: Limits of Financial Statement Analysis in Real-World Valuation | IBCA
 参照: [1], [2], [3], [4], [5], [6]</li>
 </ul>
 <h2>主要な論点</h2>
@@ -390,9 +390,9 @@ available_translations:
 <li>Quantum Sensors for Innovative Healthcare Solutions: Impact Analysis: Quantum Sensors for Innovative Healthcare Solutions: Impact Analysis</li>
 <li>Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL: Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL</li>
 <li>What is Quantum Error Correction (QEC): What is Quantum Error Correction (QEC)</li>
-<li>eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards: eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards</li>
-<li>GitHub - pengkangzhen/academic-review-skill: Claude Code Skill for academic review of Operations Research papers · GitHub: GitHub - pengkangzhen/academic-review-skill: Claude Code Skill for academic review of Operations Research papers · GitHub</li>
-<li>Reference List: Articles in Periodicals - Purdue OWL® - Purdue University: Reference List: Articles in Periodicals -
+<li>Quantum Sensors vs Potentiometric Sensors: Analysis Precision: Quantum Sensors vs Potentiometric Sensors: Analysis Precision</li>
+<li>Nested Subagent Spawning Failure in Cursor CLI: A CTO's Strategic Analysis of Technical Limitations and Workarounds - Dre Dyson: Nested Subagent Spawning Failure in Cursor CLI: A CTO's Strategic Analysis of Technical Limitations and Workarounds - Dre Dyson</li>
+<li>Limits of Financial Statement Analysis in Real-World Valuation | IBCA: Limits of Financial Statement Analysis in Real-World Valuation | IBCA
 参照: [1], [2], [3], [4], [5], [6]</li>
 </ul>
 <h2>主要な論点</h2>
@@ -471,19 +471,19 @@ available_translations:
 <li><a href="https://dredyson.com/nested-subagent-spawning-failure-in-cursor-cli-a-ctos-strategic-analysis-of-technical-limitations-and-workarounds">Nested Subagent Spawning Failure in Cursor CLI: A CTO's Strategic Analysis of Technical Limitations and Workarounds - Dre Dyson</a> - dredyson.com.</li>
 <li><a href="https://q-ctrl.com/blog/choosing-the-right-quantum-error-reduction-strategy-a-practical-guide-to-error-suppression-error-mitigation-and-quantum-error-correction">Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL</a> - q-ctrl.com.</li>
 <li><a href="https://www.quera.com/glossary/quantum-error-correction">What is Quantum Error Correction (QEC)</a> - www.quera.com.</li>
-<li><a href="https://quantumconsortium.org/publication/2026-state-of-the-global-quantum-industry-report">QED-C | State of the Global Quantum Industry 2026 | QED-C</a> - quantumconsortium.org.</li>
+<li><a href="https://www.science.gov/topicpages/q/quantum+error-correcting+codes">quantum error-correcting codes: Topics by Science.gov</a> - www.science.gov.</li>
 <li><a href="https://arxiv.org/html/2412.20380v1">Artificial Intelligence for Quantum Error Correction: A Comprehensive Review</a> - arxiv.org.</li>
 <li><a href="https://www.investmentbankingcouncil.org/blog/limits-of-financial-statement-analysis-in-real-world-valuation">Limits of Financial Statement Analysis in Real-World Valuation | IBCA</a> - www.investmentbankingcouncil.org.</li>
+<li><a href="https://www.gminsights.com/industry-analysis/quantum-error-correction-materials-market">Quantum Error Correction Materials Market Size Report, 2034</a> - www.gminsights.com.</li>
 <li><a href="https://www.cda.cit.tum.de/research/quantum_qec">Quantum Error Correction · Chair for Design Automation</a> - www.cda.cit.tum.de.</li>
-<li><a href="https://ar5iv.labs.arxiv.org/html/1907.11157">[1907.11157] Quantum Error Correction: An Introductory Guide</a> - ar5iv.labs.arxiv.org.</li>
-<li><a href="https://www.frontiersin.org/journals/quantum-science-and-technology/articles/10.3389/frqst.2025.1723319/full">Frontiers | Quantum computing: foundations, algorithms, and emerging applications</a> - www.frontiersin.org.</li>
-<li><a href="https://www.ecfr.gov/current/title-49/subtitle-B/chapter-I/subchapter-D/part-192?toc=1">eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards</a> - www.ecfr.gov.</li>
-<li><a href="https://www.ibm.com/quantum/blog/large-scale-ftqc">IBM lays out clear path to fault-tolerant quantum computing | IBM Quantum Computing Blog</a> - www.ibm.com.</li>
-<li><a href="https://github.com/pengkangzhen/academic-review-skill">GitHub - pengkangzhen/academic-review-skill: Claude Code Skill for academic review of Operations Research papers · GitHub</a> - github.com.</li>
-<li><a href="https://www.nature.com/articles/s41586-024-08449-y">Quantum error correction below the surface code threshold | Nature</a> - www.nature.com.</li>
-<li><a href="https://libguides.lonestar.edu/az/databases">Research Databases</a> - libguides.lonestar.edu.</li>
-<li><a href="https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/reference_list_articles_in_periodicals.html">Reference List: Articles in Periodicals - Purdue OWL® - Purdue University</a> - owl.purdue.edu.</li>
-<li><a href="https://www.bluequbit.io/blog/quantum-error-correction">Quantum Error Correction: The Key to Quantum Computing</a> - www.bluequbit.io.</li>
+<li><a href="https://paperpile.com:443/g/academic-search-engines">The best academic search engines [Update 2025] - Paperpile</a> - paperpile.com:443.</li>
+<li><a href="https://paperpile.com:443/g/academic-search-engines">The best academic search engines [Update 2025] - Paperpile</a> - paperpile.com:443.</li>
+<li><a href="https://paperpile.com:443/g/academic-search-engines">The best academic search engines [Update 2025] - Paperpile</a> - paperpile.com:443.</li>
+<li><a href="https://paperpile.com:443/g/academic-search-engines">The best academic search engines [Update 2025] - Paperpile</a> - paperpile.com:443.</li>
+<li><a href="https://quantum.lassp.cornell.edu/lecture/quantum_error_correction">Quantum Error Correction | Applications of Quantum Mechanics</a> - quantum.lassp.cornell.edu.</li>
+<li><a href="https://quantumconsortium.org/publication/2026-state-of-the-global-quantum-industry-report">QED-C | State of the Global Quantum Industry 2026 | QED-C</a> - quantumconsortium.org.</li>
+<li><a href="https://support.google.com/knowledgepanel/answer/7534842?hl=en">Submit feedback on content about you - Knowledge Panel Help</a> - support.google.com.</li>
+<li><a href="https://www.faa.gov/airports/airport_safety/part139_cert">Part 139 Airport Certification | Federal Aviation Administration</a> - www.faa.gov.</li>
 </ol>
       </div>
     </section>
