@@ -3,9 +3,9 @@ title: Quantum error correction applications and constraints
 summary: Quantum error correction applications and constraints is selected because
   it has active scientific, industrial, and policy developments that reward a high-evidence
   synthesis.
-generated_at: '2026-04-28T00:51:33.375108Z'
+generated_at: '2026-04-28T01:15:34.949991Z'
 topic_slug: quantum-error-correction-applications-and-constraints
-sources_analyzed: 57
+sources_analyzed: 101
 research_turns: 10
 model: demo-mode
 request_mode: auto
@@ -31,14 +31,14 @@ available_translations:
     <section class="ap-meta-card">
       <p class="ap-meta-card__eyebrow">Signals</p>
       <ul class="ap-stat-list">
-        <li><strong>57</strong><span>sources analyzed</span></li>
+        <li><strong>101</strong><span>sources analyzed</span></li>
         <li><strong>10</strong><span>research turns</span></li>
         <li><strong>3</strong><span>translated views</span></li>
       </ul>
     </section>
     <section class="ap-meta-card">
       <p class="ap-meta-card__eyebrow">Snapshot</p>
-      <p><strong>Generated</strong><br>2026-04-28T00:51:33.375108Z</p>
+      <p><strong>Generated</strong><br>2026-04-28T01:15:34.949991Z</p>
       <p><strong>Mode</strong><br>auto</p>
       <p><strong>Model</strong><br>demo-mode</p>
     </section>
@@ -95,9 +95,9 @@ available_translations:
 <div class="admonition abstract">
 <p class="admonition-title">要点</p>
 <ul>
-<li>Senior Theme A Analysis for the Harvard International Review Academic Writing Contest 2026 | Aralia Education: Senior Theme A Analysis for the Harvard International Review Academic Writing Contest 2026 | Aralia Education</li>
-<li>GitHub - xinjia18/wrds-financial-benchmarking-tool: A financial benchmarking tool for software and related technology firms using WRDS Compustat data, with a Jupyter notebook an...: GitHub - xinjia18/wrds-financial-benchmarking-tool: A financial benchmarking tool for software and related technology firms using WRDS Compustat data, with a Jupyter notebook an...</li>
-<li>eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards: eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards</li>
+<li>Digital System Design for Quantum Error Correction Codes - PMC: Digital System Design for Quantum Error Correction Codes - PMC</li>
+<li>Quantum Error Correction Materials Market Size Report, 2034: Quantum Error Correction Materials Market Size Report, 2034</li>
+<li>Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL: Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL</li>
 </ul>
 </div>
 <h2>概要</h2>
@@ -105,12 +105,12 @@ available_translations:
 参照: [1], [2], [3], [4], [5], [6]</p>
 <h2>何が重要か</h2>
 <ul>
-<li>Senior Theme A Analysis for the Harvard International Review Academic Writing Contest 2026 | Aralia Education: Senior Theme A Analysis for the Harvard International Review Academic Writing Contest 2026 | Aralia Education</li>
-<li>GitHub - xinjia18/wrds-financial-benchmarking-tool: A financial benchmarking tool for software and related technology firms using WRDS Compustat data, with a Jupyter notebook an...: GitHub - xinjia18/wrds-financial-benchmarking-tool: A financial benchmarking tool for software and related technology firms using WRDS Compustat data, with a Jupyter notebook an...</li>
-<li>eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards: eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards</li>
-<li>85 Predictions for AI and the Law in 2026: 85 Predictions for AI and the Law in 2026</li>
-<li>How do I know if my sources are credible/reliable? - FAQ - Library Guides at University of Washington Libraries: How do I know if my sources are credible/reliable? - FAQ - Library Guides at University of Washington Libraries</li>
-<li>A-Z Databases: A-Z Databases
+<li>Digital System Design for Quantum Error Correction Codes - PMC: Digital System Design for Quantum Error Correction Codes - PMC</li>
+<li>Quantum Error Correction Materials Market Size Report, 2034: Quantum Error Correction Materials Market Size Report, 2034</li>
+<li>Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL: Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL</li>
+<li>Building the future of quantum error correction | IBM Quantum Computing Blog: Building the future of quantum error correction | IBM Quantum Computing Blog</li>
+<li>Limitations of Semen Analysis as a Test of Male Fertility and Anticipated Needs from Newer Tests - PMC: Limitations of Semen Analysis as a Test of Male Fertility and Anticipated Needs from Newer Tests - PMC</li>
+<li>Quantum Error Correction: The Key to Quantum Computing: Quantum Error Correction: The Key to Quantum Computing
 参照: [1], [2], [3], [4], [5], [6]</li>
 </ul>
 <h2>主要な論点</h2>
@@ -125,12 +125,12 @@ available_translations:
 <tbody>
 <tr>
 <td>技術・仕組み</td>
-<td>Senior Theme A Analysis for the Harvard International Review Academ...</td>
+<td>Digital System Design for Quantum Error Correction Codes - PMC: Dig...</td>
 <td>文脈依存のため一次ソース確認が必要</td>
 </tr>
 <tr>
 <td>導入・実装</td>
-<td>GitHub - xinjia18/wrds-financial-benchmarking-tool: A financial ben...</td>
+<td>Quantum Error Correction Materials Market Size Report, 2034: Quantu...</td>
 <td>ベンダー主張との差分に注意</td>
 </tr>
 <tr>
@@ -189,9 +189,9 @@ available_translations:
 <div class="admonition abstract">
 <p class="admonition-title">要点</p>
 <ul>
-<li>Senior Theme A Analysis for the Harvard International Review Academic Writing Contest 2026 | Aralia Education: Senior Theme A Analysis for the Harvard International Review Academic Writing Contest 2026 | Aralia Education</li>
-<li>GitHub - xinjia18/wrds-financial-benchmarking-tool: A financial benchmarking tool for software and related technology firms using WRDS Compustat data, with a Jupyter notebook an...: GitHub - xinjia18/wrds-financial-benchmarking-tool: A financial benchmarking tool for software and related technology firms using WRDS Compustat data, with a Jupyter notebook an...</li>
-<li>eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards: eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards</li>
+<li>Digital System Design for Quantum Error Correction Codes - PMC: Digital System Design for Quantum Error Correction Codes - PMC</li>
+<li>Quantum Error Correction Materials Market Size Report, 2034: Quantum Error Correction Materials Market Size Report, 2034</li>
+<li>Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL: Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL</li>
 </ul>
 </div>
 <h2>概要</h2>
@@ -199,12 +199,12 @@ available_translations:
 参照: [1], [2], [3], [4], [5], [6]</p>
 <h2>何が重要か</h2>
 <ul>
-<li>Senior Theme A Analysis for the Harvard International Review Academic Writing Contest 2026 | Aralia Education: Senior Theme A Analysis for the Harvard International Review Academic Writing Contest 2026 | Aralia Education</li>
-<li>GitHub - xinjia18/wrds-financial-benchmarking-tool: A financial benchmarking tool for software and related technology firms using WRDS Compustat data, with a Jupyter notebook an...: GitHub - xinjia18/wrds-financial-benchmarking-tool: A financial benchmarking tool for software and related technology firms using WRDS Compustat data, with a Jupyter notebook an...</li>
-<li>eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards: eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards</li>
-<li>85 Predictions for AI and the Law in 2026: 85 Predictions for AI and the Law in 2026</li>
-<li>How do I know if my sources are credible/reliable? - FAQ - Library Guides at University of Washington Libraries: How do I know if my sources are credible/reliable? - FAQ - Library Guides at University of Washington Libraries</li>
-<li>A-Z Databases: A-Z Databases
+<li>Digital System Design for Quantum Error Correction Codes - PMC: Digital System Design for Quantum Error Correction Codes - PMC</li>
+<li>Quantum Error Correction Materials Market Size Report, 2034: Quantum Error Correction Materials Market Size Report, 2034</li>
+<li>Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL: Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL</li>
+<li>Building the future of quantum error correction | IBM Quantum Computing Blog: Building the future of quantum error correction | IBM Quantum Computing Blog</li>
+<li>Limitations of Semen Analysis as a Test of Male Fertility and Anticipated Needs from Newer Tests - PMC: Limitations of Semen Analysis as a Test of Male Fertility and Anticipated Needs from Newer Tests - PMC</li>
+<li>Quantum Error Correction: The Key to Quantum Computing: Quantum Error Correction: The Key to Quantum Computing
 参照: [1], [2], [3], [4], [5], [6]</li>
 </ul>
 <h2>主要な論点</h2>
@@ -219,12 +219,12 @@ available_translations:
 <tbody>
 <tr>
 <td>技術・仕組み</td>
-<td>Senior Theme A Analysis for the Harvard International Review Academ...</td>
+<td>Digital System Design for Quantum Error Correction Codes - PMC: Dig...</td>
 <td>文脈依存のため一次ソース確認が必要</td>
 </tr>
 <tr>
 <td>導入・実装</td>
-<td>GitHub - xinjia18/wrds-financial-benchmarking-tool: A financial ben...</td>
+<td>Quantum Error Correction Materials Market Size Report, 2034: Quantu...</td>
 <td>ベンダー主張との差分に注意</td>
 </tr>
 <tr>
@@ -283,9 +283,9 @@ available_translations:
 <div class="admonition abstract">
 <p class="admonition-title">要点</p>
 <ul>
-<li>Senior Theme A Analysis for the Harvard International Review Academic Writing Contest 2026 | Aralia Education: Senior Theme A Analysis for the Harvard International Review Academic Writing Contest 2026 | Aralia Education</li>
-<li>GitHub - xinjia18/wrds-financial-benchmarking-tool: A financial benchmarking tool for software and related technology firms using WRDS Compustat data, with a Jupyter notebook an...: GitHub - xinjia18/wrds-financial-benchmarking-tool: A financial benchmarking tool for software and related technology firms using WRDS Compustat data, with a Jupyter notebook an...</li>
-<li>eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards: eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards</li>
+<li>Digital System Design for Quantum Error Correction Codes - PMC: Digital System Design for Quantum Error Correction Codes - PMC</li>
+<li>Quantum Error Correction Materials Market Size Report, 2034: Quantum Error Correction Materials Market Size Report, 2034</li>
+<li>Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL: Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL</li>
 </ul>
 </div>
 <h2>概要</h2>
@@ -293,12 +293,12 @@ available_translations:
 参照: [1], [2], [3], [4], [5], [6]</p>
 <h2>何が重要か</h2>
 <ul>
-<li>Senior Theme A Analysis for the Harvard International Review Academic Writing Contest 2026 | Aralia Education: Senior Theme A Analysis for the Harvard International Review Academic Writing Contest 2026 | Aralia Education</li>
-<li>GitHub - xinjia18/wrds-financial-benchmarking-tool: A financial benchmarking tool for software and related technology firms using WRDS Compustat data, with a Jupyter notebook an...: GitHub - xinjia18/wrds-financial-benchmarking-tool: A financial benchmarking tool for software and related technology firms using WRDS Compustat data, with a Jupyter notebook an...</li>
-<li>eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards: eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards</li>
-<li>85 Predictions for AI and the Law in 2026: 85 Predictions for AI and the Law in 2026</li>
-<li>How do I know if my sources are credible/reliable? - FAQ - Library Guides at University of Washington Libraries: How do I know if my sources are credible/reliable? - FAQ - Library Guides at University of Washington Libraries</li>
-<li>A-Z Databases: A-Z Databases
+<li>Digital System Design for Quantum Error Correction Codes - PMC: Digital System Design for Quantum Error Correction Codes - PMC</li>
+<li>Quantum Error Correction Materials Market Size Report, 2034: Quantum Error Correction Materials Market Size Report, 2034</li>
+<li>Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL: Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL</li>
+<li>Building the future of quantum error correction | IBM Quantum Computing Blog: Building the future of quantum error correction | IBM Quantum Computing Blog</li>
+<li>Limitations of Semen Analysis as a Test of Male Fertility and Anticipated Needs from Newer Tests - PMC: Limitations of Semen Analysis as a Test of Male Fertility and Anticipated Needs from Newer Tests - PMC</li>
+<li>Quantum Error Correction: The Key to Quantum Computing: Quantum Error Correction: The Key to Quantum Computing
 参照: [1], [2], [3], [4], [5], [6]</li>
 </ul>
 <h2>主要な論点</h2>
@@ -313,12 +313,12 @@ available_translations:
 <tbody>
 <tr>
 <td>技術・仕組み</td>
-<td>Senior Theme A Analysis for the Harvard International Review Academ...</td>
+<td>Digital System Design for Quantum Error Correction Codes - PMC: Dig...</td>
 <td>文脈依存のため一次ソース確認が必要</td>
 </tr>
 <tr>
 <td>導入・実装</td>
-<td>GitHub - xinjia18/wrds-financial-benchmarking-tool: A financial ben...</td>
+<td>Quantum Error Correction Materials Market Size Report, 2034: Quantu...</td>
 <td>ベンダー主張との差分に注意</td>
 </tr>
 <tr>
@@ -377,9 +377,9 @@ available_translations:
 <div class="admonition abstract">
 <p class="admonition-title">要点</p>
 <ul>
-<li>Senior Theme A Analysis for the Harvard International Review Academic Writing Contest 2026 | Aralia Education: Senior Theme A Analysis for the Harvard International Review Academic Writing Contest 2026 | Aralia Education</li>
-<li>GitHub - xinjia18/wrds-financial-benchmarking-tool: A financial benchmarking tool for software and related technology firms using WRDS Compustat data, with a Jupyter notebook an...: GitHub - xinjia18/wrds-financial-benchmarking-tool: A financial benchmarking tool for software and related technology firms using WRDS Compustat data, with a Jupyter notebook an...</li>
-<li>eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards: eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards</li>
+<li>Digital System Design for Quantum Error Correction Codes - PMC: Digital System Design for Quantum Error Correction Codes - PMC</li>
+<li>Quantum Error Correction Materials Market Size Report, 2034: Quantum Error Correction Materials Market Size Report, 2034</li>
+<li>Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL: Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL</li>
 </ul>
 </div>
 <h2>概要</h2>
@@ -387,12 +387,12 @@ available_translations:
 参照: [1], [2], [3], [4], [5], [6]</p>
 <h2>何が重要か</h2>
 <ul>
-<li>Senior Theme A Analysis for the Harvard International Review Academic Writing Contest 2026 | Aralia Education: Senior Theme A Analysis for the Harvard International Review Academic Writing Contest 2026 | Aralia Education</li>
-<li>GitHub - xinjia18/wrds-financial-benchmarking-tool: A financial benchmarking tool for software and related technology firms using WRDS Compustat data, with a Jupyter notebook an...: GitHub - xinjia18/wrds-financial-benchmarking-tool: A financial benchmarking tool for software and related technology firms using WRDS Compustat data, with a Jupyter notebook an...</li>
-<li>eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards: eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards</li>
-<li>85 Predictions for AI and the Law in 2026: 85 Predictions for AI and the Law in 2026</li>
-<li>How do I know if my sources are credible/reliable? - FAQ - Library Guides at University of Washington Libraries: How do I know if my sources are credible/reliable? - FAQ - Library Guides at University of Washington Libraries</li>
-<li>A-Z Databases: A-Z Databases
+<li>Digital System Design for Quantum Error Correction Codes - PMC: Digital System Design for Quantum Error Correction Codes - PMC</li>
+<li>Quantum Error Correction Materials Market Size Report, 2034: Quantum Error Correction Materials Market Size Report, 2034</li>
+<li>Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL: Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL</li>
+<li>Building the future of quantum error correction | IBM Quantum Computing Blog: Building the future of quantum error correction | IBM Quantum Computing Blog</li>
+<li>Limitations of Semen Analysis as a Test of Male Fertility and Anticipated Needs from Newer Tests - PMC: Limitations of Semen Analysis as a Test of Male Fertility and Anticipated Needs from Newer Tests - PMC</li>
+<li>Quantum Error Correction: The Key to Quantum Computing: Quantum Error Correction: The Key to Quantum Computing
 参照: [1], [2], [3], [4], [5], [6]</li>
 </ul>
 <h2>主要な論点</h2>
@@ -407,12 +407,12 @@ available_translations:
 <tbody>
 <tr>
 <td>技術・仕組み</td>
-<td>Senior Theme A Analysis for the Harvard International Review Academ...</td>
+<td>Digital System Design for Quantum Error Correction Codes - PMC: Dig...</td>
 <td>文脈依存のため一次ソース確認が必要</td>
 </tr>
 <tr>
 <td>導入・実装</td>
-<td>GitHub - xinjia18/wrds-financial-benchmarking-tool: A financial ben...</td>
+<td>Quantum Error Correction Materials Market Size Report, 2034: Quantu...</td>
 <td>ベンダー主張との差分に注意</td>
 </tr>
 <tr>
@@ -466,24 +466,24 @@ available_translations:
       </div>
       <div class="ap-rendered-article ap-reference-card__body">
 <ol>
-<li><a href="https://www.aralia.com/helpful-information/senior-theme-a-analysis-for-the-harvard-international-review-academic-writing-contest-2026">Senior Theme A Analysis for the Harvard International Review Academic Writing Contest 2026 | Aralia Education</a> - www.aralia.com.</li>
-<li><a href="https://github.com/xinjia18/wrds-financial-benchmarking-tool">GitHub - xinjia18/wrds-financial-benchmarking-tool: A financial benchmarking tool for software and related technology firms using WRDS Compustat data, with a Jupyter notebook an...</a> - github.com.</li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8695035">Digital System Design for Quantum Error Correction Codes - PMC</a> - pmc.ncbi.nlm.nih.gov.</li>
+<li><a href="https://www.currentfederaltaxdevelopments.com/blog/2026/4/27/extending-the-statute-of-limitations-for-disallowed-erc-claims-an-analysis-of-the-new-irs-procedures">Extending the Statute of Limitations for Disallowed ERC Claims: An Analysis of the New IRS Procedures — Current Federal Tax Developments</a> - www.currentfederaltaxdevelopments.com.</li>
+<li><a href="https://www.gminsights.com/industry-analysis/quantum-error-correction-materials-market">Quantum Error Correction Materials Market Size Report, 2034</a> - www.gminsights.com.</li>
+<li><a href="https://q-ctrl.com/blog/choosing-the-right-quantum-error-reduction-strategy-a-practical-guide-to-error-suppression-error-mitigation-and-quantum-error-correction">Choosing the right quantum error reduction strategy: A practical guide to error suppression, error mitigation, and quantum error correction | Q-CTRL</a> - q-ctrl.com.</li>
+<li><a href="https://www.science.gov/topicpages/q/quantum+error-correcting+codes">quantum error-correcting codes: Topics by Science.gov</a> - www.science.gov.</li>
+<li><a href="https://www.quera.com/glossary/quantum-error-correction">What is Quantum Error Correction (QEC)</a> - www.quera.com.</li>
 <li><a href="https://www.ecfr.gov/current/title-49/subtitle-B/chapter-I/subchapter-D/part-192?toc=1">eCFR :: 49 CFR Part 192 -- Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards</a> - www.ecfr.gov.</li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4254491">Limitations of Semen Analysis as a Test of Male Fertility and Anticipated Needs from Newer Tests - PMC</a> - pmc.ncbi.nlm.nih.gov.</li>
-<li><a href="https://github.com/YiranWang2472517/ACC102-data-product">GitHub - YiranWang2472517/ACC102-data-product: A data analysis of how price, genre and reviews relate to Steam game success. · GitHub</a> - github.com.</li>
-<li><a href="https://www.sba.gov/business-guide/plan-your-business/market-research-competitive-analysis">Market research and competitive analysis | U.S. Small Business Administration</a> - www.sba.gov.</li>
-<li><a href="https://coinpedia.org/price-analysis">Price Analysis | In-Depth Crypto Price Trends &amp; Daily Analysis</a> - coinpedia.org.</li>
-<li><a href="https://natlawreview.com/article/85-predictions-ai-and-law-2026">85 Predictions for AI and the Law in 2026</a> - natlawreview.com.</li>
-<li><a href="https://www.drugchannels.net/2025/03/the-top-pharmacy-benefit-managers-of.html">Drug Channels: The Top Pharmacy Benefit Managers of 2024: Market Share and Key Industry Developments</a> - www.drugchannels.net.</li>
-<li><a href="https://www.library.illinois.edu/tlas/instruction/i-need-to-2/scholarly-source">Determine If a Source Is Scholarly | Teaching, Learning, and Academic Support | University Library | Illinois</a> - www.library.illinois.edu.</li>
-<li><a href="https://libguides.ius.edu/az/databases">Databases A-Z</a> - libguides.ius.edu.</li>
-<li><a href="https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2022.877058/full">Frontiers | Getting Out of the Classroom and Into Nature: A Systematic Review of Nature-Specific Outdoor Learning on School Children's Learning and Development</a> - www.frontiersin.org.</li>
-<li><a href="https://www.insidehighered.com/news/faculty/academic-freedom/2026/01/07/plato-censored-texas-am-carries-out-course-review">Plato Censored as Texas A&amp;M Carries Out Course Review</a> - www.insidehighered.com.</li>
-<li><a href="https://github.com/agentskills/agentskills">GitHub - agentskills/agentskills: Specification and documentation for Agent Skills · GitHub</a> - github.com.</li>
-<li><a href="https://nuoptima.com">NUOPTIMA: Award-Winning GEO, AI-Search, and SEO Agency</a> - nuoptima.com.</li>
-<li><a href="https://radio.wpsu.org/2026-04-21/penn-state-plans-universitywide-operational-review-as-academic-review-leads-to-ending-some-majors">Penn State plans universitywide operational review, as academic review leads to ending some majors | WPSU</a> - radio.wpsu.org.</li>
-<li><a href="https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.650">1926.650 - Scope, application, and definitions applicable to this subpart. | Occupational Safety and Health Administration</a> - www.osha.gov.</li>
-<li><a href="https://www.pressganey.com/industry/healthcare/quality/ndnqi">National Database of Nursing Quality Indicators (NDNQI) | Press Ganey</a> - www.pressganey.com.</li>
+<li><a href="https://quantum.lassp.cornell.edu/lecture/quantum_error_correction">Quantum Error Correction | Applications of Quantum Mechanics</a> - quantum.lassp.cornell.edu.</li>
+<li><a href="https://www.giiresearch.com/report/gmi1892656-quantum-error-correction-materials-market.html">Quantum Error Correction Materials Market Opportunity, Growth Drivers, Industry Trend Analysis, and Forecast 2025 - 2034</a> - www.giiresearch.com.</li>
+<li><a href="https://q-ctrl.com/topics/building-a-quantum-implementation-roadmap-with-the-arrival-of-quantum-error-correction">Building a quantum implementation roadmap with the arrival of Quantum Error Correction | Q-CTRL</a> - q-ctrl.com.</li>
+<li><a href="https://www.cda.cit.tum.de/research/quantum_qec">Quantum Error Correction · Chair for Design Automation</a> - www.cda.cit.tum.de.</li>
+<li><a href="https://github.com/xinjia18/wrds-financial-benchmarking-tool">GitHub - xinjia18/wrds-financial-benchmarking-tool: A financial benchmarking tool for software and related technology firms using WRDS Compustat data, with a Jupyter notebook an...</a> - github.com.</li>
+<li><a href="https://www.bluequbit.io/blog/quantum-error-correction">Quantum Error Correction: The Key to Quantum Computing</a> - www.bluequbit.io.</li>
+<li><a href="https://physicsworld.com/a/quantum-computing-on-the-verge-correcting-errors-developing-algorithms-and-building-up-the-user-base">Quantum computing on the verge: correcting errors, developing algorithms and building up the user base – Physics World</a> - physicsworld.com.</li>
+<li><a href="https://www.ibm.com/quantum/blog/large-scale-ftqc">IBM lays out clear path to fault-tolerant quantum computing | IBM Quantum Computing Blog</a> - www.ibm.com.</li>
+<li><a href="https://postquantum.com/quantum-computing/quantum-error-correction">Quantum Errors and Quantum Error Correction (QEC) Methods</a> - postquantum.com.</li>
+<li><a href="https://www.ibm.com/quantum/blog/future-quantum-error-correction">Building the future of quantum error correction | IBM Quantum Computing Blog</a> - www.ibm.com.</li>
+<li><a href="https://www.eurekalert.org/news-releases/1113201">Quantum error correction with logical qubits | EurekAlert!</a> - www.eurekalert.org.</li>
 </ol>
       </div>
     </section>
