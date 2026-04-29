@@ -14,7 +14,7 @@
   <div class="ap-metrics">
     <div><span>11</span><small>pages</small></div>
     <div><span>441</span><small>sources</small></div>
-    <div><span>2026-04-28</span><small>latest run</small></div>
+    <div><span>2026-04-29</span><small>latest run</small></div>
   </div>
 </section>
 
@@ -22,7 +22,7 @@
 
 <section class="ap-card-grid">
 <article class="ap-card">
-  <span class="ap-card__kicker">2026-04-28</span>
+  <span class="ap-card__kicker">2026-04-29</span>
   <h3><a href="wiki/quantum-error-correction-applications-and-constraints.md">Quantum error correction applications and constraints</a></h3>
   <p>Quantum error correction applications and constraints is selected because it has active scientific, industrial, and policy developments that reward a high-evidence synthesis.</p>
   <div class="ap-card__meta">47 sources</div>
